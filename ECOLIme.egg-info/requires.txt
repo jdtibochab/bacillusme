@@ -1,0 +1,8 @@
+Biopython
+setuptools
+cobra<=0.5.11
+xlrd
+pandas
+six
+scipy
+numpy
