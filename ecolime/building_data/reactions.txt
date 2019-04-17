@@ -1,0 +1,1251 @@
+#name 	 description 	 is_reversible 	 data_source 	 is_spontaneous 
+23CN2P1	2  3  cyclic nucleotide 2  phosphodiesterase  2  3  cyclc AMP 	1	0
+23CN2P2	2  3  cyclic nucleotide 2  phosphodiesterase  2  3  cyclic UMP 	1	0
+23CN2P3	2  3  cyclic nucleotide 2  phosphodiesterase  2  3  cyclic CMP 	1	0
+23CN2P4	2  3  cyclic nucleotide 2  phosphodiesterase  2  3   cyclic GMP 	1	0
+26DPAi	Dipicolinate synthase	0	0
+2HXMPt6	2  hydroxymethyl phenol transport inout via proton symport	1	0
+2PGLYCt6	2 Phosphoglycolate transport inout via proton symport	1	0
+2PGt6	D Glycerate 2 phosphate transport inout via proton symport	1	0
+2S6HCCi	2 succinyl 6 hydroxy 2 4 cyclohexadiene 1 carboxylate synthase	0	0
+3AMBAt2	3 aminobutyrate transport in via proton symport	0	0
+3AMPt6	3  AMP transport inout via proton symport	1	0
+3CMPt6	3  CMP transport in via proton symport	1	0
+3GMPt6	Guanosine 3  phsophate transport inout via proton symport	1	0
+3NUCLE1	3  nucleotidase  3  AMP 	1	0
+3NUCLE2	3  nucleotidase  3  UMP 	1	0
+3NUCLE3	3  nucleotidase  3  cMP 	1	0
+3NUCLE4	3  nucleotidase  guanosine 3  phosphate 	1	0
+3PGt6	3 Phospho D glycerate transport inout via proton symport	1	0
+3UMPt6	3  UMP transport in via proton symport	1	0
+5MTRt2	5 Methylthio D ribose transport inout via proton symport	1	0
+6PGCt6	6 Phospho D gluconate transport inout via proton symport	1	0
+AAMYL_1	Alpha amylase	0	0
+AB6PGH	Arbutin 6-phosphate glucohydrolase	0	0
+ABTA	4-aminobutyrate transaminase	1	0
+ABTt_1	L arabinitol transport via passive diffusion	1	0
+ABUTD	Aminobutyraldehyde dehydrogenase	0	0
+MACCOAT	2-Methylacetyl-CoA thiolase	1	0
+ACACT1r	Acetyl-CoA C-acetyltransferase	1	0
+ACACT2r	Acetyl-CoA C-acyltransferase (butanoyl-CoA) (r)	1	0
+ACACT3r	Acetyl-CoA C-acyltransferase (hexanoyl-CoA) (r)	1	0
+ACACT4r	Acetyl-CoA C-acyltransferase (octanoyl-CoA) (r)	1	0
+ACACT5r_1	Acetyl CoA C acyltransferase  decanoyl CoA 	1	0
+ACACT6r_1	Acetyl CoA C acyltransferase  dodecanoyl CoA 	1	0
+ACACT7r	Acetyl-CoA C-acyltransferase (tetradecanoyl-CoA) (r)	1	0
+ACACt2	Acetoacetate transport via proton symport	1	0
+ACCOAC	Acetyl-CoA carboxylase	0	0
+ACGApts	N-Acetyl-D-glucosamine transport via PEP:Pyr PTS	0	0
+ACGK	Acetylglutamate kinase	0	0
+ACGS	N-acetylglutamate synthase	0	0
+ACHBS	2-aceto-2-hydroxybutanoate synthase	0	0
+ACKr	Acetate kinase	1	0
+ACLDC	Acetolactate decarboxylase	0	0
+ACLS	Acetolactate synthase	0	0
+ACMANAt2	N acetyl D mannosamine proton symport	0	0
+ACNAMt2	N-acetylneuraminate proton symport	0	0
+ACNPLYS	N-Acetylneuraminate pyruvate-lyase	1	0
+ACOAD1	Acyl-CoA dehydrogenase (butanoyl-CoA)	1	0
+ACOADH2	Acyl CoA dehydrogenase  isobutyryl CoA 	0	0
+ACOAD2	Acyl-CoA dehydrogenase (hexanoyl-CoA)	1	0
+ACOAD20	Acyl CoA dehydrogenase  2 methylbutnoyl CoA 	0	0
+ACOAD3	Acyl-CoA dehydrogenase (octanoyl-CoA)	1	0
+ACOAD4_1	Acyl CoA dehydrogenase  decanoyl CoA 	1	0
+ACOAD5_1	Acyl CoA dehydrogenase  dodecanoyl CoA 	1	0
+ACOAD6	Acyl-CoA dehydrogenase (tetradecanoyl-CoA)	1	0
+ACOAD7	Acyl-CoA dehydrogenase (hexadecanoyl-CoA)	1	0
+ACODA_1	Acetylornithine deacetylase	0	0
+ACONT	Aconitate hydratase	1	0
+ACOTA	Acetylornithine transaminase	1	0
+ACPS1	Acyl-carrier protein synthase	0	0
+ACPpds	[acyl-carrier-protein] phosphodiesterase	0	0
+ACS	Acetyl-CoA synthetase	0	0
+ACS2	Acetyl-CoA synthase (propionate)	0	0
+ACTD2	Acetoin dehydrogenase	0	0
+ACTNabc	Acetoin transport via ABC system	0	0
+ACTNabc1	Acetoin efflux  via ABC system	0	0
+ACt2r	Acetate reversible transport via proton symport	1	0
+ADADir	Deoxycytidine kinase	0	0
+ADCL	4-aminobenzoate synthase	0	0
+ADCS	4-amino-4-deoxychorismate synthase	0	0
+ADD	Adenine deaminase	0	0
+ADEt2	Adenine transport in via proton symport	0	0
+ADK1	Adenylate kinase	1	0
+ADK2	Adenylate kinase (Inorganic triphosphate)	1	0
+ADMDC	Adenosylmethionine decarboxylase	1	0
+ADNK1	Adenosine kinase	0	0
+ADNt2	Adenosine transport in via proton symport	1	0
+ADPDA	N6 acetyl LL 2 6 diaminoheptanedioate amidohydrolase	1	0
+ADPRDP	ADPribose diphosphatase	0	0
+ADPT	Adenine phosphoribosyltransferase	0	0
+ADSK	Adenylyl-sulfate kinase	1	0
+ADSL1r	Adenylsuccinate lyase	1	0
+ADSL2r	Adenylosuccinate lyase	1	0
+ADSS	Adenylosuccinate synthase	0	0
+AGDC	N-acetylglucosamine-6-phosphate deacetylase	0	0
+AGMT	Agmatinase	0	0
+AGPATr_BS	1 acylglycerol 3 phosphate O acyltransferase	1	0
+AGPR	N-acetyl-g-glutamyl-phosphate reductase	1	0
+AHCYSNS	S-adenosylhomocysteine nucleosidase	0	0
+AHMMPS_1	4 amino 5 hydroxymethyl 2 methylpyrimidine synthetase	0	0
+AHSERL3	Cysteine synthase  Selenide 	1	0
+AHSERL4	Cysteine synthase  Thiosulfate 	1	0
+AICART	Phosphoribosylaminoimidazolecarboxamide formyltransferase	1	0
+AIRC1	Phosphoribosylaminoimidazole carboxylase  ATP dependent 	0	0
+AKGDH	2-Oxogluterate dehydrogenase	0	0
+AKGt2r	2 oxoglutarate reversible transport via symport	0	0
+AKP1	Alkaline phosphatase  Dihydroneopterin 	0	0
+ALAALAr	D-alanine-D-alanine ligase (reversible)	1	0
+ALAD_L	L-alanine dehydrogenase	0	0
+ALAR	Alanine racemase	1	0
+ALATA_L	L-alanine transaminase	1	0
+DALAt2r	D-alanine transport via proton symport	0	0
+ALAt2r	L alanine reversible transport via proton symport	0	0
+ALCD19y	Alcohol dehydrogenase  glycerol  NADP 	1	0
+ALCD19_L	Alcohol dehydrogenase  L glyceraldehyde to glycerol  NADP 	1	0
+ALCD2y	Alcohol dehydrogenase (ethanol, NADP)	1	0
+ALDD10	Aldehyde dehydrogenase  decanal  NAD 	0	0
+ALDD11	Aldehyde dehydrogenase  undecanal  NAD 	0	0
+ALDD12	Aldehyde dehydrogenase  dodecanal  NAD 	0	0
+ALDD13	Aldehyde dehydrogenase  tridecanal  NAD 	0	0
+ALDD14	Aldehyde dehydrogenase  tetradecanal  NAD 	0	0
+ALDD15	Aldehyde dehydrogenase  pentadecanal  NAD 	0	0
+ALDD16	Aldehyde dehydrogenase  hexadecanal  NAD 	0	0
+ALDD17	Aldehyde dehydrogenase  heptadecanal  NAD 	0	0
+ALDD18	Aldehyde dehydrogenase  octadecanal  NAD 	0	0
+ALDD1	Aldehyde dehydrogenase  formaldehyde  NAD 	0	0
+ALDD20x_1	Aldehyde dehydrogenase  NAD 	0	0
+ALDD2x	Aldehyde dehydrogenase (acetaldehyde, NAD)	0	0
+ALDD3	Aldehyde dehydrogenase  propanal  NAD 	0	0
+GLXO1	Glyoxylate oxidase	0	0
+ALDD31_1	Aldehyde dehydrogenase  aminoacetaldehyde  NAD 	0	0
+ALDD32	Aldehyde dehydrogenase  D Glucuronolactone  NADH 	0	0
+ALDD4	Aldehyde dehydrogenase (butanal, NAD)	0	0
+ALDD4x	Aldehyde dehydrogenase  methylmalonate semialdehyde  NAD 	0	0
+ALDD5	Aldehyde dehydrogenase  pentanal  NAD 	0	0
+ALDD6	Aldehyde dehydrogenase  hexanal  NAD 	0	0
+ALDD7	Aldehyde dehydrogenase  heptanal  NAD 	0	0
+ALDD8	Aldehyde dehydrogenase  octanal  NAD 	0	0
+GLYALDDr	D-Glyceraldehyde dehydrogenase	0	0
+ALDD9	Aldehyde dehydrogenase  nonanal  NAD 	0	0
+ALKP	Alkaline phosphatase	1	0
+ALLTNt2r	Allantoin transport in via proton symport	0	0
+ALLTAHr	Allantoate amidinohydrolase  reversible	1	0
+ALLTN	Allantoinase	0	0
+ALTRH	Altronate hydrolase	0	0
+AMAA	N-acetylmuramoyl-L-alanine amidase	0	0
+AMAOTr	Adenosylmethionine-8-amino-7-oxononanoate transaminase	1	0
+AMMQT7	S adenosylmethione2 demthylmenaquinone methyltransferase  menaquinone 7 	0	0
+AMPt6	AMP transport inout via proton symport	1	0
+ANPRT	Anthranilate phosphoribosyltransferase	0	0
+ANS	Anthranilate synthase	0	0
+ANTIMt1	Antimonite  transporter via uniport	0	0
+AOXSr	8-amino-7-oxononanoate synthase	0	0
+APATi	Tetrahydrodipicolinate acetyltransferase	0	0
+APRAUR	5-amino-6-(5-phosphoribosylamino)uracil reductase	0	0
+APSR	Adenosine 5'-phosphosulfate reductase;	0	0
+APTA1i	Acetyl L L diaminopimelate aminotransferase	0	0
+ARABDI	L-fucose isomerase	1	0
+ARABRr	Arabinose reductase	1	0
+ARAB_Dt	D arabinose reversible transport	1	0
+ARAI	L-arabinose isomerase	1	0
+ARBTpts	Arbutin transport via PEPPyr PTS	0	0
+ARBabc	L-arabinose transport via ABC system	0	0
+ARBt2r	L-arabinose transport via proton symport	0	0
+ARGDC	Arginine decarboxylase	0	0
+ARGKr	ATPL arginine N phosphotransferase	1	0
+ARGN_1	Arginase	0	0
+ARGPt6	L arginine phosphate transport inout via proton symport	1	0
+ARGSL	Argininosuccinate lyase	1	0
+ARGSS	Argininosuccinate synthase	1	0
+ARGabc	L-arginine transport via ABC system	0	0
+ARGt2r	L arganine reversible transport via proton symport	0	0
+ARSENBabc	Arsenobetaine transport in via ABC system	0	0
+ARSENBt2	Arsenobetaine transport in via proton symport	0	0
+ARSNAt1	Arsenate transporter	0	0
+ARSt1	Arsenite transporter via uniport	0	0
+ASAD	Aspartate-semialdehyde dehydrogenase	1	0
+ASNN	L-asparaginase	0	0
+ASNS1	Asparagine synthase (glutamine-hydrolysing)	0	0
+ASNt2r	L asparagine reversible transport via proton symport	0	0
+ASP1DC	Aspartate 1-decarboxylase	0	0
+ASPCT	Aspartate carbamoyltransferase	0	0
+ASPK	Aspartate kinase	1	0
+ASPO6	L-aspartate oxidase	0	0
+ASPO1	L-aspartate oxidase	0	0
+ASPT	L-aspartase	0	0
+ASPTA	Aspartate transaminase	1	0
+ASPt2r	L aspartate reversible transport via proton symport	0	0
+ATPM	ATP maintenance requirement	0	0
+ATPPRT	ATP phosphoribosyltransferase	1	0
+ATPS4r	ATP synthase (four protons for one ATP)	1	0
+BETALDHx	Betaine-aldehyde dehydrogenase	0	0
+BG_CELLB	Beta glucosidase  cellobiose 	0	0
+BG_MADG	Beta glucosidase  methyl alpha D glucoside 	0	0
+BG_MBDG	Beta glucosidase	0	0
+BILEt4	Bile acid transport in via sodium symport	0	0
+BLACT	Beta lactamase	1	0
+BIOMASS_BS_10	B subtilis biomass  demand 	0	0
+BTDD_RR	 R R  butanediol dehydrogenase	1	0
+BTDt6_RR	Butanediol transport inout via proton symport	1	0
+BTS_1	Biotin synthase	0	0
+BUTKr	Butyrate kinase	1	0
+BUTSabc	Butanesulfonate transport via ABC system	0	0
+CA2abc1	Calcium efflux  via ABC system	0	0
+CAT	Catalase	0	0
+CAt4	Calcium transport inout via proton antiporter	1	0
+CBL2abc	Cobalamin uptake in via ABC transport	0	0
+CBPS	Carbamoyl-phosphate synthase (glutamine-hydrolysing)	0	0
+CD2abc1	Cadmium transport out via ABC system	0	0
+CD2t4	Cadminum transport out via antiport	0	0
+CDGPT_BS	CDPdiacylglycerolsn glycerol 3 phosphate 3 phosphatidyltransferase	0	0
+CDPDSP_BS	CDPdiacylglycerol serine O phosphatidyltransferase	0	0
+CDPMEK	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase	0	0
+CELBpts	Cellobiose transport via PEPPyr PTS	0	0
+CHCOAL	6-carboxyhexanoate-CoA ligase	0	0
+CHLabc	Choline transport via ABC system	0	0
+CHOLD2	Choline dehydrogenase  FAD dependent 	0	0
+CHOLSabc_1	Choline sulfate transport in via ABC system	0	0
+CHORM	Chorismate mutase	0	0
+CHORS	Chorismate synthase	0	0
+CHORt2	Chorismate transport inout via proton symport	1	0
+CITRt2r	Citrulline reversible transport via proton symport	0	0
+CITt10	Citrate transport in via Mg complex	0	0
+CITt11	Citrate transport in via Mn complex	0	0
+CITt12	Citrate transport in via Ni complex	0	0
+CITt13	Citrate transport in via Co complex	0	0
+CITt14	Citrate transport in via Ca complex	0	0
+CITt15	Citrate transport in via Zn complex	0	0
+CITt2r	Citrate reversible transport via symport	1	0
+CLPNS2_BS	Cardiolipin synthase	0	0
+CMPt6	CMP transport inout via proton symport	1	0
+CO2t	CO2 transporter via diffusion	1	0
+CPPPGO	Coproporphyrinogen oxidase (O2 required)	0	0
+CRNabc	L-carnitine transport via ABC system	0	0
+CRO4t3	Chromate transport out via proton antiport	0	0
+CS	Citrate synthase	0	0
+CSNt2	Cytosine transport in via proton symport	0	0
+CTBTabc	Crotonobetaine transport in via ABC system	0	0
+CTPS1	CTP synthase  NH3 	0	0
+CTPS2	CTP synthase (glutamine)	0	0
+CYOO3	Cytochrome c oxidase  He   2 	0	0
+CYOR3m	Cytochrome c reductase  menaquinol 7 3 protons 	0	0
+CYSGLYt2ir	Cys Gly transport in via symport	0	0
+CYSS_2	Cysteine synthase	0	0
+CYSTGL	Cystathionine g lyase	0	0
+CYSTL	Cystathionine b-lyase	0	0
+CYSTS	Cystathionine beta synthase	0	0
+CYSTabc	L cystine transport via ABC system	0	0
+CYSabc	L-cysteine transport via ABC system	0	0
+CYTB_B2	Menaquinol oxidase  71 protons 	0	0
+CYTB_B3	Menauinol oxidase  72 protons 	0	0
+CYTD	Cytidine deaminase	0	0
+CYTDK1	ATP:cytidine 5'-phosphotransferase	0	0
+CYTDK2	Cytidine kinase (GTP)	0	0
+ITCY	ITP:cytidine 5'-phosphotransferase	0	0
+CYTDt2	Cytidine transport in via proton symport	0	0
+CYTK1	Cytidylate kinase (CMP)	1	0
+CYTK2	Cytidylate kinase (dCMP)	1	0
+CYTOM	Cytosine 5 methyltransferase	1	0
+Cut1	Copper export via ATPase	0	0
+D4DGCD	5 dehydro 4 deoxyglucarate dehydratase	0	0
+DAAOP	D alanyl aminopeptidase	0	0
+DADK	Deoxyadenylate kinase	1	0
+DADNK	Deoxyadenosine kinase	0	0
+DADNt2	Deoxyadenosine transport in via proton symport	0	0
+DAGK_BS	Diacylglycerol kinase	0	0
+DDPA	3-deoxy-D-arabino-heptulosonate 7-phosphate synthetase	0	0
+DALAOX	D amino acid oxidase	0	0
+DAPDC	Diaminopimelate decarboxylase	0	0
+DAPE	Diaminopimelate epimerase	1	0
+DB4PS	3,4-Dihydroxy-2-butanone-4-phosphate synthase	0	0
+DBTS	Dethiobiotin synthase	0	0
+DCMPDA	DCMP deaminase	0	0
+CMPDAi	CMP deaminase	0	0
+DCYTD	Deoxycytidine deaminase	0	0
+DCYTt2	Deoxycytidine transport in via proton symport	0	0
+DDGLCNt2r	2-dehydro-3-deoxy-D-gluconate transport via proton symport, reversible	1	0
+DDGLK	2-dehydro-3-deoxygluconokinase	0	0
+DEXTRINt2	Dextrin transport in via proton symport	0	0
+DGK1	Deoxyguanylate kinase (dGMP:ATP)	1	0
+DGNSK	Deoxyguanosine kinase	0	0
+DHAD1	Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylbutanoate)	0	0
+DHAD2	Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylpentanoate)	0	0
+DHAD3	Dihydroxy acid dehydratase  2 3 dihydroxy 3 methylpentanoate 	0	0
+DHAt	Dihydroxyacetone transport via facilitated diffusion	1	0
+DHBD	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase	1	0
+DHBS	2,3-dihydroxybenzoate adenylate synthase	0	0
+DHDPRy	Dihydrodipicolinate reductase (NADPH)	0	0
+DHDPS	Dihydrodipicolinate synthase	0	0
+FOLR2	Folate reductase	1	0
+DHFR	Dihydrofolate reductase	1	0
+DHFS	Dihydrofolate synthase	0	0
+DHNAOT7	1 4 dihydroxy 2 naphthoate octaprenyltransferase	0	0
+DHNPA_1	Dihydroneopterin aldolase	0	0
+DHORDi	Dihydoorotic acid dehydrogenase  irreversible 	1	0
+DHORTS	Dihydroorotase	1	0
+DHPPDA	Diaminohydroxyphosphoribosylaminopyrimidine deaminase	0	0
+FOLD3	Dihydropteroate synthase	0	0
+DHQTi	3-dehydroquinate dehydratase, irreversible	1	0
+DHQS	3-dehydroquinate synthase	0	0
+DINSK	Deoxyinosine kinase	0	0
+DIPEPabc1	Dipeptide transport via ABC system  ala asp 	0	0
+DIPEPabc10	Dipeptide transport via ABC system  gly glu 	0	0
+DIPEPabc11	Dipeptide transport via ABC system  gly met 	0	0
+DIPEPabc12	Dipeptide transport via ABC system  met ala 	0	0
+DIPEPabc13	Dipeptide transport via ABC system  gly asp 	0	0
+DIPEPabc14	Dipeptide transport via ABC system  gly pro L 	0	0
+DIPEPabc15	Dipeptide transport via ABC system  cgly 	0	0
+DIPEPabc2	Dipeptide transport via ABC system  ala gln 	0	0
+DIPEPabc3	Dipeptide transport via ABC system  ala glu 	0	0
+DIPEPabc4	Dipeptide transport via ABC system  ala gly 	0	0
+DIPEPabc5	Dipeptide transport via ABC system  ala his 	0	0
+DIPEPabc6	Dipeptide transport via ABC system  ala leu 	0	0
+DIPEPabc7	Dipeptide transport via ABC system  ala thr 	0	0
+DIPEPabc8	Dipeptide transport via ABC system  gly asn 	0	0
+DIPEPabc9	Dipeptide transport via ABC system  gly gln 	0	0
+DJENKabc	Djenkolate transporter via ABC system	0	0
+DKI	5 Dehydro 4 deoxy D glucuronate ketol isomerase	1	0
+DKII	2 dehydro 3 deoxy D gluconate 5 dehydrogenase	0	0
+DKMD2K	1 2 dihydroxy 3 keto 5 methylthiopentene dioxygenase  2 keto 4 methylthiobutyrate 	0	0
+DKMD3M	1 2 dihydroxy 3 keto 5 methylthiopentene dioxygenase  3 methylthiopropionate 	0	0
+DM1PE	2 3 diketo 5 methylthiopentyl 1 phosphate enolase	1	0
+DMATT	Dimethylallyltranstransferase	0	0
+DMPPS	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (dmpp)	0	0
+DPCOAK	Dephospho-CoA kinase	0	0
+DPR	2-dehydropantoate 2-reductase	0	0
+DRBK	Deoxyribokinase	1	0
+DRIBabc	Deoxyribose transport via ABC system	0	0
+DRPA	Deoxyribose-phosphate aldolase	1	0
+DTMPK	DTMP kinase	1	0
+DTMPt6	DTMP transport inout via proton symport	1	0
+DURIK1	Deoxyuridine kinase (ATP:Deoxyuridine)	0	0
+DURIPP	Deoxyuridine phosphorylase	1	0
+DUTPDP	DUTP diphosphatase	0	0
+DXPRIi	1-deoxy-D-xylulose reductoisomerase	0	0
+DXPS	1-deoxy-D-xylulose 5-phosphate synthase	0	0
+ECOAH1_1	3 hydroxyacyl CoA dehydratase  3 hydroxybutanoyl CoA 	1	0
+ECOAH2	3-hydroxyacyl-CoA dehydratase (3-hydroxyhexanoyl-CoA)	1	0
+ECOAH2c	Enoyl CoA hydratase  bacterial	1	0
+ECOAH3	3-hydroxyacyl-CoA dehydratase (3-hydroxyoctanoyl-CoA)	1	0
+ECOAH4	3-hydroxyacyl-CoA dehydratase (3-hydroxydecanoyl-CoA)	1	0
+ECOAH5_1	3 hydroxyacyl CoA dehydratase  3 hydroxydodecanoyl CoA 	1	0
+ECOAH6	3-hydroxyacyl-CoA dehydratase (3-hydroxytetradecanoyl-CoA)	1	0
+ECOAH7	3-hydroxyacyl-CoA dehydratase (3-hydroxyhexadecanoyl-CoA)	1	0
+ECOAH9ir	2 Methylprop 2 enoyl CoA  2 Methylbut 2 enoyl CoA 	1	0
+ECTOINEabc	Ecotine transport in via ABC system	0	0
+EDA	2-dehydro-3-deoxy-phosphogluconate aldolase	0	0
+ENO	Enolase	1	0
+ETHAAL	Ethanolamine ammonia-lyase	0	0
+ETHAt6	Ethanolamine transport inout via proton symport	1	0
+ETHSabc	Ethanesulfonate transport via ABC system	0	0
+ETOHt3	Ethanol transport out via proton antiport	0	0
+EX_2ddglcn_e	2-Dehydro-3-deoxy-D-gluconate exchange	0	0
+EX_2hxmp_e	2  Hydroxymethyl phenol exchange	0	0
+EX_2pg_e	D Glycerate 2 phosphate exchange	0	0
+EX_2pglyc_e	2 Phosphoglycolate exchange	0	0
+EX_3amba_e	3 aminobutanoic acid exchange	0	0
+EX_3amp_e	3'-AMP exchange	0	0
+EX_3cmp_e	3'-cmp exchange	0	0
+EX_3gmp_e	3'-GMP exchange	0	0
+EX_3pg_e	3 Phospho D glycerate exchange	0	0
+EX_3ump_e	3'-UMP exchange	0	0
+EX_4abut_e	4-Aminobutanoate exchange	0	0
+EX_5mtr_e	5-Methylthio-D-ribose exchange	0	0
+EX_6pgc_e	6 Phospho D gluconate exchange	0	0
+EX_Larab_e	Alpha L Arabinan exchange	0	0
+EX_Lcyst_e	L-Cysteate exchange	0	0
+EX_abt__L_e	L Arabinitol exchange	0	0
+EX_ac_e	Acetate exchange	0	0
+EX_acac_e	Acetoacetate exchange	0	0
+EX_acgam_e	N-Acetyl-D-glucosamine exchange	0	0
+EX_acmana_e	N-Acetyl-D-mannosamine exchange	0	0
+EX_acnam_e	N-Acetylneuraminate exchange	0	0
+EX_actn__R_e	EX actn R LPAREN e RPAREN 	0	0
+EX_ade_e	Adenine exchange	0	0
+EX_adn_e	Adenosine exchange	0	0
+EX_akg_e	2-Oxoglutarate exchange	0	0
+EX_ala_B_e	Beta-Alanine exchange	0	0
+EX_ala__D_e	D-Alanine exchange	0	0
+EX_ala_L_Thr__L_e	Ala L Thr L exchange	0	0
+EX_ala_L_asp__L_e	Ala L asp L exchange	0	0
+EX_ala__L_e	L-Alanine exchange	0	0
+EX_ala_L_gln__L_e	Ala Gln exchange	0	0
+EX_ala_L_glu__L_e	Ala L glu L exchange	0	0
+EX_L_alagly_e	Ala L gly exchange	0	0
+EX_ala_L_his__L_e	Ala His exchange	0	0
+EX_ala_L_leu__L_e	Ala Leu exchange	0	0
+EX_alaala_e	D-Alanyl-D-alanine exchange	0	0
+EX_alltn_e	Allantoin exchange	0	0
+EX_amp_e	AMP exchange	0	0
+EX_amylase_e	Mature Bacillus subtilis amylase exchange	0	0
+EX_antim_e	Antimonite exchange	0	0
+EX_arab__D_e	D Arabinose exchange	0	0
+EX_arab__L_e	L-Arabinose exchange	0	0
+EX_arbt_e	Arbutin exchange	0	0
+EX_arg__L_e	L-Arginine exchange	0	0
+EX_argp_e	L Arginine phosphate exchange	0	0
+EX_arsenb_e	ARSENOBETAINE exchange	0	0
+EX_arsna_e	Arsenate exchange	0	0
+EX_arsni2_e	Arsenite exchange	0	0
+EX_asn__L_e	L-Asparagine exchange	0	0
+EX_asp__L_e	L-Aspartate exchange	0	0
+EX_bilea_e	Bile acid exchange	0	0
+EX_btd_RR_e	 R R  2 3 Butanediol exchange	0	0
+EX_buts_e	Butanesulfonate exchange	0	0
+EX_ca2_e	Calcium exchange	1	0
+EX_cbl2_e	Cob II alamin exchange	0	0
+EX_cd2_e	Cadmium exchange	0	0
+EX_cellb_e	Cellobiose exchange	0	0
+EX_cgly_e	Cys-Gly exchange	0	0
+EX_chitob_e	Chitobiose exchange	0	0
+EX_chol_e	Choline exchange	0	0
+EX_chols_e	EX chols LPAREN e RPAREN 	0	0
+EX_chor_e	Chorismate exchange	0	0
+EX_cit_e	Citrate exchange	0	0
+EX_citr__L_e	L-Citrulline exchange	0	0
+EX_cmp_e	CMP exchange	0	0
+EX_co2_e	CO2 exchange	1	0
+EX_cobalt2_e	Co2+ exchange	0	0
+EX_crn_e	L-Carnitine exchange	0	0
+EX_cro4_e	Chromate exchange	0	0
+EX_csn_e	Cytosine exchange	0	0
+EX_ctbt_e	Crotonobetaine exchange	0	0
+EX_cu2_e	Cu2+ exchange	0	0
+EX_cys__D_e	D-Cysteine exchange	0	0
+EX_cys__L_e	L-Cysteine exchange	0	0
+EX_cyst__L_e	L Cystine exchange	0	0
+EX_cytd_e	Cytidine exchange	0	0
+EX_dad_2_e	Deoxyadenosine exchange	0	0
+EX_dcyt_e	Deoxycytidine exchange	0	0
+EX_dextrin_e	Dextrin exchange	0	0
+EX_dha_e	Dihydroxyacetone exchange	0	0
+EX_diact_e	Diacetyl exchange	0	0
+EX_djenk_e	Djenkolate exchange	0	0
+EX_drib_e	Deoxy D Ribose exchange	0	0
+EX_dtmp_e	DTMP exchange	0	0
+EX_ectoine_e	Ectoine exchange	0	0
+EX_etha_e	Ethanolamine exchange	0	0
+EX_eths_e	Ethanesulfonate exchange	0	0
+EX_etoh_e	Ethanol exchange	0	0
+EX_fe2_e	Fe2+ exchange	0	0
+EX_fe3_e	Fe3+ exchange	1	0
+EX_ferrich_e	Ferrichrome exchange	0	0
+EX_ferxa_e	Ferroxamine exchange	0	0
+EX_fol_e	EX fol LPAREN e RPAREN 	0	0
+EX_for_e	Formate exchange	0	0
+EX_fru_e	D-Fructose exchange	0	0
+EX_fum_e	Fumarate exchange	0	0
+EX_g1p_e	D-Glucose 1-phosphate exchange	0	0
+EX_g6p_e	D-Glucose 6-phosphate exchange	0	0
+EX_gal_e	D-Galactose exchange	0	0
+EX_galctr__D_e	D Galactarate exchange	0	0
+EX_galt_e	Galactitol exchange	0	0
+EX_galur_e	D-Galacturonate exchange	0	0
+EX_gam6p_e	D-Glucosamine 6-phosphate exchange	0	0
+EX_gam_e	D-Glucosamine exchange	0	0
+EX_gbbtn_e	Gamma-butyrobetaine exchange	0	0
+EX_glc__D_e	D-Glucose exchange	1	0
+EX_glcn__D_e	D Gluconate exchange	0	0
+EX_glcr_e	D-Glucarate exchange	0	0
+EX_glcur_e	D-Glucuronate exchange	0	0
+EX_gln__L_e	L-Glutamine exchange	0	0
+EX_glu__D_e	D Glutamate exchange	0	0
+EX_glu__L_e	L-Glutamate exchange	0	0
+EX_glx_e	Glyoxylate exchange	0	0
+EX_gly_asn__L_e	Gly asn L exchange	0	0
+EX_gly_asp__L_e	Gly asp L exchange	0	0
+EX_gly_e	Glycine exchange	0	0
+EX_gly_gln__L_e	Gly Gln exchange	0	0
+EX_gly_glu__L_e	Gly glu L exchange	0	0
+EX_gly_met__L_e	Gly Met exchange	0	0
+EX_gly_pro__L_e	Gly pro L exchange	0	0
+EX_glyb_e	Glycine betaine exchange	0	0
+EX_glyc3p_e	Glycerol 3-phosphate exchange	0	0
+EX_glyc_e	Glycerol exchange	0	0
+EX_glyclt_e	Glycolate exchange	0	0
+EX_glycogen_e	Glycogen exchange	0	0
+EX_gmp_e	GMP exchange	0	0
+EX_gsn_e	Guanosine exchange	0	0
+EX_gthox_e	Oxidized glutathione exchange	0	0
+EX_gthrd_e	Reduced glutathione exchange	0	0
+EX_gua_e	Guanine exchange	0	0
+EX_h2o2_e	Hydrogen peroxide exchange	0	0
+EX_h2o_e	H2O exchange	1	0
+EX_h_e	H+ exchange	1	0
+EX_hexs_e	Hexanesulfonate exchange	0	0
+EX_hg2_e	Hg2+ exchange	0	0
+EX_his__L_e	L-Histidine exchange	0	0
+EX_hqn_e	Hydroquinone exchange	0	0
+EX_hxan_e	Hypoxanthine exchange	0	0
+EX_icit_e	Isocitrate exchange	0	0
+EX_ile__L_e	L-Isoleucine exchange	0	0
+EX_inost_e	Myo-Inositol exchange	0	0
+EX_ins_e	Inosine exchange	0	0
+EX_istnt_e	Isethionate exchange	0	0
+EX_k_e	K+ exchange	1	0
+EX_lac__L_e	L-Lactate exchange	0	0
+EX_lanth_e	Lanthionine exchange	0	0
+EX_lcts_e	Lactose exchange	0	0
+EX_leu__L_e	L-Leucine exchange	0	0
+EX_lipt_e	Lipoate exchange	0	0
+EX_lys__L_e	L-Lysine exchange	0	0
+EX_madg_e	Alpha Methyl D glucoside exchange	0	0
+EX_mal__D_e	D-Malate exchange	0	0
+EX_mal__L_e	L-Malate exchange	0	0
+EX_malt_e	Maltose exchange	0	0
+EX_malttr_e	Maltotriose exchange	0	0
+EX_man1p_e	D Mannose 1 phosphate exchange	0	0
+EX_man6p_e	D-Mannose 6-phosphate exchange	0	0
+EX_man_e	D-Mannose exchange	0	0
+EX_mbdg_e	Beta Methylglucoside exchange	0	0
+EX_melib_e	Melibiose exchange	0	0
+EX_meoh_e	Methanol exchange	0	0
+EX_met__D_e	D-Methionine exchange	0	0
+EX_met_L_ala__L_e	Met L ala L exchange	0	0
+EX_met__L_e	L-Methionine exchange	0	0
+EX_metox__R_e	L methionine R oxide exchange	0	0
+EX_metox_e	L Methionine S oxide exchange	0	0
+EX_mg2_e	Mg exchange	1	0
+EX_mn2_e	Mn2+ exchange	0	0
+EX_mnl_e	D-Mannitol exchange	0	0
+EX_mobd_e	Molybdate exchange	0	0
+EX_mops_e	MOPS exchange	0	0
+EX_mso3_e	Methanesulfonate exchange	0	0
+EX_na1_e	Sodium exchange	1	0
+EX_nac_e	Nicotinate exchange	0	0
+EX_nh4_e	Ammonia exchange	1	0
+EX_ni2_e	Ni2+ exchange	0	0
+EX_no2_e	Nitrite exchange	0	0
+EX_no3_e	Nitrate exchange	0	0
+EX_o2_e	O2 exchange	0	0
+EX_orn__L_e	Ornithine exchange	0	0
+EX_pala_e	Palatinose exchange	0	0
+EX_pep_e	Phosphoenolpyruvate exchange	0	0
+EX_phe__L_e	L-Phenylalanine exchange	0	0
+EX_pi_e	Phosphate exchange	1	0
+EX_pnto__R_e	(R)-Pantothenate exchange	0	0
+EX_ppa_e	Propionate exchange	0	0
+EX_ppi_e	Diphosphate exchange	0	0
+EX_pro__L_e	L-Proline exchange	0	0
+EX_prolb_e	Proline betaine exchange	0	0
+EX_pser__D_e	D O Phosphoserine exchange	0	0
+EX_pser__L_e	O-Phospho-L-serine exchange	0	0
+EX_pur_e	Puromycin exchange	0	0
+EX_pyr_e	Pyruvate exchange	0	0
+EX_raffin_e	Raffinose exchange	0	0
+EX_rib__D_e	D-Ribose exchange	0	0
+EX_ribflv_e	Riboflavin exchange	0	0
+EX_rmn_e	L-Rhamnose exchange	0	0
+EX_salcn_e	Salicin exchange	0	0
+EX_sbt__D_e	D-Sorbitol exchange	0	0
+EX_ser__D_e	D-Serine exchange	0	0
+EX_ser__L_e	L-Serine exchange	0	0
+EX_so4_e	Sulfate exchange	1	0
+EX_spmd_e	Spermidine exchange	0	0
+EX_srb__L_e	L Sorbose exchange	0	0
+EX_starch_e	Starch exchange	0	0
+EX_subtilisin_e	Mature Bacillus subtilis subtilisin exchange	0	0
+EX_succ_e	Succinate exchange	0	0
+EX_sucr_e	Sucrose exchange	0	0
+EX_sula_e	Sulfoacetate exchange	0	0
+EX_taur_e	Taurine exchange	0	0
+EX_thiog_e	Thioglycolate exchange	0	0
+EX_thr__L_e	L-Threonine exchange	0	0
+EX_thym_e	Thymine exchange	0	0
+EX_thymd_e	Thymidine exchange	0	0
+EX_tmp_e	Trimetaphosphate exchange	0	0
+EX_tre_e	Trehalose exchange	0	0
+EX_trp__L_e	L-Tryptophan exchange	0	0
+EX_tyr__L_e	L-Tyrosine exchange	0	0
+EX_ump_e	UMP exchange	0	0
+EX_ura_e	Uracil exchange	0	0
+EX_urate_e	Urate exchange	0	0
+EX_urea_e	Urea exchange	0	0
+EX_uri_e	Uridine exchange	0	0
+EX_val__L_e	L-Valine exchange	0	0
+EX_xan_e	Xanthine exchange	0	0
+EX_xtsn_e	Xanthosine exchange	0	0
+EX_xyl__D_e	D-Xylose exchange	0	0
+EX_zn2_e	Zinc exchange	0	0
+FRUK	Fructose-1-phosphate kinase	0	0
+F6Pt6_2	Fructose 6 phosphate transport via phosphate antiport	0	0
+FACOAL140	Fatty acid  CoA ligase  tetradecanoate 	1	0
+FACOAL140_ISO	Fatty acid  CoA ligase  Iso C140 	1	0
+FACOAL150_ISO	Fatty acid  CoA ligase  Iso C150 	1	0
+FACOAL150_anteiso	Fatty acid  CoA ligase  anteiso C150 	1	0
+FACOAL160	Fatty acid  CoA ligase  hexadecanoate 	1	0
+FACOAL160_ISO	Fatty acid  CoA ligase  Iso C160 	1	0
+FACOAL161	Fatty acid  CoA ligase  hexadecenoate 	1	0
+FACOAL161_ISO	Fatty acid  CoA ligase  Iso C161 	1	0
+FACOAL170_ISO	Fatty acid  CoA ligase  Iso C170 	1	0
+FACOAL170_anteiso	Fatty acid  CoA ligase  anteiso C170 	1	0
+FACOAL171_ISO	Fatty acid  CoA ligase  Iso C171 	1	0
+FACOAL171_anteiso	Fatty acid  CoA ligase  anteiso C171 	1	0
+FACOAL180_2	Fatty acid  CoA ligase  octadecanoate 	1	0
+FACOAL181	Fatty acid  CoA ligase  octadecenoate 	1	0
+FBA	Fructose-bisphosphate aldolase	1	0
+FBA2	D Fructose 1 phosphate D glyceraldehyde 3 phosphate lyase	1	0
+FBP	Fructose-bisphosphatase	0	0
+FCLT_2	Heme B synthesis reaction	0	0
+FDH	Formate dehydrogenase	0	0
+FDMO_1	FmnRD dependent monooxygenase  methanesulfonate 	0	0
+FDMO1	FMN dependent monooxygenase  ethanesulfonate 	0	0
+FDMO2_1	FMN dependent monooxygenase  butanesulfonate 	0	0
+FDMO3_1	FMN dependent monooxygenase  hexanesulfonate 	0	0
+FDMO4_1	FMN dependent monooxygenase  taurine 	0	0
+FDMO5_1	FMN dependent monooxygenase  sulfoacetate 	0	0
+FDMO6_1	FMN dependent monooxygenase  isethionate 	0	0
+FE2abc	Iron (II) transport via ABC system	0	0
+FE3t	Ferric iron uptake, plasma membrane	0	0
+FEDCabc	Iron  III  dicitrate transport via ABC system	0	0
+FERRICHabc	Ferrichrome transport via ABC system	0	0
+FERXAabc	Ferroxamine transport via ABC system	0	0
+FFSD	Beta-fructofuranosidase	0	0
+FGLU_1	Formimidoylglutamase	0	0
+FLVR_1	Flavin reductase	0	0
+FMETDF	Formylmethionine deformylase	0	0
+FMETTRS_1	Methionyl tRNA formyltransferase	0	0
+FMNAT	FMN adenylyltransferase	1	0
+FMNRy	FMN reductase  NADPH dependent 	0	0
+FOLt	Folate transport via proton simport	1	0
+FORAMD	FORAMD	0	0
+FORt2	Formate transport in via proton symport	1	0
+FRTT	Farnesyltranstransferase	0	0
+HEX7	Hexokinase (D-fructose:ATP)	0	0
+FRUpts	D-fructose transport via PEP:Pyr PTS	0	0
+FTHFD	Formyltetrahydrofolate deformylase	0	0
+FUM	Fumarase	1	0
+FUMt2r	Fumarate reversible transport via symport	1	0
+G1Dx	Glucose 1 dehydrogenase  NAD 	0	0
+G1PACT	Glucosamine-1-phosphate N-acetyltransferase	1	0
+G1PPDM	Glucose 1 phosphate phosphodismutase	0	0
+G1Pt6_2	Glucose 1 phosphate transport via phosphate antiport	0	0
+G1SAT	Glutamate-1-semialdehyde aminotransferase	0	0
+G3PCT	Glycerol-3-phosphate cytidylyltransferase	0	0
+G3PD1ir	Glycerol 3 phosphate dehydrogenase  NAD 	1	0
+G3PD4	Glycerol 3 phosphate dehydrogenase  menaquinone 7 	0	0
+G3POA_BS	Glycerol 3 phosphate O acyltransferase	0	0
+G5SADs	L-glutamate 5-semialdehyde dehydratase (spontaneous)	1	0
+G5SD	Glutamate-5-semialdehyde dehydrogenase	0	0
+G6PDA	Glucosamine-6-phosphate deaminase	0	0
+G6PDH2r	Glucose 6-phosphate dehydrogenase	0	0
+G6PI	Glucose 6 phosphate isomerase	1	0
+G6Pt6_2	Glucose-6-phosphate transport via phosphate antiport	0	0
+ABUTt2r	4 aminobutyrate reversible transport in via proton symport	0	0
+GALCTD_1	Galactarate dehydratase	0	0
+GALCTRt2	Galactarate transport in via proton symport	0	0
+GALKr	Galactokinase	0	0
+GALS1	A galactosidase  galactomannan 	0	0
+GALS2	A galactosidase  galactose oligosaccharides 	0	0
+GALS3	A-galactosidase (melibiose)	0	0
+GALS4	A galactosidase  stachyose 	0	0
+GALT	Galactose 1 phosphate uridylyltransferase	1	0
+GALTpts	Galactitol transport via PEP:Pyr PTS	0	0
+GALUi	UTP-glucose-1-phosphate uridylyltransferase (irreversible)	1	0
+GALURt2r	D-galacturonate transport via proton symport, reversible	0	0
+GALt2	D galactose transport in via proton symport	0	0
+GAM6Pt	D glucosamine 6 phosphate reversible uniport	1	0
+GAMpts	D-glucosamine transport via PEP:Pyr PTS	0	0
+GAPD	Glyceraldehyde-3-phosphate dehydrogenase	0	0
+GAPDi_nadp	Glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	0	0
+GARFT	Phosphoribosylglycinamide formyltransferase	0	0
+GART	GAR transformylase-T	0	0
+GBBTNabc	Gamma butyrobetaine transport in via ABC system	0	0
+GBEZY	1 4 alpha glucan branching enzyme	0	0
+GCALDD	Glycolaldehyde dehydrogenase	0	0
+GF6PTA	Glutamine-fructose-6-phosphate transaminase	0	0
+GGTAe2	Gamma glutamyltransferase	0	0
+GGTT	Geranylgeranyltranstransferase	0	0
+GHMT2r	Glycine hydroxymethyltransferase, reversible	1	0
+GK1	Guanylate kinase (GMP:ATP)	1	0
+GK2	Guanylate kinase  GMPdATP 	1	0
+GLCNt2ir	D gluconate transport via proton symport	0	0
+GLCP	Glycogen phosphorylase	0	0
+GLCRAL_1	5 dehydro 4 deoxyglucarate aldolase	0	0
+GLCRD_1	Glucarate dehydratase	0	0
+GLCRt2r	D-glucarate transport via proton symport, reversible	0	0
+GLCS1	Glycogen synthase (ADPGlc)	0	0
+GLCURt2r	D-glucuronate transport via proton symport, reversible	0	0
+GLCpts	D-glucose transport via PEP:Pyr PTS	0	0
+GLCt2	D-glucose transport in via proton symport	0	0
+GLGC	Glucose-1-phosphate adenylyltransferase	1	0
+GLNS	Glutamine synthetase	0	0
+GLNabc	L-glutamine transport via ABC system	0	0
+GLTPD	Galactitol-1-phosphate dehydrogenase	1	0
+GLU5K	Glutamate 5-kinase	0	0
+GLUDxi	Glutamate dehydrogenase  NAD 	0	0
+GLUN	Glutaminase	0	0
+GLUPRT	Glutamine phosphoribosyldiphosphate amidotransferase	0	0
+GLUR	Glutamate racemase	1	0
+GLUSy	Glutamate synthase (NADPH)	0	0
+GLUTRR	Glutamyl-tRNA reductase	0	0
+GLUTRS	Glutamyl-tRNA synthetase	0	0
+GLU_Dt2	D glutamate transport in via proton symport	0	0
+GLUt2r	L glutamate transport via proton symport  reversible	0	0
+GLUt4	Na+/glutamate symport	0	0
+GLXCBL	Glyoxalate carboligase	0	0
+GLXt2	Glyoxylate transport in via proton symport	0	0
+GLY3Pt2	Glycerol 3 phosphate transport in via proton symport	0	0
+GLYAT	Glycine C-acetyltransferase	1	0
+GLYBabc	Glycine betaine transport via ABC system	0	0
+GLYBt2r	Glycine betaine transport via proton symport, reversible	1	0
+GLYCK	Glycerate kinase	0	0
+GLYCLTt2r	Glycolate transport via proton symport, reversible	1	0
+GLYCOGENt	Glycogen transport in	0	0
+GLYCTO1	Glycolate oxidase	0	0
+GLYCt	Glycerol transport via channel	1	0
+GLYK	Glycerol kinase	0	0
+GLYO1	Glycine oxidase	0	0
+GLYt2r	Glycine reversible transport via proton symport	1	0
+GMPR	GMP reductase	0	0
+GMPS2	GMP synthase	0	0
+GMPt6	GMP transport inout via proton symport	1	0
+GNKr	Gluconokinase	1	0
+GPDDA1	Glycerophosphodiester phosphodiesterase (Glycerophosphocholine)	0	0
+GPDDA2	Glycerophosphodiester phosphodiesterase (Glycerophosphoethanolamine)	0	0
+GPDDA4	Glycerophosphodiester phosphodiesterase (Glycerophosphoglycerol)	0	0
+GRTT	Geranyltranstransferase	0	0
+GSNt2	Guanosine transport in via proton symport	1	0
+GTHPe	Glutathione peroxidase	1	0
+GTPCI	GTP cyclohydrolase I	0	0
+GTPCII	GTP cyclohydrolase II	0	0
+GTPDPK	GTP diphosphokinase	0	0
+GUAD	Guanine deaminase	0	0
+GUAPRT	Guanine phosphoribosyltransferase	1	0
+GUAt2r	Guanine reversible transport via proton symport	0	0
+GUI1	Glucuronate isomerase (D-glucuronate)	1	0
+GUI2	Glucuronate isomerase (D-galacturonate)	1	0
+H2Ot	H2O transport via diffusion	1	0
+HACD1_1	3 hydroxyacyl CoA dehydrogenase  acetoacetyl CoA 	1	0
+HACD2	3-hydroxyacyl-CoA dehydrogenase (3-oxohexanoyl-CoA)	1	0
+HACD3	3-hydroxyacyl-CoA dehydrogenase (3-oxooctanoyl-CoA)	1	0
+HACD4	3-hydroxyacyl-CoA dehydrogenase (3-oxodecanoyl-CoA)	1	0
+HACD5	3-hydroxyacyl-CoA dehydrogenase (3-oxododecanoyl-CoA)	1	0
+HACD6	3-hydroxyacyl-CoA dehydrogenase (3-oxotetradecanoyl-CoA)	1	0
+HACD7	3-hydroxyacyl-CoA dehydrogenase (3-oxohexadecanoyl-CoA)	1	0
+HACD9	3 hydroxyacyl CoA dehydrogenase  2 Methylacetoacetyl CoA 	1	0
+HACOADr	3 hydroxyacyl CoA dehydrogenase	0	0
+HCO3E	HCO3 equilibration reaction	1	0
+HEMEAS	Heme A synthase	0	0
+HEMECS	Heme C synthase	0	0
+HEMEDS	Heme D synthase	0	0
+HEMEOS_1	Heme O synthase	0	0
+HETZK	Hydroxyethylthiazole kinase	0	0
+HEX1	Hexokinase (D-glucose:ATP)	0	0
+HEXSabc	Hexanesulfonate transport via ABC system	0	0
+HEXTT	Trans-hexaprenyltranstransferase	0	0
+HGt	Mercury transport	1	0
+HIBD	3 hydroxyisobutyrate dehydrogenase	0	0
+HIBHr	3 hydroxyisobutyryl CoA hydrolase	0	0
+HISDr	Histidase r	1	0
+HISTD	Histidinol dehydrogenase	0	0
+HISTP	Histidinol-phosphatase	0	0
+HISt2r	L histidine reversible transport via proton symport	0	0
+HKM1PP	2 hydroxy 3 keto 5 methylthiopentenyl 1 phosphate phophatase	0	0
+HMBS	Hydroxymethylbilane synthase	0	0
+HMGCOAS	Hydroxymethylglutaryl CoA synthase	0	0
+HMGL	Hydroxymethylglutaryl-CoA lyase	0	0
+HMPK1	Hydroxymethylpyrimidine kinase (ATP)	0	0
+HOXPRx	2 hydroxy 3 oxopropionate reductase  NAD 	1	0
+HP5CD_1	3 hydroxy 1 pyrroline 5 carboxylate dehydrogenase	0	0
+HPPK	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase	0	0
+HQNt6	Hydroquinone transport inout via proton symport	1	0
+HSDy	Homoserine dehydrogenase (NADPH)	1	0
+HSK	Homoserine kinase	0	0
+HSST	Homoserine O-succinyltransferase	1	0
+HSTPTr	Histidinol phosphate transaminase	1	0
+HXAD	Hexosaminidase	0	0
+HXANt2r	Hypoxanthine reversible transport via proton symport	0	0
+HXPRT	Hypoxanthine phosphoribosyltransferase (Hypoxanthine)	1	0
+ICDHyr	Isocitrate dehydrogenase (NADP)	1	0
+ICHORS	Isochorismate synthase	1	0
+ICHORT	Isochorismatase	0	0
+ICITt10	Isocitrate transport in via Mg complex	0	0
+ICITt2	Isocitrate transport inout via proton symport	1	0
+IG3PS_1	Imidazole glycerol 3 phosphate synthase	0	0
+IGPDH_1	Imidazoleglycerol phosphate dehydratase	0	0
+IGPS	Indole-3-glycerol-phosphate synthase	0	0
+ILEDHr	Isoleucine dehydrogenase	1	0
+ILETA	Isoleucine transaminase	1	0
+ILEt2r	L isoleucine reversible transport via proton symport	0	0
+IMPC	IMP cyclohydrolase	0	0
+IMPD	IMP dehydrogenase	0	0
+INS2D	Inositol 2-dehydrogenase	0	0
+INSCR	Inositol catabolic reactions  lumped 	0	0
+INSTt2	Inositol transport in via proton symport	0	0
+INSt2	Inosine transport in via proton symport	1	0
+RAFH	Raffinose hydrolyzing enzyme	0	0
+IPDDI	Isopentenyl-diphosphate D-isomerase	1	0
+IPDPS	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (ipdp)	0	0
+IPDPUPT	Di trans poly cis Decaprenyl diphosphateisopentenyl diphosphate undecaprenylcistransferase	0	0
+IPMD	3-isopropylmalate dehydrogenase	0	0
+IPPMIa	3-isopropylmalate dehydratase	1	0
+IPPMIb	2-isopropylmalate hydratase	1	0
+IPPS	2-isopropylmalate synthase	0	0
+ISOMS	Isomaltulose synthase	1	0
+ISTNTabc	Isethionate transport via ABC system	0	0
+IZPN_1	Imidazolonepropionase	0	0
+KARA1	Ketol-acid reductoisomerase (2,3-dihydroxy-3-methylbutanoate)	1	0
+KARA2	Ketol-acid reductoisomerase (2-Acetolactate)	1	0
+KAS1	B-ketoacyl synthetase (Iso-C14:0)	0	0
+KAS10	B-ketoacyl synthetase (Anteiso-C17:1)	0	0
+KAS11	B-ketoacyl synthetase (Iso-C17:0)	0	0
+KAS12	B-ketoacyl synthetase (Anteiso-C17:0)	0	0
+KAS13	B-ketoacyl synthetase (octadecanoate)	0	0
+KAS17	B-ketoacyl synthetase (n-C18:1)	0	0
+KAS2	B-ketoacyl synthetase (n-C14:0)	0	0
+KAS3	B-ketoacyl synthetase (Iso-C15:0)	0	0
+KAS4	B-ketoacyl synthetase (Anteiso-C15:0)	0	0
+KAS5	B-ketoacyl synthetase (Iso-C16:1)	0	0
+KAS6	B-ketoacyl synthetase (Iso-C16:0)	0	0
+KAS7	B-ketoacyl synthetase (n-C16:1)	0	0
+KAS8	B-ketoacyl synthetase (palmitate, n-C16:0)	0	0
+KAS9	B-ketoacyl synthetase (Iso-C17:1)	0	0
+Kt2r	Potassium reversible transport  via proton symport	0	0
+Kt3r	Potassium transport out via proton antiport	0	0
+Kt1	Potassium transport via uniport (facilitated diffusion)	1	0
+LAAF	Alpha N arabinofuranosidase	0	0
+LAAL1	L amino acid ligase  L glycine L glycine 	0	0
+LAAL10	L amino acid ligase  Thr Thr 	0	0
+LAAL11	L amino acid ligase  Ala Val 	0	0
+LAAL12	L amino acid ligase  Ser Val 	0	0
+LAAL13	L amino acid ligase  Gly Leu 	0	0
+LAAL14	L amino acid ligase  ser leu 	0	0
+LAAL15	L amino acid ligase  Ala Leu 	0	0
+LAAL16	L amino acid ligase  Thr Leu 	0	0
+LAAL17	L amino acid ligase  Ala Ile 	0	0
+LAAL18	L amino acid ligase  Ser Ile 	0	0
+LAAL19	L amino acid ligase  Gly Met 	0	0
+LAAL2	L amino acid ligase  L alanylglycine 	0	0
+LAAL20	L amino acid ligase  Ala Met 	0	0
+LAAL21	L amino acid ligase  Ser Met 	0	0
+LAAL22	L amino acid ligase  Thr Met 	0	0
+LAAL23	L amino acid ligase  met met 	0	0
+LAAL24	L amino acid ligase  gly phe 	0	0
+LAAL25	L amino acid ligase  Ala phe 	0	0
+LAAL26	L amino acid  ser phe 	0	0
+LAAL27	L amino acid ligase  Thr Phe 	0	0
+LAAL28	L amino acid ligase  met phe 	0	0
+LAAL29	L amino acid ligase  gly tyr 	0	0
+LAAL3	L amino acid ligase  L serylglycine 	0	0
+LAAL30	L amino acid  Ala Tyr 	0	0
+LAAL31	L amino acid ligase  Ser Tyr 	0	0
+LAAL32	L amino acid ligase  Met Tyr 	0	0
+LAAL33	L amino acid ligase  ala trp 	0	0
+LAAL34	L amino acid ligase  ser trp 	0	0
+LAAL35	L amino acid ligase  gly gln 	0	0
+LAAL36	L amino acid ligase  ala gln 	0	0
+LAAL37	L amino acid ligase  ser gln 	0	0
+LAAL38	L amino acid ligase  thr gln 	0	0
+LAAL39	L amino acid ligase  ala asn 	0	0
+LAAL4	L amino acid ligase  thr gly 	0	0
+LAAL40	L amino acid ligase  ala his 	0	0
+LAAL41	L amino acid ligase  ser his 	0	0
+LAAL42	L amino acid ligase  met his 	0	0
+LAAL5	L amino acid ligase  Ala Ala 	0	0
+LAAL6	L amino acid ligase  Ser Ala 	0	0
+LAAL7	L amino acid ligase  Ala Ser 	0	0
+LAAL8	L amino acid ligase  Ser Ser 	0	0
+LAAL9	L amino acid ligase  Gly Cys 	0	0
+LACZ	B-galactosidase	0	0
+LANTHabc	Lanthionine transport via ABC system	0	0
+LCADi	Lactaldehyde dehydrogenase	0	0
+LCTSabc	Lactose transport via ABC system (import)	0	0
+LCYSTabc	Cysteate transport via ABC system	0	0
+LDH2	L lactate dehydrogenase  2 Hydroxybutanoic acid 	1	0
+LDH_L	L-lactate dehydrogenase	1	0
+LEUTA	Leucine transaminase	1	0
+LEUt2r	L leucine reversible transport via proton symport	1	0
+LIPO1S24_BS	Lipoteichoic acid synthesis  n24   linked  glucose substituted	0	0
+LIPO2S24_BS	Lipoteichoic acid synthesis  n24   linked  N acetylglucosamine substituted	0	0
+LIPO3S24_BS	Lipoteichoic acid synthesis  n24   unliked  D alanine substituted	0	0
+LIPO4S24_BS	Lipoteichoic acid synthesis  n24   linked  unsubstituted	0	0
+LIPTabc	Lipoic acid transport via ABC system	0	0
+LLEUDr	L leucine dehydrogenase	1	0
+LYSAM	Lysine 2,3-aminomutase	1	0
+LYSDC	Lysine decarboxylase	0	0
+LYSLG_BS	Lysylphosphatidylglycerol synthesis	0	0
+LYSt3r	L lysine transport out via proton antiport reversible	1	0
+L_LACt2r	L lactate reversible transport via proton symport	1	0
+M1PD	Mannitol-1-phosphate 5-dehydrogenase	1	0
+MAL6PG	Maltose 6  phosphate glucosidase	0	0
+MALT	Alpha glucosidase	0	0
+MALTATr	Maltose O-acetyltransferase	0	0
+MALTTRabc	Maltotriose transport via ABC system	0	0
+MALTabc	Maltose transport via ABC system	0	0
+MALTpts	Maltose transport via PEP:Pyr PTS	0	0
+MAL_Dt2	D malate transport in via proton symport	0	0
+MALt10	Malate HNa lactate antiporter	0	0
+MALt2r	L malate reversible transport via proton symport	0	0
+MALt4	Namalate symporter	0	0
+MAN1Pt6	MAN1P transport inout via proton symport	1	0
+MAN6PI	Mannose-6-phosphate isomerase	1	0
+MAN6Pt6	MAN6P transport inout via proton symport	1	0
+MANAO	Mannonate oxidoreductase	1	0
+MANpts	D-mannose transport via PEP:Pyr PTS	0	0
+MANt2	D mannose transport in via proton symport	0	0
+MCA	Methyl cis aconitase	1	0
+MCITS	2-methylcitrate synthase	0	0
+MCSNAH	5-Methylcytosine aminohydrolase	1	0
+MDH	Malate dehydrogenase	1	0
+MDRPD	5-Methylthio-5-deoxy-D-ribulose 1-phosphate dehydratase	0	0
+MALDDH	Malate decarboxylating oxidoreductase (decarboxylating)	0	0
+ME2	Malic enzyme (NADP)	0	0
+MECDPDH2	2C-methyl-D-erythritol 2,4 cyclodiphosphate dehydratase	0	0
+MECDPS	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	0	0
+MELIBt2	Melibiose transport in via symport	0	0
+MEPCT	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	0	0
+METAT	Methionine adenosyltransferase	0	0
+METDabc	D-methionine transport via ABC system	0	0
+METS	Methionine synthase	0	0
+METSR_R1	L methionine R oxide reductase  trdrd 	0	0
+METSR_R2	L methionine R oxide  H2O2 	0	0
+METSR_S1	L methionine S oxide reductase  trdrd 	0	0
+METSR_S2	L methionine S oxide reductase  H2O2 	0	0
+METSRabc	L methionine R oxide transport via ABC system	0	0
+METSabc	L methionine S oxide transport via ABC system	0	0
+METTRS	Methionyl-tRNA synthetase	0	0
+METabc	L-methionine transport via ABC system	0	0
+METt3	L methionine transport out via proton antiport	0	0
+MGSA	Methylglyoxal synthase	0	0
+MGt5	Magnesium transport in/out via permease (no H+)	1	0
+MI1PP	Myo-inositol 1-phosphatase	0	0
+MCITL2	Methylisocitrate lyase	1	0
+MLTG1	Maltodextrin glucosidase (maltotriose)	0	0
+MLTG2	Maltodextrin glucosidase (maltotetraose)	0	0
+MLTG3	Maltodextrin glucosidase (maltopentaose)	0	0
+MLTG4	Maltodextrin glucosidase (maltohexaose)	0	0
+MLTG5	Maltodextrin glucosidase (maltoheptaose)	0	0
+MLTG6	Maltodextrin glucosidase  dextrin 	0	0
+MLTG7	Maltodextrin glucosidase  isomaltose 	0	0
+MMSAD1	Methylmalonate semialdehyde dehydrogenase	0	0
+MMSAD2	Methylmalonate-semialdehyde dehydrogenase (propanol)	0	0
+MMSAD3	Methylmalonate-semialdehyde dehydrogenase (malonic semialdehyde)	0	0
+MMSDHir	Methylmalonate semialdehyde dehydrogenase  acylating 	0	0
+MNLpts	Mannitol transport via PEP:Pyr PTS	0	0
+MNNH	D-mannonate hydrolyase	0	0
+MNabc	Manganese transport via ABC system	0	0
+MNt2	Manganese transport in via proton symport	0	0
+MOBDabc	Molybdate transport via ABC system	0	0
+MOHMT	3-methyl-2-oxobutanoate hydroxymethyltransferase	0	0
+MOPSabc	MOPS transport via ABC system	0	0
+MPL	Maltose phosphorylase	0	0
+MSO3abc	Methanesulfonate transport via ABC system	0	0
+MTAN	Methylthioadenosine nucleosidase	0	0
+MTHFC	Methenyltetrahydrofolate cyclohydrolase	1	0
+MTHFD	Methylenetetrahydrofolate dehydrogenase (NADP)	1	0
+MTHFR3	5 10 methylenetetrahydrofolatereductase  NADPH 	0	0
+MTRI	5-methylthioribose-1-phosphate isomerase	1	0
+MTRK	5-methylthioribose kinase	0	0
+NACt	Nicotinic acid transport	0	0
+NADH4	NADH dehydrogenase  Menaquinone 7  no proton 	0	0
+NADK	NAD kinase	0	0
+NADK1	NAD kinase  GTP 	0	0
+NADK2	NAD kinase  dATP 	0	0
+NADK3	NAD kinase  dGTP 	0	0
+NADK4	NAD kinase  dCTP 	0	0
+NADK5	NAD kinase  dTTP 	0	0
+NADS1	NAD synthase (nh3)	0	0
+NAabcO	Sodium transport out via ABC system	0	0
+NAt3_1	Sodium proton antiporter  HNA is 11 	0	0
+NAPRT	NAPRTase (rev)	1	0
+NDPK1	Nucleoside-diphosphate kinase (ATP:GDP)	1	0
+NDPK2	Nucleoside-diphosphate kinase (ATP:UDP)	1	0
+NDPK3	Nucleoside-diphosphate kinase (ATP:CDP)	1	0
+NDPK4	Nucleoside-diphosphate kinase (ATP:dTDP)	1	0
+NDPK5	Nucleoside-diphosphate kinase (ATP:dGDP)	1	0
+NDPK6	Nucleoside-diphosphate kinase (ATP:dUDP)	1	0
+NDPK7	Nucleoside-diphosphate kinase (ATP:dCDP)	1	0
+NDPK8	Nucleoside-diphosphate kinase (ATP:dADP)	1	0
+NDPK9	Nucleoside diphosphate kinase  ATPIDP 	1	0
+NH4t	Ammonia reversible transport	1	0
+NMNHYD	Nicotinamide ribonucleotide phosphohydrolase	1	0
+NMNAT	Nicotinamide-nucleotide adenylyltransferase	1	0
+NNAM	Nicotinamidase	0	0
+NNATr	Nicotinate-nucleotide adenylyltransferase	1	0
+NNDPR	Nicotinate-nucleotide diphosphorylase (carboxylating)	0	0
+NO2t2r	Nitrite transport in via proton symport, reversible	0	0
+NO2t3	Nitrite transport out via proton antiport	0	0
+NO3t2	Nitrate transport in via proton symport	0	0
+NPHS	Naphthoate synthase	0	0
+NTD1	5'-nucleotidase (dUMP)	0	0
+NTD10	5'-nucleotidase (XMP)	0	0
+NTD2	5'-nucleotidase (UMP)	0	0
+NTD3	5'-nucleotidase (dCMP)	0	0
+NTD4	5'-nucleotidase (CMP)	0	0
+NTD5	5'-nucleotidase (dTMP)	0	0
+NTD6	5'-nucleotidase (dAMP)	0	0
+NTD7	5'-nucleotidase (AMP)	0	0
+NTD8	5'-nucleotidase (dGMP)	0	0
+NTD9	5'-nucleotidase (GMP)	0	0
+NTR3B	Nitrate reductase	0	0
+NTRIR2x	Nitrite Reductase (NADH)	0	0
+O2t	O2 transport  diffusion 	1	0
+OCBT_1	Ornithine carbamoyltransferase	1	0
+OCOAT1	3-oxoacid CoA-transferase (Succinyl-CoA: acetoacetate)	1	0
+OIVD1r	2-oxoisovalerate dehydrogenase (acylating; 4-methyl-2-oxopentaoate)	1	0
+OIVD2	2-oxoisovalerate dehydrogenase (acylating; 3-methyl-2-oxobutanoate)	0	0
+OIVD3	2-oxoisovalerate dehydrogenase (acylating; 3-methyl-2-oxopentanoate)	0	0
+OMCDC	2-Oxo-4-methyl-3-carboxypentanoate decarboxylation	0	0
+OMPDC	Orotidine-5'-phosphate decarboxylase	0	0
+ORNTA_1	Ornithine transaminase	0	0
+ORNTAC_1	Ornithine transacetylase	1	0
+ORNt2	Ornithine transport in via proton symport	0	0
+ORPT	Orotate phosphoribosyltransferase	1	0
+OXADC	Oxalate decarboxylase	0	0
+OXGDC	2 oxoglutarate decarboxylase	0	0
+P5CD	1-pyrroline-5-carboxylate dehydrogenase	0	0
+P5CR	Pyrroline-5-carboxylate reductase	0	0
+PALAt2	Palatinose transport in via proton symport	0	0
+PANTS	Pantothenate synthase	0	0
+PAPPT3	Phospho-N-acetylmuramoyl-pentapeptide-transferase (meso-2,6-diaminopimelate)	0	0
+PAPSR	Phosphoadenylyl-sulfate reductase (thioredoxin)	0	0
+PAP_BS	Phosphatidic acid phosphatase	0	0
+PBUTT	Phosphate butyryltransferase	1	0
+PC	Pyruvate carboxylase	0	0
+PDH	Pyruvate dehydrogenase	0	0
+PENCAC	Penicillin acylase	0	0
+PEPt6	Phosphoenolpyruvate transport in via proton symport	1	0
+PFK	Phosphofructokinase	0	0
+PFK_2	Phosphofructokinase	0	0
+PGAMT	Phosphoglucosamine mutase	1	0
+PGCD	Phosphoglycerate dehydrogenase	1	0
+GND	Phosphogluconate dehydrogenase	1	0
+BGLA1	6-phospho-beta-glucosidase	0	0
+PGI	Glucose-6-phosphate isomerase	1	0
+PGK	Phosphoglycerate kinase	1	0
+PGL	6-phosphogluconolactonase	0	0
+PGLYCP	Phosphoglycolate phosphatase	0	0
+PGM	Phosphoglycerate mutase	1	0
+PGMT	Phosphoglucomutase	1	0
+PGMT_B	B phosphoglucomutase	1	0
+PGPPH_BS	Phosphatidylglycerophosphate phosphohydrolase	0	0
+PHCYT_BS	Phosphatidate cytidylyltransferase	0	0
+PHETA1	Phenylalanine transaminase	1	0
+PHEt2r	L phenylalanine reversible transport via proton symport	1	0
+PHYT3	3 phytase	0	0
+PIabc	Phosphate transport via ABC system	0	0
+PIt2r	Phosphate reversible transport via symport	1	0
+PIt7	Phosphate transport in/out via three Na+ symporter	0	0
+PMANM	Phosphomannomutase	1	0
+PMDPHT	Pyrimidine phosphatase	0	0
+PMPK	Phosphomethylpyrimidine kinase	0	0
+PNTEH	Hydrolase Class   RXN R02973 	0	0
+PNTK	Pantothenate kinase	0	0
+PNTOt2	Pantothenate reversible transport via proton symport	1	0
+PPA	Inorganic diphosphatase	0	0
+PPAKr	Propionate kinase	1	0
+PPAt6	Propionate transport inout via proton symport	1	0
+PPBNGS	Porphobilinogen synthase	0	0
+PPCDC	Phosphopantothenoylcysteine decarboxylase	0	0
+PPCK	Phosphoenolpyruvate carboxykinase	0	0
+PPCOAC	Propionyl-CoA carboxylase	0	0
+PPIabc	Diphosphate transport in via ABC system	0	0
+PPM	Phosphopentomutase	1	0
+PPM2	Phosphopentomutase 2 (deoxyribose)	1	0
+PPNCL	Phosphopantothenate-cysteine ligase	0	0
+PPND	Prephenate dehydrogenase	0	0
+PPNDH	Prephenate dehydratase	0	0
+PPPGO	Protoporphyrinogen oxidase (aerobic)	0	0
+PPS	Phosphoenolpyruvate synthase	0	0
+PPTGS_BS	Peptidoglycan subunit synthesis	0	0
+PPTT	Trans pentaprenyltranstransferase	0	0
+PRAGSr	Phosphoribosylglycinamide synthase	0	0
+PRAIi	Phosphoribosylanthranilate isomerase (irreversible)	1	0
+PRAIS_1	Phosphoribosylaminoimidazole synthetase	0	0
+PRAMPC_1	Phosphoribosyl AMP cyclohydrolase	0	0
+PRASCSi	Phosphoribosylaminoimidazolesuccinocarboxamide synthase	1	0
+PRATPP	Phosphoribosyl-ATP pyrophosphatase	0	0
+PRFGS_1	Phosphoribosylformylglycinamidine synthase	0	0
+URATEt_1	Urate permease	0	0
+PRMICI	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase	1	0
+PRO1x	Proline oxidase  L proline  NAD 	0	0
+PROLBabc	Proline betaine transport in via ABC system	0	0
+PROt2r	L proline reversible transport via proton symport	0	0
+PRPPS	Phosphoribosylpyrophosphate synthetase	1	0
+PSCVT	3-phosphoshikimate 1-carboxyvinyltransferase	1	0
+PSDC_BS	Phosphatidylserine decarboxylase	0	0
+PSERT	Phosphoserine transaminase	1	0
+PSER_Dt6	D O Phosphoserine transport inout via proton symport	1	0
+PSER_Lt6	O Phospho L serine transport in via proton symport	1	0
+PSP_D	Phosphoserine phosphatase  D serine 	0	0
+PSP_L	Phosphoserine phosphatase (L-serine)	0	0
+PTA2	Phosphate acetyltransferase	1	0
+PTAr	Phosphotransacetylase	1	0
+APNPT	ATP:pantetheine 4'-phosphotransferase	1	0
+PTHPS	6-pyruvoyltetrahydropterin synthase	0	0
+PTPATi	Pantetheine-phosphate adenylyltransferase	1	0
+PUNP1	Purine-nucleoside phosphorylase (Adenosine)	1	0
+PUNP2	Purine-nucleoside phosphorylase (Deoxyadenosine)	1	0
+PUNP3	Purine-nucleoside phosphorylase (Guanosine)	1	0
+PUNP4	Purine-nucleoside phosphorylase (Deoxyguanosine)	1	0
+PUNP5	Purine-nucleoside phosphorylase (Inosine)	1	0
+PUNP6	Purine-nucleoside phosphorylase (Deoxyinosine)	1	0
+PUNP7	Purine-nucleoside phosphorylase (Xanthosine)	1	0
+PUNP8	Purine nucleoside phosphorylase  nebularine 	1	0
+PURabc1	Puromycin efflux  via ABC system	0	0
+PYK	Pyruvate kinase	0	0
+PYNP1	Pyrimidine-nucleoside phosphorylase (cytosine)	1	0
+PYNP2r	Pyrimidine-nucleoside phosphorylase (uracil)	1	0
+PYRIS	Pyridoxal 5  phsophate synthase	0	0
+PYRt2	Pyruvate transport in via proton symport	1	0
+Q23DO	Quercetin 2 3 dioxygenase	0	0
+QULNS	Quinolinate synthase	0	0
+RAFFINt2	Raffinose transport in via proton symport	0	0
+RBFK	Riboflavin kinase	0	0
+RBFSa	Riboflavin synthase	0	0
+RBFSb	Riboflavin synthase	0	0
+RBK_Dr	D-ribulokinase (D-ribulose)	0	0
+RBK	Ribokinase	1	0
+RBK_L1	L-ribulokinase (L-ribulose)	0	0
+RBP4E	L-ribulose-phosphate 4-epimerase	1	0
+RHCYS	5 deoxyribos 5 ylhomocysteinase	0	0
+RIBFLVt2	Riboflavin transport in via proton symport	1	0
+RIBabc	D-ribose transport via ABC system	0	0
+RIBabc1	D ribose transport out via ABC system	0	0
+PNP	Purine nucleoside phosphorylase	1	0
+RMI	L-rhamnose isomerase	1	0
+RMK	Rhamnulokinase	0	0
+RMNt	L-rhamnose transport via proton symport	0	0
+RMPA	Rhamnulose-1-phosphate aldolase	1	0
+RNDR1	Ribonucleoside-diphosphate reductase (ADP)	0	0
+RNDR2	Ribonucleoside-diphosphate reductase (GDP)	0	0
+RNDR3	Ribonucleoside-diphosphate reductase (CDP)	0	0
+RNDR4	Ribonucleoside-diphosphate reductase (UDP)	0	0
+RPE	Ribulose 5-phosphate 3-epimerase	1	0
+RPI	Ribose-5-phosphate isomerase	1	0
+S6PG	Salicin 6 phosphate glucohydrolase	0	0
+SADT	Sulfate adenylyltransferase	1	0
+SALADC2	Sulfinoalanine decarboxylase	0	0
+SALCpts	Salicin transport via PEP:Pyr PTS	0	0
+SARCOX	Sarcosine oxidase	0	0
+SBTD_D2	D sorbitol dehydrogenase  D fructose producing 	0	0
+SBTt2	D sorbitol transport in via proton symport	0	0
+SDPDS	Succinyl-diaminopimelate desuccinylase	0	0
+SERAT	Serine O-acetyltransferase	1	0
+SERD_D	D-serine deaminase	0	0
+SERD_L	L-serine deaminase	0	0
+DSERt2	D-serine transport via proton symport	1	0
+SERt2r	L serine reversible transport via proton symport	0	0
+SHCHD2_1	Sirohydrochlorin dehydrogenase  NAD 	0	0
+SHCHF_2	Sirohydrochlorin ferrochetalase	0	0
+SHK3Dr	Shikimate dehydrogenase	1	0
+SHKK	Shikimate kinase	0	0
+SHSL1	O-succinylhomoserine lyase (L-cysteine)	0	0
+SHSL2	O succinylhomoserine lyase  H2S 	0	0
+SHSL3	O succinylhomoserine lyase  methanethiol 	0	0
+SHSL4r	O succinylhomoserine lyase  elimination   reversible	0	0
+SLCYSS	O-acetyl-L-serine sulfhydrylase	0	0
+SO4t2	Sulfate transport in via proton symport	0	0
+SPODM	Superoxide dismutase	1	0
+SORD_D	D sorbitol dehydrogenase	1	0
+SPMDAT1	Spermidine acetyltransferase	0	0
+SPMDAT3	Spermidine acetyltransferase  spermine 	0	0
+SPMDt3i	Spermidine transport in via proton antiport	0	0
+SPMS	Spermidine synthase	0	0
+SPRMS	Spermine synthase	0	0
+SRB_Lt	L sorbose reversible transport	1	0
+SSALy	Succinate-semialdehyde dehydrogenase (NADP)	0	0
+SUCBZL	O-succinylbenzoate-CoA ligase	0	0
+SUCBZS	O-succinylbenzoate-CoA synthase	0	0
+SUCCt2r	Succinate transport via proton symport	1	0
+SUCD1	Succinate dehydrogenase	1	0
+SUCD5_BS	Succinate dehydrogenase	0	0
+SUCR	Sucrose hydrolyzing enzyme	0	0
+SUCOAS	Succinyl-CoA synthetase (ADP-forming)	1	0
+SUCpts	Sucrose transport via PEP:Pyr PTS	0	0
+SULAabc	Sulfoacetate transport via ABC system	0	0
+SULR_1	Sulfite reductase  NADPH2 	1	0
+EX_f6p_e	D-fructose 6-phosphate exchange	0	0
+TAGURr	Tagaturonate reductase	1	0
+TALA	Transaldolase	1	0
+TARTDC	Tartrate decarboxylase	0	0
+TARTRDH	Tartrate dehydrogenase	1	0
+TARTRDH2	Tartrate dehydrogenase	1	0
+TAURabc	Taurine transport via ABC system	0	0
+TECA1S45	Glycerol teichoic acid  n45   unlinked  unsubstituted	0	0
+TECA2S45	Glycerol teichoic acid  n45   unlinked  D ala substituted	0	0
+TECA3S45	Glycerol teichoic acid  n45   unlinked  glucose substituted	0	0
+TECA4S_BS	Minor teichoic acid synthesis  n30 	0	0
+TEICH45	Teichuronic acid  n45   unlinked  GalNAc GlcA repeated	1	0
+TGBPA	Tagatose-bisphosphate aldolase	1	0
+THIOGabc	Thioglycolate transport via ABC system	0	0
+THMDt2	Thymidine transport in via proton symport	0	0
+THMt6	Thymine transport inout via proton symport	1	0
+THRD	L-threonine dehydrogenase	0	0
+THRD_L	L-threonine deaminase	0	0
+THRS	Threonine synthase	0	0
+THRt2r	L threonine reversible transport via proton symport	0	0
+TKT1	Transketolase	1	0
+TKT2	Transketolase	1	0
+TMDK1	Thymidine kinase (ATP:thymidine)	0	0
+TMDPP	Thymidine phosphorylase	1	0
+TMDS	Thymidylate synthase	0	0
+TMN	Thiaminase	0	0
+TMPHi	Trimetaphosphate hydrolase	0	0
+TMPK	Thiamine-phosphate kinase	0	0
+TMPPP	Thiamine-phosphate diphosphorylase	0	0
+TMPt6	TMP transport inout via proton symport	1	0
+TPI	Triose-phosphate isomerase	1	0
+TRDR	Thioredoxin reductase (NADPH)	0	0
+TRE6PH	Trehalose-6-phosphate hydrolase	0	0
+TREpts	Trehalose transport via PEP:Pyr PTS	0	0
+TRPAS1	Tryptophanase  L cysteine 	0	0
+TRPS1	Tryptophan synthase (indoleglycerol phosphate)	0	0
+TRPt2r	L tryptophan reversible transport via proton symport	0	0
+TYRTA	Tyrosine transaminase	1	0
+TYRt2r	L tyrosine reversible transport via proton symport	1	0
+UAAGDS	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelate synthetase	0	0
+UAG2E	UDP-N-acetylglucosamine 2-epimerase	1	0
+UAG2EMA	UDP-N-acetyl-D-glucosamine 2-epimerase (Hydrolysis)	1	0
+UAG4E	UDP N acetylglucosamine 4 epimerase	0	0
+UAGCVT	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	0	0
+UAGDP	UDP-N-acetylglucosamine diphosphorylase	1	0
+UAGPT3	UDP-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide)pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	0	0
+UAMAGS	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase	0	0
+UAMAS	UDP-N-acetylmuramoyl-L-alanine synthetase	0	0
+UAPGR	UDP-N-acetylenolpyruvoylglucosamine reductase	0	0
+UDCPDP	Undecaprenyl-diphosphatase	0	0
+UDPG4E	UDPglucose 4-epimerase	1	0
+UDPGD	UDPglucose 6-dehydrogenase	1	0
+UGLYCH	Ureidoglycolate hydrolase	1	0
+UGMDDS	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine synthetase	0	0
+UGT1_BS	UDP glucosyltransferase  monoglucosyl 	0	0
+UGT2_BS	UDP glucosyltransferase  triglucosyl 	0	0
+UGT_BS	UDP glucosyltransferase  diglucosyl 	0	0
+UMPt6	UMP transport in via proton symport	1	0
+UNK5	2 keto 4 methylthiobutyrate transamination	0	0
+UPP3MT_2	Uroporphyrinogen methyltransferase	0	0
+UPP3S	Uroporphyrinogen-III synthase	0	0
+UPPDC1	Uroporphyrinogen decarboxylase (uroporphyrinogen III)	0	0
+UPPRT	Uracil phosphoribosyltransferase	0	0
+URAt2	Uracil transport in via proton symport	1	0
+URCN	Urocanase	0	0
+UREA	Urease	0	0
+UREAt	Urea transport via facilitate diffusion	1	0
+URIC	Uricase	0	0
+UMPK	UMP kinase	0	0
+URIDK2r_copy1	Uridylate kinase (dUMP)	0	0
+URIDK2r_copy2	Uridylate kinase (dUMP)	1	0
+URIK1	Uridine kinase  ATPUridine 	0	0
+URIK2	Uridine kinase (GTP:Uridine)	0	0
+URIK3	Uridine kinase (ITP:Uridine)	0	0
+URIt2	Uridine transport in via proton symport	0	0
+VALDHr	Valine dehydrogenase	1	0
+VALTA	Valine transaminase	1	0
+VALt2r	L valine reversible transport via proton symport	0	0
+X00002	Lumped reaction for synthesis of pime	0	0
+HXAND	Hypoxanthine dehydrogenase	0	0
+XAND	Xanthine dehydrogenase	0	0
+XANt2	Xanthine transport in via proton symport	1	0
+XPPT	Xanthine phosphoribosyltransferase	0	0
+XTSNt2	Xanthosine transport in via proton symport	1	0
+XYL14BASE	Xylan 1 4 beta xylosidase	0	0
+XYLI1	Xylose isomerase	1	0
+XYLI2	Xylose isomerase	1	0
+XYLK	Xylulokinase	0	0
+XYLt2	D-xylose transport in via proton symport	0	0
+ZNabc	Zinc transport via ABC system	0	0
+ZN2t4	Zinc transport out via antiport	0	0
+BALAt2r	Beta Alanine transport in via proton symport	0	0
