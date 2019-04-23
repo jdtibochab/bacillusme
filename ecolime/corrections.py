@@ -9,8 +9,7 @@ import pandas as pd
 import cobrame
 
 # MetabolicReactions present in iOL1650 that have been removed for iJL1678b
-removed_reactions = ['ALPATG160pp1', 'ALPATE160pp1', 'ATPM',
-                     'CITLY-CPLX_2tpr3dpcoa', 'PFL_act']
+removed_reactions = []
 
 # PFL enzymes are activated by a glycyl radical group
 pfl_isozymes = ['PYRUVFORMLY-INACTIVE-CPLX',
@@ -224,29 +223,7 @@ def correct_rrna_modifications(mod):
 
 
 def correct_complex_stoichiometry(stoichiometry):
-    # add in missing entries
-    stoichiometry["CPLX0-7617"] = {"protein_b0156": 2}
-
-    # Complex Updated based on iJO1366 GPR
-    stoichiometry['EG11910-MONOMER_dimer_EG11911-MONOMER'] = \
-        {'EG11910-MONOMER_dimer': 1, 'EG11911-MONOMER': 1}
-
-    # should actually be a dimer PMID 24914049
-    stoichiometry.pop('YdaO_mono')
-    stoichiometry['YdaO_dim'] = {"protein_b1344": 2}
-
-    # Replaced by lipoprotein reactions from PMID:25227965
-    stoichiometry.pop('EG10544-MONOMER')
-
-    stoichiometry['ATPSYN-CPLX_EG10106-MONOMER'] = {'protein_b3731': 1.0,
-                                                    'protein_b3732': 3.0,
-                                                    'protein_b3733': 1.0,
-                                                    'protein_b3734': 3.0,
-                                                    'protein_b3735': 1.0,
-                                                    'protein_b3736': 2.0,
-                                                    'protein_b3737': 10.0,
-                                                    'protein_b3738': 1.0,
-                                                    'protein_b3739': 1.0}
+    # Corrections to subunit stoichiometry.
 
     return stoichiometry
 
