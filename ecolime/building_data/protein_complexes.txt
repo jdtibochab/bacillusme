@@ -1,189 +1,189 @@
-CPLX8J2-77	default_name	BSU02860(1) AND BSU02870(1) 	M_protein_recon
-CPLX8J2-91	default_name	BSU07120(1) AND BSU07110(1) AND BSU07100(1) 	M_protein_recon
-CPLX-7603	default_name	BSU31970(1) AND BSU31980(1) AND BSU31960(1) 	M_protein_recon
-CPLX8J2-101	default_name	BSU36840(1) AND BSU36830(1) AND BSU36820(1) AND BSU36810(1) AND BSU36800(1) AND BSU36870(1) AND BSU36860(1) AND BSU36850(1) 	M_protein_recon
-CPLX8J2-119	default_name	BSU34590(1) AND BSU34600(1) AND BSU34610(1) 	M_protein_recon
-CPLX8J2-14	default_name	BSU00060(1) AND BSU00070(1) 	M_protein_recon
-CPLX8J2-164	default_name	BSU03790(1) 	M_protein_recon
-CPLX8J2-179	default_name	BSU32110(1) 	M_protein_recon
-CPLX8J2-194	default_name	BSU26970(1) 	M_protein_recon
-CPLX8J2-32	default_name	BSU27730(1) AND BSU27740(1) 	M_protein_recon
-CPLX8J2-48	default_name	BSU26840(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1) 	M_protein_recon
-CPLX8J2-64	default_name	BSU35930(1) AND BSU35940(1) AND BSU35950(1) AND BSU35960(1) 	M_protein_recon
-CPLX8J2-8	default_name	BSU32470(1) AND BSU32480(1) AND BSU32490(1) 	M_protein_recon
-CPLX8J2-94	default_name	BSU33070(1) AND BSU33060(1) AND BSU33050(1) 	M_protein_recon
-CPLX-8351	default_name	BSU38300(1) 	M_protein_recon
-CPLX8J2-104	default_name	BSU16150(1) AND BSU16160(1) 	M_protein_recon
-CPLX8J2-122	default_name	BSU23270(1) 	M_protein_recon
-CPLX8J2-142	default_name	BSU07920(1) 	M_protein_recon
-CPLX8J2-145	default_name	BSU03890(1) 	M_protein_recon
-CPLX8J2-167	default_name	BSU00330(1) 	M_protein_recon
-CPLX8J2-181	default_name	BSU23070(1) 	M_protein_recon
-CPLX8J2-20	default_name	BSU33430(1) AND BSU33440(1) 	M_protein_recon
-CPLX8J2-36	default_name	BSU33230(1) AND BSU33222(1) 	M_protein_recon
-CPLX8J2-50	default_name	BSU01730(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1) 	M_protein_recon
-CPLX8J2-67	default_name	BSU29340(1) AND BSU29350(1) AND BSU29360(1) AND BSU29370(1) AND BSU29380(1) 	M_protein_recon
-CPLX8J2-82	default_name	BSU34690(1) AND BSU34700(1) 	M_protein_recon
-CPLX8J2-97	default_name	BSU35030(1) 	M_protein_recon
-CPLX-8648	default_name	BSU39760(1) 	M_protein_recon
-CPLX8J2-107	default_name	BSU35820(1) AND BSU35810(1) AND BSU35800(1) 	M_protein_recon
-CPLX8J2-125	default_name	BSU39540(1) 	M_protein_recon
-CPLX8J2-148	default_name	BSU35240(1) 	M_protein_recon
-CPLX8J2-17	default_name	BSU24550(1) AND BSU24560(1) 	M_protein_recon
-CPLX8J2-185	default_name	BSU04110(1) AND BSU04080(1) AND BSU04050(1) 	M_protein_recon
-CPLX8J2-23	default_name	BSU28300(1) AND BSU28310(1) 	M_protein_recon
-CPLX8J2-39	default_name	BSU16780(1) AND BSU14530(1) 	M_protein_recon
-CPLX8J2-53	default_name	BSU13450(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1) 	M_protein_recon
-CPLX8J2-70	default_name	BSU12930(1) AND BSU12940(1) AND BSU12950(1) AND BSU12960(1) 	M_protein_recon
-CPLX8J2-85	default_name	BSU36550(1) AND BSU24360(1) 	M_protein_recon
-CPLX-9083	default_name	BSU37670(1) 	M_protein_recon
-CPLX8J2-110	default_name	BSU08340(1) 	M_protein_recon
-CPLX8J2-128	default_name	BSU22460(1) 	M_protein_recon
-CPLX8J2-157	default_name	BSU35460(1) 	M_protein_recon
-CPLX8J2-172	default_name	BSU19540(1) 	M_protein_recon
-CPLX8J2-188	default_name	BSU12910(1) 	M_protein_recon
-CPLX8J2-26	default_name	BSU36800(1) AND BSU36810(1) AND BSU36820(1) AND BSU36830(1) AND BSU36840(1) 	M_protein_recon
-CPLX8J2-41	default_name	BSU13610(1) 	M_protein_recon
-CPLX8J2-56	default_name	BSU04730(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1) 	M_protein_recon
-CPLX8J2-73	default_name	BSU11360(1) AND BSU11370(1) AND BSU11390(1) AND BSU11400(1) 	M_protein_recon
-CPLX8J2-88	default_name	BSU11720(1) 	M_protein_recon
-CPLX-5322	default_name	BSU35740(1) 	M_protein_recon
-CPLX-9285	default_name	BSU37540(1) 	M_protein_recon
-CPLX8J2-113	default_name	BSU01610(1) AND BSU01620(1) AND BSU01630(1) 	M_protein_recon
-CPLX8J2-131	default_name	BSU00120(1) AND BSU00110(1) 	M_protein_recon
-CPLX8J2-16	default_name	BSU18440(1) AND BSU18450(1) 	M_protein_recon
-CPLX8J2-175	default_name	BSU10600(1) 	M_protein_recon
-CPLX8J2-190	default_name	BSU40960(1) 	M_protein_recon
-CPLX8J2-29	default_name	BSU00740(1) AND BSU00750(1) 	M_protein_recon
-CPLX8J2-44	default_name	BSU33222(1) AND BSU33230(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1) 	M_protein_recon
-CPLX8J2-59	default_name	BSU15330(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1) 	M_protein_recon
-CPLX8J2-76	default_name	BSU02980(1) AND BSU02990(1) AND BSU03000(1) 	M_protein_recon
-CPLX8J2-90	default_name	BSU05860(1) 	M_protein_recon
-CPLX-7602	default_name	BSU31970(1) 	M_protein_recon
-CPLX8J2-100	default_name	BSU05910(1) 	M_protein_recon
-CPLX8J2-118	default_name	BSU38570(1) AND BSU38580(1) AND BSU38590(1) 	M_protein_recon
-CPLX8J2-139	default_name	BSU00190(1) AND BSU00310(1) AND BSU25560(1) 	M_protein_recon
-CPLX8J2-163	default_name	BSU34540(1) AND BSU00860(1) 	M_protein_recon
-CPLX8J2-178	default_name	BSU04660(1) AND BSU04650(1) 	M_protein_recon
-CPLX8J2-193	default_name	BSU35370(1) 	M_protein_recon
-CPLX8J2-31	default_name	BSU30960(1) AND BSU30970(1) 	M_protein_recon
-CPLX8J2-47	default_name	BSU27120(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1) 	M_protein_recon
-CPLX8J2-61	default_name	BSU15320(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1) 	M_protein_recon
-CPLX8J2-79	default_name	BSU10620(1) AND BSU10630(1) 	M_protein_recon
-CPLX8J2-93	default_name	BSU33800(1) AND BSU33810(1) AND BSU33820(1) AND BSU33830(1) 	M_protein_recon
-CPLX-8225	default_name	BSU33240(1) 	M_protein_recon
-CPLX8J2-103	default_name	BSU28690(1) AND BSU28680(1) 	M_protein_recon
-CPLX8J2-120	default_name	BSU05830(1) AND BSU05820(1) AND BSU05810(1) 	M_protein_recon
-CPLX8J2-141	default_name	BSU38270(1) AND BSU38280(1) 	M_protein_recon
-CPLX8J2-166	default_name	BSU31090(1) 	M_protein_recon
-CPLX8J2-180	default_name	BSU19690(1) 	M_protein_recon
-CPLX8J2-2	default_name	BSU37250(1) AND BSU37270(1) AND BSU37280(1) 	M_protein_recon
-CPLX8J2-34	default_name	BSU38980(1) AND BSU38990(1) 	M_protein_recon
-CPLX8J2-5	default_name	BSU11230(1) AND BSU11240(1) 	M_protein_recon
-CPLX8J2-66	default_name	BSU30740(1) AND BSU30750(1) AND BSU30760(1) AND BSU30770(1) 	M_protein_recon
-CPLX8J2-81	default_name	BSU30370(1) AND BSU30380(1) 	M_protein_recon
-CPLX8J2-96	default_name	BSU13720(1) 	M_protein_recon
-CPLX-8354	default_name	BSU08790(1) 	M_protein_recon
-CPLX8J2-106	default_name	BSU03930(1) 	M_protein_recon
-CPLX8J2-124	default_name	BSU23270(1) AND BSU23250(1) 	M_protein_recon
-CPLX8J2-144	default_name	BSU10550(1) 	M_protein_recon
-CPLX8J2-147	default_name	BSU14190(1) 	M_protein_recon
-CPLX8J2-169	default_name	BSU13210(1) AND BSU13220(1) AND BSU13230(1) 	M_protein_recon
-CPLX8J2-184	default_name	BSU30240(1) 	M_protein_recon
-CPLX8J2-22	default_name	BSU14890(1) AND BSU14900(1) AND BSU14910(1) AND BSU14920(1) 	M_protein_recon
-CPLX8J2-38	default_name	BSU03830(1) AND BSU03820(1) AND BSU03810(1) AND BSU03800(1) 	M_protein_recon
-CPLX8J2-52	default_name	BSU25200(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1) 	M_protein_recon
-CPLX8J2-7	default_name	BSU16090(1) AND BSU16100(1) 	M_protein_recon
-CPLX8J2-84	default_name	BSU36550(1) 	M_protein_recon
-MONOMER8J2-6	default_name	BSU26390(1) AND BSU25760(1) 	M_protein_recon
-CPLX-8875	default_name	BSU13570(1) 	M_protein_recon
-CPLX8J2-11	default_name	BSU28630(1) AND BSU28640(1) 	M_protein_recon
-CPLX8J2-127	default_name	BSU29530(1) 	M_protein_recon
-CPLX8J2-156	default_name	BSU00290(1) 	M_protein_recon
-CPLX8J2-171	default_name	BSU35080(1) 	M_protein_recon
-CPLX8J2-187	default_name	BSU23800(1) 	M_protein_recon
-CPLX8J2-25	default_name	BSU36850(1) AND BSU36860(1) AND BSU36870(1) 	M_protein_recon
-CPLX8J2-40	default_name	BSU03130(1) 	M_protein_recon
-CPLX8J2-55	default_name	BSU00980(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1) 	M_protein_recon
-CPLX8J2-72	default_name	BSU11430(1) AND BSU11440(1) AND BSU11450(1) AND BSU11460(1) AND BSU11470(1) 	M_protein_recon
-CPLX8J2-87	default_name	BSU03290(1) AND BSU03300(1) 	M_protein_recon
-CPLX-9195	default_name	BSU07630(1) 	M_protein_recon
-CPLX8J2-112	default_name	BSU39990(1) 	M_protein_recon
-CPLX8J2-130	default_name	BSU14370(1) AND BSU14360(1) AND BSU14350(1) AND BSU14340(1) 	M_protein_recon
-CPLX8J2-159	default_name	BSU08330(1) AND BSU08320(1) AND BSU08310(1) 	M_protein_recon
-CPLX8J2-174	default_name	BSU16170(1) 	M_protein_recon
-CPLX8J2-19	default_name	BSU22630(1) AND BSU22640(1) 	M_protein_recon
-CPLX8J2-28	default_name	BSU36640(1) AND BSU36650(1) AND BSU36660(1) 	M_protein_recon
-CPLX8J2-43	default_name	BSU38140(1) AND BSU38150(1) AND BSU38160(1) AND BSU38170(1) 	M_protein_recon
-CPLX8J2-58	default_name	BSU23450(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1) 	M_protein_recon
-CPLX8J2-75	default_name	BSU07490(1) AND BSU07500(1) AND BSU07510(1) AND BSU07520(1) 	M_protein_recon
-CPLX8J2-9	default_name	BSU17380(1) AND BSU17390(1) 	M_protein_recon
-CPLX-7601	default_name	BSU31970(1) 	M_protein_recon
-CPLX8J2-10	default_name	BSU20040(1) AND BSU20060(1) 	M_protein_recon
-CPLX8J2-117	default_name	BSU27040(1) AND BSU27050(1) AND BSU27060(1) AND BSU27070(1) 	M_protein_recon
-CPLX8J2-133	default_name	BSU24870(1) 	M_protein_recon
-CPLX8J2-162	default_name	BSU34540(1) AND BSU28220(1) 	M_protein_recon
-CPLX8J2-177	default_name	BSU04660(1) 	M_protein_recon
-CPLX8J2-192	default_name	BSU15120(1) 	M_protein_recon
-CPLX8J2-30	default_name	BSU01070(1) AND BSU01080(1) AND BSU01430(1) AND BSU37160(1) AND BSU15690(1) AND BSU14540(1) 	M_protein_recon
-CPLX8J2-46	default_name	BSU38700(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1) 	M_protein_recon
-CPLX8J2-60	default_name	BSU25760(1) AND BSU26390(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1) 	M_protein_recon
-CPLX8J2-78	default_name	BSU02750(1) AND BSU02760(1) 	M_protein_recon
-CPLX8J2-92	default_name	BSU06990(1) AND BSU06980(1) AND BSU06970(1) 	M_protein_recon
-CPLX-7604	default_name	BSU31980(1) 	M_protein_recon
-CPLX8J2-102	default_name	BSU38750(1) AND BSU38760(1) 	M_protein_recon
-CPLX8J2-12	default_name	BSU25260(1) AND BSU25270(1) 	M_protein_recon
-CPLX8J2-140	default_name	BSU31100(1) 	M_protein_recon
-CPLX8J2-165	default_name	BSU31100(1) AND BSU31090(1) 	M_protein_recon
-CPLX8J2-18	default_name	BSU15850(1) AND BSU15860(1) 	M_protein_recon
-CPLX8J2-195	default_name	BSU23850(1) 	M_protein_recon
-CPLX8J2-33	default_name	BSU24290(1) AND BSU24300(1) 	M_protein_recon
-CPLX8J2-49	default_name	BSU23100(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1) 	M_protein_recon
-CPLX8J2-65	default_name	BSU33700(1) AND BSU33710(1) AND BSU33720(1) AND BSU33730(1) 	M_protein_recon
-CPLX8J2-80	default_name	BSU16740(1) AND BSU16730(1) 	M_protein_recon
-CPLX8J2-95	default_name	BSU05970(1) 	M_protein_recon
-CPLX-8352	default_name	BSU11670(1) 	M_protein_recon
-CPLX8J2-105	default_name	BSU15530(1) AND BSU15540(1) 	M_protein_recon
-CPLX8J2-123	default_name	BSU23250(1) 	M_protein_recon
-CPLX8J2-143	default_name	BSU28720(1) 	M_protein_recon
-CPLX8J2-146	default_name	BSU17460(1) 	M_protein_recon
-CPLX8J2-168	default_name	BSU32690(1) 	M_protein_recon
-CPLX8J2-182	default_name	BSU34540(1) AND BSU13700(1) 	M_protein_recon
-CPLX8J2-21	default_name	BSU28250(1) AND BSU28260(1) 	M_protein_recon
-CPLX8J2-37	default_name	BSU09720(1) AND BSU09710(1) 	M_protein_recon
-CPLX8J2-51	default_name	BSU14730(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1) 	M_protein_recon
-CPLX8J2-68	default_name	BSU27430(1) AND BSU27440(1) AND BSU27450(1) AND BSU27460(1) 	M_protein_recon
-CPLX8J2-83	default_name	BSU24360(1) 	M_protein_recon
-CPLX8J2-98	default_name	BSU27520(1) 	M_protein_recon
-CPLX-8649	default_name	BSU39700(1) 	M_protein_recon
-CPLX8J2-108	default_name	BSU03710(1) AND BSU03720(1) AND BSU03700(1) 	M_protein_recon
-CPLX8J2-126	default_name	BSU37110(1) 	M_protein_recon
-CPLX8J2-15	default_name	BSU28430(1) AND BSU28440(1) AND BSU28450(1) 	M_protein_recon
-CPLX8J2-170	default_name	BSU00320(1) AND BSU14990(1) AND BSU17020(1) 	M_protein_recon
-CPLX8J2-186	default_name	BSU18480(1) 	M_protein_recon
-CPLX8J2-24	default_name	BSU06020(1) AND BSU06030(1) 	M_protein_recon
-CPLX8J2-4	default_name	BSU06670(1) AND BSU06680(1) AND BSU06690(1) 	M_protein_recon
-CPLX8J2-54	default_name	BSU16470(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1) 	M_protein_recon
-CPLX8J2-71	default_name	BSU24950(1) AND BSU24960(1) AND BSU24970(1) AND BSU24980(1) AND BSU24990(1) 	M_protein_recon
-CPLX8J2-86	default_name	BSU03310(1) AND BSU03320(1) 	M_protein_recon
-CPLX-9084	default_name	BSU10120(1) 	M_protein_recon
-CPLX8J2-111	default_name	BSU24610(1) 	M_protein_recon
-CPLX8J2-13	default_name	BSU14580(1) AND BSU14590(1) 	M_protein_recon
-CPLX8J2-158	default_name	BSU31660(1) AND BSU31650(1) AND BSU31640(1) AND BSU31630(1) AND BSU31620(1) AND BSU31610(1) AND BSU31600(1) 	M_protein_recon
-CPLX8J2-173	default_name	BSU25100(1) 	M_protein_recon
-CPLX8J2-189	default_name	BSU28900(1) AND BSU28910(1) 	M_protein_recon
-CPLX8J2-27	default_name	BSU22740(1) AND BSU22760(1) 	M_protein_recon
-CPLX8J2-42	default_name	BSU22540(1) AND BSU22550(1) AND BSU22560(1) 	M_protein_recon
-CPLX8J2-57	default_name	BSU34200(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1) 	M_protein_recon
-CPLX8J2-74	default_name	BSU08830(1) AND BSU08840(1) AND BSU08850(1) 	M_protein_recon
-CPLX8J2-89	default_name	BSU08650(1) 	M_protein_recon
-CPLX-7445	default_name	BSU13590(1) 	M_protein_recon
-CPLX8J2-1	default_name	BSU08060(1) AND BSU08070(1) 	M_protein_recon
-CPLX8J2-116	default_name	BSU03982(1) AND BSU03981(1) 	M_protein_recon
-CPLX8J2-132	default_name	BSU13750(1) 	M_protein_recon
-CPLX8J2-161	default_name	BSU35700(1) AND BSU35710(1) 	M_protein_recon
-CPLX8J2-176	default_name	BSU17680(1) 	M_protein_recon
-CPLX8J2-191	default_name	BSU08390(1) 	M_protein_recon
-CPLX8J2-3	default_name	BSU29200(1) AND BSU29210(1) 	M_protein_recon
-CPLX8J2-45	default_name	BSU09520(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1) 	M_protein_recon
-CPLX8J2-6	default_name	BSU15510(1) AND BSU15520(1) 	M_protein_recon
+CPLX8J2-77	default_name	BSU02860(1) AND BSU02870(1)	M_protein_recon
+CPLX8J2-91	default_name	BSU07120(1) AND BSU07110(1) AND BSU07100(1)	M_protein_recon
+CPLX-7603	default_name	BSU31970(1) AND BSU31980(1) AND BSU31960(1)	M_protein_recon
+CPLX8J2-101	default_name	BSU36840(1) AND BSU36830(1) AND BSU36820(1) AND BSU36810(1) AND BSU36800(1) AND BSU36870(1) AND BSU36860(1) AND BSU36850(1)	M_protein_recon
+CPLX8J2-119	default_name	BSU34590(1) AND BSU34600(1) AND BSU34610(1)	M_protein_recon
+CPLX8J2-14	default_name	BSU00060(1) AND BSU00070(1)	M_protein_recon
+CPLX8J2-164	default_name	BSU03790(1)	M_protein_recon
+CPLX8J2-179	default_name	BSU32110(1)	M_protein_recon
+CPLX8J2-194	default_name	BSU26970(1)	M_protein_recon
+CPLX8J2-32	default_name	BSU27730(1) AND BSU27740(1)	M_protein_recon
+CPLX8J2-48	default_name	BSU26840(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1)	M_protein_recon
+CPLX8J2-64	default_name	BSU35930(1) AND BSU35940(1) AND BSU35950(1) AND BSU35960(1)	M_protein_recon
+CPLX8J2-8	default_name	BSU32470(1) AND BSU32480(1) AND BSU32490(1)	M_protein_recon
+CPLX8J2-94	default_name	BSU33070(1) AND BSU33060(1) AND BSU33050(1)	M_protein_recon
+CPLX-8351	default_name	BSU38300(1)	M_protein_recon
+CPLX8J2-104	default_name	BSU16150(1) AND BSU16160(1)	M_protein_recon
+CPLX8J2-122	default_name	BSU23270(1)	M_protein_recon
+CPLX8J2-142	default_name	BSU07920(1)	M_protein_recon
+CPLX8J2-145	default_name	BSU03890(1)	M_protein_recon
+CPLX8J2-167	default_name	BSU00330(1)	M_protein_recon
+CPLX8J2-181	default_name	BSU23070(1)	M_protein_recon
+CPLX8J2-20	default_name	BSU33430(1) AND BSU33440(1)	M_protein_recon
+CPLX8J2-36	default_name	BSU33230(1) AND BSU33222(1)	M_protein_recon
+CPLX8J2-50	default_name	BSU01730(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1)	M_protein_recon
+CPLX8J2-67	default_name	BSU29340(1) AND BSU29350(1) AND BSU29360(1) AND BSU29370(1) AND BSU29380(1)	M_protein_recon
+CPLX8J2-82	default_name	BSU34690(1) AND BSU34700(1)	M_protein_recon
+CPLX8J2-97	default_name	BSU35030(1)	M_protein_recon
+CPLX-8648	default_name	BSU39760(1)	M_protein_recon
+CPLX8J2-107	default_name	BSU35820(1) AND BSU35810(1) AND BSU35800(1)	M_protein_recon
+CPLX8J2-125	default_name	BSU39540(1)	M_protein_recon
+CPLX8J2-148	default_name	BSU35240(1)	M_protein_recon
+CPLX8J2-17	default_name	BSU24550(1) AND BSU24560(1)	M_protein_recon
+CPLX8J2-185	default_name	BSU04110(1) AND BSU04080(1) AND BSU04050(1)	M_protein_recon
+CPLX8J2-23	default_name	BSU28300(1) AND BSU28310(1)	M_protein_recon
+CPLX8J2-39	default_name	BSU16780(1) AND BSU14530(1)	M_protein_recon
+CPLX8J2-53	default_name	BSU13450(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1)	M_protein_recon
+CPLX8J2-70	default_name	BSU12930(1) AND BSU12940(1) AND BSU12950(1) AND BSU12960(1)	M_protein_recon
+CPLX8J2-85	default_name	BSU36550(1) AND BSU24360(1)	M_protein_recon
+CPLX-9083	default_name	BSU37670(1)	M_protein_recon
+CPLX8J2-110	default_name	BSU08340(1)	M_protein_recon
+CPLX8J2-128	default_name	BSU22460(1)	M_protein_recon
+CPLX8J2-157	default_name	BSU35460(1)	M_protein_recon
+CPLX8J2-172	default_name	BSU19540(1)	M_protein_recon
+CPLX8J2-188	default_name	BSU12910(1)	M_protein_recon
+CPLX8J2-26	default_name	BSU36800(1) AND BSU36810(1) AND BSU36820(1) AND BSU36830(1) AND BSU36840(1)	M_protein_recon
+CPLX8J2-41	default_name	BSU13610(1)	M_protein_recon
+CPLX8J2-56	default_name	BSU04730(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1)	M_protein_recon
+CPLX8J2-73	default_name	BSU11360(1) AND BSU11370(1) AND BSU11390(1) AND BSU11400(1)	M_protein_recon
+CPLX8J2-88	default_name	BSU11720(1)	M_protein_recon
+CPLX-5322	default_name	BSU35740(1)	M_protein_recon
+CPLX-9285	default_name	BSU37540(1)	M_protein_recon
+CPLX8J2-113	default_name	BSU01610(1) AND BSU01620(1) AND BSU01630(1)	M_protein_recon
+CPLX8J2-131	default_name	BSU00120(1) AND BSU00110(1)	M_protein_recon
+CPLX8J2-16	default_name	BSU18440(1) AND BSU18450(1)	M_protein_recon
+CPLX8J2-175	default_name	BSU10600(1)	M_protein_recon
+CPLX8J2-190	default_name	BSU40960(1)	M_protein_recon
+CPLX8J2-29	default_name	BSU00740(1) AND BSU00750(1)	M_protein_recon
+CPLX8J2-44	default_name	BSU33222(1) AND BSU33230(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1)	M_protein_recon
+CPLX8J2-59	default_name	BSU15330(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1)	M_protein_recon
+CPLX8J2-76	default_name	BSU02980(1) AND BSU02990(1) AND BSU03000(1)	M_protein_recon
+CPLX8J2-90	default_name	BSU05860(1)	M_protein_recon
+CPLX-7602	default_name	BSU31970(1)	M_protein_recon
+CPLX8J2-100	default_name	BSU05910(1)	M_protein_recon
+CPLX8J2-118	default_name	BSU38570(1) AND BSU38580(1) AND BSU38590(1)	M_protein_recon
+CPLX8J2-139	default_name	BSU00190(1) AND BSU00310(1) AND BSU25560(1)	M_protein_recon
+CPLX8J2-163	default_name	BSU34540(1) AND BSU00860(1)	M_protein_recon
+CPLX8J2-178	default_name	BSU04660(1) AND BSU04650(1)	M_protein_recon
+CPLX8J2-193	default_name	BSU35370(1)	M_protein_recon
+CPLX8J2-31	default_name	BSU30960(1) AND BSU30970(1)	M_protein_recon
+CPLX8J2-47	default_name	BSU27120(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1)	M_protein_recon
+CPLX8J2-61	default_name	BSU15320(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1)	M_protein_recon
+CPLX8J2-79	default_name	BSU10620(1) AND BSU10630(1)	M_protein_recon
+CPLX8J2-93	default_name	BSU33800(1) AND BSU33810(1) AND BSU33820(1) AND BSU33830(1)	M_protein_recon
+CPLX-8225	default_name	BSU33240(1)	M_protein_recon
+CPLX8J2-103	default_name	BSU28690(1) AND BSU28680(1)	M_protein_recon
+CPLX8J2-120	default_name	BSU05830(1) AND BSU05820(1) AND BSU05810(1)	M_protein_recon
+CPLX8J2-141	default_name	BSU38270(1) AND BSU38280(1)	M_protein_recon
+CPLX8J2-166	default_name	BSU31090(1)	M_protein_recon
+CPLX8J2-180	default_name	BSU19690(1)	M_protein_recon
+CPLX8J2-2	default_name	BSU37250(1) AND BSU37270(1) AND BSU37280(1)	M_protein_recon
+CPLX8J2-34	default_name	BSU38980(1) AND BSU38990(1)	M_protein_recon
+CPLX8J2-5	default_name	BSU11230(1) AND BSU11240(1)	M_protein_recon
+CPLX8J2-66	default_name	BSU30740(1) AND BSU30750(1) AND BSU30760(1) AND BSU30770(1)	M_protein_recon
+CPLX8J2-81	default_name	BSU30370(1) AND BSU30380(1)	M_protein_recon
+CPLX8J2-96	default_name	BSU13720(1)	M_protein_recon
+CPLX-8354	default_name	BSU08790(1)	M_protein_recon
+CPLX8J2-106	default_name	BSU03930(1)	M_protein_recon
+CPLX8J2-124	default_name	BSU23270(1) AND BSU23250(1)	M_protein_recon
+CPLX8J2-144	default_name	BSU10550(1)	M_protein_recon
+CPLX8J2-147	default_name	BSU14190(1)	M_protein_recon
+CPLX8J2-169	default_name	BSU13210(1) AND BSU13220(1) AND BSU13230(1)	M_protein_recon
+CPLX8J2-184	default_name	BSU30240(1)	M_protein_recon
+CPLX8J2-22	default_name	BSU14890(1) AND BSU14900(1) AND BSU14910(1) AND BSU14920(1)	M_protein_recon
+CPLX8J2-38	default_name	BSU03830(1) AND BSU03820(1) AND BSU03810(1) AND BSU03800(1)	M_protein_recon
+CPLX8J2-52	default_name	BSU25200(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1)	M_protein_recon
+CPLX8J2-7	default_name	BSU16090(1) AND BSU16100(1)	M_protein_recon
+CPLX8J2-84	default_name	BSU36550(1)	M_protein_recon
+MONOMER8J2-6	default_name	BSU26390(1) AND BSU25760(1)	M_protein_recon
+CPLX-8875	default_name	BSU13570(1)	M_protein_recon
+CPLX8J2-11	default_name	BSU28630(1) AND BSU28640(1)	M_protein_recon
+CPLX8J2-127	default_name	BSU29530(1)	M_protein_recon
+CPLX8J2-156	default_name	BSU00290(1)	M_protein_recon
+CPLX8J2-171	default_name	BSU35080(1)	M_protein_recon
+CPLX8J2-187	default_name	BSU23800(1)	M_protein_recon
+CPLX8J2-25	default_name	BSU36850(1) AND BSU36860(1) AND BSU36870(1)	M_protein_recon
+CPLX8J2-40	default_name	BSU03130(1)	M_protein_recon
+CPLX8J2-55	default_name	BSU00980(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1)	M_protein_recon
+CPLX8J2-72	default_name	BSU11430(1) AND BSU11440(1) AND BSU11450(1) AND BSU11460(1) AND BSU11470(1)	M_protein_recon
+CPLX8J2-87	default_name	BSU03290(1) AND BSU03300(1)	M_protein_recon
+CPLX-9195	default_name	BSU07630(1)	M_protein_recon
+CPLX8J2-112	default_name	BSU39990(1)	M_protein_recon
+CPLX8J2-130	default_name	BSU14370(1) AND BSU14360(1) AND BSU14350(1) AND BSU14340(1)	M_protein_recon
+CPLX8J2-159	default_name	BSU08330(1) AND BSU08320(1) AND BSU08310(1)	M_protein_recon
+CPLX8J2-174	default_name	BSU16170(1)	M_protein_recon
+CPLX8J2-19	default_name	BSU22630(1) AND BSU22640(1)	M_protein_recon
+CPLX8J2-28	default_name	BSU36640(1) AND BSU36650(1) AND BSU36660(1)	M_protein_recon
+CPLX8J2-43	default_name	BSU38140(1) AND BSU38150(1) AND BSU38160(1) AND BSU38170(1)	M_protein_recon
+CPLX8J2-58	default_name	BSU23450(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1)	M_protein_recon
+CPLX8J2-75	default_name	BSU07490(1) AND BSU07500(1) AND BSU07510(1) AND BSU07520(1)	M_protein_recon
+CPLX8J2-9	default_name	BSU17380(1) AND BSU17390(1)	M_protein_recon
+CPLX-7601	default_name	BSU31970(1)	M_protein_recon
+CPLX8J2-10	default_name	BSU20040(1) AND BSU20060(1)	M_protein_recon
+CPLX8J2-117	default_name	BSU27040(1) AND BSU27050(1) AND BSU27060(1) AND BSU27070(1)	M_protein_recon
+CPLX8J2-133	default_name	BSU24870(1)	M_protein_recon
+CPLX8J2-162	default_name	BSU34540(1) AND BSU28220(1)	M_protein_recon
+CPLX8J2-177	default_name	BSU04660(1)	M_protein_recon
+CPLX8J2-192	default_name	BSU15120(1)	M_protein_recon
+CPLX8J2-30	default_name	BSU01070(1) AND BSU01080(1) AND BSU01430(1) AND BSU37160(1) AND BSU15690(1) AND BSU14540(1)	M_protein_recon
+CPLX8J2-46	default_name	BSU38700(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1)	M_protein_recon
+CPLX8J2-60	default_name	BSU25760(1) AND BSU26390(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1)	M_protein_recon
+CPLX8J2-78	default_name	BSU02750(1) AND BSU02760(1)	M_protein_recon
+CPLX8J2-92	default_name	BSU06990(1) AND BSU06980(1) AND BSU06970(1)	M_protein_recon
+CPLX-7604	default_name	BSU31980(1)	M_protein_recon
+CPLX8J2-102	default_name	BSU38750(1) AND BSU38760(1)	M_protein_recon
+CPLX8J2-12	default_name	BSU25260(1) AND BSU25270(1)	M_protein_recon
+CPLX8J2-140	default_name	BSU31100(1)	M_protein_recon
+CPLX8J2-165	default_name	BSU31100(1) AND BSU31090(1)	M_protein_recon
+CPLX8J2-18	default_name	BSU15850(1) AND BSU15860(1)	M_protein_recon
+CPLX8J2-195	default_name	BSU23850(1)	M_protein_recon
+CPLX8J2-33	default_name	BSU24290(1) AND BSU24300(1)	M_protein_recon
+CPLX8J2-49	default_name	BSU23100(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1)	M_protein_recon
+CPLX8J2-65	default_name	BSU33700(1) AND BSU33710(1) AND BSU33720(1) AND BSU33730(1)	M_protein_recon
+CPLX8J2-80	default_name	BSU16740(1) AND BSU16730(1)	M_protein_recon
+CPLX8J2-95	default_name	BSU05970(1)	M_protein_recon
+CPLX-8352	default_name	BSU11670(1)	M_protein_recon
+CPLX8J2-105	default_name	BSU15530(1) AND BSU15540(1)	M_protein_recon
+CPLX8J2-123	default_name	BSU23250(1)	M_protein_recon
+CPLX8J2-143	default_name	BSU28720(1)	M_protein_recon
+CPLX8J2-146	default_name	BSU17460(1)	M_protein_recon
+CPLX8J2-168	default_name	BSU32690(1)	M_protein_recon
+CPLX8J2-182	default_name	BSU34540(1) AND BSU13700(1)	M_protein_recon
+CPLX8J2-21	default_name	BSU28250(1) AND BSU28260(1)	M_protein_recon
+CPLX8J2-37	default_name	BSU09720(1) AND BSU09710(1)	M_protein_recon
+CPLX8J2-51	default_name	BSU14730(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1)	M_protein_recon
+CPLX8J2-68	default_name	BSU27430(1) AND BSU27440(1) AND BSU27450(1) AND BSU27460(1)	M_protein_recon
+CPLX8J2-83	default_name	BSU24360(1)	M_protein_recon
+CPLX8J2-98	default_name	BSU27520(1)	M_protein_recon
+CPLX-8649	default_name	BSU39700(1)	M_protein_recon
+CPLX8J2-108	default_name	BSU03710(1) AND BSU03720(1) AND BSU03700(1)	M_protein_recon
+CPLX8J2-126	default_name	BSU37110(1)	M_protein_recon
+CPLX8J2-15	default_name	BSU28430(1) AND BSU28440(1) AND BSU28450(1)	M_protein_recon
+CPLX8J2-170	default_name	BSU00320(1) AND BSU14990(1) AND BSU17020(1)	M_protein_recon
+CPLX8J2-186	default_name	BSU18480(1)	M_protein_recon
+CPLX8J2-24	default_name	BSU06020(1) AND BSU06030(1)	M_protein_recon
+CPLX8J2-4	default_name	BSU06670(1) AND BSU06680(1) AND BSU06690(1)	M_protein_recon
+CPLX8J2-54	default_name	BSU16470(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1)	M_protein_recon
+CPLX8J2-71	default_name	BSU24950(1) AND BSU24960(1) AND BSU24970(1) AND BSU24980(1) AND BSU24990(1)	M_protein_recon
+CPLX8J2-86	default_name	BSU03310(1) AND BSU03320(1)	M_protein_recon
+CPLX-9084	default_name	BSU10120(1)	M_protein_recon
+CPLX8J2-111	default_name	BSU24610(1)	M_protein_recon
+CPLX8J2-13	default_name	BSU14580(1) AND BSU14590(1)	M_protein_recon
+CPLX8J2-158	default_name	BSU31660(1) AND BSU31650(1) AND BSU31640(1) AND BSU31630(1) AND BSU31620(1) AND BSU31610(1) AND BSU31600(1)	M_protein_recon
+CPLX8J2-173	default_name	BSU25100(1)	M_protein_recon
+CPLX8J2-189	default_name	BSU28900(1) AND BSU28910(1)	M_protein_recon
+CPLX8J2-27	default_name	BSU22740(1) AND BSU22760(1)	M_protein_recon
+CPLX8J2-42	default_name	BSU22540(1) AND BSU22550(1) AND BSU22560(1)	M_protein_recon
+CPLX8J2-57	default_name	BSU34200(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1)	M_protein_recon
+CPLX8J2-74	default_name	BSU08830(1) AND BSU08840(1) AND BSU08850(1)	M_protein_recon
+CPLX8J2-89	default_name	BSU08650(1)	M_protein_recon
+CPLX-7445	default_name	BSU13590(1)	M_protein_recon
+CPLX8J2-1	default_name	BSU08060(1) AND BSU08070(1)	M_protein_recon
+CPLX8J2-116	default_name	BSU03982(1) AND BSU03981(1)	M_protein_recon
+CPLX8J2-132	default_name	BSU13750(1)	M_protein_recon
+CPLX8J2-161	default_name	BSU35700(1) AND BSU35710(1)	M_protein_recon
+CPLX8J2-176	default_name	BSU17680(1)	M_protein_recon
+CPLX8J2-191	default_name	BSU08390(1)	M_protein_recon
+CPLX8J2-3	default_name	BSU29200(1) AND BSU29210(1)	M_protein_recon
+CPLX8J2-45	default_name	BSU09520(1) AND BSU14540(1) AND BSU15690(1) AND BSU37160(1) AND BSU01430(1) AND BSU01080(1) AND BSU01070(1)	M_protein_recon
+CPLX8J2-6	default_name	BSU15510(1) AND BSU15520(1)	M_protein_recon
