@@ -65,6 +65,9 @@ def get_complex_subunit_stoichiometry(complex_stoichiometry_file,
 
             bnum, num = bnums.rstrip(')').split('(')
 
+            ## Sometimes it returned num = '1)'
+            num = num[0]
+
             stoichiometry = float(num) if not num == '' else 1.
 
             prefix = 'protein_' if bnum not in rna_components else 'RNA_'

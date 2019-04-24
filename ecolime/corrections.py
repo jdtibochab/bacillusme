@@ -105,16 +105,16 @@ def correct_tu_dataframe(df):
     """
     RpoH sigma factor should not be used to transcribed stable RNA.
     """
-    incorrect_sigma_32 = ["TU0_3463_from_RPOH_MONOMER",
-                          "TU0_1181_from_RPOH_MONOMER",
-                          "TU0_1182_with_TERM0_1116_from_RPOH_MONOMER",
-                          "TU0_1182_with_TERM0_1115_from_RPOH_MONOMER",
-                          "TU0_1183_with_TERM0_1117_from_RPOH_MONOMER",
-                          "TU0_1186_from_RPOH_MONOMER",
-                          "TU0_1187_from_RPOH_MONOMER",
-                          "TU0_1189_from_RPOH_MONOMER",
-                          "TU0_1191_from_RPOH_MONOMER"]
-    df.drop(incorrect_sigma_32, inplace=True)
+    #incorrect_sigma_32 = ["TU0_3463_from_RPOH_MONOMER",
+    #                      "TU0_1181_from_RPOH_MONOMER",
+    #                      "TU0_1182_with_TERM0_1116_from_RPOH_MONOMER",
+    #                      "TU0_1182_with_TERM0_1115_from_RPOH_MONOMER",
+    #                      "TU0_1183_with_TERM0_1117_from_RPOH_MONOMER",
+    #                      "TU0_1186_from_RPOH_MONOMER",
+    #                      "TU0_1187_from_RPOH_MONOMER",
+    #                      "TU0_1189_from_RPOH_MONOMER",
+    #                      "TU0_1191_from_RPOH_MONOMER"]
+    #df.drop(incorrect_sigma_32, inplace=True)
 
     return df
 
