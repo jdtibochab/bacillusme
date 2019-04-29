@@ -65,28 +65,11 @@ def correct_complex_modifications(model):
 
 
 def correct_reaction_matrix(reaction_matrix_dict):
-    for r in removed_reactions:
-        reaction_matrix_dict.pop(r)
 
-    # Per 10510271, reaction to reduce CU(II) to CU(I)
-    reaction_matrix_dict['CU2R'] = {'cu2_c': -1, 'cu_c': 1, 'nadh_c': -1,
-                                    'nad_c': 1, 'h_c': 1}
     return reaction_matrix_dict
 
 
 def correct_reaction_info_frame(df):
-    for r in removed_reactions:
-        df = df.drop(r)
-
-    # These reactions are irreversible and are highly active if not corrected
-    df.loc['PPKr', 'is_reversible'] = 0
-    df.loc['PPK2r', 'is_reversible'] = 0
-
-    # Per 10510271, reaction to reduce CU(II) to CU(I)
-    df = df.append(pd.Series({'description': 'CU2 Reduction',
-                              'is_reversible': 0, 'is_spontaneous': 0},
-                             name='CU2R'))
-
     return df
 
 
@@ -135,7 +118,7 @@ def correct_enzyme_reaction_association_frame(df):
             lambda x: x.replace(cplx, cplx + '_mod_glycyl'))
 
     # Per 10510271, reaction to reduce CU(II) to CU(I)
-    df.loc['CU2R', 'Complexes'] = 'NADH-DHII-MONOMER_mod_mg2_mod_cu_mod_fad'
+    # df.loc['CU2R', 'Complexes'] = 'NADH-DHII-MONOMER_mod_mg2_mod_cu_mod_fad'
 
     # replaced enzymes with correctly modified enzymes (corrected below)
     df = df.applymap(
@@ -229,44 +212,6 @@ def correct_complex_stoichiometry(stoichiometry):
 
 
 def correct_complex_modification_dict(stoichiometry):
-    # specific patches. Not used in iOL1650 but included as a complex in
-    # protein_modification.txt
-    for i in ['CPLX0-246_CPLX0-1342_mod_1:SH',
-              'EG10544-MONOMER_mod_palmitate', 'EG11597-MONOMER_mod_coo']:
-        stoichiometry.pop(i)
-
-    stoichiometry['CPLX0-246_CPLX0-1342_mod_pydx5p'] = {'core_enzyme':
-                                                        'CPLX0-246_CPLX0-1342',
-                                                        'modifications': {
-                                                           'pydx5p_c': 1}}
-    stoichiometry["IscS_mod_2:pydx5p"] = {"core_enzyme": "IscS",
-                                          "modifications": {"pydx5p_c": 2}}
-    stoichiometry["YdaO_dim_mod_4fe4s"] = {"core_enzyme": "YdaO_dim",
-                                           "modifications": {"4fe4s_c": 1}}
-
-    # new complex for ATP synthase complex with atpI subunit
-    stoichiometry['ATPSYN-CPLX_EG10106-MONOMER_mod_mg2'] = \
-        {'core_enzyme': 'ATPSYN-CPLX_EG10106-MONOMER',
-         'modifications': {'mg2_c': 1.}}
-
-    stoichiometry['QueG_mono_mod_2:4fe4s'] = {'core_enzyme': 'QueG_mono',
-                                              'modifications': {'4fe4s_c': 2.}}
-
-    for cplx in pfl_isozymes:
-        stoichiometry[cplx + '_mod_glycyl'] = {'core_enzyme': cplx,
-                                               "modifications": {'glycyl_c':
-                                                                 1}}
-
-    # ADCLY has pydx5p modification per PMID: 1644759
-    stoichiometry.pop('ADCLY-CPLX_mod_pydx')
-    stoichiometry['ADCLY-CPLX_mod_pydx5p'] = {'core_enzyme': 'ADCLY-CPLX',
-                                              'modifications':
-                                                  {'pydx5p_c': 1.0}}
-
-    # CYT-O-UBIOX also has hemeO coenzyme per PMID: 1850294
-    stoichiometry.pop('CYT-O-UBIOX-CPLX_mod_pheme_mod_cu2')
-    stoichiometry['CYT-O-UBIOX-CPLX_mod_pheme_mod_hemeO_mod_cu2'] = \
-        {'core_enzyme': 'CYT-O-UBIOX-CPLX',
-         'modifications': {'pheme_c': 1.0, 'hemeO_c': 1.0, 'cu2_c': 1.0}}
+    # specific patches.
 
     return stoichiometry

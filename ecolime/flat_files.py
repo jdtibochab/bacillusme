@@ -106,7 +106,7 @@ def get_complex_modifications(complex_modification_file, protein_complex_file):
     # don't ignore these. They are included in the reaction matrix but still
     # must be formed via a complex formation reaction
     # TODO look into this list closer
-    ignored_complexes.remove('CPLX0-782_mod_2:4fe4s')
+    # ignored_complexes.remove('CPLX0-782_mod_2:4fe4s')
 
     new_mod_dict = {}
     for key, value in iteritems(complex_mods.T.to_dict()):
@@ -152,9 +152,9 @@ def get_reaction_to_complex(m_model, modifications=True):
             else:
                 rxn_to_complex_dict[reaction].add(cplx.split('_mod_')[0])
 
-    for reaction in m_model.reactions:
-        if "s0001" in reaction.gene_reaction_rule:
-            rxn_to_complex_dict[reaction.id].add(None)
+    #for reaction in m_model.reactions:
+    #    if "s0001" in reaction.gene_reaction_rule:
+    #        rxn_to_complex_dict[reaction.id].add(None)
 
     return rxn_to_complex_dict
 
@@ -175,7 +175,7 @@ def get_reaction_matrix_dict(reaction_matrix_file, complex_set=set()):
         metabolite = fix_id(row['Metabolites'])
 
         # erpA is annotated incorrectly
-        metabolite = metabolite.replace('CPLX-7524_mod_mn2', 'CPLX0-7617')
+        # metabolite = metabolite.replace('CPLX-7524_mod_mn2', 'CPLX0-7617')
         stoichiometry = row['Stoichiometry']
         compartment_id = '_%s' % compartments.get(row['Compartment'])
         # use compartment to append appropriate suffix

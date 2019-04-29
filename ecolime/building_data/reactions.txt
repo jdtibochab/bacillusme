@@ -1,1251 +1,1251 @@
-#name 	 description 	 is_reversible 	 data_source 	 is_spontaneous 
-23CN2P1	2  3  cyclic nucleotide 2  phosphodiesterase  2  3  cyclc AMP 	1	0
-23CN2P2	2  3  cyclic nucleotide 2  phosphodiesterase  2  3  cyclic UMP 	1	0
-23CN2P3	2  3  cyclic nucleotide 2  phosphodiesterase  2  3  cyclic CMP 	1	0
-23CN2P4	2  3  cyclic nucleotide 2  phosphodiesterase  2  3   cyclic GMP 	1	0
-26DPAi	Dipicolinate synthase	0	0
-2HXMPt6	2  hydroxymethyl phenol transport inout via proton symport	1	0
-2PGLYCt6	2 Phosphoglycolate transport inout via proton symport	1	0
-2PGt6	D Glycerate 2 phosphate transport inout via proton symport	1	0
-2S6HCCi	2 succinyl 6 hydroxy 2 4 cyclohexadiene 1 carboxylate synthase	0	0
-3AMBAt2	3 aminobutyrate transport in via proton symport	0	0
-3AMPt6	3  AMP transport inout via proton symport	1	0
-3CMPt6	3  CMP transport in via proton symport	1	0
-3GMPt6	Guanosine 3  phsophate transport inout via proton symport	1	0
-3NUCLE1	3  nucleotidase  3  AMP 	1	0
-3NUCLE2	3  nucleotidase  3  UMP 	1	0
-3NUCLE3	3  nucleotidase  3  cMP 	1	0
-3NUCLE4	3  nucleotidase  guanosine 3  phosphate 	1	0
-3PGt6	3 Phospho D glycerate transport inout via proton symport	1	0
-3UMPt6	3  UMP transport in via proton symport	1	0
-5MTRt2	5 Methylthio D ribose transport inout via proton symport	1	0
-6PGCt6	6 Phospho D gluconate transport inout via proton symport	1	0
-AAMYL_1	Alpha amylase	0	0
-AB6PGH	Arbutin 6-phosphate glucohydrolase	0	0
-ABTA	4-aminobutyrate transaminase	1	0
-ABTt_1	L arabinitol transport via passive diffusion	1	0
-ABUTD	Aminobutyraldehyde dehydrogenase	0	0
-MACCOAT	2-Methylacetyl-CoA thiolase	1	0
-ACACT1r	Acetyl-CoA C-acetyltransferase	1	0
-ACACT2r	Acetyl-CoA C-acyltransferase (butanoyl-CoA) (r)	1	0
-ACACT3r	Acetyl-CoA C-acyltransferase (hexanoyl-CoA) (r)	1	0
-ACACT4r	Acetyl-CoA C-acyltransferase (octanoyl-CoA) (r)	1	0
-ACACT5r_1	Acetyl CoA C acyltransferase  decanoyl CoA 	1	0
-ACACT6r_1	Acetyl CoA C acyltransferase  dodecanoyl CoA 	1	0
-ACACT7r	Acetyl-CoA C-acyltransferase (tetradecanoyl-CoA) (r)	1	0
-ACACt2	Acetoacetate transport via proton symport	1	0
-ACCOAC	Acetyl-CoA carboxylase	0	0
-ACGApts	N-Acetyl-D-glucosamine transport via PEP:Pyr PTS	0	0
-ACGK	Acetylglutamate kinase	0	0
-ACGS	N-acetylglutamate synthase	0	0
-ACHBS	2-aceto-2-hydroxybutanoate synthase	0	0
-ACKr	Acetate kinase	1	0
-ACLDC	Acetolactate decarboxylase	0	0
-ACLS	Acetolactate synthase	0	0
-ACMANAt2	N acetyl D mannosamine proton symport	0	0
-ACNAMt2	N-acetylneuraminate proton symport	0	0
-ACNPLYS	N-Acetylneuraminate pyruvate-lyase	1	0
-ACOAD1	Acyl-CoA dehydrogenase (butanoyl-CoA)	1	0
-ACOADH2	Acyl CoA dehydrogenase  isobutyryl CoA 	0	0
-ACOAD2	Acyl-CoA dehydrogenase (hexanoyl-CoA)	1	0
-ACOAD20	Acyl CoA dehydrogenase  2 methylbutnoyl CoA 	0	0
-ACOAD3	Acyl-CoA dehydrogenase (octanoyl-CoA)	1	0
-ACOAD4_1	Acyl CoA dehydrogenase  decanoyl CoA 	1	0
-ACOAD5_1	Acyl CoA dehydrogenase  dodecanoyl CoA 	1	0
-ACOAD6	Acyl-CoA dehydrogenase (tetradecanoyl-CoA)	1	0
-ACOAD7	Acyl-CoA dehydrogenase (hexadecanoyl-CoA)	1	0
-ACODA_1	Acetylornithine deacetylase	0	0
-ACONT	Aconitate hydratase	1	0
-ACOTA	Acetylornithine transaminase	1	0
-ACPS1	Acyl-carrier protein synthase	0	0
-ACPpds	[acyl-carrier-protein] phosphodiesterase	0	0
-ACS	Acetyl-CoA synthetase	0	0
-ACS2	Acetyl-CoA synthase (propionate)	0	0
-ACTD2	Acetoin dehydrogenase	0	0
-ACTNabc	Acetoin transport via ABC system	0	0
-ACTNabc1	Acetoin efflux  via ABC system	0	0
-ACt2r	Acetate reversible transport via proton symport	1	0
-ADADir	Deoxycytidine kinase	0	0
-ADCL	4-aminobenzoate synthase	0	0
-ADCS	4-amino-4-deoxychorismate synthase	0	0
-ADD	Adenine deaminase	0	0
-ADEt2	Adenine transport in via proton symport	0	0
-ADK1	Adenylate kinase	1	0
-ADK2	Adenylate kinase (Inorganic triphosphate)	1	0
-ADMDC	Adenosylmethionine decarboxylase	1	0
-ADNK1	Adenosine kinase	0	0
-ADNt2	Adenosine transport in via proton symport	1	0
-ADPDA	N6 acetyl LL 2 6 diaminoheptanedioate amidohydrolase	1	0
-ADPRDP	ADPribose diphosphatase	0	0
-ADPT	Adenine phosphoribosyltransferase	0	0
-ADSK	Adenylyl-sulfate kinase	1	0
-ADSL1r	Adenylsuccinate lyase	1	0
-ADSL2r	Adenylosuccinate lyase	1	0
-ADSS	Adenylosuccinate synthase	0	0
-AGDC	N-acetylglucosamine-6-phosphate deacetylase	0	0
-AGMT	Agmatinase	0	0
-AGPATr_BS	1 acylglycerol 3 phosphate O acyltransferase	1	0
-AGPR	N-acetyl-g-glutamyl-phosphate reductase	1	0
-AHCYSNS	S-adenosylhomocysteine nucleosidase	0	0
-AHMMPS_1	4 amino 5 hydroxymethyl 2 methylpyrimidine synthetase	0	0
-AHSERL3	Cysteine synthase  Selenide 	1	0
-AHSERL4	Cysteine synthase  Thiosulfate 	1	0
-AICART	Phosphoribosylaminoimidazolecarboxamide formyltransferase	1	0
-AIRC1	Phosphoribosylaminoimidazole carboxylase  ATP dependent 	0	0
-AKGDH	2-Oxogluterate dehydrogenase	0	0
-AKGt2r	2 oxoglutarate reversible transport via symport	0	0
-AKP1	Alkaline phosphatase  Dihydroneopterin 	0	0
-ALAALAr	D-alanine-D-alanine ligase (reversible)	1	0
-ALAD_L	L-alanine dehydrogenase	0	0
-ALAR	Alanine racemase	1	0
-ALATA_L	L-alanine transaminase	1	0
-DALAt2r	D-alanine transport via proton symport	0	0
-ALAt2r	L alanine reversible transport via proton symport	0	0
-ALCD19y	Alcohol dehydrogenase  glycerol  NADP 	1	0
-ALCD19_L	Alcohol dehydrogenase  L glyceraldehyde to glycerol  NADP 	1	0
-ALCD2y	Alcohol dehydrogenase (ethanol, NADP)	1	0
-ALDD10	Aldehyde dehydrogenase  decanal  NAD 	0	0
-ALDD11	Aldehyde dehydrogenase  undecanal  NAD 	0	0
-ALDD12	Aldehyde dehydrogenase  dodecanal  NAD 	0	0
-ALDD13	Aldehyde dehydrogenase  tridecanal  NAD 	0	0
-ALDD14	Aldehyde dehydrogenase  tetradecanal  NAD 	0	0
-ALDD15	Aldehyde dehydrogenase  pentadecanal  NAD 	0	0
-ALDD16	Aldehyde dehydrogenase  hexadecanal  NAD 	0	0
-ALDD17	Aldehyde dehydrogenase  heptadecanal  NAD 	0	0
-ALDD18	Aldehyde dehydrogenase  octadecanal  NAD 	0	0
-ALDD1	Aldehyde dehydrogenase  formaldehyde  NAD 	0	0
-ALDD20x_1	Aldehyde dehydrogenase  NAD 	0	0
-ALDD2x	Aldehyde dehydrogenase (acetaldehyde, NAD)	0	0
-ALDD3	Aldehyde dehydrogenase  propanal  NAD 	0	0
-GLXO1	Glyoxylate oxidase	0	0
-ALDD31_1	Aldehyde dehydrogenase  aminoacetaldehyde  NAD 	0	0
-ALDD32	Aldehyde dehydrogenase  D Glucuronolactone  NADH 	0	0
-ALDD4	Aldehyde dehydrogenase (butanal, NAD)	0	0
-ALDD4x	Aldehyde dehydrogenase  methylmalonate semialdehyde  NAD 	0	0
-ALDD5	Aldehyde dehydrogenase  pentanal  NAD 	0	0
-ALDD6	Aldehyde dehydrogenase  hexanal  NAD 	0	0
-ALDD7	Aldehyde dehydrogenase  heptanal  NAD 	0	0
-ALDD8	Aldehyde dehydrogenase  octanal  NAD 	0	0
-GLYALDDr	D-Glyceraldehyde dehydrogenase	0	0
-ALDD9	Aldehyde dehydrogenase  nonanal  NAD 	0	0
-ALKP	Alkaline phosphatase	1	0
-ALLTNt2r	Allantoin transport in via proton symport	0	0
-ALLTAHr	Allantoate amidinohydrolase  reversible	1	0
-ALLTN	Allantoinase	0	0
-ALTRH	Altronate hydrolase	0	0
-AMAA	N-acetylmuramoyl-L-alanine amidase	0	0
-AMAOTr	Adenosylmethionine-8-amino-7-oxononanoate transaminase	1	0
-AMMQT7	S adenosylmethione2 demthylmenaquinone methyltransferase  menaquinone 7 	0	0
-AMPt6	AMP transport inout via proton symport	1	0
-ANPRT	Anthranilate phosphoribosyltransferase	0	0
-ANS	Anthranilate synthase	0	0
-ANTIMt1	Antimonite  transporter via uniport	0	0
-AOXSr	8-amino-7-oxononanoate synthase	0	0
-APATi	Tetrahydrodipicolinate acetyltransferase	0	0
-APRAUR	5-amino-6-(5-phosphoribosylamino)uracil reductase	0	0
-APSR	Adenosine 5'-phosphosulfate reductase;	0	0
-APTA1i	Acetyl L L diaminopimelate aminotransferase	0	0
-ARABDI	L-fucose isomerase	1	0
-ARABRr	Arabinose reductase	1	0
-ARAB_Dt	D arabinose reversible transport	1	0
-ARAI	L-arabinose isomerase	1	0
-ARBTpts	Arbutin transport via PEPPyr PTS	0	0
-ARBabc	L-arabinose transport via ABC system	0	0
-ARBt2r	L-arabinose transport via proton symport	0	0
-ARGDC	Arginine decarboxylase	0	0
-ARGKr	ATPL arginine N phosphotransferase	1	0
-ARGN_1	Arginase	0	0
-ARGPt6	L arginine phosphate transport inout via proton symport	1	0
-ARGSL	Argininosuccinate lyase	1	0
-ARGSS	Argininosuccinate synthase	1	0
-ARGabc	L-arginine transport via ABC system	0	0
-ARGt2r	L arganine reversible transport via proton symport	0	0
-ARSENBabc	Arsenobetaine transport in via ABC system	0	0
-ARSENBt2	Arsenobetaine transport in via proton symport	0	0
-ARSNAt1	Arsenate transporter	0	0
-ARSt1	Arsenite transporter via uniport	0	0
-ASAD	Aspartate-semialdehyde dehydrogenase	1	0
-ASNN	L-asparaginase	0	0
-ASNS1	Asparagine synthase (glutamine-hydrolysing)	0	0
-ASNt2r	L asparagine reversible transport via proton symport	0	0
-ASP1DC	Aspartate 1-decarboxylase	0	0
-ASPCT	Aspartate carbamoyltransferase	0	0
-ASPK	Aspartate kinase	1	0
-ASPO6	L-aspartate oxidase	0	0
-ASPO1	L-aspartate oxidase	0	0
-ASPT	L-aspartase	0	0
-ASPTA	Aspartate transaminase	1	0
-ASPt2r	L aspartate reversible transport via proton symport	0	0
-ATPM	ATP maintenance requirement	0	0
-ATPPRT	ATP phosphoribosyltransferase	1	0
-ATPS4r	ATP synthase (four protons for one ATP)	1	0
-BETALDHx	Betaine-aldehyde dehydrogenase	0	0
-BG_CELLB	Beta glucosidase  cellobiose 	0	0
-BG_MADG	Beta glucosidase  methyl alpha D glucoside 	0	0
-BG_MBDG	Beta glucosidase	0	0
-BILEt4	Bile acid transport in via sodium symport	0	0
-BLACT	Beta lactamase	1	0
-BIOMASS_BS_10	B subtilis biomass  demand 	0	0
-BTDD_RR	 R R  butanediol dehydrogenase	1	0
-BTDt6_RR	Butanediol transport inout via proton symport	1	0
-BTS_1	Biotin synthase	0	0
-BUTKr	Butyrate kinase	1	0
-BUTSabc	Butanesulfonate transport via ABC system	0	0
-CA2abc1	Calcium efflux  via ABC system	0	0
-CAT	Catalase	0	0
-CAt4	Calcium transport inout via proton antiporter	1	0
-CBL2abc	Cobalamin uptake in via ABC transport	0	0
-CBPS	Carbamoyl-phosphate synthase (glutamine-hydrolysing)	0	0
-CD2abc1	Cadmium transport out via ABC system	0	0
-CD2t4	Cadminum transport out via antiport	0	0
-CDGPT_BS	CDPdiacylglycerolsn glycerol 3 phosphate 3 phosphatidyltransferase	0	0
-CDPDSP_BS	CDPdiacylglycerol serine O phosphatidyltransferase	0	0
-CDPMEK	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase	0	0
-CELBpts	Cellobiose transport via PEPPyr PTS	0	0
-CHCOAL	6-carboxyhexanoate-CoA ligase	0	0
-CHLabc	Choline transport via ABC system	0	0
-CHOLD2	Choline dehydrogenase  FAD dependent 	0	0
-CHOLSabc_1	Choline sulfate transport in via ABC system	0	0
-CHORM	Chorismate mutase	0	0
-CHORS	Chorismate synthase	0	0
-CHORt2	Chorismate transport inout via proton symport	1	0
-CITRt2r	Citrulline reversible transport via proton symport	0	0
-CITt10	Citrate transport in via Mg complex	0	0
-CITt11	Citrate transport in via Mn complex	0	0
-CITt12	Citrate transport in via Ni complex	0	0
-CITt13	Citrate transport in via Co complex	0	0
-CITt14	Citrate transport in via Ca complex	0	0
-CITt15	Citrate transport in via Zn complex	0	0
-CITt2r	Citrate reversible transport via symport	1	0
-CLPNS2_BS	Cardiolipin synthase	0	0
-CMPt6	CMP transport inout via proton symport	1	0
-CO2t	CO2 transporter via diffusion	1	0
-CPPPGO	Coproporphyrinogen oxidase (O2 required)	0	0
-CRNabc	L-carnitine transport via ABC system	0	0
-CRO4t3	Chromate transport out via proton antiport	0	0
-CS	Citrate synthase	0	0
-CSNt2	Cytosine transport in via proton symport	0	0
-CTBTabc	Crotonobetaine transport in via ABC system	0	0
-CTPS1	CTP synthase  NH3 	0	0
-CTPS2	CTP synthase (glutamine)	0	0
-CYOO3	Cytochrome c oxidase  He   2 	0	0
-CYOR3m	Cytochrome c reductase  menaquinol 7 3 protons 	0	0
-CYSGLYt2ir	Cys Gly transport in via symport	0	0
-CYSS_2	Cysteine synthase	0	0
-CYSTGL	Cystathionine g lyase	0	0
-CYSTL	Cystathionine b-lyase	0	0
-CYSTS	Cystathionine beta synthase	0	0
-CYSTabc	L cystine transport via ABC system	0	0
-CYSabc	L-cysteine transport via ABC system	0	0
-CYTB_B2	Menaquinol oxidase  71 protons 	0	0
-CYTB_B3	Menauinol oxidase  72 protons 	0	0
-CYTD	Cytidine deaminase	0	0
-CYTDK1	ATP:cytidine 5'-phosphotransferase	0	0
-CYTDK2	Cytidine kinase (GTP)	0	0
-ITCY	ITP:cytidine 5'-phosphotransferase	0	0
-CYTDt2	Cytidine transport in via proton symport	0	0
-CYTK1	Cytidylate kinase (CMP)	1	0
-CYTK2	Cytidylate kinase (dCMP)	1	0
-CYTOM	Cytosine 5 methyltransferase	1	0
-Cut1	Copper export via ATPase	0	0
-D4DGCD	5 dehydro 4 deoxyglucarate dehydratase	0	0
-DAAOP	D alanyl aminopeptidase	0	0
-DADK	Deoxyadenylate kinase	1	0
-DADNK	Deoxyadenosine kinase	0	0
-DADNt2	Deoxyadenosine transport in via proton symport	0	0
-DAGK_BS	Diacylglycerol kinase	0	0
-DDPA	3-deoxy-D-arabino-heptulosonate 7-phosphate synthetase	0	0
-DALAOX	D amino acid oxidase	0	0
-DAPDC	Diaminopimelate decarboxylase	0	0
-DAPE	Diaminopimelate epimerase	1	0
-DB4PS	3,4-Dihydroxy-2-butanone-4-phosphate synthase	0	0
-DBTS	Dethiobiotin synthase	0	0
-DCMPDA	DCMP deaminase	0	0
-CMPDAi	CMP deaminase	0	0
-DCYTD	Deoxycytidine deaminase	0	0
-DCYTt2	Deoxycytidine transport in via proton symport	0	0
-DDGLCNt2r	2-dehydro-3-deoxy-D-gluconate transport via proton symport, reversible	1	0
-DDGLK	2-dehydro-3-deoxygluconokinase	0	0
-DEXTRINt2	Dextrin transport in via proton symport	0	0
-DGK1	Deoxyguanylate kinase (dGMP:ATP)	1	0
-DGNSK	Deoxyguanosine kinase	0	0
-DHAD1	Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylbutanoate)	0	0
-DHAD2	Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylpentanoate)	0	0
-DHAD3	Dihydroxy acid dehydratase  2 3 dihydroxy 3 methylpentanoate 	0	0
-DHAt	Dihydroxyacetone transport via facilitated diffusion	1	0
-DHBD	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase	1	0
-DHBS	2,3-dihydroxybenzoate adenylate synthase	0	0
-DHDPRy	Dihydrodipicolinate reductase (NADPH)	0	0
-DHDPS	Dihydrodipicolinate synthase	0	0
-FOLR2	Folate reductase	1	0
-DHFR	Dihydrofolate reductase	1	0
-DHFS	Dihydrofolate synthase	0	0
-DHNAOT7	1 4 dihydroxy 2 naphthoate octaprenyltransferase	0	0
-DHNPA_1	Dihydroneopterin aldolase	0	0
-DHORDi	Dihydoorotic acid dehydrogenase  irreversible 	1	0
-DHORTS	Dihydroorotase	1	0
-DHPPDA	Diaminohydroxyphosphoribosylaminopyrimidine deaminase	0	0
-FOLD3	Dihydropteroate synthase	0	0
-DHQTi	3-dehydroquinate dehydratase, irreversible	1	0
-DHQS	3-dehydroquinate synthase	0	0
-DINSK	Deoxyinosine kinase	0	0
-DIPEPabc1	Dipeptide transport via ABC system  ala asp 	0	0
-DIPEPabc10	Dipeptide transport via ABC system  gly glu 	0	0
-DIPEPabc11	Dipeptide transport via ABC system  gly met 	0	0
-DIPEPabc12	Dipeptide transport via ABC system  met ala 	0	0
-DIPEPabc13	Dipeptide transport via ABC system  gly asp 	0	0
-DIPEPabc14	Dipeptide transport via ABC system  gly pro L 	0	0
-DIPEPabc15	Dipeptide transport via ABC system  cgly 	0	0
-DIPEPabc2	Dipeptide transport via ABC system  ala gln 	0	0
-DIPEPabc3	Dipeptide transport via ABC system  ala glu 	0	0
-DIPEPabc4	Dipeptide transport via ABC system  ala gly 	0	0
-DIPEPabc5	Dipeptide transport via ABC system  ala his 	0	0
-DIPEPabc6	Dipeptide transport via ABC system  ala leu 	0	0
-DIPEPabc7	Dipeptide transport via ABC system  ala thr 	0	0
-DIPEPabc8	Dipeptide transport via ABC system  gly asn 	0	0
-DIPEPabc9	Dipeptide transport via ABC system  gly gln 	0	0
-DJENKabc	Djenkolate transporter via ABC system	0	0
-DKI	5 Dehydro 4 deoxy D glucuronate ketol isomerase	1	0
-DKII	2 dehydro 3 deoxy D gluconate 5 dehydrogenase	0	0
-DKMD2K	1 2 dihydroxy 3 keto 5 methylthiopentene dioxygenase  2 keto 4 methylthiobutyrate 	0	0
-DKMD3M	1 2 dihydroxy 3 keto 5 methylthiopentene dioxygenase  3 methylthiopropionate 	0	0
-DM1PE	2 3 diketo 5 methylthiopentyl 1 phosphate enolase	1	0
-DMATT	Dimethylallyltranstransferase	0	0
-DMPPS	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (dmpp)	0	0
-DPCOAK	Dephospho-CoA kinase	0	0
-DPR	2-dehydropantoate 2-reductase	0	0
-DRBK	Deoxyribokinase	1	0
-DRIBabc	Deoxyribose transport via ABC system	0	0
-DRPA	Deoxyribose-phosphate aldolase	1	0
-DTMPK	DTMP kinase	1	0
-DTMPt6	DTMP transport inout via proton symport	1	0
-DURIK1	Deoxyuridine kinase (ATP:Deoxyuridine)	0	0
-DURIPP	Deoxyuridine phosphorylase	1	0
-DUTPDP	DUTP diphosphatase	0	0
-DXPRIi	1-deoxy-D-xylulose reductoisomerase	0	0
-DXPS	1-deoxy-D-xylulose 5-phosphate synthase	0	0
-ECOAH1_1	3 hydroxyacyl CoA dehydratase  3 hydroxybutanoyl CoA 	1	0
-ECOAH2	3-hydroxyacyl-CoA dehydratase (3-hydroxyhexanoyl-CoA)	1	0
-ECOAH2c	Enoyl CoA hydratase  bacterial	1	0
-ECOAH3	3-hydroxyacyl-CoA dehydratase (3-hydroxyoctanoyl-CoA)	1	0
-ECOAH4	3-hydroxyacyl-CoA dehydratase (3-hydroxydecanoyl-CoA)	1	0
-ECOAH5_1	3 hydroxyacyl CoA dehydratase  3 hydroxydodecanoyl CoA 	1	0
-ECOAH6	3-hydroxyacyl-CoA dehydratase (3-hydroxytetradecanoyl-CoA)	1	0
-ECOAH7	3-hydroxyacyl-CoA dehydratase (3-hydroxyhexadecanoyl-CoA)	1	0
-ECOAH9ir	2 Methylprop 2 enoyl CoA  2 Methylbut 2 enoyl CoA 	1	0
-ECTOINEabc	Ecotine transport in via ABC system	0	0
-EDA	2-dehydro-3-deoxy-phosphogluconate aldolase	0	0
-ENO	Enolase	1	0
-ETHAAL	Ethanolamine ammonia-lyase	0	0
-ETHAt6	Ethanolamine transport inout via proton symport	1	0
-ETHSabc	Ethanesulfonate transport via ABC system	0	0
-ETOHt3	Ethanol transport out via proton antiport	0	0
-EX_2ddglcn_e	2-Dehydro-3-deoxy-D-gluconate exchange	0	0
-EX_2hxmp_e	2  Hydroxymethyl phenol exchange	0	0
-EX_2pg_e	D Glycerate 2 phosphate exchange	0	0
-EX_2pglyc_e	2 Phosphoglycolate exchange	0	0
-EX_3amba_e	3 aminobutanoic acid exchange	0	0
-EX_3amp_e	3'-AMP exchange	0	0
-EX_3cmp_e	3'-cmp exchange	0	0
-EX_3gmp_e	3'-GMP exchange	0	0
-EX_3pg_e	3 Phospho D glycerate exchange	0	0
-EX_3ump_e	3'-UMP exchange	0	0
-EX_4abut_e	4-Aminobutanoate exchange	0	0
-EX_5mtr_e	5-Methylthio-D-ribose exchange	0	0
-EX_6pgc_e	6 Phospho D gluconate exchange	0	0
-EX_Larab_e	Alpha L Arabinan exchange	0	0
-EX_Lcyst_e	L-Cysteate exchange	0	0
-EX_abt__L_e	L Arabinitol exchange	0	0
-EX_ac_e	Acetate exchange	0	0
-EX_acac_e	Acetoacetate exchange	0	0
-EX_acgam_e	N-Acetyl-D-glucosamine exchange	0	0
-EX_acmana_e	N-Acetyl-D-mannosamine exchange	0	0
-EX_acnam_e	N-Acetylneuraminate exchange	0	0
-EX_actn__R_e	EX actn R LPAREN e RPAREN 	0	0
-EX_ade_e	Adenine exchange	0	0
-EX_adn_e	Adenosine exchange	0	0
-EX_akg_e	2-Oxoglutarate exchange	0	0
-EX_ala_B_e	Beta-Alanine exchange	0	0
-EX_ala__D_e	D-Alanine exchange	0	0
-EX_ala_L_Thr__L_e	Ala L Thr L exchange	0	0
-EX_ala_L_asp__L_e	Ala L asp L exchange	0	0
-EX_ala__L_e	L-Alanine exchange	0	0
-EX_ala_L_gln__L_e	Ala Gln exchange	0	0
-EX_ala_L_glu__L_e	Ala L glu L exchange	0	0
-EX_L_alagly_e	Ala L gly exchange	0	0
-EX_ala_L_his__L_e	Ala His exchange	0	0
-EX_ala_L_leu__L_e	Ala Leu exchange	0	0
-EX_alaala_e	D-Alanyl-D-alanine exchange	0	0
-EX_alltn_e	Allantoin exchange	0	0
-EX_amp_e	AMP exchange	0	0
-EX_amylase_e	Mature Bacillus subtilis amylase exchange	0	0
-EX_antim_e	Antimonite exchange	0	0
-EX_arab__D_e	D Arabinose exchange	0	0
-EX_arab__L_e	L-Arabinose exchange	0	0
-EX_arbt_e	Arbutin exchange	0	0
-EX_arg__L_e	L-Arginine exchange	0	0
-EX_argp_e	L Arginine phosphate exchange	0	0
-EX_arsenb_e	ARSENOBETAINE exchange	0	0
-EX_arsna_e	Arsenate exchange	0	0
-EX_arsni2_e	Arsenite exchange	0	0
-EX_asn__L_e	L-Asparagine exchange	0	0
-EX_asp__L_e	L-Aspartate exchange	0	0
-EX_bilea_e	Bile acid exchange	0	0
-EX_btd_RR_e	 R R  2 3 Butanediol exchange	0	0
-EX_buts_e	Butanesulfonate exchange	0	0
-EX_ca2_e	Calcium exchange	1	0
-EX_cbl2_e	Cob II alamin exchange	0	0
-EX_cd2_e	Cadmium exchange	0	0
-EX_cellb_e	Cellobiose exchange	0	0
-EX_cgly_e	Cys-Gly exchange	0	0
-EX_chitob_e	Chitobiose exchange	0	0
-EX_chol_e	Choline exchange	0	0
-EX_chols_e	EX chols LPAREN e RPAREN 	0	0
-EX_chor_e	Chorismate exchange	0	0
-EX_cit_e	Citrate exchange	0	0
-EX_citr__L_e	L-Citrulline exchange	0	0
-EX_cmp_e	CMP exchange	0	0
-EX_co2_e	CO2 exchange	1	0
-EX_cobalt2_e	Co2+ exchange	0	0
-EX_crn_e	L-Carnitine exchange	0	0
-EX_cro4_e	Chromate exchange	0	0
-EX_csn_e	Cytosine exchange	0	0
-EX_ctbt_e	Crotonobetaine exchange	0	0
-EX_cu2_e	Cu2+ exchange	0	0
-EX_cys__D_e	D-Cysteine exchange	0	0
-EX_cys__L_e	L-Cysteine exchange	0	0
-EX_cyst__L_e	L Cystine exchange	0	0
-EX_cytd_e	Cytidine exchange	0	0
-EX_dad_2_e	Deoxyadenosine exchange	0	0
-EX_dcyt_e	Deoxycytidine exchange	0	0
-EX_dextrin_e	Dextrin exchange	0	0
-EX_dha_e	Dihydroxyacetone exchange	0	0
-EX_diact_e	Diacetyl exchange	0	0
-EX_djenk_e	Djenkolate exchange	0	0
-EX_drib_e	Deoxy D Ribose exchange	0	0
-EX_dtmp_e	DTMP exchange	0	0
-EX_ectoine_e	Ectoine exchange	0	0
-EX_etha_e	Ethanolamine exchange	0	0
-EX_eths_e	Ethanesulfonate exchange	0	0
-EX_etoh_e	Ethanol exchange	0	0
-EX_fe2_e	Fe2+ exchange	0	0
-EX_fe3_e	Fe3+ exchange	1	0
-EX_ferrich_e	Ferrichrome exchange	0	0
-EX_ferxa_e	Ferroxamine exchange	0	0
-EX_fol_e	EX fol LPAREN e RPAREN 	0	0
-EX_for_e	Formate exchange	0	0
-EX_fru_e	D-Fructose exchange	0	0
-EX_fum_e	Fumarate exchange	0	0
-EX_g1p_e	D-Glucose 1-phosphate exchange	0	0
-EX_g6p_e	D-Glucose 6-phosphate exchange	0	0
-EX_gal_e	D-Galactose exchange	0	0
-EX_galctr__D_e	D Galactarate exchange	0	0
-EX_galt_e	Galactitol exchange	0	0
-EX_galur_e	D-Galacturonate exchange	0	0
-EX_gam6p_e	D-Glucosamine 6-phosphate exchange	0	0
-EX_gam_e	D-Glucosamine exchange	0	0
-EX_gbbtn_e	Gamma-butyrobetaine exchange	0	0
-EX_glc__D_e	D-Glucose exchange	1	0
-EX_glcn__D_e	D Gluconate exchange	0	0
-EX_glcr_e	D-Glucarate exchange	0	0
-EX_glcur_e	D-Glucuronate exchange	0	0
-EX_gln__L_e	L-Glutamine exchange	0	0
-EX_glu__D_e	D Glutamate exchange	0	0
-EX_glu__L_e	L-Glutamate exchange	0	0
-EX_glx_e	Glyoxylate exchange	0	0
-EX_gly_asn__L_e	Gly asn L exchange	0	0
-EX_gly_asp__L_e	Gly asp L exchange	0	0
-EX_gly_e	Glycine exchange	0	0
-EX_gly_gln__L_e	Gly Gln exchange	0	0
-EX_gly_glu__L_e	Gly glu L exchange	0	0
-EX_gly_met__L_e	Gly Met exchange	0	0
-EX_gly_pro__L_e	Gly pro L exchange	0	0
-EX_glyb_e	Glycine betaine exchange	0	0
-EX_glyc3p_e	Glycerol 3-phosphate exchange	0	0
-EX_glyc_e	Glycerol exchange	0	0
-EX_glyclt_e	Glycolate exchange	0	0
-EX_glycogen_e	Glycogen exchange	0	0
-EX_gmp_e	GMP exchange	0	0
-EX_gsn_e	Guanosine exchange	0	0
-EX_gthox_e	Oxidized glutathione exchange	0	0
-EX_gthrd_e	Reduced glutathione exchange	0	0
-EX_gua_e	Guanine exchange	0	0
-EX_h2o2_e	Hydrogen peroxide exchange	0	0
-EX_h2o_e	H2O exchange	1	0
-EX_h_e	H+ exchange	1	0
-EX_hexs_e	Hexanesulfonate exchange	0	0
-EX_hg2_e	Hg2+ exchange	0	0
-EX_his__L_e	L-Histidine exchange	0	0
-EX_hqn_e	Hydroquinone exchange	0	0
-EX_hxan_e	Hypoxanthine exchange	0	0
-EX_icit_e	Isocitrate exchange	0	0
-EX_ile__L_e	L-Isoleucine exchange	0	0
-EX_inost_e	Myo-Inositol exchange	0	0
-EX_ins_e	Inosine exchange	0	0
-EX_istnt_e	Isethionate exchange	0	0
-EX_k_e	K+ exchange	1	0
-EX_lac__L_e	L-Lactate exchange	0	0
-EX_lanth_e	Lanthionine exchange	0	0
-EX_lcts_e	Lactose exchange	0	0
-EX_leu__L_e	L-Leucine exchange	0	0
-EX_lipt_e	Lipoate exchange	0	0
-EX_lys__L_e	L-Lysine exchange	0	0
-EX_madg_e	Alpha Methyl D glucoside exchange	0	0
-EX_mal__D_e	D-Malate exchange	0	0
-EX_mal__L_e	L-Malate exchange	0	0
-EX_malt_e	Maltose exchange	0	0
-EX_malttr_e	Maltotriose exchange	0	0
-EX_man1p_e	D Mannose 1 phosphate exchange	0	0
-EX_man6p_e	D-Mannose 6-phosphate exchange	0	0
-EX_man_e	D-Mannose exchange	0	0
-EX_mbdg_e	Beta Methylglucoside exchange	0	0
-EX_melib_e	Melibiose exchange	0	0
-EX_meoh_e	Methanol exchange	0	0
-EX_met__D_e	D-Methionine exchange	0	0
-EX_met_L_ala__L_e	Met L ala L exchange	0	0
-EX_met__L_e	L-Methionine exchange	0	0
-EX_metox__R_e	L methionine R oxide exchange	0	0
-EX_metox_e	L Methionine S oxide exchange	0	0
-EX_mg2_e	Mg exchange	1	0
-EX_mn2_e	Mn2+ exchange	0	0
-EX_mnl_e	D-Mannitol exchange	0	0
-EX_mobd_e	Molybdate exchange	0	0
-EX_mops_e	MOPS exchange	0	0
-EX_mso3_e	Methanesulfonate exchange	0	0
-EX_na1_e	Sodium exchange	1	0
-EX_nac_e	Nicotinate exchange	0	0
-EX_nh4_e	Ammonia exchange	1	0
-EX_ni2_e	Ni2+ exchange	0	0
-EX_no2_e	Nitrite exchange	0	0
-EX_no3_e	Nitrate exchange	0	0
-EX_o2_e	O2 exchange	0	0
-EX_orn__L_e	Ornithine exchange	0	0
-EX_pala_e	Palatinose exchange	0	0
-EX_pep_e	Phosphoenolpyruvate exchange	0	0
-EX_phe__L_e	L-Phenylalanine exchange	0	0
-EX_pi_e	Phosphate exchange	1	0
-EX_pnto__R_e	(R)-Pantothenate exchange	0	0
-EX_ppa_e	Propionate exchange	0	0
-EX_ppi_e	Diphosphate exchange	0	0
-EX_pro__L_e	L-Proline exchange	0	0
-EX_prolb_e	Proline betaine exchange	0	0
-EX_pser__D_e	D O Phosphoserine exchange	0	0
-EX_pser__L_e	O-Phospho-L-serine exchange	0	0
-EX_pur_e	Puromycin exchange	0	0
-EX_pyr_e	Pyruvate exchange	0	0
-EX_raffin_e	Raffinose exchange	0	0
-EX_rib__D_e	D-Ribose exchange	0	0
-EX_ribflv_e	Riboflavin exchange	0	0
-EX_rmn_e	L-Rhamnose exchange	0	0
-EX_salcn_e	Salicin exchange	0	0
-EX_sbt__D_e	D-Sorbitol exchange	0	0
-EX_ser__D_e	D-Serine exchange	0	0
-EX_ser__L_e	L-Serine exchange	0	0
-EX_so4_e	Sulfate exchange	1	0
-EX_spmd_e	Spermidine exchange	0	0
-EX_srb__L_e	L Sorbose exchange	0	0
-EX_starch_e	Starch exchange	0	0
-EX_subtilisin_e	Mature Bacillus subtilis subtilisin exchange	0	0
-EX_succ_e	Succinate exchange	0	0
-EX_sucr_e	Sucrose exchange	0	0
-EX_sula_e	Sulfoacetate exchange	0	0
-EX_taur_e	Taurine exchange	0	0
-EX_thiog_e	Thioglycolate exchange	0	0
-EX_thr__L_e	L-Threonine exchange	0	0
-EX_thym_e	Thymine exchange	0	0
-EX_thymd_e	Thymidine exchange	0	0
-EX_tmp_e	Trimetaphosphate exchange	0	0
-EX_tre_e	Trehalose exchange	0	0
-EX_trp__L_e	L-Tryptophan exchange	0	0
-EX_tyr__L_e	L-Tyrosine exchange	0	0
-EX_ump_e	UMP exchange	0	0
-EX_ura_e	Uracil exchange	0	0
-EX_urate_e	Urate exchange	0	0
-EX_urea_e	Urea exchange	0	0
-EX_uri_e	Uridine exchange	0	0
-EX_val__L_e	L-Valine exchange	0	0
-EX_xan_e	Xanthine exchange	0	0
-EX_xtsn_e	Xanthosine exchange	0	0
-EX_xyl__D_e	D-Xylose exchange	0	0
-EX_zn2_e	Zinc exchange	0	0
-FRUK	Fructose-1-phosphate kinase	0	0
-F6Pt6_2	Fructose 6 phosphate transport via phosphate antiport	0	0
-FACOAL140	Fatty acid  CoA ligase  tetradecanoate 	1	0
-FACOAL140_ISO	Fatty acid  CoA ligase  Iso C140 	1	0
-FACOAL150_ISO	Fatty acid  CoA ligase  Iso C150 	1	0
-FACOAL150_anteiso	Fatty acid  CoA ligase  anteiso C150 	1	0
-FACOAL160	Fatty acid  CoA ligase  hexadecanoate 	1	0
-FACOAL160_ISO	Fatty acid  CoA ligase  Iso C160 	1	0
-FACOAL161	Fatty acid  CoA ligase  hexadecenoate 	1	0
-FACOAL161_ISO	Fatty acid  CoA ligase  Iso C161 	1	0
-FACOAL170_ISO	Fatty acid  CoA ligase  Iso C170 	1	0
-FACOAL170_anteiso	Fatty acid  CoA ligase  anteiso C170 	1	0
-FACOAL171_ISO	Fatty acid  CoA ligase  Iso C171 	1	0
-FACOAL171_anteiso	Fatty acid  CoA ligase  anteiso C171 	1	0
-FACOAL180_2	Fatty acid  CoA ligase  octadecanoate 	1	0
-FACOAL181	Fatty acid  CoA ligase  octadecenoate 	1	0
-FBA	Fructose-bisphosphate aldolase	1	0
-FBA2	D Fructose 1 phosphate D glyceraldehyde 3 phosphate lyase	1	0
-FBP	Fructose-bisphosphatase	0	0
-FCLT_2	Heme B synthesis reaction	0	0
-FDH	Formate dehydrogenase	0	0
-FDMO_1	FmnRD dependent monooxygenase  methanesulfonate 	0	0
-FDMO1	FMN dependent monooxygenase  ethanesulfonate 	0	0
-FDMO2_1	FMN dependent monooxygenase  butanesulfonate 	0	0
-FDMO3_1	FMN dependent monooxygenase  hexanesulfonate 	0	0
-FDMO4_1	FMN dependent monooxygenase  taurine 	0	0
-FDMO5_1	FMN dependent monooxygenase  sulfoacetate 	0	0
-FDMO6_1	FMN dependent monooxygenase  isethionate 	0	0
-FE2abc	Iron (II) transport via ABC system	0	0
-FE3t	Ferric iron uptake, plasma membrane	0	0
-FEDCabc	Iron  III  dicitrate transport via ABC system	0	0
-FERRICHabc	Ferrichrome transport via ABC system	0	0
-FERXAabc	Ferroxamine transport via ABC system	0	0
-FFSD	Beta-fructofuranosidase	0	0
-FGLU_1	Formimidoylglutamase	0	0
-FLVR_1	Flavin reductase	0	0
-FMETDF	Formylmethionine deformylase	0	0
-FMETTRS_1	Methionyl tRNA formyltransferase	0	0
-FMNAT	FMN adenylyltransferase	1	0
-FMNRy	FMN reductase  NADPH dependent 	0	0
-FOLt	Folate transport via proton simport	1	0
-FORAMD	FORAMD	0	0
-FORt2	Formate transport in via proton symport	1	0
-FRTT	Farnesyltranstransferase	0	0
-HEX7	Hexokinase (D-fructose:ATP)	0	0
-FRUpts	D-fructose transport via PEP:Pyr PTS	0	0
-FTHFD	Formyltetrahydrofolate deformylase	0	0
-FUM	Fumarase	1	0
-FUMt2r	Fumarate reversible transport via symport	1	0
-G1Dx	Glucose 1 dehydrogenase  NAD 	0	0
-G1PACT	Glucosamine-1-phosphate N-acetyltransferase	1	0
-G1PPDM	Glucose 1 phosphate phosphodismutase	0	0
-G1Pt6_2	Glucose 1 phosphate transport via phosphate antiport	0	0
-G1SAT	Glutamate-1-semialdehyde aminotransferase	0	0
-G3PCT	Glycerol-3-phosphate cytidylyltransferase	0	0
-G3PD1ir	Glycerol 3 phosphate dehydrogenase  NAD 	1	0
-G3PD4	Glycerol 3 phosphate dehydrogenase  menaquinone 7 	0	0
-G3POA_BS	Glycerol 3 phosphate O acyltransferase	0	0
-G5SADs	L-glutamate 5-semialdehyde dehydratase (spontaneous)	1	0
-G5SD	Glutamate-5-semialdehyde dehydrogenase	0	0
-G6PDA	Glucosamine-6-phosphate deaminase	0	0
-G6PDH2r	Glucose 6-phosphate dehydrogenase	0	0
-G6PI	Glucose 6 phosphate isomerase	1	0
-G6Pt6_2	Glucose-6-phosphate transport via phosphate antiport	0	0
-ABUTt2r	4 aminobutyrate reversible transport in via proton symport	0	0
-GALCTD_1	Galactarate dehydratase	0	0
-GALCTRt2	Galactarate transport in via proton symport	0	0
-GALKr	Galactokinase	0	0
-GALS1	A galactosidase  galactomannan 	0	0
-GALS2	A galactosidase  galactose oligosaccharides 	0	0
-GALS3	A-galactosidase (melibiose)	0	0
-GALS4	A galactosidase  stachyose 	0	0
-GALT	Galactose 1 phosphate uridylyltransferase	1	0
-GALTpts	Galactitol transport via PEP:Pyr PTS	0	0
-GALUi	UTP-glucose-1-phosphate uridylyltransferase (irreversible)	1	0
-GALURt2r	D-galacturonate transport via proton symport, reversible	0	0
-GALt2	D galactose transport in via proton symport	0	0
-GAM6Pt	D glucosamine 6 phosphate reversible uniport	1	0
-GAMpts	D-glucosamine transport via PEP:Pyr PTS	0	0
-GAPD	Glyceraldehyde-3-phosphate dehydrogenase	0	0
-GAPDi_nadp	Glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)	0	0
-GARFT	Phosphoribosylglycinamide formyltransferase	0	0
-GART	GAR transformylase-T	0	0
-GBBTNabc	Gamma butyrobetaine transport in via ABC system	0	0
-GBEZY	1 4 alpha glucan branching enzyme	0	0
-GCALDD	Glycolaldehyde dehydrogenase	0	0
-GF6PTA	Glutamine-fructose-6-phosphate transaminase	0	0
-GGTAe2	Gamma glutamyltransferase	0	0
-GGTT	Geranylgeranyltranstransferase	0	0
-GHMT2r	Glycine hydroxymethyltransferase, reversible	1	0
-GK1	Guanylate kinase (GMP:ATP)	1	0
-GK2	Guanylate kinase  GMPdATP 	1	0
-GLCNt2ir	D gluconate transport via proton symport	0	0
-GLCP	Glycogen phosphorylase	0	0
-GLCRAL_1	5 dehydro 4 deoxyglucarate aldolase	0	0
-GLCRD_1	Glucarate dehydratase	0	0
-GLCRt2r	D-glucarate transport via proton symport, reversible	0	0
-GLCS1	Glycogen synthase (ADPGlc)	0	0
-GLCURt2r	D-glucuronate transport via proton symport, reversible	0	0
-GLCpts	D-glucose transport via PEP:Pyr PTS	0	0
-GLCt2	D-glucose transport in via proton symport	0	0
-GLGC	Glucose-1-phosphate adenylyltransferase	1	0
-GLNS	Glutamine synthetase	0	0
-GLNabc	L-glutamine transport via ABC system	0	0
-GLTPD	Galactitol-1-phosphate dehydrogenase	1	0
-GLU5K	Glutamate 5-kinase	0	0
-GLUDxi	Glutamate dehydrogenase  NAD 	0	0
-GLUN	Glutaminase	0	0
-GLUPRT	Glutamine phosphoribosyldiphosphate amidotransferase	0	0
-GLUR	Glutamate racemase	1	0
-GLUSy	Glutamate synthase (NADPH)	0	0
-GLUTRR	Glutamyl-tRNA reductase	0	0
-GLUTRS	Glutamyl-tRNA synthetase	0	0
-GLU_Dt2	D glutamate transport in via proton symport	0	0
-GLUt2r	L glutamate transport via proton symport  reversible	0	0
-GLUt4	Na+/glutamate symport	0	0
-GLXCBL	Glyoxalate carboligase	0	0
-GLXt2	Glyoxylate transport in via proton symport	0	0
-GLY3Pt2	Glycerol 3 phosphate transport in via proton symport	0	0
-GLYAT	Glycine C-acetyltransferase	1	0
-GLYBabc	Glycine betaine transport via ABC system	0	0
-GLYBt2r	Glycine betaine transport via proton symport, reversible	1	0
-GLYCK	Glycerate kinase	0	0
-GLYCLTt2r	Glycolate transport via proton symport, reversible	1	0
-GLYCOGENt	Glycogen transport in	0	0
-GLYCTO1	Glycolate oxidase	0	0
-GLYCt	Glycerol transport via channel	1	0
-GLYK	Glycerol kinase	0	0
-GLYO1	Glycine oxidase	0	0
-GLYt2r	Glycine reversible transport via proton symport	1	0
-GMPR	GMP reductase	0	0
-GMPS2	GMP synthase	0	0
-GMPt6	GMP transport inout via proton symport	1	0
-GNKr	Gluconokinase	1	0
-GPDDA1	Glycerophosphodiester phosphodiesterase (Glycerophosphocholine)	0	0
-GPDDA2	Glycerophosphodiester phosphodiesterase (Glycerophosphoethanolamine)	0	0
-GPDDA4	Glycerophosphodiester phosphodiesterase (Glycerophosphoglycerol)	0	0
-GRTT	Geranyltranstransferase	0	0
-GSNt2	Guanosine transport in via proton symport	1	0
-GTHPe	Glutathione peroxidase	1	0
-GTPCI	GTP cyclohydrolase I	0	0
-GTPCII	GTP cyclohydrolase II	0	0
-GTPDPK	GTP diphosphokinase	0	0
-GUAD	Guanine deaminase	0	0
-GUAPRT	Guanine phosphoribosyltransferase	1	0
-GUAt2r	Guanine reversible transport via proton symport	0	0
-GUI1	Glucuronate isomerase (D-glucuronate)	1	0
-GUI2	Glucuronate isomerase (D-galacturonate)	1	0
-H2Ot	H2O transport via diffusion	1	0
-HACD1_1	3 hydroxyacyl CoA dehydrogenase  acetoacetyl CoA 	1	0
-HACD2	3-hydroxyacyl-CoA dehydrogenase (3-oxohexanoyl-CoA)	1	0
-HACD3	3-hydroxyacyl-CoA dehydrogenase (3-oxooctanoyl-CoA)	1	0
-HACD4	3-hydroxyacyl-CoA dehydrogenase (3-oxodecanoyl-CoA)	1	0
-HACD5	3-hydroxyacyl-CoA dehydrogenase (3-oxododecanoyl-CoA)	1	0
-HACD6	3-hydroxyacyl-CoA dehydrogenase (3-oxotetradecanoyl-CoA)	1	0
-HACD7	3-hydroxyacyl-CoA dehydrogenase (3-oxohexadecanoyl-CoA)	1	0
-HACD9	3 hydroxyacyl CoA dehydrogenase  2 Methylacetoacetyl CoA 	1	0
-HACOADr	3 hydroxyacyl CoA dehydrogenase	0	0
-HCO3E	HCO3 equilibration reaction	1	0
-HEMEAS	Heme A synthase	0	0
-HEMECS	Heme C synthase	0	0
-HEMEDS	Heme D synthase	0	0
-HEMEOS_1	Heme O synthase	0	0
-HETZK	Hydroxyethylthiazole kinase	0	0
-HEX1	Hexokinase (D-glucose:ATP)	0	0
-HEXSabc	Hexanesulfonate transport via ABC system	0	0
-HEXTT	Trans-hexaprenyltranstransferase	0	0
-HGt	Mercury transport	1	0
-HIBD	3 hydroxyisobutyrate dehydrogenase	0	0
-HIBHr	3 hydroxyisobutyryl CoA hydrolase	0	0
-HISDr	Histidase r	1	0
-HISTD	Histidinol dehydrogenase	0	0
-HISTP	Histidinol-phosphatase	0	0
-HISt2r	L histidine reversible transport via proton symport	0	0
-HKM1PP	2 hydroxy 3 keto 5 methylthiopentenyl 1 phosphate phophatase	0	0
-HMBS	Hydroxymethylbilane synthase	0	0
-HMGCOAS	Hydroxymethylglutaryl CoA synthase	0	0
-HMGL	Hydroxymethylglutaryl-CoA lyase	0	0
-HMPK1	Hydroxymethylpyrimidine kinase (ATP)	0	0
-HOXPRx	2 hydroxy 3 oxopropionate reductase  NAD 	1	0
-HP5CD_1	3 hydroxy 1 pyrroline 5 carboxylate dehydrogenase	0	0
-HPPK	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase	0	0
-HQNt6	Hydroquinone transport inout via proton symport	1	0
-HSDy	Homoserine dehydrogenase (NADPH)	1	0
-HSK	Homoserine kinase	0	0
-HSST	Homoserine O-succinyltransferase	1	0
-HSTPTr	Histidinol phosphate transaminase	1	0
-HXAD	Hexosaminidase	0	0
-HXANt2r	Hypoxanthine reversible transport via proton symport	0	0
-HXPRT	Hypoxanthine phosphoribosyltransferase (Hypoxanthine)	1	0
-ICDHyr	Isocitrate dehydrogenase (NADP)	1	0
-ICHORS	Isochorismate synthase	1	0
-ICHORT	Isochorismatase	0	0
-ICITt10	Isocitrate transport in via Mg complex	0	0
-ICITt2	Isocitrate transport inout via proton symport	1	0
-IG3PS_1	Imidazole glycerol 3 phosphate synthase	0	0
-IGPDH_1	Imidazoleglycerol phosphate dehydratase	0	0
-IGPS	Indole-3-glycerol-phosphate synthase	0	0
-ILEDHr	Isoleucine dehydrogenase	1	0
-ILETA	Isoleucine transaminase	1	0
-ILEt2r	L isoleucine reversible transport via proton symport	0	0
-IMPC	IMP cyclohydrolase	0	0
-IMPD	IMP dehydrogenase	0	0
-INS2D	Inositol 2-dehydrogenase	0	0
-INSCR	Inositol catabolic reactions  lumped 	0	0
-INSTt2	Inositol transport in via proton symport	0	0
-INSt2	Inosine transport in via proton symport	1	0
-RAFH	Raffinose hydrolyzing enzyme	0	0
-IPDDI	Isopentenyl-diphosphate D-isomerase	1	0
-IPDPS	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (ipdp)	0	0
-IPDPUPT	Di trans poly cis Decaprenyl diphosphateisopentenyl diphosphate undecaprenylcistransferase	0	0
-IPMD	3-isopropylmalate dehydrogenase	0	0
-IPPMIa	3-isopropylmalate dehydratase	1	0
-IPPMIb	2-isopropylmalate hydratase	1	0
-IPPS	2-isopropylmalate synthase	0	0
-ISOMS	Isomaltulose synthase	1	0
-ISTNTabc	Isethionate transport via ABC system	0	0
-IZPN_1	Imidazolonepropionase	0	0
-KARA1	Ketol-acid reductoisomerase (2,3-dihydroxy-3-methylbutanoate)	1	0
-KARA2	Ketol-acid reductoisomerase (2-Acetolactate)	1	0
-KAS1	B-ketoacyl synthetase (Iso-C14:0)	0	0
-KAS10	B-ketoacyl synthetase (Anteiso-C17:1)	0	0
-KAS11	B-ketoacyl synthetase (Iso-C17:0)	0	0
-KAS12	B-ketoacyl synthetase (Anteiso-C17:0)	0	0
-KAS13	B-ketoacyl synthetase (octadecanoate)	0	0
-KAS17	B-ketoacyl synthetase (n-C18:1)	0	0
-KAS2	B-ketoacyl synthetase (n-C14:0)	0	0
-KAS3	B-ketoacyl synthetase (Iso-C15:0)	0	0
-KAS4	B-ketoacyl synthetase (Anteiso-C15:0)	0	0
-KAS5	B-ketoacyl synthetase (Iso-C16:1)	0	0
-KAS6	B-ketoacyl synthetase (Iso-C16:0)	0	0
-KAS7	B-ketoacyl synthetase (n-C16:1)	0	0
-KAS8	B-ketoacyl synthetase (palmitate, n-C16:0)	0	0
-KAS9	B-ketoacyl synthetase (Iso-C17:1)	0	0
-Kt2r	Potassium reversible transport  via proton symport	0	0
-Kt3r	Potassium transport out via proton antiport	0	0
-Kt1	Potassium transport via uniport (facilitated diffusion)	1	0
-LAAF	Alpha N arabinofuranosidase	0	0
-LAAL1	L amino acid ligase  L glycine L glycine 	0	0
-LAAL10	L amino acid ligase  Thr Thr 	0	0
-LAAL11	L amino acid ligase  Ala Val 	0	0
-LAAL12	L amino acid ligase  Ser Val 	0	0
-LAAL13	L amino acid ligase  Gly Leu 	0	0
-LAAL14	L amino acid ligase  ser leu 	0	0
-LAAL15	L amino acid ligase  Ala Leu 	0	0
-LAAL16	L amino acid ligase  Thr Leu 	0	0
-LAAL17	L amino acid ligase  Ala Ile 	0	0
-LAAL18	L amino acid ligase  Ser Ile 	0	0
-LAAL19	L amino acid ligase  Gly Met 	0	0
-LAAL2	L amino acid ligase  L alanylglycine 	0	0
-LAAL20	L amino acid ligase  Ala Met 	0	0
-LAAL21	L amino acid ligase  Ser Met 	0	0
-LAAL22	L amino acid ligase  Thr Met 	0	0
-LAAL23	L amino acid ligase  met met 	0	0
-LAAL24	L amino acid ligase  gly phe 	0	0
-LAAL25	L amino acid ligase  Ala phe 	0	0
-LAAL26	L amino acid  ser phe 	0	0
-LAAL27	L amino acid ligase  Thr Phe 	0	0
-LAAL28	L amino acid ligase  met phe 	0	0
-LAAL29	L amino acid ligase  gly tyr 	0	0
-LAAL3	L amino acid ligase  L serylglycine 	0	0
-LAAL30	L amino acid  Ala Tyr 	0	0
-LAAL31	L amino acid ligase  Ser Tyr 	0	0
-LAAL32	L amino acid ligase  Met Tyr 	0	0
-LAAL33	L amino acid ligase  ala trp 	0	0
-LAAL34	L amino acid ligase  ser trp 	0	0
-LAAL35	L amino acid ligase  gly gln 	0	0
-LAAL36	L amino acid ligase  ala gln 	0	0
-LAAL37	L amino acid ligase  ser gln 	0	0
-LAAL38	L amino acid ligase  thr gln 	0	0
-LAAL39	L amino acid ligase  ala asn 	0	0
-LAAL4	L amino acid ligase  thr gly 	0	0
-LAAL40	L amino acid ligase  ala his 	0	0
-LAAL41	L amino acid ligase  ser his 	0	0
-LAAL42	L amino acid ligase  met his 	0	0
-LAAL5	L amino acid ligase  Ala Ala 	0	0
-LAAL6	L amino acid ligase  Ser Ala 	0	0
-LAAL7	L amino acid ligase  Ala Ser 	0	0
-LAAL8	L amino acid ligase  Ser Ser 	0	0
-LAAL9	L amino acid ligase  Gly Cys 	0	0
-LACZ	B-galactosidase	0	0
-LANTHabc	Lanthionine transport via ABC system	0	0
-LCADi	Lactaldehyde dehydrogenase	0	0
-LCTSabc	Lactose transport via ABC system (import)	0	0
-LCYSTabc	Cysteate transport via ABC system	0	0
-LDH2	L lactate dehydrogenase  2 Hydroxybutanoic acid 	1	0
-LDH_L	L-lactate dehydrogenase	1	0
-LEUTA	Leucine transaminase	1	0
-LEUt2r	L leucine reversible transport via proton symport	1	0
-LIPO1S24_BS	Lipoteichoic acid synthesis  n24   linked  glucose substituted	0	0
-LIPO2S24_BS	Lipoteichoic acid synthesis  n24   linked  N acetylglucosamine substituted	0	0
-LIPO3S24_BS	Lipoteichoic acid synthesis  n24   unliked  D alanine substituted	0	0
-LIPO4S24_BS	Lipoteichoic acid synthesis  n24   linked  unsubstituted	0	0
-LIPTabc	Lipoic acid transport via ABC system	0	0
-LLEUDr	L leucine dehydrogenase	1	0
-LYSAM	Lysine 2,3-aminomutase	1	0
-LYSDC	Lysine decarboxylase	0	0
-LYSLG_BS	Lysylphosphatidylglycerol synthesis	0	0
-LYSt3r	L lysine transport out via proton antiport reversible	1	0
-L_LACt2r	L lactate reversible transport via proton symport	1	0
-M1PD	Mannitol-1-phosphate 5-dehydrogenase	1	0
-MAL6PG	Maltose 6  phosphate glucosidase	0	0
-MALT	Alpha glucosidase	0	0
-MALTATr	Maltose O-acetyltransferase	0	0
-MALTTRabc	Maltotriose transport via ABC system	0	0
-MALTabc	Maltose transport via ABC system	0	0
-MALTpts	Maltose transport via PEP:Pyr PTS	0	0
-MAL_Dt2	D malate transport in via proton symport	0	0
-MALt10	Malate HNa lactate antiporter	0	0
-MALt2r	L malate reversible transport via proton symport	0	0
-MALt4	Namalate symporter	0	0
-MAN1Pt6	MAN1P transport inout via proton symport	1	0
-MAN6PI	Mannose-6-phosphate isomerase	1	0
-MAN6Pt6	MAN6P transport inout via proton symport	1	0
-MANAO	Mannonate oxidoreductase	1	0
-MANpts	D-mannose transport via PEP:Pyr PTS	0	0
-MANt2	D mannose transport in via proton symport	0	0
-MCA	Methyl cis aconitase	1	0
-MCITS	2-methylcitrate synthase	0	0
-MCSNAH	5-Methylcytosine aminohydrolase	1	0
-MDH	Malate dehydrogenase	1	0
-MDRPD	5-Methylthio-5-deoxy-D-ribulose 1-phosphate dehydratase	0	0
-MALDDH	Malate decarboxylating oxidoreductase (decarboxylating)	0	0
-ME2	Malic enzyme (NADP)	0	0
-MECDPDH2	2C-methyl-D-erythritol 2,4 cyclodiphosphate dehydratase	0	0
-MECDPS	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	0	0
-MELIBt2	Melibiose transport in via symport	0	0
-MEPCT	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	0	0
-METAT	Methionine adenosyltransferase	0	0
-METDabc	D-methionine transport via ABC system	0	0
-METS	Methionine synthase	0	0
-METSR_R1	L methionine R oxide reductase  trdrd 	0	0
-METSR_R2	L methionine R oxide  H2O2 	0	0
-METSR_S1	L methionine S oxide reductase  trdrd 	0	0
-METSR_S2	L methionine S oxide reductase  H2O2 	0	0
-METSRabc	L methionine R oxide transport via ABC system	0	0
-METSabc	L methionine S oxide transport via ABC system	0	0
-METTRS	Methionyl-tRNA synthetase	0	0
-METabc	L-methionine transport via ABC system	0	0
-METt3	L methionine transport out via proton antiport	0	0
-MGSA	Methylglyoxal synthase	0	0
-MGt5	Magnesium transport in/out via permease (no H+)	1	0
-MI1PP	Myo-inositol 1-phosphatase	0	0
-MCITL2	Methylisocitrate lyase	1	0
-MLTG1	Maltodextrin glucosidase (maltotriose)	0	0
-MLTG2	Maltodextrin glucosidase (maltotetraose)	0	0
-MLTG3	Maltodextrin glucosidase (maltopentaose)	0	0
-MLTG4	Maltodextrin glucosidase (maltohexaose)	0	0
-MLTG5	Maltodextrin glucosidase (maltoheptaose)	0	0
-MLTG6	Maltodextrin glucosidase  dextrin 	0	0
-MLTG7	Maltodextrin glucosidase  isomaltose 	0	0
-MMSAD1	Methylmalonate semialdehyde dehydrogenase	0	0
-MMSAD2	Methylmalonate-semialdehyde dehydrogenase (propanol)	0	0
-MMSAD3	Methylmalonate-semialdehyde dehydrogenase (malonic semialdehyde)	0	0
-MMSDHir	Methylmalonate semialdehyde dehydrogenase  acylating 	0	0
-MNLpts	Mannitol transport via PEP:Pyr PTS	0	0
-MNNH	D-mannonate hydrolyase	0	0
-MNabc	Manganese transport via ABC system	0	0
-MNt2	Manganese transport in via proton symport	0	0
-MOBDabc	Molybdate transport via ABC system	0	0
-MOHMT	3-methyl-2-oxobutanoate hydroxymethyltransferase	0	0
-MOPSabc	MOPS transport via ABC system	0	0
-MPL	Maltose phosphorylase	0	0
-MSO3abc	Methanesulfonate transport via ABC system	0	0
-MTAN	Methylthioadenosine nucleosidase	0	0
-MTHFC	Methenyltetrahydrofolate cyclohydrolase	1	0
-MTHFD	Methylenetetrahydrofolate dehydrogenase (NADP)	1	0
-MTHFR3	5 10 methylenetetrahydrofolatereductase  NADPH 	0	0
-MTRI	5-methylthioribose-1-phosphate isomerase	1	0
-MTRK	5-methylthioribose kinase	0	0
-NACt	Nicotinic acid transport	0	0
-NADH4	NADH dehydrogenase  Menaquinone 7  no proton 	0	0
-NADK	NAD kinase	0	0
-NADK1	NAD kinase  GTP 	0	0
-NADK2	NAD kinase  dATP 	0	0
-NADK3	NAD kinase  dGTP 	0	0
-NADK4	NAD kinase  dCTP 	0	0
-NADK5	NAD kinase  dTTP 	0	0
-NADS1	NAD synthase (nh3)	0	0
-NAabcO	Sodium transport out via ABC system	0	0
-NAt3_1	Sodium proton antiporter  HNA is 11 	0	0
-NAPRT	NAPRTase (rev)	1	0
-NDPK1	Nucleoside-diphosphate kinase (ATP:GDP)	1	0
-NDPK2	Nucleoside-diphosphate kinase (ATP:UDP)	1	0
-NDPK3	Nucleoside-diphosphate kinase (ATP:CDP)	1	0
-NDPK4	Nucleoside-diphosphate kinase (ATP:dTDP)	1	0
-NDPK5	Nucleoside-diphosphate kinase (ATP:dGDP)	1	0
-NDPK6	Nucleoside-diphosphate kinase (ATP:dUDP)	1	0
-NDPK7	Nucleoside-diphosphate kinase (ATP:dCDP)	1	0
-NDPK8	Nucleoside-diphosphate kinase (ATP:dADP)	1	0
-NDPK9	Nucleoside diphosphate kinase  ATPIDP 	1	0
-NH4t	Ammonia reversible transport	1	0
-NMNHYD	Nicotinamide ribonucleotide phosphohydrolase	1	0
-NMNAT	Nicotinamide-nucleotide adenylyltransferase	1	0
-NNAM	Nicotinamidase	0	0
-NNATr	Nicotinate-nucleotide adenylyltransferase	1	0
-NNDPR	Nicotinate-nucleotide diphosphorylase (carboxylating)	0	0
-NO2t2r	Nitrite transport in via proton symport, reversible	0	0
-NO2t3	Nitrite transport out via proton antiport	0	0
-NO3t2	Nitrate transport in via proton symport	0	0
-NPHS	Naphthoate synthase	0	0
-NTD1	5'-nucleotidase (dUMP)	0	0
-NTD10	5'-nucleotidase (XMP)	0	0
-NTD2	5'-nucleotidase (UMP)	0	0
-NTD3	5'-nucleotidase (dCMP)	0	0
-NTD4	5'-nucleotidase (CMP)	0	0
-NTD5	5'-nucleotidase (dTMP)	0	0
-NTD6	5'-nucleotidase (dAMP)	0	0
-NTD7	5'-nucleotidase (AMP)	0	0
-NTD8	5'-nucleotidase (dGMP)	0	0
-NTD9	5'-nucleotidase (GMP)	0	0
-NTR3B	Nitrate reductase	0	0
-NTRIR2x	Nitrite Reductase (NADH)	0	0
-O2t	O2 transport  diffusion 	1	0
-OCBT_1	Ornithine carbamoyltransferase	1	0
-OCOAT1	3-oxoacid CoA-transferase (Succinyl-CoA: acetoacetate)	1	0
-OIVD1r	2-oxoisovalerate dehydrogenase (acylating; 4-methyl-2-oxopentaoate)	1	0
-OIVD2	2-oxoisovalerate dehydrogenase (acylating; 3-methyl-2-oxobutanoate)	0	0
-OIVD3	2-oxoisovalerate dehydrogenase (acylating; 3-methyl-2-oxopentanoate)	0	0
-OMCDC	2-Oxo-4-methyl-3-carboxypentanoate decarboxylation	0	0
-OMPDC	Orotidine-5'-phosphate decarboxylase	0	0
-ORNTA_1	Ornithine transaminase	0	0
-ORNTAC_1	Ornithine transacetylase	1	0
-ORNt2	Ornithine transport in via proton symport	0	0
-ORPT	Orotate phosphoribosyltransferase	1	0
-OXADC	Oxalate decarboxylase	0	0
-OXGDC	2 oxoglutarate decarboxylase	0	0
-P5CD	1-pyrroline-5-carboxylate dehydrogenase	0	0
-P5CR	Pyrroline-5-carboxylate reductase	0	0
-PALAt2	Palatinose transport in via proton symport	0	0
-PANTS	Pantothenate synthase	0	0
-PAPPT3	Phospho-N-acetylmuramoyl-pentapeptide-transferase (meso-2,6-diaminopimelate)	0	0
-PAPSR	Phosphoadenylyl-sulfate reductase (thioredoxin)	0	0
-PAP_BS	Phosphatidic acid phosphatase	0	0
-PBUTT	Phosphate butyryltransferase	1	0
-PC	Pyruvate carboxylase	0	0
-PDH	Pyruvate dehydrogenase	0	0
-PENCAC	Penicillin acylase	0	0
-PEPt6	Phosphoenolpyruvate transport in via proton symport	1	0
-PFK	Phosphofructokinase	0	0
-PFK_2	Phosphofructokinase	0	0
-PGAMT	Phosphoglucosamine mutase	1	0
-PGCD	Phosphoglycerate dehydrogenase	1	0
-GND	Phosphogluconate dehydrogenase	1	0
-BGLA1	6-phospho-beta-glucosidase	0	0
-PGI	Glucose-6-phosphate isomerase	1	0
-PGK	Phosphoglycerate kinase	1	0
-PGL	6-phosphogluconolactonase	0	0
-PGLYCP	Phosphoglycolate phosphatase	0	0
-PGM	Phosphoglycerate mutase	1	0
-PGMT	Phosphoglucomutase	1	0
-PGMT_B	B phosphoglucomutase	1	0
-PGPPH_BS	Phosphatidylglycerophosphate phosphohydrolase	0	0
-PHCYT_BS	Phosphatidate cytidylyltransferase	0	0
-PHETA1	Phenylalanine transaminase	1	0
-PHEt2r	L phenylalanine reversible transport via proton symport	1	0
-PHYT3	3 phytase	0	0
-PIabc	Phosphate transport via ABC system	0	0
-PIt2r	Phosphate reversible transport via symport	1	0
-PIt7	Phosphate transport in/out via three Na+ symporter	0	0
-PMANM	Phosphomannomutase	1	0
-PMDPHT	Pyrimidine phosphatase	0	0
-PMPK	Phosphomethylpyrimidine kinase	0	0
-PNTEH	Hydrolase Class   RXN R02973 	0	0
-PNTK	Pantothenate kinase	0	0
-PNTOt2	Pantothenate reversible transport via proton symport	1	0
-PPA	Inorganic diphosphatase	0	0
-PPAKr	Propionate kinase	1	0
-PPAt6	Propionate transport inout via proton symport	1	0
-PPBNGS	Porphobilinogen synthase	0	0
-PPCDC	Phosphopantothenoylcysteine decarboxylase	0	0
-PPCK	Phosphoenolpyruvate carboxykinase	0	0
-PPCOAC	Propionyl-CoA carboxylase	0	0
-PPIabc	Diphosphate transport in via ABC system	0	0
-PPM	Phosphopentomutase	1	0
-PPM2	Phosphopentomutase 2 (deoxyribose)	1	0
-PPNCL	Phosphopantothenate-cysteine ligase	0	0
-PPND	Prephenate dehydrogenase	0	0
-PPNDH	Prephenate dehydratase	0	0
-PPPGO	Protoporphyrinogen oxidase (aerobic)	0	0
-PPS	Phosphoenolpyruvate synthase	0	0
-PPTGS_BS	Peptidoglycan subunit synthesis	0	0
-PPTT	Trans pentaprenyltranstransferase	0	0
-PRAGSr	Phosphoribosylglycinamide synthase	0	0
-PRAIi	Phosphoribosylanthranilate isomerase (irreversible)	1	0
-PRAIS_1	Phosphoribosylaminoimidazole synthetase	0	0
-PRAMPC_1	Phosphoribosyl AMP cyclohydrolase	0	0
-PRASCSi	Phosphoribosylaminoimidazolesuccinocarboxamide synthase	1	0
-PRATPP	Phosphoribosyl-ATP pyrophosphatase	0	0
-PRFGS_1	Phosphoribosylformylglycinamidine synthase	0	0
-URATEt_1	Urate permease	0	0
-PRMICI	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase	1	0
-PRO1x	Proline oxidase  L proline  NAD 	0	0
-PROLBabc	Proline betaine transport in via ABC system	0	0
-PROt2r	L proline reversible transport via proton symport	0	0
-PRPPS	Phosphoribosylpyrophosphate synthetase	1	0
-PSCVT	3-phosphoshikimate 1-carboxyvinyltransferase	1	0
-PSDC_BS	Phosphatidylserine decarboxylase	0	0
-PSERT	Phosphoserine transaminase	1	0
-PSER_Dt6	D O Phosphoserine transport inout via proton symport	1	0
-PSER_Lt6	O Phospho L serine transport in via proton symport	1	0
-PSP_D	Phosphoserine phosphatase  D serine 	0	0
-PSP_L	Phosphoserine phosphatase (L-serine)	0	0
-PTA2	Phosphate acetyltransferase	1	0
-PTAr	Phosphotransacetylase	1	0
-APNPT	ATP:pantetheine 4'-phosphotransferase	1	0
-PTHPS	6-pyruvoyltetrahydropterin synthase	0	0
-PTPATi	Pantetheine-phosphate adenylyltransferase	1	0
-PUNP1	Purine-nucleoside phosphorylase (Adenosine)	1	0
-PUNP2	Purine-nucleoside phosphorylase (Deoxyadenosine)	1	0
-PUNP3	Purine-nucleoside phosphorylase (Guanosine)	1	0
-PUNP4	Purine-nucleoside phosphorylase (Deoxyguanosine)	1	0
-PUNP5	Purine-nucleoside phosphorylase (Inosine)	1	0
-PUNP6	Purine-nucleoside phosphorylase (Deoxyinosine)	1	0
-PUNP7	Purine-nucleoside phosphorylase (Xanthosine)	1	0
-PUNP8	Purine nucleoside phosphorylase  nebularine 	1	0
-PURabc1	Puromycin efflux  via ABC system	0	0
-PYK	Pyruvate kinase	0	0
-PYNP1	Pyrimidine-nucleoside phosphorylase (cytosine)	1	0
-PYNP2r	Pyrimidine-nucleoside phosphorylase (uracil)	1	0
-PYRIS	Pyridoxal 5  phsophate synthase	0	0
-PYRt2	Pyruvate transport in via proton symport	1	0
-Q23DO	Quercetin 2 3 dioxygenase	0	0
-QULNS	Quinolinate synthase	0	0
-RAFFINt2	Raffinose transport in via proton symport	0	0
-RBFK	Riboflavin kinase	0	0
-RBFSa	Riboflavin synthase	0	0
-RBFSb	Riboflavin synthase	0	0
-RBK_Dr	D-ribulokinase (D-ribulose)	0	0
-RBK	Ribokinase	1	0
-RBK_L1	L-ribulokinase (L-ribulose)	0	0
-RBP4E	L-ribulose-phosphate 4-epimerase	1	0
-RHCYS	5 deoxyribos 5 ylhomocysteinase	0	0
-RIBFLVt2	Riboflavin transport in via proton symport	1	0
-RIBabc	D-ribose transport via ABC system	0	0
-RIBabc1	D ribose transport out via ABC system	0	0
-PNP	Purine nucleoside phosphorylase	1	0
-RMI	L-rhamnose isomerase	1	0
-RMK	Rhamnulokinase	0	0
-RMNt	L-rhamnose transport via proton symport	0	0
-RMPA	Rhamnulose-1-phosphate aldolase	1	0
-RNDR1	Ribonucleoside-diphosphate reductase (ADP)	0	0
-RNDR2	Ribonucleoside-diphosphate reductase (GDP)	0	0
-RNDR3	Ribonucleoside-diphosphate reductase (CDP)	0	0
-RNDR4	Ribonucleoside-diphosphate reductase (UDP)	0	0
-RPE	Ribulose 5-phosphate 3-epimerase	1	0
-RPI	Ribose-5-phosphate isomerase	1	0
-S6PG	Salicin 6 phosphate glucohydrolase	0	0
-SADT	Sulfate adenylyltransferase	1	0
-SALADC2	Sulfinoalanine decarboxylase	0	0
-SALCpts	Salicin transport via PEP:Pyr PTS	0	0
-SARCOX	Sarcosine oxidase	0	0
-SBTD_D2	D sorbitol dehydrogenase  D fructose producing 	0	0
-SBTt2	D sorbitol transport in via proton symport	0	0
-SDPDS	Succinyl-diaminopimelate desuccinylase	0	0
-SERAT	Serine O-acetyltransferase	1	0
-SERD_D	D-serine deaminase	0	0
-SERD_L	L-serine deaminase	0	0
-DSERt2	D-serine transport via proton symport	1	0
-SERt2r	L serine reversible transport via proton symport	0	0
-SHCHD2_1	Sirohydrochlorin dehydrogenase  NAD 	0	0
-SHCHF_2	Sirohydrochlorin ferrochetalase	0	0
-SHK3Dr	Shikimate dehydrogenase	1	0
-SHKK	Shikimate kinase	0	0
-SHSL1	O-succinylhomoserine lyase (L-cysteine)	0	0
-SHSL2	O succinylhomoserine lyase  H2S 	0	0
-SHSL3	O succinylhomoserine lyase  methanethiol 	0	0
-SHSL4r	O succinylhomoserine lyase  elimination   reversible	0	0
-SLCYSS	O-acetyl-L-serine sulfhydrylase	0	0
-SO4t2	Sulfate transport in via proton symport	0	0
-SPODM	Superoxide dismutase	1	0
-SORD_D	D sorbitol dehydrogenase	1	0
-SPMDAT1	Spermidine acetyltransferase	0	0
-SPMDAT3	Spermidine acetyltransferase  spermine 	0	0
-SPMDt3i	Spermidine transport in via proton antiport	0	0
-SPMS	Spermidine synthase	0	0
-SPRMS	Spermine synthase	0	0
-SRB_Lt	L sorbose reversible transport	1	0
-SSALy	Succinate-semialdehyde dehydrogenase (NADP)	0	0
-SUCBZL	O-succinylbenzoate-CoA ligase	0	0
-SUCBZS	O-succinylbenzoate-CoA synthase	0	0
-SUCCt2r	Succinate transport via proton symport	1	0
-SUCD1	Succinate dehydrogenase	1	0
-SUCD5_BS	Succinate dehydrogenase	0	0
-SUCR	Sucrose hydrolyzing enzyme	0	0
-SUCOAS	Succinyl-CoA synthetase (ADP-forming)	1	0
-SUCpts	Sucrose transport via PEP:Pyr PTS	0	0
-SULAabc	Sulfoacetate transport via ABC system	0	0
-SULR_1	Sulfite reductase  NADPH2 	1	0
-EX_f6p_e	D-fructose 6-phosphate exchange	0	0
-TAGURr	Tagaturonate reductase	1	0
-TALA	Transaldolase	1	0
-TARTDC	Tartrate decarboxylase	0	0
-TARTRDH	Tartrate dehydrogenase	1	0
-TARTRDH2	Tartrate dehydrogenase	1	0
-TAURabc	Taurine transport via ABC system	0	0
-TECA1S45	Glycerol teichoic acid  n45   unlinked  unsubstituted	0	0
-TECA2S45	Glycerol teichoic acid  n45   unlinked  D ala substituted	0	0
-TECA3S45	Glycerol teichoic acid  n45   unlinked  glucose substituted	0	0
-TECA4S_BS	Minor teichoic acid synthesis  n30 	0	0
-TEICH45	Teichuronic acid  n45   unlinked  GalNAc GlcA repeated	1	0
-TGBPA	Tagatose-bisphosphate aldolase	1	0
-THIOGabc	Thioglycolate transport via ABC system	0	0
-THMDt2	Thymidine transport in via proton symport	0	0
-THMt6	Thymine transport inout via proton symport	1	0
-THRD	L-threonine dehydrogenase	0	0
-THRD_L	L-threonine deaminase	0	0
-THRS	Threonine synthase	0	0
-THRt2r	L threonine reversible transport via proton symport	0	0
-TKT1	Transketolase	1	0
-TKT2	Transketolase	1	0
-TMDK1	Thymidine kinase (ATP:thymidine)	0	0
-TMDPP	Thymidine phosphorylase	1	0
-TMDS	Thymidylate synthase	0	0
-TMN	Thiaminase	0	0
-TMPHi	Trimetaphosphate hydrolase	0	0
-TMPK	Thiamine-phosphate kinase	0	0
-TMPPP	Thiamine-phosphate diphosphorylase	0	0
-TMPt6	TMP transport inout via proton symport	1	0
-TPI	Triose-phosphate isomerase	1	0
-TRDR	Thioredoxin reductase (NADPH)	0	0
-TRE6PH	Trehalose-6-phosphate hydrolase	0	0
-TREpts	Trehalose transport via PEP:Pyr PTS	0	0
-TRPAS1	Tryptophanase  L cysteine 	0	0
-TRPS1	Tryptophan synthase (indoleglycerol phosphate)	0	0
-TRPt2r	L tryptophan reversible transport via proton symport	0	0
-TYRTA	Tyrosine transaminase	1	0
-TYRt2r	L tyrosine reversible transport via proton symport	1	0
-UAAGDS	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelate synthetase	0	0
-UAG2E	UDP-N-acetylglucosamine 2-epimerase	1	0
-UAG2EMA	UDP-N-acetyl-D-glucosamine 2-epimerase (Hydrolysis)	1	0
-UAG4E	UDP N acetylglucosamine 4 epimerase	0	0
-UAGCVT	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	0	0
-UAGDP	UDP-N-acetylglucosamine diphosphorylase	1	0
-UAGPT3	UDP-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide)pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	0	0
-UAMAGS	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase	0	0
-UAMAS	UDP-N-acetylmuramoyl-L-alanine synthetase	0	0
-UAPGR	UDP-N-acetylenolpyruvoylglucosamine reductase	0	0
-UDCPDP	Undecaprenyl-diphosphatase	0	0
-UDPG4E	UDPglucose 4-epimerase	1	0
-UDPGD	UDPglucose 6-dehydrogenase	1	0
-UGLYCH	Ureidoglycolate hydrolase	1	0
-UGMDDS	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine synthetase	0	0
-UGT1_BS	UDP glucosyltransferase  monoglucosyl 	0	0
-UGT2_BS	UDP glucosyltransferase  triglucosyl 	0	0
-UGT_BS	UDP glucosyltransferase  diglucosyl 	0	0
-UMPt6	UMP transport in via proton symport	1	0
-UNK5	2 keto 4 methylthiobutyrate transamination	0	0
-UPP3MT_2	Uroporphyrinogen methyltransferase	0	0
-UPP3S	Uroporphyrinogen-III synthase	0	0
-UPPDC1	Uroporphyrinogen decarboxylase (uroporphyrinogen III)	0	0
-UPPRT	Uracil phosphoribosyltransferase	0	0
-URAt2	Uracil transport in via proton symport	1	0
-URCN	Urocanase	0	0
-UREA	Urease	0	0
-UREAt	Urea transport via facilitate diffusion	1	0
-URIC	Uricase	0	0
-UMPK	UMP kinase	0	0
-URIDK2r_copy1	Uridylate kinase (dUMP)	0	0
-URIDK2r_copy2	Uridylate kinase (dUMP)	1	0
-URIK1	Uridine kinase  ATPUridine 	0	0
-URIK2	Uridine kinase (GTP:Uridine)	0	0
-URIK3	Uridine kinase (ITP:Uridine)	0	0
-URIt2	Uridine transport in via proton symport	0	0
-VALDHr	Valine dehydrogenase	1	0
-VALTA	Valine transaminase	1	0
-VALt2r	L valine reversible transport via proton symport	0	0
-X00002	Lumped reaction for synthesis of pime	0	0
-HXAND	Hypoxanthine dehydrogenase	0	0
-XAND	Xanthine dehydrogenase	0	0
-XANt2	Xanthine transport in via proton symport	1	0
-XPPT	Xanthine phosphoribosyltransferase	0	0
-XTSNt2	Xanthosine transport in via proton symport	1	0
-XYL14BASE	Xylan 1 4 beta xylosidase	0	0
-XYLI1	Xylose isomerase	1	0
-XYLI2	Xylose isomerase	1	0
-XYLK	Xylulokinase	0	0
-XYLt2	D-xylose transport in via proton symport	0	0
-ZNabc	Zinc transport via ABC system	0	0
-ZN2t4	Zinc transport out via antiport	0	0
-BALAt2r	Beta Alanine transport in via proton symport	0	0
+#name	description	is_reversible	data_source	is_spontaneous
+23CN2P1	2__3__cyclic_nucleotide_2__phosphodiesterase__2__3__cyclc_AMP_	1	iYO844	0
+23CN2P2	2__3__cyclic_nucleotide_2__phosphodiesterase__2__3__cyclic_UMP_	1	iYO844	0
+23CN2P3	2__3__cyclic_nucleotide_2__phosphodiesterase__2__3__cyclic_CMP_	1	iYO844	0
+23CN2P4	2__3__cyclic_nucleotide_2__phosphodiesterase__2__3___cyclic_GMP_	1	iYO844	0
+26DPAi	Dipicolinate_synthase	0	iYO844	0
+2HXMPt6	2__hydroxymethyl_phenol_transport_inout_via_proton_symport	1	iYO844	0
+2PGLYCt6	2_Phosphoglycolate_transport_inout_via_proton_symport	1	iYO844	0
+2PGt6	D_Glycerate_2_phosphate_transport_inout_via_proton_symport	1	iYO844	0
+2S6HCCi	2_succinyl_6_hydroxy_2_4_cyclohexadiene_1_carboxylate_synthase	0	iYO844	0
+3AMBAt2	3_aminobutyrate_transport_in_via_proton_symport	0	iYO844	0
+3AMPt6	3__AMP_transport_inout_via_proton_symport	1	iYO844	0
+3CMPt6	3__CMP_transport_in_via_proton_symport	1	iYO844	0
+3GMPt6	Guanosine_3__phsophate_transport_inout_via_proton_symport	1	iYO844	0
+3NUCLE1	3__nucleotidase__3__AMP_	1	iYO844	0
+3NUCLE2	3__nucleotidase__3__UMP_	1	iYO844	0
+3NUCLE3	3__nucleotidase__3__cMP_	1	iYO844	0
+3NUCLE4	3__nucleotidase__guanosine_3__phosphate_	1	iYO844	0
+3PGt6	3_Phospho_D_glycerate_transport_inout_via_proton_symport	1	iYO844	0
+3UMPt6	3__UMP_transport_in_via_proton_symport	1	iYO844	0
+5MTRt2	5_Methylthio_D_ribose_transport_inout_via_proton_symport	1	iYO844	0
+6PGCt6	6_Phospho_D_gluconate_transport_inout_via_proton_symport	1	iYO844	0
+AAMYL_1	Alpha_amylase	0	iYO844	0
+AB6PGH	Arbutin_6-phosphate_glucohydrolase	0	iYO844	0
+ABTA	4-aminobutyrate_transaminase	1	iYO844	0
+ABTt_1	L_arabinitol_transport_via_passive_diffusion	1	iYO844	0
+ABUTD	Aminobutyraldehyde_dehydrogenase	0	iYO844	0
+MACCOAT	2-Methylacetyl-CoA_thiolase	1	iYO844	0
+ACACT1r	Acetyl-CoA_C-acetyltransferase	1	iYO844	0
+ACACT2r	Acetyl-CoA_C-acyltransferase_(butanoyl-CoA)_(r)	1	iYO844	0
+ACACT3r	Acetyl-CoA_C-acyltransferase_(hexanoyl-CoA)_(r)	1	iYO844	0
+ACACT4r	Acetyl-CoA_C-acyltransferase_(octanoyl-CoA)_(r)	1	iYO844	0
+ACACT5r_1	Acetyl_CoA_C_acyltransferase__decanoyl_CoA_	1	iYO844	0
+ACACT6r_1	Acetyl_CoA_C_acyltransferase__dodecanoyl_CoA_	1	iYO844	0
+ACACT7r	Acetyl-CoA_C-acyltransferase_(tetradecanoyl-CoA)_(r)	1	iYO844	0
+ACACt2	Acetoacetate_transport_via_proton_symport	1	iYO844	0
+ACCOAC	Acetyl-CoA_carboxylase	0	iYO844	0
+ACGApts	N-Acetyl-D-glucosamine_transport_via_PEP:Pyr_PTS	0	iYO844	0
+ACGK	Acetylglutamate_kinase	0	iYO844	0
+ACGS	N-acetylglutamate_synthase	0	iYO844	0
+ACHBS	2-aceto-2-hydroxybutanoate_synthase	0	iYO844	0
+ACKr	Acetate_kinase	1	iYO844	0
+ACLDC	Acetolactate_decarboxylase	0	iYO844	0
+ACLS	Acetolactate_synthase	0	iYO844	0
+ACMANAt2	N_acetyl_D_mannosamine_proton_symport	0	iYO844	0
+ACNAMt2	N-acetylneuraminate_proton_symport	0	iYO844	0
+ACNPLYS	N-Acetylneuraminate_pyruvate-lyase	1	iYO844	0
+ACOAD1	Acyl-CoA_dehydrogenase_(butanoyl-CoA)	1	iYO844	0
+ACOADH2	Acyl_CoA_dehydrogenase__isobutyryl_CoA_	0	iYO844	0
+ACOAD2	Acyl-CoA_dehydrogenase_(hexanoyl-CoA)	1	iYO844	0
+ACOAD20	Acyl_CoA_dehydrogenase__2_methylbutnoyl_CoA_	0	iYO844	0
+ACOAD3	Acyl-CoA_dehydrogenase_(octanoyl-CoA)	1	iYO844	0
+ACOAD4_1	Acyl_CoA_dehydrogenase__decanoyl_CoA_	1	iYO844	0
+ACOAD5_1	Acyl_CoA_dehydrogenase__dodecanoyl_CoA_	1	iYO844	0
+ACOAD6	Acyl-CoA_dehydrogenase_(tetradecanoyl-CoA)	1	iYO844	0
+ACOAD7	Acyl-CoA_dehydrogenase_(hexadecanoyl-CoA)	1	iYO844	0
+ACODA_1	Acetylornithine_deacetylase	0	iYO844	0
+ACONT	Aconitate_hydratase	1	iYO844	0
+ACOTA	Acetylornithine_transaminase	1	iYO844	0
+ACPS1	Acyl-carrier_protein_synthase	0	iYO844	0
+ACPpds	[acyl-carrier-protein]_phosphodiesterase	0	iYO844	0
+ACS	Acetyl-CoA_synthetase	0	iYO844	0
+ACS2	Acetyl-CoA_synthase_(propionate)	0	iYO844	0
+ACTD2	Acetoin_dehydrogenase	0	iYO844	0
+ACTNabc	Acetoin_transport_via_ABC_system	0	iYO844	0
+ACTNabc1	Acetoin_efflux__via_ABC_system	0	iYO844	0
+ACt2r	Acetate_reversible_transport_via_proton_symport	1	iYO844	0
+ADADir	Deoxycytidine_kinase	0	iYO844	0
+ADCL	4-aminobenzoate_synthase	0	iYO844	0
+ADCS	4-amino-4-deoxychorismate_synthase	0	iYO844	0
+ADD	Adenine_deaminase	0	iYO844	0
+ADEt2	Adenine_transport_in_via_proton_symport	0	iYO844	0
+ADK1	Adenylate_kinase	1	iYO844	0
+ADK2	Adenylate_kinase_(Inorganic_triphosphate)	1	iYO844	0
+ADMDC	Adenosylmethionine_decarboxylase	1	iYO844	0
+ADNK1	Adenosine_kinase	0	iYO844	0
+ADNt2	Adenosine_transport_in_via_proton_symport	1	iYO844	0
+ADPDA	N6_acetyl_LL_2_6_diaminoheptanedioate_amidohydrolase	1	iYO844	0
+ADPRDP	ADPribose_diphosphatase	0	iYO844	0
+ADPT	Adenine_phosphoribosyltransferase	0	iYO844	0
+ADSK	Adenylyl-sulfate_kinase	1	iYO844	0
+ADSL1r	Adenylsuccinate_lyase	1	iYO844	0
+ADSL2r	Adenylosuccinate_lyase	1	iYO844	0
+ADSS	Adenylosuccinate_synthase	0	iYO844	0
+AGDC	N-acetylglucosamine-6-phosphate_deacetylase	0	iYO844	0
+AGMT	Agmatinase	0	iYO844	0
+AGPATr_BS	1_acylglycerol_3_phosphate_O_acyltransferase	1	iYO844	0
+AGPR	N-acetyl-g-glutamyl-phosphate_reductase	1	iYO844	0
+AHCYSNS	S-adenosylhomocysteine_nucleosidase	0	iYO844	0
+AHMMPS_1	4_amino_5_hydroxymethyl_2_methylpyrimidine_synthetase	0	iYO844	0
+AHSERL3	Cysteine_synthase__Selenide_	1	iYO844	0
+AHSERL4	Cysteine_synthase__Thiosulfate_	1	iYO844	0
+AICART	Phosphoribosylaminoimidazolecarboxamide_formyltransferase	1	iYO844	0
+AIRC1	Phosphoribosylaminoimidazole_carboxylase__ATP_dependent_	0	iYO844	0
+AKGDH	2-Oxogluterate_dehydrogenase	0	iYO844	0
+AKGt2r	2_oxoglutarate_reversible_transport_via_symport	0	iYO844	0
+AKP1	Alkaline_phosphatase__Dihydroneopterin_	0	iYO844	0
+ALAALAr	D-alanine-D-alanine_ligase_(reversible)	1	iYO844	0
+ALAD_L	L-alanine_dehydrogenase	0	iYO844	0
+ALAR	Alanine_racemase	1	iYO844	0
+ALATA_L	L-alanine_transaminase	1	iYO844	0
+DALAt2r	D-alanine_transport_via_proton_symport	0	iYO844	0
+ALAt2r	L_alanine_reversible_transport_via_proton_symport	0	iYO844	0
+ALCD19y	Alcohol_dehydrogenase__glycerol__NADP_	1	iYO844	0
+ALCD19_L	Alcohol_dehydrogenase__L_glyceraldehyde_to_glycerol__NADP_	1	iYO844	0
+ALCD2y	Alcohol_dehydrogenase_(ethanol,_NADP)	1	iYO844	0
+ALDD10	Aldehyde_dehydrogenase__decanal__NAD_	0	iYO844	0
+ALDD11	Aldehyde_dehydrogenase__undecanal__NAD_	0	iYO844	0
+ALDD12	Aldehyde_dehydrogenase__dodecanal__NAD_	0	iYO844	0
+ALDD13	Aldehyde_dehydrogenase__tridecanal__NAD_	0	iYO844	0
+ALDD14	Aldehyde_dehydrogenase__tetradecanal__NAD_	0	iYO844	0
+ALDD15	Aldehyde_dehydrogenase__pentadecanal__NAD_	0	iYO844	0
+ALDD16	Aldehyde_dehydrogenase__hexadecanal__NAD_	0	iYO844	0
+ALDD17	Aldehyde_dehydrogenase__heptadecanal__NAD_	0	iYO844	0
+ALDD18	Aldehyde_dehydrogenase__octadecanal__NAD_	0	iYO844	0
+ALDD1	Aldehyde_dehydrogenase__formaldehyde__NAD_	0	iYO844	0
+ALDD20x_1	Aldehyde_dehydrogenase__NAD_	0	iYO844	0
+ALDD2x	Aldehyde_dehydrogenase_(acetaldehyde,_NAD)	0	iYO844	0
+ALDD3	Aldehyde_dehydrogenase__propanal__NAD_	0	iYO844	0
+GLXO1	Glyoxylate_oxidase	0	iYO844	0
+ALDD31_1	Aldehyde_dehydrogenase__aminoacetaldehyde__NAD_	0	iYO844	0
+ALDD32	Aldehyde_dehydrogenase__D_Glucuronolactone__NADH_	0	iYO844	0
+ALDD4	Aldehyde_dehydrogenase_(butanal,_NAD)	0	iYO844	0
+ALDD4x	Aldehyde_dehydrogenase__methylmalonate_semialdehyde__NAD_	0	iYO844	0
+ALDD5	Aldehyde_dehydrogenase__pentanal__NAD_	0	iYO844	0
+ALDD6	Aldehyde_dehydrogenase__hexanal__NAD_	0	iYO844	0
+ALDD7	Aldehyde_dehydrogenase__heptanal__NAD_	0	iYO844	0
+ALDD8	Aldehyde_dehydrogenase__octanal__NAD_	0	iYO844	0
+GLYALDDr	D-Glyceraldehyde_dehydrogenase	0	iYO844	0
+ALDD9	Aldehyde_dehydrogenase__nonanal__NAD_	0	iYO844	0
+ALKP	Alkaline_phosphatase	1	iYO844	0
+ALLTNt2r	Allantoin_transport_in_via_proton_symport	0	iYO844	0
+ALLTAHr	Allantoate_amidinohydrolase__reversible	1	iYO844	0
+ALLTN	Allantoinase	0	iYO844	0
+ALTRH	Altronate_hydrolase	0	iYO844	0
+AMAA	N-acetylmuramoyl-L-alanine_amidase	0	iYO844	0
+AMAOTr	Adenosylmethionine-8-amino-7-oxononanoate_transaminase	1	iYO844	0
+AMMQT7	S_adenosylmethione2_demthylmenaquinone_methyltransferase__menaquinone_7_	0	iYO844	0
+AMPt6	AMP_transport_inout_via_proton_symport	1	iYO844	0
+ANPRT	Anthranilate_phosphoribosyltransferase	0	iYO844	0
+ANS	Anthranilate_synthase	0	iYO844	0
+ANTIMt1	Antimonite__transporter_via_uniport	0	iYO844	0
+AOXSr	8-amino-7-oxononanoate_synthase	0	iYO844	0
+APATi	Tetrahydrodipicolinate_acetyltransferase	0	iYO844	0
+APRAUR	5-amino-6-(5-phosphoribosylamino)uracil_reductase	0	iYO844	0
+APSR	Adenosine_5'-phosphosulfate_reductase;	0	iYO844	0
+APTA1i	Acetyl_L_L_diaminopimelate_aminotransferase	0	iYO844	0
+ARABDI	L-fucose_isomerase	1	iYO844	0
+ARABRr	Arabinose_reductase	1	iYO844	0
+ARAB_Dt	D_arabinose_reversible_transport	1	iYO844	0
+ARAI	L-arabinose_isomerase	1	iYO844	0
+ARBTpts	Arbutin_transport_via_PEPPyr_PTS	0	iYO844	0
+ARBabc	L-arabinose_transport_via_ABC_system	0	iYO844	0
+ARBt2r	L-arabinose_transport_via_proton_symport	0	iYO844	0
+ARGDC	Arginine_decarboxylase	0	iYO844	0
+ARGKr	ATPL_arginine_N_phosphotransferase	1	iYO844	0
+ARGN_1	Arginase	0	iYO844	0
+ARGPt6	L_arginine_phosphate_transport_inout_via_proton_symport	1	iYO844	0
+ARGSL	Argininosuccinate_lyase	1	iYO844	0
+ARGSS	Argininosuccinate_synthase	1	iYO844	0
+ARGabc	L-arginine_transport_via_ABC_system	0	iYO844	0
+ARGt2r	L_arganine_reversible_transport_via_proton_symport	0	iYO844	0
+ARSENBabc	Arsenobetaine_transport_in_via_ABC_system	0	iYO844	0
+ARSENBt2	Arsenobetaine_transport_in_via_proton_symport	0	iYO844	0
+ARSNAt1	Arsenate_transporter	0	iYO844	0
+ARSt1	Arsenite_transporter_via_uniport	0	iYO844	0
+ASAD	Aspartate-semialdehyde_dehydrogenase	1	iYO844	0
+ASNN	L-asparaginase	0	iYO844	0
+ASNS1	Asparagine_synthase_(glutamine-hydrolysing)	0	iYO844	0
+ASNt2r	L_asparagine_reversible_transport_via_proton_symport	0	iYO844	0
+ASP1DC	Aspartate_1-decarboxylase	0	iYO844	0
+ASPCT	Aspartate_carbamoyltransferase	0	iYO844	0
+ASPK	Aspartate_kinase	1	iYO844	0
+ASPO6	L-aspartate_oxidase	0	iYO844	0
+ASPO1	L-aspartate_oxidase	0	iYO844	0
+ASPT	L-aspartase	0	iYO844	0
+ASPTA	Aspartate_transaminase	1	iYO844	0
+ASPt2r	L_aspartate_reversible_transport_via_proton_symport	0	iYO844	0
+ATPM	ATP_maintenance_requirement	0	iYO844	0
+ATPPRT	ATP_phosphoribosyltransferase	1	iYO844	0
+ATPS4r	ATP_synthase_(four_protons_for_one_ATP)	1	iYO844	0
+BETALDHx	Betaine-aldehyde_dehydrogenase	0	iYO844	0
+BG_CELLB	Beta_glucosidase__cellobiose_	0	iYO844	0
+BG_MADG	Beta_glucosidase__methyl_alpha_D_glucoside_	0	iYO844	0
+BG_MBDG	Beta_glucosidase	0	iYO844	0
+BILEt4	Bile_acid_transport_in_via_sodium_symport	0	iYO844	0
+BLACT	Beta_lactamase	1	iYO844	0
+BIOMASS_BS_10	B_subtilis_biomass__demand_	0	iYO844	0
+BTDD_RR	_R_R__butanediol_dehydrogenase	1	iYO844	0
+BTDt6_RR	Butanediol_transport_inout_via_proton_symport	1	iYO844	0
+BTS_1	Biotin_synthase	0	iYO844	0
+BUTKr	Butyrate_kinase	1	iYO844	0
+BUTSabc	Butanesulfonate_transport_via_ABC_system	0	iYO844	0
+CA2abc1	Calcium_efflux__via_ABC_system	0	iYO844	0
+CAT	Catalase	0	iYO844	0
+CAt4	Calcium_transport_inout_via_proton_antiporter	1	iYO844	0
+CBL2abc	Cobalamin_uptake_in_via_ABC_transport	0	iYO844	0
+CBPS	Carbamoyl-phosphate_synthase_(glutamine-hydrolysing)	0	iYO844	0
+CD2abc1	Cadmium_transport_out_via_ABC_system	0	iYO844	0
+CD2t4	Cadminum_transport_out_via_antiport	0	iYO844	0
+CDGPT_BS	CDPdiacylglycerolsn_glycerol_3_phosphate_3_phosphatidyltransferase	0	iYO844	0
+CDPDSP_BS	CDPdiacylglycerol_serine_O_phosphatidyltransferase	0	iYO844	0
+CDPMEK	4-(cytidine_5'-diphospho)-2-C-methyl-D-erythritol_kinase	0	iYO844	0
+CELBpts	Cellobiose_transport_via_PEPPyr_PTS	0	iYO844	0
+CHCOAL	6-carboxyhexanoate-CoA_ligase	0	iYO844	0
+CHLabc	Choline_transport_via_ABC_system	0	iYO844	0
+CHOLD2	Choline_dehydrogenase__FAD_dependent_	0	iYO844	0
+CHOLSabc_1	Choline_sulfate_transport_in_via_ABC_system	0	iYO844	0
+CHORM	Chorismate_mutase	0	iYO844	0
+CHORS	Chorismate_synthase	0	iYO844	0
+CHORt2	Chorismate_transport_inout_via_proton_symport	1	iYO844	0
+CITRt2r	Citrulline_reversible_transport_via_proton_symport	0	iYO844	0
+CITt10	Citrate_transport_in_via_Mg_complex	0	iYO844	0
+CITt11	Citrate_transport_in_via_Mn_complex	0	iYO844	0
+CITt12	Citrate_transport_in_via_Ni_complex	0	iYO844	0
+CITt13	Citrate_transport_in_via_Co_complex	0	iYO844	0
+CITt14	Citrate_transport_in_via_Ca_complex	0	iYO844	0
+CITt15	Citrate_transport_in_via_Zn_complex	0	iYO844	0
+CITt2r	Citrate_reversible_transport_via_symport	1	iYO844	0
+CLPNS2_BS	Cardiolipin_synthase	0	iYO844	0
+CMPt6	CMP_transport_inout_via_proton_symport	1	iYO844	0
+CO2t	CO2_transporter_via_diffusion	1	iYO844	0
+CPPPGO	Coproporphyrinogen_oxidase_(O2_required)	0	iYO844	0
+CRNabc	L-carnitine_transport_via_ABC_system	0	iYO844	0
+CRO4t3	Chromate_transport_out_via_proton_antiport	0	iYO844	0
+CS	Citrate_synthase	0	iYO844	0
+CSNt2	Cytosine_transport_in_via_proton_symport	0	iYO844	0
+CTBTabc	Crotonobetaine_transport_in_via_ABC_system	0	iYO844	0
+CTPS1	CTP_synthase__NH3_	0	iYO844	0
+CTPS2	CTP_synthase_(glutamine)	0	iYO844	0
+CYOO3	Cytochrome_c_oxidase__He___2_	0	iYO844	0
+CYOR3m	Cytochrome_c_reductase__menaquinol_7_3_protons_	0	iYO844	0
+CYSGLYt2ir	Cys_Gly_transport_in_via_symport	0	iYO844	0
+CYSS_2	Cysteine_synthase	0	iYO844	0
+CYSTGL	Cystathionine_g_lyase	0	iYO844	0
+CYSTL	Cystathionine_b-lyase	0	iYO844	0
+CYSTS	Cystathionine_beta_synthase	0	iYO844	0
+CYSTabc	L_cystine_transport_via_ABC_system	0	iYO844	0
+CYSabc	L-cysteine_transport_via_ABC_system	0	iYO844	0
+CYTB_B2	Menaquinol_oxidase__71_protons_	0	iYO844	0
+CYTB_B3	Menauinol_oxidase__72_protons_	0	iYO844	0
+CYTD	Cytidine_deaminase	0	iYO844	0
+CYTDK1	ATP:cytidine_5'-phosphotransferase	0	iYO844	0
+CYTDK2	Cytidine_kinase_(GTP)	0	iYO844	0
+ITCY	ITP:cytidine_5'-phosphotransferase	0	iYO844	0
+CYTDt2	Cytidine_transport_in_via_proton_symport	0	iYO844	0
+CYTK1	Cytidylate_kinase_(CMP)	1	iYO844	0
+CYTK2	Cytidylate_kinase_(dCMP)	1	iYO844	0
+CYTOM	Cytosine_5_methyltransferase	1	iYO844	0
+Cut1	Copper_export_via_ATPase	0	iYO844	0
+D4DGCD	5_dehydro_4_deoxyglucarate_dehydratase	0	iYO844	0
+DAAOP	D_alanyl_aminopeptidase	0	iYO844	0
+DADK	Deoxyadenylate_kinase	1	iYO844	0
+DADNK	Deoxyadenosine_kinase	0	iYO844	0
+DADNt2	Deoxyadenosine_transport_in_via_proton_symport	0	iYO844	0
+DAGK_BS	Diacylglycerol_kinase	0	iYO844	0
+DDPA	3-deoxy-D-arabino-heptulosonate_7-phosphate_synthetase	0	iYO844	0
+DALAOX	D_amino_acid_oxidase	0	iYO844	0
+DAPDC	Diaminopimelate_decarboxylase	0	iYO844	0
+DAPE	Diaminopimelate_epimerase	1	iYO844	0
+DB4PS	3,4-Dihydroxy-2-butanone-4-phosphate_synthase	0	iYO844	0
+DBTS	Dethiobiotin_synthase	0	iYO844	0
+DCMPDA	DCMP_deaminase	0	iYO844	0
+CMPDAi	CMP_deaminase	0	iYO844	0
+DCYTD	Deoxycytidine_deaminase	0	iYO844	0
+DCYTt2	Deoxycytidine_transport_in_via_proton_symport	0	iYO844	0
+DDGLCNt2r	2-dehydro-3-deoxy-D-gluconate_transport_via_proton_symport,_reversible	1	iYO844	0
+DDGLK	2-dehydro-3-deoxygluconokinase	0	iYO844	0
+DEXTRINt2	Dextrin_transport_in_via_proton_symport	0	iYO844	0
+DGK1	Deoxyguanylate_kinase_(dGMP:ATP)	1	iYO844	0
+DGNSK	Deoxyguanosine_kinase	0	iYO844	0
+DHAD1	Dihydroxy-acid_dehydratase_(2,3-dihydroxy-3-methylbutanoate)	0	iYO844	0
+DHAD2	Dihydroxy-acid_dehydratase_(2,3-dihydroxy-3-methylpentanoate)	0	iYO844	0
+DHAD3	Dihydroxy_acid_dehydratase__2_3_dihydroxy_3_methylpentanoate_	0	iYO844	0
+DHAt	Dihydroxyacetone_transport_via_facilitated_diffusion	1	iYO844	0
+DHBD	2,3-dihydro-2,3-dihydroxybenzoate_dehydrogenase	1	iYO844	0
+DHBS	2,3-dihydroxybenzoate_adenylate_synthase	0	iYO844	0
+DHDPRy	Dihydrodipicolinate_reductase_(NADPH)	0	iYO844	0
+DHDPS	Dihydrodipicolinate_synthase	0	iYO844	0
+FOLR2	Folate_reductase	1	iYO844	0
+DHFR	Dihydrofolate_reductase	1	iYO844	0
+DHFS	Dihydrofolate_synthase	0	iYO844	0
+DHNAOT7	1_4_dihydroxy_2_naphthoate_octaprenyltransferase	0	iYO844	0
+DHNPA_1	Dihydroneopterin_aldolase	0	iYO844	0
+DHORDi	Dihydoorotic_acid_dehydrogenase__irreversible_	1	iYO844	0
+DHORTS	Dihydroorotase	1	iYO844	0
+DHPPDA	Diaminohydroxyphosphoribosylaminopyrimidine_deaminase	0	iYO844	0
+FOLD3	Dihydropteroate_synthase	0	iYO844	0
+DHQTi	3-dehydroquinate_dehydratase,_irreversible	1	iYO844	0
+DHQS	3-dehydroquinate_synthase	0	iYO844	0
+DINSK	Deoxyinosine_kinase	0	iYO844	0
+DIPEPabc1	Dipeptide_transport_via_ABC_system__ala_asp_	0	iYO844	0
+DIPEPabc10	Dipeptide_transport_via_ABC_system__gly_glu_	0	iYO844	0
+DIPEPabc11	Dipeptide_transport_via_ABC_system__gly_met_	0	iYO844	0
+DIPEPabc12	Dipeptide_transport_via_ABC_system__met_ala_	0	iYO844	0
+DIPEPabc13	Dipeptide_transport_via_ABC_system__gly_asp_	0	iYO844	0
+DIPEPabc14	Dipeptide_transport_via_ABC_system__gly_pro_L_	0	iYO844	0
+DIPEPabc15	Dipeptide_transport_via_ABC_system__cgly_	0	iYO844	0
+DIPEPabc2	Dipeptide_transport_via_ABC_system__ala_gln_	0	iYO844	0
+DIPEPabc3	Dipeptide_transport_via_ABC_system__ala_glu_	0	iYO844	0
+DIPEPabc4	Dipeptide_transport_via_ABC_system__ala_gly_	0	iYO844	0
+DIPEPabc5	Dipeptide_transport_via_ABC_system__ala_his_	0	iYO844	0
+DIPEPabc6	Dipeptide_transport_via_ABC_system__ala_leu_	0	iYO844	0
+DIPEPabc7	Dipeptide_transport_via_ABC_system__ala_thr_	0	iYO844	0
+DIPEPabc8	Dipeptide_transport_via_ABC_system__gly_asn_	0	iYO844	0
+DIPEPabc9	Dipeptide_transport_via_ABC_system__gly_gln_	0	iYO844	0
+DJENKabc	Djenkolate_transporter_via_ABC_system	0	iYO844	0
+DKI	5_Dehydro_4_deoxy_D_glucuronate_ketol_isomerase	1	iYO844	0
+DKII	2_dehydro_3_deoxy_D_gluconate_5_dehydrogenase	0	iYO844	0
+DKMD2K	1_2_dihydroxy_3_keto_5_methylthiopentene_dioxygenase__2_keto_4_methylthiobutyrate_	0	iYO844	0
+DKMD3M	1_2_dihydroxy_3_keto_5_methylthiopentene_dioxygenase__3_methylthiopropionate_	0	iYO844	0
+DM1PE	2_3_diketo_5_methylthiopentyl_1_phosphate_enolase	1	iYO844	0
+DMATT	Dimethylallyltranstransferase	0	iYO844	0
+DMPPS	1-hydroxy-2-methyl-2-(E)-butenyl_4-diphosphate_reductase_(dmpp)	0	iYO844	0
+DPCOAK	Dephospho-CoA_kinase	0	iYO844	0
+DPR	2-dehydropantoate_2-reductase	0	iYO844	0
+DRBK	Deoxyribokinase	1	iYO844	0
+DRIBabc	Deoxyribose_transport_via_ABC_system	0	iYO844	0
+DRPA	Deoxyribose-phosphate_aldolase	1	iYO844	0
+DTMPK	DTMP_kinase	1	iYO844	0
+DTMPt6	DTMP_transport_inout_via_proton_symport	1	iYO844	0
+DURIK1	Deoxyuridine_kinase_(ATP:Deoxyuridine)	0	iYO844	0
+DURIPP	Deoxyuridine_phosphorylase	1	iYO844	0
+DUTPDP	DUTP_diphosphatase	0	iYO844	0
+DXPRIi	1-deoxy-D-xylulose_reductoisomerase	0	iYO844	0
+DXPS	1-deoxy-D-xylulose_5-phosphate_synthase	0	iYO844	0
+ECOAH1_1	3_hydroxyacyl_CoA_dehydratase__3_hydroxybutanoyl_CoA_	1	iYO844	0
+ECOAH2	3-hydroxyacyl-CoA_dehydratase_(3-hydroxyhexanoyl-CoA)	1	iYO844	0
+ECOAH2c	Enoyl_CoA_hydratase__bacterial	1	iYO844	0
+ECOAH3	3-hydroxyacyl-CoA_dehydratase_(3-hydroxyoctanoyl-CoA)	1	iYO844	0
+ECOAH4	3-hydroxyacyl-CoA_dehydratase_(3-hydroxydecanoyl-CoA)	1	iYO844	0
+ECOAH5_1	3_hydroxyacyl_CoA_dehydratase__3_hydroxydodecanoyl_CoA_	1	iYO844	0
+ECOAH6	3-hydroxyacyl-CoA_dehydratase_(3-hydroxytetradecanoyl-CoA)	1	iYO844	0
+ECOAH7	3-hydroxyacyl-CoA_dehydratase_(3-hydroxyhexadecanoyl-CoA)	1	iYO844	0
+ECOAH9ir	2_Methylprop_2_enoyl_CoA__2_Methylbut_2_enoyl_CoA_	1	iYO844	0
+ECTOINEabc	Ecotine_transport_in_via_ABC_system	0	iYO844	0
+EDA	2-dehydro-3-deoxy-phosphogluconate_aldolase	0	iYO844	0
+ENO	Enolase	1	iYO844	0
+ETHAAL	Ethanolamine_ammonia-lyase	0	iYO844	0
+ETHAt6	Ethanolamine_transport_inout_via_proton_symport	1	iYO844	0
+ETHSabc	Ethanesulfonate_transport_via_ABC_system	0	iYO844	0
+ETOHt3	Ethanol_transport_out_via_proton_antiport	0	iYO844	0
+EX_2ddglcn_e	2-Dehydro-3-deoxy-D-gluconate_exchange	0	iYO844	0
+EX_2hxmp_e	2__Hydroxymethyl_phenol_exchange	0	iYO844	0
+EX_2pg_e	D_Glycerate_2_phosphate_exchange	0	iYO844	0
+EX_2pglyc_e	2_Phosphoglycolate_exchange	0	iYO844	0
+EX_3amba_e	3_aminobutanoic_acid_exchange	0	iYO844	0
+EX_3amp_e	3'-AMP_exchange	0	iYO844	0
+EX_3cmp_e	3'-cmp_exchange	0	iYO844	0
+EX_3gmp_e	3'-GMP_exchange	0	iYO844	0
+EX_3pg_e	3_Phospho_D_glycerate_exchange	0	iYO844	0
+EX_3ump_e	3'-UMP_exchange	0	iYO844	0
+EX_4abut_e	4-Aminobutanoate_exchange	0	iYO844	0
+EX_5mtr_e	5-Methylthio-D-ribose_exchange	0	iYO844	0
+EX_6pgc_e	6_Phospho_D_gluconate_exchange	0	iYO844	0
+EX_Larab_e	Alpha_L_Arabinan_exchange	0	iYO844	0
+EX_Lcyst_e	L-Cysteate_exchange	0	iYO844	0
+EX_abt__L_e	L_Arabinitol_exchange	0	iYO844	0
+EX_ac_e	Acetate_exchange	0	iYO844	0
+EX_acac_e	Acetoacetate_exchange	0	iYO844	0
+EX_acgam_e	N-Acetyl-D-glucosamine_exchange	0	iYO844	0
+EX_acmana_e	N-Acetyl-D-mannosamine_exchange	0	iYO844	0
+EX_acnam_e	N-Acetylneuraminate_exchange	0	iYO844	0
+EX_actn__R_e	EX_actn_R_LPAREN_e_RPAREN_	0	iYO844	0
+EX_ade_e	Adenine_exchange	0	iYO844	0
+EX_adn_e	Adenosine_exchange	0	iYO844	0
+EX_akg_e	2-Oxoglutarate_exchange	0	iYO844	0
+EX_ala_B_e	Beta-Alanine_exchange	0	iYO844	0
+EX_ala__D_e	D-Alanine_exchange	0	iYO844	0
+EX_ala_L_Thr__L_e	Ala_L_Thr_L_exchange	0	iYO844	0
+EX_ala_L_asp__L_e	Ala_L_asp_L_exchange	0	iYO844	0
+EX_ala__L_e	L-Alanine_exchange	0	iYO844	0
+EX_ala_L_gln__L_e	Ala_Gln_exchange	0	iYO844	0
+EX_ala_L_glu__L_e	Ala_L_glu_L_exchange	0	iYO844	0
+EX_L_alagly_e	Ala_L_gly_exchange	0	iYO844	0
+EX_ala_L_his__L_e	Ala_His_exchange	0	iYO844	0
+EX_ala_L_leu__L_e	Ala_Leu_exchange	0	iYO844	0
+EX_alaala_e	D-Alanyl-D-alanine_exchange	0	iYO844	0
+EX_alltn_e	Allantoin_exchange	0	iYO844	0
+EX_amp_e	AMP_exchange	0	iYO844	0
+EX_amylase_e	Mature_Bacillus_subtilis_amylase_exchange	0	iYO844	0
+EX_antim_e	Antimonite_exchange	0	iYO844	0
+EX_arab__D_e	D_Arabinose_exchange	0	iYO844	0
+EX_arab__L_e	L-Arabinose_exchange	0	iYO844	0
+EX_arbt_e	Arbutin_exchange	0	iYO844	0
+EX_arg__L_e	L-Arginine_exchange	0	iYO844	0
+EX_argp_e	L_Arginine_phosphate_exchange	0	iYO844	0
+EX_arsenb_e	ARSENOBETAINE_exchange	0	iYO844	0
+EX_arsna_e	Arsenate_exchange	0	iYO844	0
+EX_arsni2_e	Arsenite_exchange	0	iYO844	0
+EX_asn__L_e	L-Asparagine_exchange	0	iYO844	0
+EX_asp__L_e	L-Aspartate_exchange	0	iYO844	0
+EX_bilea_e	Bile_acid_exchange	0	iYO844	0
+EX_btd_RR_e	_R_R__2_3_Butanediol_exchange	0	iYO844	0
+EX_buts_e	Butanesulfonate_exchange	0	iYO844	0
+EX_ca2_e	Calcium_exchange	1	iYO844	0
+EX_cbl2_e	Cob_II_alamin_exchange	0	iYO844	0
+EX_cd2_e	Cadmium_exchange	0	iYO844	0
+EX_cellb_e	Cellobiose_exchange	0	iYO844	0
+EX_cgly_e	Cys-Gly_exchange	0	iYO844	0
+EX_chitob_e	Chitobiose_exchange	0	iYO844	0
+EX_chol_e	Choline_exchange	0	iYO844	0
+EX_chols_e	EX_chols_LPAREN_e_RPAREN_	0	iYO844	0
+EX_chor_e	Chorismate_exchange	0	iYO844	0
+EX_cit_e	Citrate_exchange	0	iYO844	0
+EX_citr__L_e	L-Citrulline_exchange	0	iYO844	0
+EX_cmp_e	CMP_exchange	0	iYO844	0
+EX_co2_e	CO2_exchange	1	iYO844	0
+EX_cobalt2_e	Co2+_exchange	0	iYO844	0
+EX_crn_e	L-Carnitine_exchange	0	iYO844	0
+EX_cro4_e	Chromate_exchange	0	iYO844	0
+EX_csn_e	Cytosine_exchange	0	iYO844	0
+EX_ctbt_e	Crotonobetaine_exchange	0	iYO844	0
+EX_cu2_e	Cu2+_exchange	0	iYO844	0
+EX_cys__D_e	D-Cysteine_exchange	0	iYO844	0
+EX_cys__L_e	L-Cysteine_exchange	0	iYO844	0
+EX_cyst__L_e	L_Cystine_exchange	0	iYO844	0
+EX_cytd_e	Cytidine_exchange	0	iYO844	0
+EX_dad_2_e	Deoxyadenosine_exchange	0	iYO844	0
+EX_dcyt_e	Deoxycytidine_exchange	0	iYO844	0
+EX_dextrin_e	Dextrin_exchange	0	iYO844	0
+EX_dha_e	Dihydroxyacetone_exchange	0	iYO844	0
+EX_diact_e	Diacetyl_exchange	0	iYO844	0
+EX_djenk_e	Djenkolate_exchange	0	iYO844	0
+EX_drib_e	Deoxy_D_Ribose_exchange	0	iYO844	0
+EX_dtmp_e	DTMP_exchange	0	iYO844	0
+EX_ectoine_e	Ectoine_exchange	0	iYO844	0
+EX_etha_e	Ethanolamine_exchange	0	iYO844	0
+EX_eths_e	Ethanesulfonate_exchange	0	iYO844	0
+EX_etoh_e	Ethanol_exchange	0	iYO844	0
+EX_fe2_e	Fe2+_exchange	0	iYO844	0
+EX_fe3_e	Fe3+_exchange	1	iYO844	0
+EX_ferrich_e	Ferrichrome_exchange	0	iYO844	0
+EX_ferxa_e	Ferroxamine_exchange	0	iYO844	0
+EX_fol_e	EX_fol_LPAREN_e_RPAREN_	0	iYO844	0
+EX_for_e	Formate_exchange	0	iYO844	0
+EX_fru_e	D-Fructose_exchange	0	iYO844	0
+EX_fum_e	Fumarate_exchange	0	iYO844	0
+EX_g1p_e	D-Glucose_1-phosphate_exchange	0	iYO844	0
+EX_g6p_e	D-Glucose_6-phosphate_exchange	0	iYO844	0
+EX_gal_e	D-Galactose_exchange	0	iYO844	0
+EX_galctr__D_e	D_Galactarate_exchange	0	iYO844	0
+EX_galt_e	Galactitol_exchange	0	iYO844	0
+EX_galur_e	D-Galacturonate_exchange	0	iYO844	0
+EX_gam6p_e	D-Glucosamine_6-phosphate_exchange	0	iYO844	0
+EX_gam_e	D-Glucosamine_exchange	0	iYO844	0
+EX_gbbtn_e	Gamma-butyrobetaine_exchange	0	iYO844	0
+EX_glc__D_e	D-Glucose_exchange	1	iYO844	0
+EX_glcn__D_e	D_Gluconate_exchange	0	iYO844	0
+EX_glcr_e	D-Glucarate_exchange	0	iYO844	0
+EX_glcur_e	D-Glucuronate_exchange	0	iYO844	0
+EX_gln__L_e	L-Glutamine_exchange	0	iYO844	0
+EX_glu__D_e	D_Glutamate_exchange	0	iYO844	0
+EX_glu__L_e	L-Glutamate_exchange	0	iYO844	0
+EX_glx_e	Glyoxylate_exchange	0	iYO844	0
+EX_gly_asn__L_e	Gly_asn_L_exchange	0	iYO844	0
+EX_gly_asp__L_e	Gly_asp_L_exchange	0	iYO844	0
+EX_gly_e	Glycine_exchange	0	iYO844	0
+EX_gly_gln__L_e	Gly_Gln_exchange	0	iYO844	0
+EX_gly_glu__L_e	Gly_glu_L_exchange	0	iYO844	0
+EX_gly_met__L_e	Gly_Met_exchange	0	iYO844	0
+EX_gly_pro__L_e	Gly_pro_L_exchange	0	iYO844	0
+EX_glyb_e	Glycine_betaine_exchange	0	iYO844	0
+EX_glyc3p_e	Glycerol_3-phosphate_exchange	0	iYO844	0
+EX_glyc_e	Glycerol_exchange	0	iYO844	0
+EX_glyclt_e	Glycolate_exchange	0	iYO844	0
+EX_glycogen_e	Glycogen_exchange	0	iYO844	0
+EX_gmp_e	GMP_exchange	0	iYO844	0
+EX_gsn_e	Guanosine_exchange	0	iYO844	0
+EX_gthox_e	Oxidized_glutathione_exchange	0	iYO844	0
+EX_gthrd_e	Reduced_glutathione_exchange	0	iYO844	0
+EX_gua_e	Guanine_exchange	0	iYO844	0
+EX_h2o2_e	Hydrogen_peroxide_exchange	0	iYO844	0
+EX_h2o_e	H2O_exchange	1	iYO844	0
+EX_h_e	H+_exchange	1	iYO844	0
+EX_hexs_e	Hexanesulfonate_exchange	0	iYO844	0
+EX_hg2_e	Hg2+_exchange	0	iYO844	0
+EX_his__L_e	L-Histidine_exchange	0	iYO844	0
+EX_hqn_e	Hydroquinone_exchange	0	iYO844	0
+EX_hxan_e	Hypoxanthine_exchange	0	iYO844	0
+EX_icit_e	Isocitrate_exchange	0	iYO844	0
+EX_ile__L_e	L-Isoleucine_exchange	0	iYO844	0
+EX_inost_e	Myo-Inositol_exchange	0	iYO844	0
+EX_ins_e	Inosine_exchange	0	iYO844	0
+EX_istnt_e	Isethionate_exchange	0	iYO844	0
+EX_k_e	K+_exchange	1	iYO844	0
+EX_lac__L_e	L-Lactate_exchange	0	iYO844	0
+EX_lanth_e	Lanthionine_exchange	0	iYO844	0
+EX_lcts_e	Lactose_exchange	0	iYO844	0
+EX_leu__L_e	L-Leucine_exchange	0	iYO844	0
+EX_lipt_e	Lipoate_exchange	0	iYO844	0
+EX_lys__L_e	L-Lysine_exchange	0	iYO844	0
+EX_madg_e	Alpha_Methyl_D_glucoside_exchange	0	iYO844	0
+EX_mal__D_e	D-Malate_exchange	0	iYO844	0
+EX_mal__L_e	L-Malate_exchange	0	iYO844	0
+EX_malt_e	Maltose_exchange	0	iYO844	0
+EX_malttr_e	Maltotriose_exchange	0	iYO844	0
+EX_man1p_e	D_Mannose_1_phosphate_exchange	0	iYO844	0
+EX_man6p_e	D-Mannose_6-phosphate_exchange	0	iYO844	0
+EX_man_e	D-Mannose_exchange	0	iYO844	0
+EX_mbdg_e	Beta_Methylglucoside_exchange	0	iYO844	0
+EX_melib_e	Melibiose_exchange	0	iYO844	0
+EX_meoh_e	Methanol_exchange	0	iYO844	0
+EX_met__D_e	D-Methionine_exchange	0	iYO844	0
+EX_met_L_ala__L_e	Met_L_ala_L_exchange	0	iYO844	0
+EX_met__L_e	L-Methionine_exchange	0	iYO844	0
+EX_metox__R_e	L_methionine_R_oxide_exchange	0	iYO844	0
+EX_metox_e	L_Methionine_S_oxide_exchange	0	iYO844	0
+EX_mg2_e	Mg_exchange	1	iYO844	0
+EX_mn2_e	Mn2+_exchange	0	iYO844	0
+EX_mnl_e	D-Mannitol_exchange	0	iYO844	0
+EX_mobd_e	Molybdate_exchange	0	iYO844	0
+EX_mops_e	MOPS_exchange	0	iYO844	0
+EX_mso3_e	Methanesulfonate_exchange	0	iYO844	0
+EX_na1_e	Sodium_exchange	1	iYO844	0
+EX_nac_e	Nicotinate_exchange	0	iYO844	0
+EX_nh4_e	Ammonia_exchange	1	iYO844	0
+EX_ni2_e	Ni2+_exchange	0	iYO844	0
+EX_no2_e	Nitrite_exchange	0	iYO844	0
+EX_no3_e	Nitrate_exchange	0	iYO844	0
+EX_o2_e	O2_exchange	0	iYO844	0
+EX_orn__L_e	Ornithine_exchange	0	iYO844	0
+EX_pala_e	Palatinose_exchange	0	iYO844	0
+EX_pep_e	Phosphoenolpyruvate_exchange	0	iYO844	0
+EX_phe__L_e	L-Phenylalanine_exchange	0	iYO844	0
+EX_pi_e	Phosphate_exchange	1	iYO844	0
+EX_pnto__R_e	(R)-Pantothenate_exchange	0	iYO844	0
+EX_ppa_e	Propionate_exchange	0	iYO844	0
+EX_ppi_e	Diphosphate_exchange	0	iYO844	0
+EX_pro__L_e	L-Proline_exchange	0	iYO844	0
+EX_prolb_e	Proline_betaine_exchange	0	iYO844	0
+EX_pser__D_e	D_O_Phosphoserine_exchange	0	iYO844	0
+EX_pser__L_e	O-Phospho-L-serine_exchange	0	iYO844	0
+EX_pur_e	Puromycin_exchange	0	iYO844	0
+EX_pyr_e	Pyruvate_exchange	0	iYO844	0
+EX_raffin_e	Raffinose_exchange	0	iYO844	0
+EX_rib__D_e	D-Ribose_exchange	0	iYO844	0
+EX_ribflv_e	Riboflavin_exchange	0	iYO844	0
+EX_rmn_e	L-Rhamnose_exchange	0	iYO844	0
+EX_salcn_e	Salicin_exchange	0	iYO844	0
+EX_sbt__D_e	D-Sorbitol_exchange	0	iYO844	0
+EX_ser__D_e	D-Serine_exchange	0	iYO844	0
+EX_ser__L_e	L-Serine_exchange	0	iYO844	0
+EX_so4_e	Sulfate_exchange	1	iYO844	0
+EX_spmd_e	Spermidine_exchange	0	iYO844	0
+EX_srb__L_e	L_Sorbose_exchange	0	iYO844	0
+EX_starch_e	Starch_exchange	0	iYO844	0
+EX_subtilisin_e	Mature_Bacillus_subtilis_subtilisin_exchange	0	iYO844	0
+EX_succ_e	Succinate_exchange	0	iYO844	0
+EX_sucr_e	Sucrose_exchange	0	iYO844	0
+EX_sula_e	Sulfoacetate_exchange	0	iYO844	0
+EX_taur_e	Taurine_exchange	0	iYO844	0
+EX_thiog_e	Thioglycolate_exchange	0	iYO844	0
+EX_thr__L_e	L-Threonine_exchange	0	iYO844	0
+EX_thym_e	Thymine_exchange	0	iYO844	0
+EX_thymd_e	Thymidine_exchange	0	iYO844	0
+EX_tmp_e	Trimetaphosphate_exchange	0	iYO844	0
+EX_tre_e	Trehalose_exchange	0	iYO844	0
+EX_trp__L_e	L-Tryptophan_exchange	0	iYO844	0
+EX_tyr__L_e	L-Tyrosine_exchange	0	iYO844	0
+EX_ump_e	UMP_exchange	0	iYO844	0
+EX_ura_e	Uracil_exchange	0	iYO844	0
+EX_urate_e	Urate_exchange	0	iYO844	0
+EX_urea_e	Urea_exchange	0	iYO844	0
+EX_uri_e	Uridine_exchange	0	iYO844	0
+EX_val__L_e	L-Valine_exchange	0	iYO844	0
+EX_xan_e	Xanthine_exchange	0	iYO844	0
+EX_xtsn_e	Xanthosine_exchange	0	iYO844	0
+EX_xyl__D_e	D-Xylose_exchange	0	iYO844	0
+EX_zn2_e	Zinc_exchange	0	iYO844	0
+FRUK	Fructose-1-phosphate_kinase	0	iYO844	0
+F6Pt6_2	Fructose_6_phosphate_transport_via_phosphate_antiport	0	iYO844	0
+FACOAL140	Fatty_acid__CoA_ligase__tetradecanoate_	1	iYO844	0
+FACOAL140_ISO	Fatty_acid__CoA_ligase__Iso_C140_	1	iYO844	0
+FACOAL150_ISO	Fatty_acid__CoA_ligase__Iso_C150_	1	iYO844	0
+FACOAL150_anteiso	Fatty_acid__CoA_ligase__anteiso_C150_	1	iYO844	0
+FACOAL160	Fatty_acid__CoA_ligase__hexadecanoate_	1	iYO844	0
+FACOAL160_ISO	Fatty_acid__CoA_ligase__Iso_C160_	1	iYO844	0
+FACOAL161	Fatty_acid__CoA_ligase__hexadecenoate_	1	iYO844	0
+FACOAL161_ISO	Fatty_acid__CoA_ligase__Iso_C161_	1	iYO844	0
+FACOAL170_ISO	Fatty_acid__CoA_ligase__Iso_C170_	1	iYO844	0
+FACOAL170_anteiso	Fatty_acid__CoA_ligase__anteiso_C170_	1	iYO844	0
+FACOAL171_ISO	Fatty_acid__CoA_ligase__Iso_C171_	1	iYO844	0
+FACOAL171_anteiso	Fatty_acid__CoA_ligase__anteiso_C171_	1	iYO844	0
+FACOAL180_2	Fatty_acid__CoA_ligase__octadecanoate_	1	iYO844	0
+FACOAL181	Fatty_acid__CoA_ligase__octadecenoate_	1	iYO844	0
+FBA	Fructose-bisphosphate_aldolase	1	iYO844	0
+FBA2	D_Fructose_1_phosphate_D_glyceraldehyde_3_phosphate_lyase	1	iYO844	0
+FBP	Fructose-bisphosphatase	0	iYO844	0
+FCLT_2	Heme_B_synthesis_reaction	0	iYO844	0
+FDH	Formate_dehydrogenase	0	iYO844	0
+FDMO_1	FmnRD_dependent_monooxygenase__methanesulfonate_	0	iYO844	0
+FDMO1	FMN_dependent_monooxygenase__ethanesulfonate_	0	iYO844	0
+FDMO2_1	FMN_dependent_monooxygenase__butanesulfonate_	0	iYO844	0
+FDMO3_1	FMN_dependent_monooxygenase__hexanesulfonate_	0	iYO844	0
+FDMO4_1	FMN_dependent_monooxygenase__taurine_	0	iYO844	0
+FDMO5_1	FMN_dependent_monooxygenase__sulfoacetate_	0	iYO844	0
+FDMO6_1	FMN_dependent_monooxygenase__isethionate_	0	iYO844	0
+FE2abc	Iron_(II)_transport_via_ABC_system	0	iYO844	0
+FE3t	Ferric_iron_uptake,_plasma_membrane	0	iYO844	0
+FEDCabc	Iron__III__dicitrate_transport_via_ABC_system	0	iYO844	0
+FERRICHabc	Ferrichrome_transport_via_ABC_system	0	iYO844	0
+FERXAabc	Ferroxamine_transport_via_ABC_system	0	iYO844	0
+FFSD	Beta-fructofuranosidase	0	iYO844	0
+FGLU_1	Formimidoylglutamase	0	iYO844	0
+FLVR_1	Flavin_reductase	0	iYO844	0
+FMETDF	Formylmethionine_deformylase	0	iYO844	0
+FMETTRS_1	Methionyl_tRNA_formyltransferase	0	iYO844	0
+FMNAT	FMN_adenylyltransferase	1	iYO844	0
+FMNRy	FMN_reductase__NADPH_dependent_	0	iYO844	0
+FOLt	Folate_transport_via_proton_simport	1	iYO844	0
+FORAMD	FORAMD	0	iYO844	0
+FORt2	Formate_transport_in_via_proton_symport	1	iYO844	0
+FRTT	Farnesyltranstransferase	0	iYO844	0
+HEX7	Hexokinase_(D-fructose:ATP)	0	iYO844	0
+FRUpts	D-fructose_transport_via_PEP:Pyr_PTS	0	iYO844	0
+FTHFD	Formyltetrahydrofolate_deformylase	0	iYO844	0
+FUM	Fumarase	1	iYO844	0
+FUMt2r	Fumarate_reversible_transport_via_symport	1	iYO844	0
+G1Dx	Glucose_1_dehydrogenase__NAD_	0	iYO844	0
+G1PACT	Glucosamine-1-phosphate_N-acetyltransferase	1	iYO844	0
+G1PPDM	Glucose_1_phosphate_phosphodismutase	0	iYO844	0
+G1Pt6_2	Glucose_1_phosphate_transport_via_phosphate_antiport	0	iYO844	0
+G1SAT	Glutamate-1-semialdehyde_aminotransferase	0	iYO844	0
+G3PCT	Glycerol-3-phosphate_cytidylyltransferase	0	iYO844	0
+G3PD1ir	Glycerol_3_phosphate_dehydrogenase__NAD_	1	iYO844	0
+G3PD4	Glycerol_3_phosphate_dehydrogenase__menaquinone_7_	0	iYO844	0
+G3POA_BS	Glycerol_3_phosphate_O_acyltransferase	0	iYO844	0
+G5SADs	L-glutamate_5-semialdehyde_dehydratase_(spontaneous)	1	iYO844	0
+G5SD	Glutamate-5-semialdehyde_dehydrogenase	0	iYO844	0
+G6PDA	Glucosamine-6-phosphate_deaminase	0	iYO844	0
+G6PDH2r	Glucose_6-phosphate_dehydrogenase	0	iYO844	0
+G6PI	Glucose_6_phosphate_isomerase	1	iYO844	0
+G6Pt6_2	Glucose-6-phosphate_transport_via_phosphate_antiport	0	iYO844	0
+ABUTt2r	4_aminobutyrate_reversible_transport_in_via_proton_symport	0	iYO844	0
+GALCTD_1	Galactarate_dehydratase	0	iYO844	0
+GALCTRt2	Galactarate_transport_in_via_proton_symport	0	iYO844	0
+GALKr	Galactokinase	0	iYO844	0
+GALS1	A_galactosidase__galactomannan_	0	iYO844	0
+GALS2	A_galactosidase__galactose_oligosaccharides_	0	iYO844	0
+GALS3	A-galactosidase_(melibiose)	0	iYO844	0
+GALS4	A_galactosidase__stachyose_	0	iYO844	0
+GALT	Galactose_1_phosphate_uridylyltransferase	1	iYO844	0
+GALTpts	Galactitol_transport_via_PEP:Pyr_PTS	0	iYO844	0
+GALUi	UTP-glucose-1-phosphate_uridylyltransferase_(irreversible)	1	iYO844	0
+GALURt2r	D-galacturonate_transport_via_proton_symport,_reversible	0	iYO844	0
+GALt2	D_galactose_transport_in_via_proton_symport	0	iYO844	0
+GAM6Pt	D_glucosamine_6_phosphate_reversible_uniport	1	iYO844	0
+GAMpts	D-glucosamine_transport_via_PEP:Pyr_PTS	0	iYO844	0
+GAPD	Glyceraldehyde-3-phosphate_dehydrogenase	0	iYO844	0
+GAPDi_nadp	Glyceraldehyde-3-phosphate_dehydrogenase_(NAD(P)+)_(phosphorylating)	0	iYO844	0
+GARFT	Phosphoribosylglycinamide_formyltransferase	0	iYO844	0
+GART	GAR_transformylase-T	0	iYO844	0
+GBBTNabc	Gamma_butyrobetaine_transport_in_via_ABC_system	0	iYO844	0
+GBEZY	1_4_alpha_glucan_branching_enzyme	0	iYO844	0
+GCALDD	Glycolaldehyde_dehydrogenase	0	iYO844	0
+GF6PTA	Glutamine-fructose-6-phosphate_transaminase	0	iYO844	0
+GGTAe2	Gamma_glutamyltransferase	0	iYO844	0
+GGTT	Geranylgeranyltranstransferase	0	iYO844	0
+GHMT2r	Glycine_hydroxymethyltransferase,_reversible	1	iYO844	0
+GK1	Guanylate_kinase_(GMP:ATP)	1	iYO844	0
+GK2	Guanylate_kinase__GMPdATP_	1	iYO844	0
+GLCNt2ir	D_gluconate_transport_via_proton_symport	0	iYO844	0
+GLCP	Glycogen_phosphorylase	0	iYO844	0
+GLCRAL_1	5_dehydro_4_deoxyglucarate_aldolase	0	iYO844	0
+GLCRD_1	Glucarate_dehydratase	0	iYO844	0
+GLCRt2r	D-glucarate_transport_via_proton_symport,_reversible	0	iYO844	0
+GLCS1	Glycogen_synthase_(ADPGlc)	0	iYO844	0
+GLCURt2r	D-glucuronate_transport_via_proton_symport,_reversible	0	iYO844	0
+GLCpts	D-glucose_transport_via_PEP:Pyr_PTS	0	iYO844	0
+GLCt2	D-glucose_transport_in_via_proton_symport	0	iYO844	0
+GLGC	Glucose-1-phosphate_adenylyltransferase	1	iYO844	0
+GLNS	Glutamine_synthetase	0	iYO844	0
+GLNabc	L-glutamine_transport_via_ABC_system	0	iYO844	0
+GLTPD	Galactitol-1-phosphate_dehydrogenase	1	iYO844	0
+GLU5K	Glutamate_5-kinase	0	iYO844	0
+GLUDxi	Glutamate_dehydrogenase__NAD_	0	iYO844	0
+GLUN	Glutaminase	0	iYO844	0
+GLUPRT	Glutamine_phosphoribosyldiphosphate_amidotransferase	0	iYO844	0
+GLUR	Glutamate_racemase	1	iYO844	0
+GLUSy	Glutamate_synthase_(NADPH)	0	iYO844	0
+GLUTRR	Glutamyl-tRNA_reductase	0	iYO844	0
+GLUTRS	Glutamyl-tRNA_synthetase	0	iYO844	0
+GLU_Dt2	D_glutamate_transport_in_via_proton_symport	0	iYO844	0
+GLUt2r	L_glutamate_transport_via_proton_symport__reversible	0	iYO844	0
+GLUt4	Na+/glutamate_symport	0	iYO844	0
+GLXCBL	Glyoxalate_carboligase	0	iYO844	0
+GLXt2	Glyoxylate_transport_in_via_proton_symport	0	iYO844	0
+GLY3Pt2	Glycerol_3_phosphate_transport_in_via_proton_symport	0	iYO844	0
+GLYAT	Glycine_C-acetyltransferase	1	iYO844	0
+GLYBabc	Glycine_betaine_transport_via_ABC_system	0	iYO844	0
+GLYBt2r	Glycine_betaine_transport_via_proton_symport,_reversible	1	iYO844	0
+GLYCK	Glycerate_kinase	0	iYO844	0
+GLYCLTt2r	Glycolate_transport_via_proton_symport,_reversible	1	iYO844	0
+GLYCOGENt	Glycogen_transport_in	0	iYO844	0
+GLYCTO1	Glycolate_oxidase	0	iYO844	0
+GLYCt	Glycerol_transport_via_channel	1	iYO844	0
+GLYK	Glycerol_kinase	0	iYO844	0
+GLYO1	Glycine_oxidase	0	iYO844	0
+GLYt2r	Glycine_reversible_transport_via_proton_symport	1	iYO844	0
+GMPR	GMP_reductase	0	iYO844	0
+GMPS2	GMP_synthase	0	iYO844	0
+GMPt6	GMP_transport_inout_via_proton_symport	1	iYO844	0
+GNKr	Gluconokinase	1	iYO844	0
+GPDDA1	Glycerophosphodiester_phosphodiesterase_(Glycerophosphocholine)	0	iYO844	0
+GPDDA2	Glycerophosphodiester_phosphodiesterase_(Glycerophosphoethanolamine)	0	iYO844	0
+GPDDA4	Glycerophosphodiester_phosphodiesterase_(Glycerophosphoglycerol)	0	iYO844	0
+GRTT	Geranyltranstransferase	0	iYO844	0
+GSNt2	Guanosine_transport_in_via_proton_symport	1	iYO844	0
+GTHPe	Glutathione_peroxidase	1	iYO844	0
+GTPCI	GTP_cyclohydrolase_I	0	iYO844	0
+GTPCII	GTP_cyclohydrolase_II	0	iYO844	0
+GTPDPK	GTP_diphosphokinase	0	iYO844	0
+GUAD	Guanine_deaminase	0	iYO844	0
+GUAPRT	Guanine_phosphoribosyltransferase	1	iYO844	0
+GUAt2r	Guanine_reversible_transport_via_proton_symport	0	iYO844	0
+GUI1	Glucuronate_isomerase_(D-glucuronate)	1	iYO844	0
+GUI2	Glucuronate_isomerase_(D-galacturonate)	1	iYO844	0
+H2Ot	H2O_transport_via_diffusion	1	iYO844	0
+HACD1_1	3_hydroxyacyl_CoA_dehydrogenase__acetoacetyl_CoA_	1	iYO844	0
+HACD2	3-hydroxyacyl-CoA_dehydrogenase_(3-oxohexanoyl-CoA)	1	iYO844	0
+HACD3	3-hydroxyacyl-CoA_dehydrogenase_(3-oxooctanoyl-CoA)	1	iYO844	0
+HACD4	3-hydroxyacyl-CoA_dehydrogenase_(3-oxodecanoyl-CoA)	1	iYO844	0
+HACD5	3-hydroxyacyl-CoA_dehydrogenase_(3-oxododecanoyl-CoA)	1	iYO844	0
+HACD6	3-hydroxyacyl-CoA_dehydrogenase_(3-oxotetradecanoyl-CoA)	1	iYO844	0
+HACD7	3-hydroxyacyl-CoA_dehydrogenase_(3-oxohexadecanoyl-CoA)	1	iYO844	0
+HACD9	3_hydroxyacyl_CoA_dehydrogenase__2_Methylacetoacetyl_CoA_	1	iYO844	0
+HACOADr	3_hydroxyacyl_CoA_dehydrogenase	0	iYO844	0
+HCO3E	HCO3_equilibration_reaction	1	iYO844	0
+HEMEAS	Heme_A_synthase	0	iYO844	0
+HEMECS	Heme_C_synthase	0	iYO844	0
+HEMEDS	Heme_D_synthase	0	iYO844	0
+HEMEOS_1	Heme_O_synthase	0	iYO844	0
+HETZK	Hydroxyethylthiazole_kinase	0	iYO844	0
+HEX1	Hexokinase_(D-glucose:ATP)	0	iYO844	0
+HEXSabc	Hexanesulfonate_transport_via_ABC_system	0	iYO844	0
+HEXTT	Trans-hexaprenyltranstransferase	0	iYO844	0
+HGt	Mercury_transport	1	iYO844	0
+HIBD	3_hydroxyisobutyrate_dehydrogenase	0	iYO844	0
+HIBHr	3_hydroxyisobutyryl_CoA_hydrolase	0	iYO844	0
+HISDr	Histidase_r	1	iYO844	0
+HISTD	Histidinol_dehydrogenase	0	iYO844	0
+HISTP	Histidinol-phosphatase	0	iYO844	0
+HISt2r	L_histidine_reversible_transport_via_proton_symport	0	iYO844	0
+HKM1PP	2_hydroxy_3_keto_5_methylthiopentenyl_1_phosphate_phophatase	0	iYO844	0
+HMBS	Hydroxymethylbilane_synthase	0	iYO844	0
+HMGCOAS	Hydroxymethylglutaryl_CoA_synthase	0	iYO844	0
+HMGL	Hydroxymethylglutaryl-CoA_lyase	0	iYO844	0
+HMPK1	Hydroxymethylpyrimidine_kinase_(ATP)	0	iYO844	0
+HOXPRx	2_hydroxy_3_oxopropionate_reductase__NAD_	1	iYO844	0
+HP5CD_1	3_hydroxy_1_pyrroline_5_carboxylate_dehydrogenase	0	iYO844	0
+HPPK	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine_diphosphokinase	0	iYO844	0
+HQNt6	Hydroquinone_transport_inout_via_proton_symport	1	iYO844	0
+HSDy	Homoserine_dehydrogenase_(NADPH)	1	iYO844	0
+HSK	Homoserine_kinase	0	iYO844	0
+HSST	Homoserine_O-succinyltransferase	1	iYO844	0
+HSTPTr	Histidinol_phosphate_transaminase	1	iYO844	0
+HXAD	Hexosaminidase	0	iYO844	0
+HXANt2r	Hypoxanthine_reversible_transport_via_proton_symport	0	iYO844	0
+HXPRT	Hypoxanthine_phosphoribosyltransferase_(Hypoxanthine)	1	iYO844	0
+ICDHyr	Isocitrate_dehydrogenase_(NADP)	1	iYO844	0
+ICHORS	Isochorismate_synthase	1	iYO844	0
+ICHORT	Isochorismatase	0	iYO844	0
+ICITt10	Isocitrate_transport_in_via_Mg_complex	0	iYO844	0
+ICITt2	Isocitrate_transport_inout_via_proton_symport	1	iYO844	0
+IG3PS_1	Imidazole_glycerol_3_phosphate_synthase	0	iYO844	0
+IGPDH_1	Imidazoleglycerol_phosphate_dehydratase	0	iYO844	0
+IGPS	Indole-3-glycerol-phosphate_synthase	0	iYO844	0
+ILEDHr	Isoleucine_dehydrogenase	1	iYO844	0
+ILETA	Isoleucine_transaminase	1	iYO844	0
+ILEt2r	L_isoleucine_reversible_transport_via_proton_symport	0	iYO844	0
+IMPC	IMP_cyclohydrolase	0	iYO844	0
+IMPD	IMP_dehydrogenase	0	iYO844	0
+INS2D	Inositol_2-dehydrogenase	0	iYO844	0
+INSCR	Inositol_catabolic_reactions__lumped_	0	iYO844	0
+INSTt2	Inositol_transport_in_via_proton_symport	0	iYO844	0
+INSt2	Inosine_transport_in_via_proton_symport	1	iYO844	0
+RAFH	Raffinose_hydrolyzing_enzyme	0	iYO844	0
+IPDDI	Isopentenyl-diphosphate_D-isomerase	1	iYO844	0
+IPDPS	1-hydroxy-2-methyl-2-(E)-butenyl_4-diphosphate_reductase_(ipdp)	0	iYO844	0
+IPDPUPT	Di_trans_poly_cis_Decaprenyl_diphosphateisopentenyl_diphosphate_undecaprenylcistransferase	0	iYO844	0
+IPMD	3-isopropylmalate_dehydrogenase	0	iYO844	0
+IPPMIa	3-isopropylmalate_dehydratase	1	iYO844	0
+IPPMIb	2-isopropylmalate_hydratase	1	iYO844	0
+IPPS	2-isopropylmalate_synthase	0	iYO844	0
+ISOMS	Isomaltulose_synthase	1	iYO844	0
+ISTNTabc	Isethionate_transport_via_ABC_system	0	iYO844	0
+IZPN_1	Imidazolonepropionase	0	iYO844	0
+KARA1	Ketol-acid_reductoisomerase_(2,3-dihydroxy-3-methylbutanoate)	1	iYO844	0
+KARA2	Ketol-acid_reductoisomerase_(2-Acetolactate)	1	iYO844	0
+KAS1	B-ketoacyl_synthetase_(Iso-C14:0)	0	iYO844	0
+KAS10	B-ketoacyl_synthetase_(Anteiso-C17:1)	0	iYO844	0
+KAS11	B-ketoacyl_synthetase_(Iso-C17:0)	0	iYO844	0
+KAS12	B-ketoacyl_synthetase_(Anteiso-C17:0)	0	iYO844	0
+KAS13	B-ketoacyl_synthetase_(octadecanoate)	0	iYO844	0
+KAS17	B-ketoacyl_synthetase_(n-C18:1)	0	iYO844	0
+KAS2	B-ketoacyl_synthetase_(n-C14:0)	0	iYO844	0
+KAS3	B-ketoacyl_synthetase_(Iso-C15:0)	0	iYO844	0
+KAS4	B-ketoacyl_synthetase_(Anteiso-C15:0)	0	iYO844	0
+KAS5	B-ketoacyl_synthetase_(Iso-C16:1)	0	iYO844	0
+KAS6	B-ketoacyl_synthetase_(Iso-C16:0)	0	iYO844	0
+KAS7	B-ketoacyl_synthetase_(n-C16:1)	0	iYO844	0
+KAS8	B-ketoacyl_synthetase_(palmitate,_n-C16:0)	0	iYO844	0
+KAS9	B-ketoacyl_synthetase_(Iso-C17:1)	0	iYO844	0
+Kt2r	Potassium_reversible_transport__via_proton_symport	0	iYO844	0
+Kt3r	Potassium_transport_out_via_proton_antiport	0	iYO844	0
+Kt1	Potassium_transport_via_uniport_(facilitated_diffusion)	1	iYO844	0
+LAAF	Alpha_N_arabinofuranosidase	0	iYO844	0
+LAAL1	L_amino_acid_ligase__L_glycine_L_glycine_	0	iYO844	0
+LAAL10	L_amino_acid_ligase__Thr_Thr_	0	iYO844	0
+LAAL11	L_amino_acid_ligase__Ala_Val_	0	iYO844	0
+LAAL12	L_amino_acid_ligase__Ser_Val_	0	iYO844	0
+LAAL13	L_amino_acid_ligase__Gly_Leu_	0	iYO844	0
+LAAL14	L_amino_acid_ligase__ser_leu_	0	iYO844	0
+LAAL15	L_amino_acid_ligase__Ala_Leu_	0	iYO844	0
+LAAL16	L_amino_acid_ligase__Thr_Leu_	0	iYO844	0
+LAAL17	L_amino_acid_ligase__Ala_Ile_	0	iYO844	0
+LAAL18	L_amino_acid_ligase__Ser_Ile_	0	iYO844	0
+LAAL19	L_amino_acid_ligase__Gly_Met_	0	iYO844	0
+LAAL2	L_amino_acid_ligase__L_alanylglycine_	0	iYO844	0
+LAAL20	L_amino_acid_ligase__Ala_Met_	0	iYO844	0
+LAAL21	L_amino_acid_ligase__Ser_Met_	0	iYO844	0
+LAAL22	L_amino_acid_ligase__Thr_Met_	0	iYO844	0
+LAAL23	L_amino_acid_ligase__met_met_	0	iYO844	0
+LAAL24	L_amino_acid_ligase__gly_phe_	0	iYO844	0
+LAAL25	L_amino_acid_ligase__Ala_phe_	0	iYO844	0
+LAAL26	L_amino_acid__ser_phe_	0	iYO844	0
+LAAL27	L_amino_acid_ligase__Thr_Phe_	0	iYO844	0
+LAAL28	L_amino_acid_ligase__met_phe_	0	iYO844	0
+LAAL29	L_amino_acid_ligase__gly_tyr_	0	iYO844	0
+LAAL3	L_amino_acid_ligase__L_serylglycine_	0	iYO844	0
+LAAL30	L_amino_acid__Ala_Tyr_	0	iYO844	0
+LAAL31	L_amino_acid_ligase__Ser_Tyr_	0	iYO844	0
+LAAL32	L_amino_acid_ligase__Met_Tyr_	0	iYO844	0
+LAAL33	L_amino_acid_ligase__ala_trp_	0	iYO844	0
+LAAL34	L_amino_acid_ligase__ser_trp_	0	iYO844	0
+LAAL35	L_amino_acid_ligase__gly_gln_	0	iYO844	0
+LAAL36	L_amino_acid_ligase__ala_gln_	0	iYO844	0
+LAAL37	L_amino_acid_ligase__ser_gln_	0	iYO844	0
+LAAL38	L_amino_acid_ligase__thr_gln_	0	iYO844	0
+LAAL39	L_amino_acid_ligase__ala_asn_	0	iYO844	0
+LAAL4	L_amino_acid_ligase__thr_gly_	0	iYO844	0
+LAAL40	L_amino_acid_ligase__ala_his_	0	iYO844	0
+LAAL41	L_amino_acid_ligase__ser_his_	0	iYO844	0
+LAAL42	L_amino_acid_ligase__met_his_	0	iYO844	0
+LAAL5	L_amino_acid_ligase__Ala_Ala_	0	iYO844	0
+LAAL6	L_amino_acid_ligase__Ser_Ala_	0	iYO844	0
+LAAL7	L_amino_acid_ligase__Ala_Ser_	0	iYO844	0
+LAAL8	L_amino_acid_ligase__Ser_Ser_	0	iYO844	0
+LAAL9	L_amino_acid_ligase__Gly_Cys_	0	iYO844	0
+LACZ	B-galactosidase	0	iYO844	0
+LANTHabc	Lanthionine_transport_via_ABC_system	0	iYO844	0
+LCADi	Lactaldehyde_dehydrogenase	0	iYO844	0
+LCTSabc	Lactose_transport_via_ABC_system_(import)	0	iYO844	0
+LCYSTabc	Cysteate_transport_via_ABC_system	0	iYO844	0
+LDH2	L_lactate_dehydrogenase__2_Hydroxybutanoic_acid_	1	iYO844	0
+LDH_L	L-lactate_dehydrogenase	1	iYO844	0
+LEUTA	Leucine_transaminase	1	iYO844	0
+LEUt2r	L_leucine_reversible_transport_via_proton_symport	1	iYO844	0
+LIPO1S24_BS	Lipoteichoic_acid_synthesis__n24___linked__glucose_substituted	0	iYO844	0
+LIPO2S24_BS	Lipoteichoic_acid_synthesis__n24___linked__N_acetylglucosamine_substituted	0	iYO844	0
+LIPO3S24_BS	Lipoteichoic_acid_synthesis__n24___unliked__D_alanine_substituted	0	iYO844	0
+LIPO4S24_BS	Lipoteichoic_acid_synthesis__n24___linked__unsubstituted	0	iYO844	0
+LIPTabc	Lipoic_acid_transport_via_ABC_system	0	iYO844	0
+LLEUDr	L_leucine_dehydrogenase	1	iYO844	0
+LYSAM	Lysine_2,3-aminomutase	1	iYO844	0
+LYSDC	Lysine_decarboxylase	0	iYO844	0
+LYSLG_BS	Lysylphosphatidylglycerol_synthesis	0	iYO844	0
+LYSt3r	L_lysine_transport_out_via_proton_antiport_reversible	1	iYO844	0
+L_LACt2r	L_lactate_reversible_transport_via_proton_symport	1	iYO844	0
+M1PD	Mannitol-1-phosphate_5-dehydrogenase	1	iYO844	0
+MAL6PG	Maltose_6__phosphate_glucosidase	0	iYO844	0
+MALT	Alpha_glucosidase	0	iYO844	0
+MALTATr	Maltose_O-acetyltransferase	0	iYO844	0
+MALTTRabc	Maltotriose_transport_via_ABC_system	0	iYO844	0
+MALTabc	Maltose_transport_via_ABC_system	0	iYO844	0
+MALTpts	Maltose_transport_via_PEP:Pyr_PTS	0	iYO844	0
+MAL_Dt2	D_malate_transport_in_via_proton_symport	0	iYO844	0
+MALt10	Malate_HNa_lactate_antiporter	0	iYO844	0
+MALt2r	L_malate_reversible_transport_via_proton_symport	0	iYO844	0
+MALt4	Namalate_symporter	0	iYO844	0
+MAN1Pt6	MAN1P_transport_inout_via_proton_symport	1	iYO844	0
+MAN6PI	Mannose-6-phosphate_isomerase	1	iYO844	0
+MAN6Pt6	MAN6P_transport_inout_via_proton_symport	1	iYO844	0
+MANAO	Mannonate_oxidoreductase	1	iYO844	0
+MANpts	D-mannose_transport_via_PEP:Pyr_PTS	0	iYO844	0
+MANt2	D_mannose_transport_in_via_proton_symport	0	iYO844	0
+MCA	Methyl_cis_aconitase	1	iYO844	0
+MCITS	2-methylcitrate_synthase	0	iYO844	0
+MCSNAH	5-Methylcytosine_aminohydrolase	1	iYO844	0
+MDH	Malate_dehydrogenase	1	iYO844	0
+MDRPD	5-Methylthio-5-deoxy-D-ribulose_1-phosphate_dehydratase	0	iYO844	0
+MALDDH	Malate_decarboxylating_oxidoreductase_(decarboxylating)	0	iYO844	0
+ME2	Malic_enzyme_(NADP)	0	iYO844	0
+MECDPDH2	2C-methyl-D-erythritol_2,4_cyclodiphosphate_dehydratase	0	iYO844	0
+MECDPS	2-C-methyl-D-erythritol_2,4-cyclodiphosphate_synthase	0	iYO844	0
+MELIBt2	Melibiose_transport_in_via_symport	0	iYO844	0
+MEPCT	2-C-methyl-D-erythritol_4-phosphate_cytidylyltransferase	0	iYO844	0
+METAT	Methionine_adenosyltransferase	0	iYO844	0
+METDabc	D-methionine_transport_via_ABC_system	0	iYO844	0
+METS	Methionine_synthase	0	iYO844	0
+METSR_R1	L_methionine_R_oxide_reductase__trdrd_	0	iYO844	0
+METSR_R2	L_methionine_R_oxide__H2O2_	0	iYO844	0
+METSR_S1	L_methionine_S_oxide_reductase__trdrd_	0	iYO844	0
+METSR_S2	L_methionine_S_oxide_reductase__H2O2_	0	iYO844	0
+METSRabc	L_methionine_R_oxide_transport_via_ABC_system	0	iYO844	0
+METSabc	L_methionine_S_oxide_transport_via_ABC_system	0	iYO844	0
+METTRS	Methionyl-tRNA_synthetase	0	iYO844	0
+METabc	L-methionine_transport_via_ABC_system	0	iYO844	0
+METt3	L_methionine_transport_out_via_proton_antiport	0	iYO844	0
+MGSA	Methylglyoxal_synthase	0	iYO844	0
+MGt5	Magnesium_transport_in/out_via_permease_(no_H+)	1	iYO844	0
+MI1PP	Myo-inositol_1-phosphatase	0	iYO844	0
+MCITL2	Methylisocitrate_lyase	1	iYO844	0
+MLTG1	Maltodextrin_glucosidase_(maltotriose)	0	iYO844	0
+MLTG2	Maltodextrin_glucosidase_(maltotetraose)	0	iYO844	0
+MLTG3	Maltodextrin_glucosidase_(maltopentaose)	0	iYO844	0
+MLTG4	Maltodextrin_glucosidase_(maltohexaose)	0	iYO844	0
+MLTG5	Maltodextrin_glucosidase_(maltoheptaose)	0	iYO844	0
+MLTG6	Maltodextrin_glucosidase__dextrin_	0	iYO844	0
+MLTG7	Maltodextrin_glucosidase__isomaltose_	0	iYO844	0
+MMSAD1	Methylmalonate_semialdehyde_dehydrogenase	0	iYO844	0
+MMSAD2	Methylmalonate-semialdehyde_dehydrogenase_(propanol)	0	iYO844	0
+MMSAD3	Methylmalonate-semialdehyde_dehydrogenase_(malonic_semialdehyde)	0	iYO844	0
+MMSDHir	Methylmalonate_semialdehyde_dehydrogenase__acylating_	0	iYO844	0
+MNLpts	Mannitol_transport_via_PEP:Pyr_PTS	0	iYO844	0
+MNNH	D-mannonate_hydrolyase	0	iYO844	0
+MNabc	Manganese_transport_via_ABC_system	0	iYO844	0
+MNt2	Manganese_transport_in_via_proton_symport	0	iYO844	0
+MOBDabc	Molybdate_transport_via_ABC_system	0	iYO844	0
+MOHMT	3-methyl-2-oxobutanoate_hydroxymethyltransferase	0	iYO844	0
+MOPSabc	MOPS_transport_via_ABC_system	0	iYO844	0
+MPL	Maltose_phosphorylase	0	iYO844	0
+MSO3abc	Methanesulfonate_transport_via_ABC_system	0	iYO844	0
+MTAN	Methylthioadenosine_nucleosidase	0	iYO844	0
+MTHFC	Methenyltetrahydrofolate_cyclohydrolase	1	iYO844	0
+MTHFD	Methylenetetrahydrofolate_dehydrogenase_(NADP)	1	iYO844	0
+MTHFR3	5_10_methylenetetrahydrofolatereductase__NADPH_	0	iYO844	0
+MTRI	5-methylthioribose-1-phosphate_isomerase	1	iYO844	0
+MTRK	5-methylthioribose_kinase	0	iYO844	0
+NACt	Nicotinic_acid_transport	0	iYO844	0
+NADH4	NADH_dehydrogenase__Menaquinone_7__no_proton_	0	iYO844	0
+NADK	NAD_kinase	0	iYO844	0
+NADK1	NAD_kinase__GTP_	0	iYO844	0
+NADK2	NAD_kinase__dATP_	0	iYO844	0
+NADK3	NAD_kinase__dGTP_	0	iYO844	0
+NADK4	NAD_kinase__dCTP_	0	iYO844	0
+NADK5	NAD_kinase__dTTP_	0	iYO844	0
+NADS1	NAD_synthase_(nh3)	0	iYO844	0
+NAabcO	Sodium_transport_out_via_ABC_system	0	iYO844	0
+NAt3_1	Sodium_proton_antiporter__HNA_is_11_	0	iYO844	0
+NAPRT	NAPRTase_(rev)	1	iYO844	0
+NDPK1	Nucleoside-diphosphate_kinase_(ATP:GDP)	1	iYO844	0
+NDPK2	Nucleoside-diphosphate_kinase_(ATP:UDP)	1	iYO844	0
+NDPK3	Nucleoside-diphosphate_kinase_(ATP:CDP)	1	iYO844	0
+NDPK4	Nucleoside-diphosphate_kinase_(ATP:dTDP)	1	iYO844	0
+NDPK5	Nucleoside-diphosphate_kinase_(ATP:dGDP)	1	iYO844	0
+NDPK6	Nucleoside-diphosphate_kinase_(ATP:dUDP)	1	iYO844	0
+NDPK7	Nucleoside-diphosphate_kinase_(ATP:dCDP)	1	iYO844	0
+NDPK8	Nucleoside-diphosphate_kinase_(ATP:dADP)	1	iYO844	0
+NDPK9	Nucleoside_diphosphate_kinase__ATPIDP_	1	iYO844	0
+NH4t	Ammonia_reversible_transport	1	iYO844	0
+NMNHYD	Nicotinamide_ribonucleotide_phosphohydrolase	1	iYO844	0
+NMNAT	Nicotinamide-nucleotide_adenylyltransferase	1	iYO844	0
+NNAM	Nicotinamidase	0	iYO844	0
+NNATr	Nicotinate-nucleotide_adenylyltransferase	1	iYO844	0
+NNDPR	Nicotinate-nucleotide_diphosphorylase_(carboxylating)	0	iYO844	0
+NO2t2r	Nitrite_transport_in_via_proton_symport,_reversible	0	iYO844	0
+NO2t3	Nitrite_transport_out_via_proton_antiport	0	iYO844	0
+NO3t2	Nitrate_transport_in_via_proton_symport	0	iYO844	0
+NPHS	Naphthoate_synthase	0	iYO844	0
+NTD1	5'-nucleotidase_(dUMP)	0	iYO844	0
+NTD10	5'-nucleotidase_(XMP)	0	iYO844	0
+NTD2	5'-nucleotidase_(UMP)	0	iYO844	0
+NTD3	5'-nucleotidase_(dCMP)	0	iYO844	0
+NTD4	5'-nucleotidase_(CMP)	0	iYO844	0
+NTD5	5'-nucleotidase_(dTMP)	0	iYO844	0
+NTD6	5'-nucleotidase_(dAMP)	0	iYO844	0
+NTD7	5'-nucleotidase_(AMP)	0	iYO844	0
+NTD8	5'-nucleotidase_(dGMP)	0	iYO844	0
+NTD9	5'-nucleotidase_(GMP)	0	iYO844	0
+NTR3B	Nitrate_reductase	0	iYO844	0
+NTRIR2x	Nitrite_Reductase_(NADH)	0	iYO844	0
+O2t	O2_transport__diffusion_	1	iYO844	0
+OCBT_1	Ornithine_carbamoyltransferase	1	iYO844	0
+OCOAT1	3-oxoacid_CoA-transferase_(Succinyl-CoA:_acetoacetate)	1	iYO844	0
+OIVD1r	2-oxoisovalerate_dehydrogenase_(acylating;_4-methyl-2-oxopentaoate)	1	iYO844	0
+OIVD2	2-oxoisovalerate_dehydrogenase_(acylating;_3-methyl-2-oxobutanoate)	0	iYO844	0
+OIVD3	2-oxoisovalerate_dehydrogenase_(acylating;_3-methyl-2-oxopentanoate)	0	iYO844	0
+OMCDC	2-Oxo-4-methyl-3-carboxypentanoate_decarboxylation	0	iYO844	0
+OMPDC	Orotidine-5'-phosphate_decarboxylase	0	iYO844	0
+ORNTA_1	Ornithine_transaminase	0	iYO844	0
+ORNTAC_1	Ornithine_transacetylase	1	iYO844	0
+ORNt2	Ornithine_transport_in_via_proton_symport	0	iYO844	0
+ORPT	Orotate_phosphoribosyltransferase	1	iYO844	0
+OXADC	Oxalate_decarboxylase	0	iYO844	0
+OXGDC	2_oxoglutarate_decarboxylase	0	iYO844	0
+P5CD	1-pyrroline-5-carboxylate_dehydrogenase	0	iYO844	0
+P5CR	Pyrroline-5-carboxylate_reductase	0	iYO844	0
+PALAt2	Palatinose_transport_in_via_proton_symport	0	iYO844	0
+PANTS	Pantothenate_synthase	0	iYO844	0
+PAPPT3	Phospho-N-acetylmuramoyl-pentapeptide-transferase_(meso-2,6-diaminopimelate)	0	iYO844	0
+PAPSR	Phosphoadenylyl-sulfate_reductase_(thioredoxin)	0	iYO844	0
+PAP_BS	Phosphatidic_acid_phosphatase	0	iYO844	0
+PBUTT	Phosphate_butyryltransferase	1	iYO844	0
+PC	Pyruvate_carboxylase	0	iYO844	0
+PDH	Pyruvate_dehydrogenase	0	iYO844	0
+PENCAC	Penicillin_acylase	0	iYO844	0
+PEPt6	Phosphoenolpyruvate_transport_in_via_proton_symport	1	iYO844	0
+PFK	Phosphofructokinase	0	iYO844	0
+PFK_2	Phosphofructokinase	0	iYO844	0
+PGAMT	Phosphoglucosamine_mutase	1	iYO844	0
+PGCD	Phosphoglycerate_dehydrogenase	1	iYO844	0
+GND	Phosphogluconate_dehydrogenase	1	iYO844	0
+BGLA1	6-phospho-beta-glucosidase	0	iYO844	0
+PGI	Glucose-6-phosphate_isomerase	1	iYO844	0
+PGK	Phosphoglycerate_kinase	1	iYO844	0
+PGL	6-phosphogluconolactonase	0	iYO844	0
+PGLYCP	Phosphoglycolate_phosphatase	0	iYO844	0
+PGM	Phosphoglycerate_mutase	1	iYO844	0
+PGMT	Phosphoglucomutase	1	iYO844	0
+PGMT_B	B_phosphoglucomutase	1	iYO844	0
+PGPPH_BS	Phosphatidylglycerophosphate_phosphohydrolase	0	iYO844	0
+PHCYT_BS	Phosphatidate_cytidylyltransferase	0	iYO844	0
+PHETA1	Phenylalanine_transaminase	1	iYO844	0
+PHEt2r	L_phenylalanine_reversible_transport_via_proton_symport	1	iYO844	0
+PHYT3	3_phytase	0	iYO844	0
+PIabc	Phosphate_transport_via_ABC_system	0	iYO844	0
+PIt2r	Phosphate_reversible_transport_via_symport	1	iYO844	0
+PIt7	Phosphate_transport_in/out_via_three_Na+_symporter	0	iYO844	0
+PMANM	Phosphomannomutase	1	iYO844	0
+PMDPHT	Pyrimidine_phosphatase	0	iYO844	0
+PMPK	Phosphomethylpyrimidine_kinase	0	iYO844	0
+PNTEH	Hydrolase_Class___RXN_R02973_	0	iYO844	0
+PNTK	Pantothenate_kinase	0	iYO844	0
+PNTOt2	Pantothenate_reversible_transport_via_proton_symport	1	iYO844	0
+PPA	Inorganic_diphosphatase	0	iYO844	0
+PPAKr	Propionate_kinase	1	iYO844	0
+PPAt6	Propionate_transport_inout_via_proton_symport	1	iYO844	0
+PPBNGS	Porphobilinogen_synthase	0	iYO844	0
+PPCDC	Phosphopantothenoylcysteine_decarboxylase	0	iYO844	0
+PPCK	Phosphoenolpyruvate_carboxykinase	0	iYO844	0
+PPCOAC	Propionyl-CoA_carboxylase	0	iYO844	0
+PPIabc	Diphosphate_transport_in_via_ABC_system	0	iYO844	0
+PPM	Phosphopentomutase	1	iYO844	0
+PPM2	Phosphopentomutase_2_(deoxyribose)	1	iYO844	0
+PPNCL	Phosphopantothenate-cysteine_ligase	0	iYO844	0
+PPND	Prephenate_dehydrogenase	0	iYO844	0
+PPNDH	Prephenate_dehydratase	0	iYO844	0
+PPPGO	Protoporphyrinogen_oxidase_(aerobic)	0	iYO844	0
+PPS	Phosphoenolpyruvate_synthase	0	iYO844	0
+PPTGS_BS	Peptidoglycan_subunit_synthesis	0	iYO844	0
+PPTT	Trans_pentaprenyltranstransferase	0	iYO844	0
+PRAGSr	Phosphoribosylglycinamide_synthase	0	iYO844	0
+PRAIi	Phosphoribosylanthranilate_isomerase_(irreversible)	1	iYO844	0
+PRAIS_1	Phosphoribosylaminoimidazole_synthetase	0	iYO844	0
+PRAMPC_1	Phosphoribosyl_AMP_cyclohydrolase	0	iYO844	0
+PRASCSi	Phosphoribosylaminoimidazolesuccinocarboxamide_synthase	1	iYO844	0
+PRATPP	Phosphoribosyl-ATP_pyrophosphatase	0	iYO844	0
+PRFGS_1	Phosphoribosylformylglycinamidine_synthase	0	iYO844	0
+URATEt_1	Urate_permease	0	iYO844	0
+PRMICI	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide_isomerase	1	iYO844	0
+PRO1x	Proline_oxidase__L_proline__NAD_	0	iYO844	0
+PROLBabc	Proline_betaine_transport_in_via_ABC_system	0	iYO844	0
+PROt2r	L_proline_reversible_transport_via_proton_symport	0	iYO844	0
+PRPPS	Phosphoribosylpyrophosphate_synthetase	1	iYO844	0
+PSCVT	3-phosphoshikimate_1-carboxyvinyltransferase	1	iYO844	0
+PSDC_BS	Phosphatidylserine_decarboxylase	0	iYO844	0
+PSERT	Phosphoserine_transaminase	1	iYO844	0
+PSER_Dt6	D_O_Phosphoserine_transport_inout_via_proton_symport	1	iYO844	0
+PSER_Lt6	O_Phospho_L_serine_transport_in_via_proton_symport	1	iYO844	0
+PSP_D	Phosphoserine_phosphatase__D_serine_	0	iYO844	0
+PSP_L	Phosphoserine_phosphatase_(L-serine)	0	iYO844	0
+PTA2	Phosphate_acetyltransferase	1	iYO844	0
+PTAr	Phosphotransacetylase	1	iYO844	0
+APNPT	ATP:pantetheine_4'-phosphotransferase	1	iYO844	0
+PTHPS	6-pyruvoyltetrahydropterin_synthase	0	iYO844	0
+PTPATi	Pantetheine-phosphate_adenylyltransferase	1	iYO844	0
+PUNP1	Purine-nucleoside_phosphorylase_(Adenosine)	1	iYO844	0
+PUNP2	Purine-nucleoside_phosphorylase_(Deoxyadenosine)	1	iYO844	0
+PUNP3	Purine-nucleoside_phosphorylase_(Guanosine)	1	iYO844	0
+PUNP4	Purine-nucleoside_phosphorylase_(Deoxyguanosine)	1	iYO844	0
+PUNP5	Purine-nucleoside_phosphorylase_(Inosine)	1	iYO844	0
+PUNP6	Purine-nucleoside_phosphorylase_(Deoxyinosine)	1	iYO844	0
+PUNP7	Purine-nucleoside_phosphorylase_(Xanthosine)	1	iYO844	0
+PUNP8	Purine_nucleoside_phosphorylase__nebularine_	1	iYO844	0
+PURabc1	Puromycin_efflux__via_ABC_system	0	iYO844	0
+PYK	Pyruvate_kinase	0	iYO844	0
+PYNP1	Pyrimidine-nucleoside_phosphorylase_(cytosine)	1	iYO844	0
+PYNP2r	Pyrimidine-nucleoside_phosphorylase_(uracil)	1	iYO844	0
+PYRIS	Pyridoxal_5__phsophate_synthase	0	iYO844	0
+PYRt2	Pyruvate_transport_in_via_proton_symport	1	iYO844	0
+Q23DO	Quercetin_2_3_dioxygenase	0	iYO844	0
+QULNS	Quinolinate_synthase	0	iYO844	0
+RAFFINt2	Raffinose_transport_in_via_proton_symport	0	iYO844	0
+RBFK	Riboflavin_kinase	0	iYO844	0
+RBFSa	Riboflavin_synthase	0	iYO844	0
+RBFSb	Riboflavin_synthase	0	iYO844	0
+RBK_Dr	D-ribulokinase_(D-ribulose)	0	iYO844	0
+RBK	Ribokinase	1	iYO844	0
+RBK_L1	L-ribulokinase_(L-ribulose)	0	iYO844	0
+RBP4E	L-ribulose-phosphate_4-epimerase	1	iYO844	0
+RHCYS	5_deoxyribos_5_ylhomocysteinase	0	iYO844	0
+RIBFLVt2	Riboflavin_transport_in_via_proton_symport	1	iYO844	0
+RIBabc	D-ribose_transport_via_ABC_system	0	iYO844	0
+RIBabc1	D_ribose_transport_out_via_ABC_system	0	iYO844	0
+PNP	Purine_nucleoside_phosphorylase	1	iYO844	0
+RMI	L-rhamnose_isomerase	1	iYO844	0
+RMK	Rhamnulokinase	0	iYO844	0
+RMNt	L-rhamnose_transport_via_proton_symport	0	iYO844	0
+RMPA	Rhamnulose-1-phosphate_aldolase	1	iYO844	0
+RNDR1	Ribonucleoside-diphosphate_reductase_(ADP)	0	iYO844	0
+RNDR2	Ribonucleoside-diphosphate_reductase_(GDP)	0	iYO844	0
+RNDR3	Ribonucleoside-diphosphate_reductase_(CDP)	0	iYO844	0
+RNDR4	Ribonucleoside-diphosphate_reductase_(UDP)	0	iYO844	0
+RPE	Ribulose_5-phosphate_3-epimerase	1	iYO844	0
+RPI	Ribose-5-phosphate_isomerase	1	iYO844	0
+S6PG	Salicin_6_phosphate_glucohydrolase	0	iYO844	0
+SADT	Sulfate_adenylyltransferase	1	iYO844	0
+SALADC2	Sulfinoalanine_decarboxylase	0	iYO844	0
+SALCpts	Salicin_transport_via_PEP:Pyr_PTS	0	iYO844	0
+SARCOX	Sarcosine_oxidase	0	iYO844	0
+SBTD_D2	D_sorbitol_dehydrogenase__D_fructose_producing_	0	iYO844	0
+SBTt2	D_sorbitol_transport_in_via_proton_symport	0	iYO844	0
+SDPDS	Succinyl-diaminopimelate_desuccinylase	0	iYO844	0
+SERAT	Serine_O-acetyltransferase	1	iYO844	0
+SERD_D	D-serine_deaminase	0	iYO844	0
+SERD_L	L-serine_deaminase	0	iYO844	0
+DSERt2	D-serine_transport_via_proton_symport	1	iYO844	0
+SERt2r	L_serine_reversible_transport_via_proton_symport	0	iYO844	0
+SHCHD2_1	Sirohydrochlorin_dehydrogenase__NAD_	0	iYO844	0
+SHCHF_2	Sirohydrochlorin_ferrochetalase	0	iYO844	0
+SHK3Dr	Shikimate_dehydrogenase	1	iYO844	0
+SHKK	Shikimate_kinase	0	iYO844	0
+SHSL1	O-succinylhomoserine_lyase_(L-cysteine)	0	iYO844	0
+SHSL2	O_succinylhomoserine_lyase__H2S_	0	iYO844	0
+SHSL3	O_succinylhomoserine_lyase__methanethiol_	0	iYO844	0
+SHSL4r	O_succinylhomoserine_lyase__elimination___reversible	0	iYO844	0
+SLCYSS	O-acetyl-L-serine_sulfhydrylase	0	iYO844	0
+SO4t2	Sulfate_transport_in_via_proton_symport	0	iYO844	0
+SPODM	Superoxide_dismutase	1	iYO844	0
+SORD_D	D_sorbitol_dehydrogenase	1	iYO844	0
+SPMDAT1	Spermidine_acetyltransferase	0	iYO844	0
+SPMDAT3	Spermidine_acetyltransferase__spermine_	0	iYO844	0
+SPMDt3i	Spermidine_transport_in_via_proton_antiport	0	iYO844	0
+SPMS	Spermidine_synthase	0	iYO844	0
+SPRMS	Spermine_synthase	0	iYO844	0
+SRB_Lt	L_sorbose_reversible_transport	1	iYO844	0
+SSALy	Succinate-semialdehyde_dehydrogenase_(NADP)	0	iYO844	0
+SUCBZL	O-succinylbenzoate-CoA_ligase	0	iYO844	0
+SUCBZS	O-succinylbenzoate-CoA_synthase	0	iYO844	0
+SUCCt2r	Succinate_transport_via_proton_symport	1	iYO844	0
+SUCD1	Succinate_dehydrogenase	1	iYO844	0
+SUCD5_BS	Succinate_dehydrogenase	0	iYO844	0
+SUCR	Sucrose_hydrolyzing_enzyme	0	iYO844	0
+SUCOAS	Succinyl-CoA_synthetase_(ADP-forming)	1	iYO844	0
+SUCpts	Sucrose_transport_via_PEP:Pyr_PTS	0	iYO844	0
+SULAabc	Sulfoacetate_transport_via_ABC_system	0	iYO844	0
+SULR_1	Sulfite_reductase__NADPH2_	1	iYO844	0
+EX_f6p_e	D-fructose_6-phosphate_exchange	0	iYO844	0
+TAGURr	Tagaturonate_reductase	1	iYO844	0
+TALA	Transaldolase	1	iYO844	0
+TARTDC	Tartrate_decarboxylase	0	iYO844	0
+TARTRDH	Tartrate_dehydrogenase	1	iYO844	0
+TARTRDH2	Tartrate_dehydrogenase	1	iYO844	0
+TAURabc	Taurine_transport_via_ABC_system	0	iYO844	0
+TECA1S45	Glycerol_teichoic_acid__n45___unlinked__unsubstituted	0	iYO844	0
+TECA2S45	Glycerol_teichoic_acid__n45___unlinked__D_ala_substituted	0	iYO844	0
+TECA3S45	Glycerol_teichoic_acid__n45___unlinked__glucose_substituted	0	iYO844	0
+TECA4S_BS	Minor_teichoic_acid_synthesis__n30_	0	iYO844	0
+TEICH45	Teichuronic_acid__n45___unlinked__GalNAc_GlcA_repeated	1	iYO844	0
+TGBPA	Tagatose-bisphosphate_aldolase	1	iYO844	0
+THIOGabc	Thioglycolate_transport_via_ABC_system	0	iYO844	0
+THMDt2	Thymidine_transport_in_via_proton_symport	0	iYO844	0
+THMt6	Thymine_transport_inout_via_proton_symport	1	iYO844	0
+THRD	L-threonine_dehydrogenase	0	iYO844	0
+THRD_L	L-threonine_deaminase	0	iYO844	0
+THRS	Threonine_synthase	0	iYO844	0
+THRt2r	L_threonine_reversible_transport_via_proton_symport	0	iYO844	0
+TKT1	Transketolase	1	iYO844	0
+TKT2	Transketolase	1	iYO844	0
+TMDK1	Thymidine_kinase_(ATP:thymidine)	0	iYO844	0
+TMDPP	Thymidine_phosphorylase	1	iYO844	0
+TMDS	Thymidylate_synthase	0	iYO844	0
+TMN	Thiaminase	0	iYO844	0
+TMPHi	Trimetaphosphate_hydrolase	0	iYO844	0
+TMPK	Thiamine-phosphate_kinase	0	iYO844	0
+TMPPP	Thiamine-phosphate_diphosphorylase	0	iYO844	0
+TMPt6	TMP_transport_inout_via_proton_symport	1	iYO844	0
+TPI	Triose-phosphate_isomerase	1	iYO844	0
+TRDR	Thioredoxin_reductase_(NADPH)	0	iYO844	0
+TRE6PH	Trehalose-6-phosphate_hydrolase	0	iYO844	0
+TREpts	Trehalose_transport_via_PEP:Pyr_PTS	0	iYO844	0
+TRPAS1	Tryptophanase__L_cysteine_	0	iYO844	0
+TRPS1	Tryptophan_synthase_(indoleglycerol_phosphate)	0	iYO844	0
+TRPt2r	L_tryptophan_reversible_transport_via_proton_symport	0	iYO844	0
+TYRTA	Tyrosine_transaminase	1	iYO844	0
+TYRt2r	L_tyrosine_reversible_transport_via_proton_symport	1	iYO844	0
+UAAGDS	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelate_synthetase	0	iYO844	0
+UAG2E	UDP-N-acetylglucosamine_2-epimerase	1	iYO844	0
+UAG2EMA	UDP-N-acetyl-D-glucosamine_2-epimerase_(Hydrolysis)	1	iYO844	0
+UAG4E	UDP_N_acetylglucosamine_4_epimerase	0	iYO844	0
+UAGCVT	UDP-N-acetylglucosamine_1-carboxyvinyltransferase	0	iYO844	0
+UAGDP	UDP-N-acetylglucosamine_diphosphorylase	1	iYO844	0
+UAGPT3	UDP-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide)pyrophosphoryl-undecaprenol_N-acetylglucosamine_transferase	0	iYO844	0
+UAMAGS	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate_synthetase	0	iYO844	0
+UAMAS	UDP-N-acetylmuramoyl-L-alanine_synthetase	0	iYO844	0
+UAPGR	UDP-N-acetylenolpyruvoylglucosamine_reductase	0	iYO844	0
+UDCPDP	Undecaprenyl-diphosphatase	0	iYO844	0
+UDPG4E	UDPglucose_4-epimerase	1	iYO844	0
+UDPGD	UDPglucose_6-dehydrogenase	1	iYO844	0
+UGLYCH	Ureidoglycolate_hydrolase	1	iYO844	0
+UGMDDS	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine_synthetase	0	iYO844	0
+UGT1_BS	UDP_glucosyltransferase__monoglucosyl_	0	iYO844	0
+UGT2_BS	UDP_glucosyltransferase__triglucosyl_	0	iYO844	0
+UGT_BS	UDP_glucosyltransferase__diglucosyl_	0	iYO844	0
+UMPt6	UMP_transport_in_via_proton_symport	1	iYO844	0
+UNK5	2_keto_4_methylthiobutyrate_transamination	0	iYO844	0
+UPP3MT_2	Uroporphyrinogen_methyltransferase	0	iYO844	0
+UPP3S	Uroporphyrinogen-III_synthase	0	iYO844	0
+UPPDC1	Uroporphyrinogen_decarboxylase_(uroporphyrinogen_III)	0	iYO844	0
+UPPRT	Uracil_phosphoribosyltransferase	0	iYO844	0
+URAt2	Uracil_transport_in_via_proton_symport	1	iYO844	0
+URCN	Urocanase	0	iYO844	0
+UREA	Urease	0	iYO844	0
+UREAt	Urea_transport_via_facilitate_diffusion	1	iYO844	0
+URIC	Uricase	0	iYO844	0
+UMPK	UMP_kinase	0	iYO844	0
+URIDK2r_copy1	Uridylate_kinase_(dUMP)	0	iYO844	0
+URIDK2r_copy2	Uridylate_kinase_(dUMP)	1	iYO844	0
+URIK1	Uridine_kinase__ATPUridine_	0	iYO844	0
+URIK2	Uridine_kinase_(GTP:Uridine)	0	iYO844	0
+URIK3	Uridine_kinase_(ITP:Uridine)	0	iYO844	0
+URIt2	Uridine_transport_in_via_proton_symport	0	iYO844	0
+VALDHr	Valine_dehydrogenase	1	iYO844	0
+VALTA	Valine_transaminase	1	iYO844	0
+VALt2r	L_valine_reversible_transport_via_proton_symport	0	iYO844	0
+X00002	Lumped_reaction_for_synthesis_of_pime	0	iYO844	0
+HXAND	Hypoxanthine_dehydrogenase	0	iYO844	0
+XAND	Xanthine_dehydrogenase	0	iYO844	0
+XANt2	Xanthine_transport_in_via_proton_symport	1	iYO844	0
+XPPT	Xanthine_phosphoribosyltransferase	0	iYO844	0
+XTSNt2	Xanthosine_transport_in_via_proton_symport	1	iYO844	0
+XYL14BASE	Xylan_1_4_beta_xylosidase	0	iYO844	0
+XYLI1	Xylose_isomerase	1	iYO844	0
+XYLI2	Xylose_isomerase	1	iYO844	0
+XYLK	Xylulokinase	0	iYO844	0
+XYLt2	D-xylose_transport_in_via_proton_symport	0	iYO844	0
+ZNabc	Zinc_transport_via_ABC_system	0	iYO844	0
+ZN2t4	Zinc_transport_out_via_antiport	0	iYO844	0
+BALAt2r	Beta_Alanine_transport_in_via_proton_symport	0	iYO844	0
