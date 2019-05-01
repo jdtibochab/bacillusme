@@ -71,7 +71,7 @@ ribosome_stoich = {'30_S_assembly': {'stoich': {'BSU25410-MONOMER': 1,
                                                   }}
 
 ribosome_subreactions = {'gtp_bound_30S_assembly_factor_phase1':
-                         {'enzyme': 'Era_dim',
+                         {'enzyme': 'BSU25290-MONOMER',
                           'stoich': {'gtp_c': -2,
                                      'h2o_c': -2,
                                      'h_c': 2,
@@ -80,12 +80,12 @@ ribosome_subreactions = {'gtp_bound_30S_assembly_factor_phase1':
                           'num_mods': 1},
 
                          'RbfA_mono_assembly_factor_phase1':
-                         {'enzyme': 'RbfA_mono',
+                         {'enzyme': 'BSU16650-MONOMER',
                           'stoich': {},
                           'num_mods': 1},
 
                          'RimM_mono_assembly_factor_phase1':
-                         {'enzyme': 'RimM_mono',
+                         {'enzyme': 'BSU16020-MONOMER',
                           'stoich': {},
                           'num_mods': 1}
                          }
