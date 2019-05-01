@@ -230,7 +230,6 @@ def process_m_model(m_model, metabolites_file, m_to_me_map_file,
                 or rxn.id in defer_to_rxn_matrix:
             rxn.remove_from_model(remove_orphans=True)
     for rxn_id in reaction_matrix_dict:
-        print(rxn_id)
         if rxn_id in m_model.reactions:
             continue
         rxn_stoichiometry = reaction_matrix_dict[rxn_id]

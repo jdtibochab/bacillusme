@@ -33,6 +33,7 @@ ecolime/building_data/TUs_from_ecocyc.txt
 ecolime/building_data/Untitled.ipynb
 ecolime/building_data/codon_usage.csv
 ecolime/building_data/enzyme_reaction_association.txt
+ecolime/building_data/enzyme_reaction_association.txt~
 ecolime/building_data/exchange_bounds.txt
 ecolime/building_data/generate_flatfiles.ipynb
 ecolime/building_data/iJL1678b_model_changes.xlsx

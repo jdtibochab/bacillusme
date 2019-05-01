@@ -1,4 +1,4 @@
-#name 	 description 	 is_reversible 	 data_source 	 is_spontaneous 
+#name	description	is_reversible	data_source	is_spontaneous
 23CN2P1	2__3__cyclic_nucleotide_2__phosphodiesterase__2__3__cyclc_AMP_	1	iYO844	0
 23CN2P2	2__3__cyclic_nucleotide_2__phosphodiesterase__2__3__cyclic_UMP_	1	iYO844	0
 23CN2P3	2__3__cyclic_nucleotide_2__phosphodiesterase__2__3__cyclic_CMP_	1	iYO844	0

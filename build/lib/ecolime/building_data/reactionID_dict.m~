@@ -1,0 +1,22 @@
+%% Generate reaction ID dictionary
+load('iYO844.mat')
+rxnLink='http://bigg.ucsd.edu/api/v2/universal/reactions/';
+filename = 'reaction_id_links.txt';
+
+%%
+fileID = fopen(filename,'w');
+
+model = iYO844;
+dict = {};
+RXNS = model.rxns(1:10);
+
+for i = 1:length(RXNS)
+    rxnID = RXNS{i};
+    rxnLink_rxn = [rxnLink,rxnID];
+    rxn(i)=webread(rxnLink_rxn);
+    try
+        cycID = rxn(i).database_links.BioCyc.id;
+    
+    string = [rxnID, sprintf('\t'),cycID(6:end),sprintf('\n')];
+    fprintf(fileID, string);
+end
