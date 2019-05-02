@@ -51,7 +51,9 @@ ribosome_stoich = {'30_S_assembly': {'stoich': {'BSU25410-MONOMER': 1,
                                                         'BSU01420-MONOMER': 1,
                                                         'generic_16s_rRNAs':
                                                             1}},
-                    '50_S_assembly': {'stoich': {'BSU01310-MONOMER': 1,
+                    '50_S_assembly': {'stoich': {'generic_23s_rRNAs': 1,
+                                                  'generic_5s_rRNAs': 1,
+                                                  'BSU01310-MONOMER': 1,
                                                   'BSU01260-MONOMER': 1,
                                                   'BSU01350-MONOMER': 1,
                                                   'BSU01230-MONOMER': 1,
@@ -134,7 +136,6 @@ def add_ribosome(me_model, verbose=True):
     for process in ribosome_assembly:
         for protein, amount in iteritems(ribosome_assembly[process]['stoich']):
             ribosome_components[protein] += amount
-
     ribosome_complex.create_complex_formation(verbose=verbose)
 
 rrna_modifications = {

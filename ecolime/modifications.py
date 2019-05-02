@@ -5,39 +5,27 @@ import cobrame
 from ecolime import corrections
 
 # these guys can transfer assembled iron sulfur clusters to the various enzymes
-fes_transfer = {"erpA": "CPLX0-7617", "iscA": "IscA_tetra",
-                "sufA": "CPLX0-7824"}
+fes_transfer = {}
 
 # Add known specific chaperone
-fes_chaperones = {'CPLX0-1762': 'G6712-MONOMER'}  # FE-S modification
+fes_chaperones = {}  # FE-S modification
 
 # complexes that can transfer an iron sulfur cluster to an enzyme target
 generic_fes_transfer_complexes = {
-    'generic_2fe2s_transfer_complex': ['CPLX0-7617_mod_1:2fe2s',
-                                       'CPLX0-7824_mod_1:2fe2s',
-                                       'IscA_tetra_mod_1:2fe2s'],
-    'generic_4fe4s_transfer_complex': ['CPLX0-7617_mod_1:4fe4s',
-                                       'CPLX0-7824_mod_1:4fe4s',
-                                       'IscA_tetra_mod_1:4fe4s']
 }
 
 lipoate_modifications = {
-    "mod_lipo_c": {"enzyme": 'EG11796-MONOMER',
+    "mod_lipo_c": {"enzyme": 'BSU07100-MONOMER',
                    "stoich": {"lipoamp_c": -1,
                               "amp_c": 1}},
 
-    "mod_lipo_c_alt": {"enzyme": 'EG11591-MONOMER',
-                       "stoich": {'EG50003-MONOMER_mod_pan4p_mod_lipo': -1,
-                                  'EG50003-MONOMER_mod_pan4p': 1,
+    "mod_lipo_c_alt": {"enzyme": 'BSU24530-MONOMER',
+                       "stoich": {'BSU15920-MONOMER_mod_pan4p_mod_lipo': -1,
+                                  'BSU15920-MONOMER_mod_pan4p': 1,
                                   'h_c': -1}}
     }
 
-bmocogdp_chaperones = {'TMAOREDUCTI-CPLX': 'EG12195-MONOMER',
-                       'DIMESULFREDUCT-CPLX': 'G6849-MONOMER',
-                       'NITRATREDUCTA-CPLX': 'NARJ-MONOMER',
-                       'NITRATREDUCTZ-CPLX': 'NARW-MONOMER',
-                       'NAP-CPLX': 'NAPD-MONOMER',
-                       'NAPAB-CPLX_NAPC-MONOMER': 'NAPD-MONOMER'}
+bmocogdp_chaperones = {}
 
 
 def add_iron_sulfur_modifications(me_model):
@@ -63,11 +51,6 @@ def add_iron_sulfur_modifications(me_model):
     mod_4fe4s = me_model.process_data.mod_4fe4s_c
     mod_4fe4s.enzyme = 'generic_4fe4s_transfer_complex'
     mod_4fe4s.stoichiometry = {'4fe4s_c': -1.}
-
-    mod_3fe4s = me_model.process_data.mod_3fe4s_c
-    mod_3fe4s.enzyme = 'generic_4fe4s_transfer_complex'
-    mod_3fe4s.stoichiometry = {'4fe4s_c': -1., 'fe2_c': 1}
-    mod_3fe4s._element_contribution = {'Fe': 3, 'S': 4}
 
     for chaperone in set(fes_chaperones.values()):
         new_mod = cobrame.SubreactionData('mod_2fe2s_c_' + chaperone, me_model)
