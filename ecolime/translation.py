@@ -16,15 +16,15 @@ special_trna_subreactions = {
 
 initiation_subreactions = {
     'Translation_initiation_factor_InfA':
-        {'enzymes': 'InfA_mono',
+        {'enzymes': 'BSU01390-MONOMER',
          'stoich': {}},
 
     'Translation_initiation_factor_InfC':
-        {'enzymes': 'InfC_mono',
+        {'enzymes': 'BSU28870-MONOMER',
          'stoich': {}},
 
     'Translation_gtp_initiation_factor_InfB':
-        {'enzymes': 'InfB_mono',
+        {'enzymes': 'BSU16630-MONOMER',
          'stoich': {'gtp_c': -1,
                     'h2o_c': -1,
                     'h_c': 1,
@@ -32,8 +32,8 @@ initiation_subreactions = {
                     'gdp_c': 1}},
 
     'fmet_addition_at_START':
-        {'enzymes': ['InfB_mono',
-                     'Fmt_mono_mod_mg2_mod_k'],
+        {'enzymes': ['BSU16630-MONOMER',
+                     'BSU15730-MONOMER'],
          # iOL had h_c:1 for fmet addition but this is not mass balanced
          'stoich': {'10fthf_c': -1, 'thf_c': 1,
                     # 'h_c': 1,
@@ -41,23 +41,31 @@ initiation_subreactions = {
          'element_contribution': {'C': 1, 'O': 1}}
    }
 
-elongation_subreactions = {'FusA_mono_elongation': {'enzymes': ['FusA_mono'],
+elongation_subreactions = {'FusA_mono_elongation': {'enzymes': ['BSU01120-MONOMER'],
                                                     'stoich': {'gtp_c': -1,
                                                                'h2o_c': -1,
                                                                'h_c': 1,
                                                                'pi_c': 1,
                                                                'gdp_c': 1}},
 
-                           'Tuf_gtp_regeneration': {'enzymes': ['Tsf_mono'],
+                           'Tuf_gtp_regeneration': {'enzymes': ['BSU16500-MONOMER'],
                                                     'stoich': {}}}
 
 # TODO Go through and double check elongation/termination ATP usage etc.
+
+# The chaperones do not actively
+# promote the folding of the substrate protein, but instead prevent ag-
+# gregation of unfolded peptides. For a population of polypeptides,
+# some fraction of the polypeptides released at the end of the cycle are in the
+# native conformation. The remainder are rebound by DnaK or are di-
+# verted to the chaperonin system (GroEL; see Fig. 4–31).
+
 termination_subreactions = {'PrfA_mono_mediated_termination':
-                            {'enzymes': ['PrfA_mono'],
+                            {'enzymes': ['BSU37010-MONOMER'],
                              'stoich': {}},
 
                             'PrfB_mono_mediated_termination':
-                            {'enzymes': ['PrfB_mono'],
+                            {'enzymes': ['BSU35290-MONOMER'],
                              'stoich': {}},
 
                             'generic_RF_mediated_termination':
@@ -65,7 +73,7 @@ termination_subreactions = {'PrfA_mono_mediated_termination':
                              'stoich': {}},
 
                             'N_terminal_methionine_cleavage':
-                            {'enzymes': ['Map_mono_mod_2:fe2'],
+                            {'enzymes': ['BSU01380-MONOMER'],
                              'stoich': {'h2o_c': -1,
                                         'met__L_c': 1, 'h_c': 1},
                              'element_contribution': {'H': -10, 'O': -1,
@@ -73,7 +81,7 @@ termination_subreactions = {'PrfA_mono_mediated_termination':
                                                       'S': -1}},
 
                             'peptide_deformylase_processing':
-                            {'enzymes': ['Def_mono_mod_1:fe2'],
+                            {'enzymes': ['BSU15720-MONOMER'],
                              'stoich': {'h2o_c': -1,
                                         'for_c': 1},
                              'element_contribution':
@@ -81,7 +89,7 @@ termination_subreactions = {'PrfA_mono_mediated_termination':
 
                             # This is a GTPS
                             'peptide_chain_release':
-                            {'enzymes': ['PrfC_mono'],
+                            {'enzymes': ['BSU35290-MONOMER'],
                              'stoich': {'gtp_c': -1,
                                         'h2o_c': -1,
                                         'h_c': 1,
@@ -89,12 +97,11 @@ termination_subreactions = {'PrfA_mono_mediated_termination':
                                         'gdp_c': 1}},
 
                             'ribosome_recycler':
-                            {'enzymes': ['Rrf_mono'],
+                            {'enzymes': ['BSU16520-MONOMER'],
                              'stoich': {}},
 
                             'GroEL_dependent_folding':
-                            {'enzymes': ['GroL_14', 'cisGroES_hepta',
-                                         'transGroES_hepta'],
+                            {'enzymes': ['CPLX8J2-24', 'CPLX8J2-24'],
                              'stoich': {'atp_c': -7,
                                         'h2o_c': -7,
                                         'h_c': 7,
@@ -103,8 +110,8 @@ termination_subreactions = {'PrfA_mono_mediated_termination':
 
                             # DnaK is correct
                             'DnaK_dependent_folding':
-                            {'enzymes': ['DnaK_mono', 'DnaJ_dim_mod_4:zn2',
-                                         'GrpE_dim'],
+                            {'enzymes': ['BSU25470-MONOMER', 'BSU25460-MONOMER',
+                                         'BSU25480-MONOMER'],
                              'stoich': {'atp_c': -1,
                                         'h2o_c': -1,
                                         'h_c': 1,
@@ -113,14 +120,14 @@ termination_subreactions = {'PrfA_mono_mediated_termination':
                             }
 
 # Subreaction for translation termination
-translation_stop_dict = {'UAG': 'PrfA_mono',
-                         'UGA': 'PrfB_mono',
+translation_stop_dict = {'UAG': 'BSU37010-MONOMER',
+                         'UGA': 'BSU35290-MONOMER',
                          'UAA': 'generic_RF'}
 
 translation_start_codons = {"AUG", "GUG", "UUG", "AUU", "CUG"}
 
 # Dictionary of frame shift mutations
-frameshift_dict = {'b2891': '3033206:3034228,3034230:3034304'}
+frameshift_dict = {}
 
 peptide_processing_subreactions = {"peptide_deformylase_processing",
                                    "peptide_chain_release",
@@ -189,132 +196,42 @@ def add_charged_trna_subreactions(me_model):
 
 
 # N terminal methionine cleaved
-methionine_cleaved = ['BSU17410',
-                     'BSU10790',
-                     'BSU32150',
-                     'BSU17460',
-                     'BSU06480',
-                     'BSU39920',
-                     'BSU06180',
-                     'BSU16100',
-                     'BSU01390',
-                     'BSU28230',
-                     'BSU16150',
-                     'BSU31390',
-                     'BSU15990',
-                     'BSU01440',
-                     'BSU30540',
-                     'BSU01290',
-                     'BSU18000',
-                     'BSU06850',
-                     'BSU33540',
-                     'BSU13900',
-                     'BSU03520',
-                     'BSU28310',
-                     'BSU02890',
-                     'BSU25020',
-                     'BSU06150',
-                     'BSU01050',
-                     'BSU00730',
-                     'BSU19530',
-                     'BSU01410',
-                     'BSU23860',
-                     'BSU34790',
-                     'BSU33940',
-                     'BSU01100',
-                     'BSU04730',
-                     'BSU30190',
-                     'BSU23040',
-                     'BSU03130',
-                     'BSU25410',
-                     'BSU32710',
-                     'BSU32890',
-                     'BSU28440',
-                     'BSU29120',
-                     'BSU28500',
-                     'BSU01340',
-                     'BSU01020',
-                     'BSU16250',
-                     'BSU23470',
-                     'BSU30650',
-                     'BSU38550',
-                     'BSU33910',
-                     'BSU29660',
-                     'BSU28870',
-                     'BSU07000',
-                     'BSU06030',
-                     'BSU16170',
-                     'BSU16690',
-                     'BSU01310',
-                     'BSU01150',
-                     'BSU01700',
-                     'BSU00510',
-                     'BSU01200',
-                     'BSU01040',
-                     'BSU30120',
-                     'BSU14580',
-                     'BSU33400',
-                     'BSU04190',
-                     'BSU19550',
-                     'BSU12290',
-                     'BSU19240',
-                     'BSU01120',
-                     'BSU38140',
-                     'BSU21870',
-                     'BSU37660',
-                     'BSU00110',
-                     'BSU18030',
-                     'BSU25480',
-                     'BSU40030',
-                     'BSU13180',
-                     'BSU01780',
-                     'BSU35000',
-                     'BSU28430',
-                     'BSU08820',
-                     'BSU31350',
-                     'BSU01250',
-                     'BSU16500',
-                     'BSU04400',
-                     'BSU07830',
-                     'BSU36830',
-                     'BSU27320',
-                     'BSU13470',
-                     'BSU08070',
-                     'BSU00480',
-                     'BSU13160',
-                     'BSU33900',
-                     'BSU23820',
-                     'BSU01220',
-                     'BSU14600',
-                     'BSU18239',
-                     'BSU15080',
-                     'BSU29490',
-                     'BSU40890',
-                     'BSU28860',
-                     'BSU29080',
-                     'BSU16680',
-                     'BSU39340',
-                     'BSU16520',
-                     'BSU01300',
-                     'BSU01190',
-                     'BSU01030',
-                     'BSU18360',
-                     'BSU02900',
-                     'BSU25550',
-                     'BSU16490',
-                     'BSU16330',
-                     'BSU01110',
-                     'BSU16180',
-                     'BSU01500',
-                     'BSU07850',
-                     'BSU08550',
-                     'BSU00520',
-                     'BSU26660',
-                     'BSU37540',
-                     'BSU14590',
-                     'BSU25470']
-
-folding_dict = {}
+methionine_cleaved = ['BSU17410','BSU10790','BSU32150','BSU17460','BSU06480',
+                      'BSU39920','BSU06180','BSU16100','BSU01390','BSU28230',
+                      'BSU16150','BSU31390','BSU15990','BSU01440','BSU30540',
+                      'BSU01290','BSU18000','BSU06850','BSU33540','BSU13900',
+                      'BSU03520','BSU28310','BSU02890','BSU25020','BSU06150',
+                      'BSU01050','BSU00730','BSU19530','BSU01410','BSU23860',
+                      'BSU34790','BSU33940','BSU01100','BSU04730','BSU30190',
+                      'BSU23040','BSU03130','BSU25410','BSU32710','BSU32890',
+                      'BSU28440','BSU29120','BSU28500','BSU01340','BSU01020',
+                      'BSU16250','BSU23470','BSU30650','BSU38550','BSU33910',
+                      'BSU29660','BSU28870','BSU07000','BSU06030','BSU16170',
+                      'BSU16690','BSU01310','BSU01150','BSU01700','BSU00510',
+                      'BSU01200','BSU01040','BSU30120','BSU14580','BSU33400',
+                      'BSU04190','BSU19550','BSU12290','BSU19240','BSU01120',
+                      'BSU38140','BSU21870','BSU37660','BSU00110','BSU18030',
+                      'BSU25480','BSU40030','BSU13180','BSU01780','BSU35000',
+                      'BSU28430','BSU08820','BSU31350','BSU01250','BSU16500',
+                      'BSU04400','BSU07830','BSU36830','BSU27320','BSU13470',
+                      'BSU08070','BSU00480','BSU13160','BSU33900','BSU23820',
+                      'BSU01220','BSU14600','BSU18239','BSU15080','BSU29490',
+                      'BSU40890','BSU28860','BSU29080','BSU16680','BSU39340',
+                      'BSU16520','BSU01300','BSU01190','BSU01030','BSU18360',
+                      'BSU02900','BSU25550','BSU16490','BSU16330','BSU01110',
+                      'BSU16180','BSU01500','BSU07850','BSU08550','BSU00520',
+                      'BSU26660','BSU37540','BSU14590','BSU25470']
+## GroEL dictionary from Endo & Kurusu, 2007
+folding_dict = {
+    'GroEL_dependent_folding': ['BSU23260','BSU10200','BSU28670','BSU14590',
+                                'BSU23510','BSU05700','BSU15930','BSU27930',
+                                'BSU25470','BSU28230','BSU14600','BSU14610',
+                                'BSU36810','BSU36830','BSU01130','BSU33900',
+                                'BSU29130','BSU16940','BSU31930','BSU33940',
+                                'BSU35360','BSU29120','BSU16500','BSU25530',
+                                'BSU37120','BSU39680','BSU11690','BSU40090'],
+    'DnaK_dependent_folding': [
+                              ]}
 
 # Codons are not unique to a tRNA
 trna_to_codon = {'BSU_tRNA_1': ['UUU', 'UUC'],
