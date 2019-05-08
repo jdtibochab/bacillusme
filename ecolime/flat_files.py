@@ -60,13 +60,13 @@ def get_complex_subunit_stoichiometry(complex_stoichiometry_file,
             warn('Complex (%s) in complex_stoichiometry_file twice' % key)
         else:
             complex_stoichiometry_dict[key] = {}
-
+        
         for bnums in row['Stoichiometry'].split(' AND '):
 
             bnum, num = bnums.rstrip(')').split('(')
 
             ## Sometimes it returned num = '1)'
-            num = num[0]
+            # num = num[0]
 
             stoichiometry = float(num) if not num == '' else 1.
 
