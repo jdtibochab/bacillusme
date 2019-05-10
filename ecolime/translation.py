@@ -5,14 +5,7 @@ from cobrame.util import dogma
 
 # 1 machine + 1 atp + 1 aa + 1 h2o --> 1 machine-amp + 1 h + 1 ppi
 # 1 machine-amp + 1 free tRNA --> 1 machine + 1 amp + 1 charged tRNA
-special_trna_subreactions = {
-    'sec_addition_at_UGA': {
-        'enzymes': ['SelA_deca_mod_10:pydx5p',
-                    'SelB_mono'],  # Selenocysteine loaders
-        'stoich': {'h_c': 1, 'selnp_c': -1,
-                   'pi_c': 1,
-                   'generic_tRNA_UGA_cys__L_c': -1},
-        'element_contribution': {'O': -1, 'Se': 1}}}
+special_trna_subreactions = {}
 
 initiation_subreactions = {
     'Translation_initiation_factor_InfA':

@@ -6,29 +6,24 @@ from cobrame import ComplexData, SubreactionData
 
 transcription_subreactions = {
     'Transcription_normal_rho_independent':
-        {'enzymes': ['Mfd_mono_mod_1:mg2', 'NusA_mono', 'NusG_mono',
-                     'GreA_mono', 'GreB_mono', 'RpoZ_mono_mod_1:mg2'],
+        {'enzymes': ['BSU00550-MONOMER', 'BSU16600-MONOMER', 'BSU01010-MONOMER',
+                     'BSU27320-MONOMER','CPLX8J2-30'],
          'stoich': {}},
     'Transcription_normal_rho_dependent':
-        {'enzymes': ['Mfd_mono_mod_1:mg2', 'NusA_mono', 'NusG_mono',
-                     'GreA_mono', 'GreB_mono', 'RpoZ_mono_mod_1:mg2',
-                     'Rho_hexa_mod_3:mg2'],
+        {'enzymes': ['BSU00550-MONOMER', 'BSU16600-MONOMER', 'BSU01010-MONOMER',
+                     'BSU27320-MONOMER','CPLX8J2-30', 'BSU37080-MONOMER'],
          'stoich': {'atp_c': -3,
                     'h2o_c': -3,
                     'adp_c': 3,
                     'pi_c': 3,
                     'h_c': 3}},
     'Transcription_stable_rho_independent':
-        {'enzymes': ['Mfd_mono_mod_1:mg2', 'NusA_mono', 'NusG_mono',
-                     'GreA_mono', 'GreB_mono', 'RpoZ_mono_mod_1:mg2',
-                     'RpsJ_mono',  'RpsD_mono', 'RplC_mono', 'RplD_mono',
-                     'RplM_mono', 'NusB_mono'],
+        {'enzymes': ['BSU00550-MONOMER', 'BSU16600-MONOMER', 'BSU01010-MONOMER',
+                     'BSU27320-MONOMER','CPLX8J2-30'],
          'stoich': {}},
     'Transcription_stable_rho_dependent':
-        {'enzymes': ['Mfd_mono_mod_1:mg2', 'NusA_mono', 'NusG_mono',
-                     'GreA_mono', 'GreB_mono', 'RpoZ_mono_mod_1:mg2',
-                     'Rho_hexa_mod_3:mg2',  'RpsJ_mono',  'RpsD_mono',
-                     'RplC_mono', 'RplD_mono', 'RplM_mono', 'NusB_mono'],
+        {'enzymes': ['BSU00550-MONOMER', 'BSU16600-MONOMER', 'BSU01010-MONOMER',
+                     'BSU27320-MONOMER','CPLX8J2-30', 'BSU37080-MONOMER'],
          'stoich': {'atp_c': -3,
                     'h2o_c': -3,
                     'adp_c': 3,
@@ -37,50 +32,40 @@ transcription_subreactions = {
 }
 
 sigma_factor_complex_to_rna_polymerase_dict = {
-    # this is notation used in Tu_from_ecocyc, protein_complexes (and below)
-    'RpoD_mono': 'RNAP70-CPLX',
-    'RpoH_mono': 'RNAP32-CPLX',
-    'RpoE_mono': 'RNAPE-CPLX',
-    'RpoS_mono': 'RNAPS-CPLX',
-    'RpoN_mono': 'RNAP54-CPLX',
-    'FliA_mono': 'CPLX0-222',
-    'FecI_mono': 'CPLX0-221'}
+      'BSU25200-MONOMER': 'CPLX8J2-52', # sigA (rpoD)
+      'BSU15320-MONOMER': 'CPLX8J2-61', # sigE
+      'BSU15330-MONOMER': 'CPLX8J2-60', # sigG
+      'BSU23450-MONOMER': 'CPLX8J2-58', # sigF
+      'BSU34200-MONOMER': 'CPLX8J2-57', # sigL
+      'BSU04730-MONOMER': 'CPLX8J2-56', # sigB
+      'BSU00980-MONOMER': 'CPLX8J2-55', # sigH
+      'BSU16470-MONOMER': 'CPLX8J2-54', # sigD
+      'BSU13450-MONOMER': 'CPLX8J2-53', # sigI
+      'BSU14730-MONOMER': 'CPLX8J2-51', # sigECF
+      'BSU01730-MONOMER': 'CPLX8J2-50', # sigW
+      'BSU23100-MONOMER': 'CPLX8J2-49', # sigX
+      'BSU26840-MONOMER': 'CPLX8J2-48', # sigZ
+      'BSU27120-MONOMER': 'CPLX8J2-47', # sigV
+      'BSU38700-MONOMER': 'CPLX8J2-46', # sigY
+      'BSU09520-MONOMER': 'CPLX8J2-45', # sigM
+      'MONOMER8J2-6': 'CPLX8J2-60', # sigK
+      'CPLX8J2-36': 'CPLX8J2-30' # 2-subunit
+      }
 
-rna_polymerase_id_by_sigma_factor = {
-    'CPLX0-221': {'sigma_factor': 'FecI_mono',
-                  'polymerase': 'hRNAP_mod_1:zn2_mod_2:mg2'},
-    'RNAPE-CPLX': {'sigma_factor': 'RpoE_mono',
-                   'polymerase': 'hRNAP_mod_1:zn2_mod_2:mg2'},
-    'CPLX0-222': {'sigma_factor': 'FliA_mono',
-                  'polymerase': 'hRNAP_mod_1:zn2_mod_2:mg2'},
-    'RNAP32-CPLX': {'sigma_factor': 'RpoH_mono',
-                    'polymerase': 'hRNAP_mod_1:zn2_mod_2:mg2'},
-    'RNAP54-CPLX': {'sigma_factor': 'RpoN_mono',
-                    'polymerase': 'hRNAP_mod_1:zn2_mod_2:mg2'},
-    'RNAP70-CPLX': {'sigma_factor': 'RpoD_mono',
-                    'polymerase': 'hRNAP_mod_1:zn2_mod_2:mg2'},
-    'RNAPS-CPLX': {'sigma_factor': 'RpoS_mono',
-                   'polymerase': 'hRNAP_mod_1:zn2_mod_2:mg2'}}
+rna_polymerase_id_by_sigma_factor = {} # Complexes are already formed
 
-rna_polymerases = {'CPLX0-221', 'RNAPE-CPLX', 'CPLX0-222',
-                   'RNAP32-CPLX', 'RNAP54-CPLX',
-                   'RNAP70-CPLX', 'RNAPS-CPLX'}
+rna_polymerases = list(rna_polymerase_id_by_sigma_factor.keys())
 
-rna_degradosome = {'Eno_dim_mod_4:mg2': 1, 'Pnp_trim': 1,
-                   'RNase_E_tetra_mod_2:zn2': 1, 'RhlB_dim': 1,
-                   'Orn_dim_mod_2:mg2': 1}
+# Degradosome composition from Lehnik-Habrink, 2010.
+rna_degradosome = {'BSU16960-MONOMER': 1, 'CPLX8J2-39': 1,'BSU16690-MONOMER': 1,
+                   'BSU33900-MONOMER': 1, 'BSU29190-MONOMER': 1}
 
 excision_machinery = {
-    'rRNA_containing': ['RNase_E_tetra_mod_2:zn2', 'RNase_P_cplx_mod_2:mg2',
-                        'generic_RNase', 'RNase_m5', 'RNase_m16', 'RNase_m23',
-                        'RNase_III_dim_mod_2:mg2', 'RNase_G_dim',
-                        'RNase_T_dim_mod_4:mg2'],
-    'monocistronic': ['RNase_E_tetra_mod_2:zn2', 'RNase_P_cplx_mod_2:mg2',
+    'rRNA_containing': ['BSU14530-MONOMER','BSU15930-MONOMER','BSU00410-MONOMER'],
+    'monocistronic': ['CPLX8J2-62', 'BSU23840-MONOMER',
                       'generic_RNase'],
-    'polycistronic_wout_rRNA': ['RNase_E_tetra_mod_2:zn2',
-                                'RNase_P_cplx_mod_2:mg2', 'generic_RNase',
-                                'RNase_III_dim', 'RNase_G_dim',
-                                'RNase_T_dim_mod_4:mg2']}
+    'polycistronic_wout_rRNA': ['CPLX8J2-62', 'BSU23840-MONOMER',
+                                'generic_RNase']}
 
 
 def add_rna_polymerase_complexes(me_model, verbose=True):
