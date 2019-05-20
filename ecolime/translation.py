@@ -94,7 +94,7 @@ termination_subreactions = {'PrfA_mono_mediated_termination':
                              'stoich': {}},
 
                             'GroEL_dependent_folding':
-                            {'enzymes': ['CPLX8J2-24', 'CPLX8J2-24'],
+                            {'enzymes': ['CPLX8J2-24'],
                              'stoich': {'atp_c': -7,
                                         'h2o_c': -7,
                                         'h_c': 7,

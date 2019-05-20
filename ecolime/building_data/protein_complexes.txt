@@ -1,9 +1,9 @@
 BSU32760-MONOMER	default_name	BSU32760()	M_protein_recon
-BSU37060-MONOMER	default_name	BSU37060()	M_protein_recon
+BSU37060-MONOMER	default_name	BSU37060(1)	M_protein_recon
 BSU36370-MONOMER	default_name	BSU36370()	M_protein_recon
 BSU14440-MONOMER	default_name	BSU14440()	M_protein_recon
 BSU13790-MONOMER	default_name	BSU13790()	M_protein_recon
-BSU18070-MONOMER	default_name	BSU18070()	M_protein_recon
+BSU18070-MONOMER	default_name	BSU18070(1)	M_protein_recon
 BSU17410-MONOMER	default_name	BSU17410()	M_protein_recon
 BSU40670-MONOMER	default_name	BSU40670()	M_protein_recon
 BSU40022-MONOMER	default_name	BSU40022()	M_protein_recon
@@ -25,7 +25,7 @@ BSU33250-MONOMER	default_name	BSU33250()	M_protein_recon
 BSU36220-MONOMER	default_name	BSU36220()	M_protein_recon
 BSU36900-MONOMER	default_name	BSU36900()	M_protein_recon
 BSU13640-MONOMER	default_name	BSU13640()	M_protein_recon
-BSU14280-MONOMER	default_name	BSU14280()	M_protein_recon
+BSU14280-MONOMER	default_name	BSU14280(1)	M_protein_recon
 BSU17250-MONOMER	default_name	BSU17250()	M_protein_recon
 BSU17920-MONOMER	default_name	BSU17920()	M_protein_recon
 BSU39870-MONOMER	default_name	BSU39870()	M_protein_recon
@@ -36,12 +36,12 @@ BSU02710-MONOMER	default_name	BSU02710()	M_protein_recon
 BSU21420-MONOMER	default_name	BSU21420()	M_protein_recon
 BSU25160-MONOMER	default_name	BSU25160()	M_protein_recon
 BSU03390-MONOMER	default_name	BSU03390()	M_protein_recon
-BSU06280-MONOMER	default_name	BSU06280()	M_protein_recon
+BSU06280-MONOMER	default_name	BSU06280(1)	M_protein_recon
 BSU25840-MONOMER	default_name	BSU25840()	M_protein_recon
 BSU09940-MONOMER	default_name	BSU09940()	M_protein_recon
 BSU29480-MONOMER	default_name	BSU29480()	M_protein_recon
 BSU28830-MONOMER	default_name	BSU28830()	M_protein_recon
-BSU06930-MONOMER	default_name	BSU06930()	M_protein_recon
+BSU06930-MONOMER	default_name	BSU06930(1)	M_protein_recon
 BSU32469-MONOMER	default_name	BSU32469()	M_protein_recon
 BSU10630-MONOMER	default_name	BSU10630()	M_protein_recon
 BSU36060-MONOMER	default_name	BSU36060()	M_protein_recon
@@ -60,7 +60,7 @@ BSU25000-MONOMER	default_name	BSU25000()	M_protein_recon
 BSU21270-MONOMER	default_name	BSU21270()	M_protein_recon
 BSU06130-MONOMER	default_name	BSU06130()	M_protein_recon
 BSU03240-MONOMER	default_name	BSU03240()	M_protein_recon
-BSU09780-MONOMER	default_name	BSU09780()	M_protein_recon
+BSU09780-MONOMER	default_name	BSU09780(4)	M_protein_recon
 BSU25670-MONOMER	default_name	BSU25670()	M_protein_recon
 BSU28670-MONOMER	default_name	BSU28670()	M_protein_recon
 BSU29320-MONOMER	default_name	BSU29320()	M_protein_recon
@@ -68,26 +68,26 @@ BSU32310-MONOMER	default_name	BSU32310()	M_protein_recon
 BSU06790-MONOMER	default_name	BSU06790()	M_protein_recon
 BSU13330-MONOMER	default_name	BSU13330()	M_protein_recon
 BSU10470-MONOMER	default_name	BSU10470()	M_protein_recon
-BSU16920-MONOMER	default_name	BSU16920()	M_protein_recon
+BSU16920-MONOMER	default_name	BSU16920(1)	M_protein_recon
 BSU32950-MONOMER	default_name	BSU32950()	M_protein_recon
 BSU35930-MONOMER	default_name	BSU35930()	M_protein_recon
 BSU36580-MONOMER	default_name	BSU36580()	M_protein_recon
 BSU39550-MONOMER	default_name	BSU39550()	M_protein_recon
 BSU13980-MONOMER	default_name	BSU13980()	M_protein_recon
 BSU20460-MONOMER	default_name	BSU20460()	M_protein_recon
-BSU17610-MONOMER	default_name	BSU17610()	M_protein_recon
-BSU02400-MONOMER	default_name	BSU02400()	M_protein_recon
+BSU17610-MONOMER	default_name	BSU17610(2)	M_protein_recon
+BSU02400-MONOMER	default_name	BSU02400(1)	M_protein_recon
 BSU40220-MONOMER	default_name	BSU40220()	M_protein_recon
 BSU24840-MONOMER	default_name	BSU24840()	M_protein_recon
 BSU21880-MONOMER	default_name	BSU21880()	M_protein_recon
 BSU05960-MONOMER	default_name	BSU05960()	M_protein_recon
 BSU21120-MONOMER	default_name	BSU21120()	M_protein_recon
-BSU09620-MONOMER	default_name	BSU09620()	M_protein_recon
+BSU09620-MONOMER	default_name	BSU09620(1)	M_protein_recon
 BSU03080-MONOMER	default_name	BSU03080()	M_protein_recon
 BSU28510-MONOMER	default_name	BSU28510()	M_protein_recon
 BSU25520-MONOMER	default_name	BSU25520()	M_protein_recon
 BSU32150-MONOMER	default_name	BSU32150()	M_protein_recon
-BSU29180-MONOMER	default_name	BSU29180()	M_protein_recon
+BSU29180-MONOMER	default_name	BSU29180(4)	M_protein_recon
 BSU13170-MONOMER	default_name	BSU13170()	M_protein_recon
 BSU06630-MONOMER	default_name	BSU06630()	M_protein_recon
 BSU16730-MONOMER	default_name	BSU16730()	M_protein_recon
@@ -108,12 +108,12 @@ BSU09450-MONOMER	default_name	BSU09450()	M_protein_recon
 BSU20970-MONOMER	default_name	BSU20970()	M_protein_recon
 BSU28340-MONOMER	default_name	BSU28340()	M_protein_recon
 BSU02920-MONOMER	default_name	BSU02920()	M_protein_recon
-BSU31990-MONOMER	default_name	BSU31990()	M_protein_recon
+BSU31990-MONOMER	default_name	BSU31990(1)	M_protein_recon
 BSU25360-MONOMER	default_name	BSU25360()	M_protein_recon
 BSU13020-MONOMER	default_name	BSU13020()	M_protein_recon
 BSU29020-MONOMER	default_name	BSU29020()	M_protein_recon
 BSU16570-MONOMER	default_name	BSU16570()	M_protein_recon
-BSU06480-MONOMER	default_name	BSU06480()	M_protein_recon
+BSU06480-MONOMER	default_name	BSU06480(1)	M_protein_recon
 BSU35600-MONOMER	default_name	BSU35600()	M_protein_recon
 BSU10140-MONOMER	default_name	BSU10140()	M_protein_recon
 BSU39240-MONOMER	default_name	BSU39240()	M_protein_recon
@@ -126,13 +126,13 @@ BSU24520-MONOMER	default_name	BSU24520()	M_protein_recon
 BSU17300-MONOMER	default_name	BSU17300()	M_protein_recon
 BSU05630-MONOMER	default_name	BSU05630()	M_protein_recon
 BSU39920-MONOMER	default_name	BSU39920()	M_protein_recon
-BSU09290-MONOMER	default_name	BSU09290()	M_protein_recon
+BSU09290-MONOMER	default_name	BSU09290(4)	M_protein_recon
 BSU20830-MONOMER	default_name	BSU20830()	M_protein_recon
 BSU28180-MONOMER	default_name	BSU28180()	M_protein_recon
 BSU02760-MONOMER	default_name	BSU02760()	M_protein_recon
 BSU31820-MONOMER	default_name	BSU31820()	M_protein_recon
 BSU25210-MONOMER	default_name	BSU25210()	M_protein_recon
-BSU12860-MONOMER	default_name	BSU12860()	M_protein_recon
+BSU12860-MONOMER	default_name	BSU12860(1)	M_protein_recon
 BSU06320-MONOMER	default_name	BSU06320()	M_protein_recon
 BSU16410-MONOMER	default_name	BSU16410()	M_protein_recon
 BSU09990-MONOMER	default_name	BSU09990()	M_protein_recon
@@ -146,7 +146,7 @@ BSU01910-MONOMER	default_name	BSU01910()	M_protein_recon
 BSU17140-MONOMER	default_name	BSU17140()	M_protein_recon
 BSU24360-MONOMER	default_name	BSU24360()	M_protein_recon
 BSU39760-MONOMER	default_name	BSU39760()	M_protein_recon
-BSU05480-MONOMER	default_name	BSU05480()	M_protein_recon
+BSU05480-MONOMER	default_name	BSU05480(1)	M_protein_recon
 BSU20670-MONOMER	default_name	BSU20670()	M_protein_recon
 BSU09120-MONOMER	default_name	BSU09120()	M_protein_recon
 BSU02610-MONOMER	default_name	BSU02610()	M_protein_recon
@@ -168,18 +168,18 @@ BSU01740-MONOMER	default_name	BSU01740()	M_protein_recon
 BSU35980-MONOMER	default_name	BSU35980()	M_protein_recon
 BSU24190-MONOMER	default_name	BSU24190()	M_protein_recon
 BSU39600-MONOMER	default_name	BSU39600()	M_protein_recon
-BSU05340-MONOMER	default_name	BSU05340()	M_protein_recon
+BSU05340-MONOMER	default_name	BSU05340(2)	M_protein_recon
 BSU20510-MONOMER	default_name	BSU20510()	M_protein_recon
 BSU08960-MONOMER	default_name	BSU08960()	M_protein_recon
 BSU02450-MONOMER	default_name	BSU02450()	M_protein_recon
-BSU27870-MONOMER	default_name	BSU27870()	M_protein_recon
-BSU24890-MONOMER	default_name	BSU24890()	M_protein_recon
+BSU27870-MONOMER	default_name	BSU27870(1)	M_protein_recon
+BSU24890-MONOMER	default_name	BSU24890(1)	M_protein_recon
 BSU31500-MONOMER	default_name	BSU31500()	M_protein_recon
 BSU06010-MONOMER	default_name	BSU06010()	M_protein_recon
 BSU12580-MONOMER	default_name	BSU12580()	M_protein_recon
 BSU09670-MONOMER	default_name	BSU09670()	M_protein_recon
 BSU16100-MONOMER	default_name	BSU16100()	M_protein_recon
-BSU28560-MONOMER	default_name	BSU28560()	M_protein_recon
+BSU28560-MONOMER	default_name	BSU28560(2)	M_protein_recon
 BSU35120-MONOMER	default_name	BSU35120()	M_protein_recon
 BSU32200-MONOMER	default_name	BSU32200()	M_protein_recon
 BSU38750-MONOMER	default_name	BSU38750()	M_protein_recon
@@ -204,18 +204,18 @@ BSU31321-MONOMER	default_name	BSU31321()	M_protein_recon
 BSU28390-MONOMER	default_name	BSU28390()	M_protein_recon
 BSU12410-MONOMER	default_name	BSU12410()	M_protein_recon
 BSU32040-MONOMER	default_name	BSU32040()	M_protein_recon
-BSU15900-MONOMER	default_name	BSU15900()	M_protein_recon
+BSU15900-MONOMER	default_name	BSU15900(1)	M_protein_recon
 BSU13070-MONOMER	default_name	BSU13070()	M_protein_recon
 BSU34930-MONOMER	default_name	BSU34930()	M_protein_recon
 BSU16620-MONOMER	default_name	BSU16620()	M_protein_recon
 BSU38560-MONOMER	default_name	BSU38560()	M_protein_recon
-BSU35660-MONOMER	default_name	BSU35660()	M_protein_recon
+BSU35660-MONOMER	default_name	BSU35660(1)	M_protein_recon
 BSU19510-MONOMER	default_name	BSU19510()	M_protein_recon
-BSU39290-MONOMER	default_name	BSU39290()	M_protein_recon
+BSU39290-MONOMER	default_name	BSU39290(1)	M_protein_recon
 BSU01390-MONOMER	default_name	BSU01390()	M_protein_recon
 BSU20190-MONOMER	default_name	BSU20190()	M_protein_recon
 BSU23840-MONOMER	default_name	BSU23840()	M_protein_recon
-BSU02130-MONOMER	default_name	BSU02130()	M_protein_recon
+BSU02130-MONOMER	default_name	BSU02130(2)	M_protein_recon
 BSU05020-MONOMER	default_name	BSU05020()	M_protein_recon
 BSU24570-MONOMER	default_name	BSU24570()	M_protein_recon
 BSU08630-MONOMER	default_name	BSU08630()	M_protein_recon
@@ -245,12 +245,12 @@ BSU05529-MONOMER	default_name	BSU05529()	M_protein_recon
 BSU27390-MONOMER	default_name	BSU27390()	M_protein_recon
 BSU09180-MONOMER	default_name	BSU09180()	M_protein_recon
 BSU31020-MONOMER	default_name	BSU31020()	M_protein_recon
-BSU28080-MONOMER	default_name	BSU28080()	M_protein_recon
+BSU28080-MONOMER	default_name	BSU28080(1)	M_protein_recon
 BSU12100-MONOMER	default_name	BSU12100()	M_protein_recon
 BSU31710-MONOMER	default_name	BSU31710()	M_protein_recon
 BSU15580-MONOMER	default_name	BSU15580()	M_protein_recon
 BSU12750-MONOMER	default_name	BSU12750()	M_protein_recon
-BSU34620-MONOMER	default_name	BSU34620()	M_protein_recon
+BSU34620-MONOMER	default_name	BSU34620(1)	M_protein_recon
 BSU16300-MONOMER	default_name	BSU16300()	M_protein_recon
 BSU38250-MONOMER	default_name	BSU38250()	M_protein_recon
 BSU35330-MONOMER	default_name	BSU35330()	M_protein_recon
@@ -279,7 +279,7 @@ BSU35170-MONOMER	default_name	BSU35170()	M_protein_recon
 BSU19040-MONOMER	default_name	BSU19040()	M_protein_recon
 BSU38800-MONOMER	default_name	BSU38800()	M_protein_recon
 BSU00920-MONOMER	default_name	BSU00920()	M_protein_recon
-BSU19710-MONOMER	default_name	BSU19710()	M_protein_recon
+BSU19710-MONOMER	default_name	BSU19710(2)	M_protein_recon
 BSU23380-MONOMER	default_name	BSU23380()	M_protein_recon
 BSU01630-MONOMER	default_name	BSU01630()	M_protein_recon
 BSU04550-MONOMER	default_name	BSU04550()	M_protein_recon
@@ -312,22 +312,22 @@ BSU07990-MONOMER	default_name	BSU07990()	M_protein_recon
 BSU23890-MONOMER	default_name	BSU23890()	M_protein_recon
 BSU26910-MONOMER	default_name	BSU26910()	M_protein_recon
 BSU05070-MONOMER	default_name	BSU05070()	M_protein_recon
-BSU30540-MONOMER	default_name	BSU30540()	M_protein_recon
+BSU30540-MONOMER	default_name	BSU30540(2)	M_protein_recon
 BSU08680-MONOMER	default_name	BSU08680()	M_protein_recon
 BSU11660-MONOMER	default_name	BSU11660()	M_protein_recon
 BSU27580-MONOMER	default_name	BSU27580()	M_protein_recon
 BSU15100-MONOMER	default_name	BSU15100()	M_protein_recon
 BSU31230-MONOMER	default_name	BSU31230()	M_protein_recon
 BSU34130-MONOMER	default_name	BSU34130()	M_protein_recon
-BSU12300-MONOMER	default_name	BSU12300()	M_protein_recon
+BSU12300-MONOMER	default_name	BSU12300(1)	M_protein_recon
 BSU00390-MONOMER	default_name	BSU00390()	M_protein_recon
-BSU15790-MONOMER	default_name	BSU15790()	M_protein_recon
+BSU15790-MONOMER	default_name	BSU15790(1)	M_protein_recon
 BSU37780-MONOMER	default_name	BSU37780()	M_protein_recon
 BSU34820-MONOMER	default_name	BSU34820()	M_protein_recon
 BSU18760-MONOMER	default_name	BSU18760()	M_protein_recon
 BSU38460-MONOMER	default_name	BSU38460()	M_protein_recon
 BSU00600-MONOMER	default_name	BSU00600()	M_protein_recon
-BSU19400-MONOMER	default_name	BSU19400()	M_protein_recon
+BSU19400-MONOMER	default_name	BSU19400(1)	M_protein_recon
 BSU23050-MONOMER	default_name	BSU23050()	M_protein_recon
 BSU01290-MONOMER	default_name	BSU01290()	M_protein_recon
 BSU04230-MONOMER	default_name	BSU04230()	M_protein_recon
@@ -353,14 +353,14 @@ BSU19250-MONOMER	default_name	BSU19250()	M_protein_recon
 BSU22880-MONOMER	default_name	BSU22880()	M_protein_recon
 BSU01130-MONOMER	default_name	BSU01130()	M_protein_recon
 BSU04070-MONOMER	default_name	BSU04070()	M_protein_recon
-BSU23570-MONOMER	default_name	BSU23570()	M_protein_recon
+BSU23570-MONOMER	default_name	BSU23570(4)	M_protein_recon
 BSU07650-MONOMER	default_name	BSU07650()	M_protein_recon
 BSU04760-MONOMER	default_name	BSU04760()	M_protein_recon
 BSU26590-MONOMER	default_name	BSU26590()	M_protein_recon
 BSU08350-MONOMER	default_name	BSU08350()	M_protein_recon
 BSU30220-MONOMER	default_name	BSU30220()	M_protein_recon
 BSU27280-MONOMER	default_name	BSU27280()	M_protein_recon
-BSU11340-MONOMER	default_name	BSU11340()	M_protein_recon
+BSU11340-MONOMER	default_name	BSU11340(2)	M_protein_recon
 BSU30910-MONOMER	default_name	BSU30910()	M_protein_recon
 BSU14790-MONOMER	default_name	BSU14790()	M_protein_recon
 BSU12000-MONOMER	default_name	BSU12000()	M_protein_recon
@@ -368,13 +368,13 @@ BSU33810-MONOMER	default_name	BSU33810()	M_protein_recon
 BSU15470-MONOMER	default_name	BSU15470()	M_protein_recon
 BSU00070-MONOMER	default_name	BSU00070()	M_protein_recon
 BSU34510-MONOMER	default_name	BSU34510()	M_protein_recon
-BSU37460-MONOMER	default_name	BSU37460()	M_protein_recon
+BSU37460-MONOMER	default_name	BSU37460(1)	M_protein_recon
 BSU38150-MONOMER	default_name	BSU38150()	M_protein_recon
 BSU18460-MONOMER	default_name	BSU18460()	M_protein_recon
 BSU19090-MONOMER	default_name	BSU19090()	M_protein_recon
 BSU41060-MONOMER	default_name	BSU41060()	M_protein_recon
 BSU00970-MONOMER	default_name	BSU00970()	M_protein_recon
-BSU22740-MONOMER	default_name	BSU22740()	M_protein_recon
+BSU22740-MONOMER	default_name	BSU22740(2)	M_protein_recon
 BSU23420-MONOMER	default_name	BSU23420()	M_protein_recon
 BSU03930-MONOMER	default_name	BSU03930()	M_protein_recon
 BSU04600-MONOMER	default_name	BSU04600()	M_protein_recon
@@ -386,7 +386,7 @@ BSU07520-MONOMER	default_name	BSU07520()	M_protein_recon
 BSU30750-MONOMER	default_name	BSU30750()	M_protein_recon
 BSU11180-MONOMER	default_name	BSU11180()	M_protein_recon
 BSU11860-MONOMER	default_name	BSU11860()	M_protein_recon
-BSU14630-MONOMER	default_name	BSU14630()	M_protein_recon
+BSU14630-MONOMER	default_name	BSU14630(10)	M_protein_recon
 BSU15310-MONOMER	default_name	BSU15310()	M_protein_recon
 BSU33650-MONOMER	default_name	BSU33650()	M_protein_recon
 BSU34350-MONOMER	default_name	BSU34350()	M_protein_recon
@@ -402,27 +402,27 @@ BSU03788-MONOMER	default_name	BSU03788()	M_protein_recon
 BSU23260-MONOMER	default_name	BSU23260()	M_protein_recon
 BSU26250-MONOMER	default_name	BSU26250()	M_protein_recon
 BSU04440-MONOMER	default_name	BSU04440()	M_protein_recon
-BSU29880-MONOMER	default_name	BSU29880()	M_protein_recon
+BSU29880-MONOMER	default_name	BSU29880(4)	M_protein_recon
 BSU08030-MONOMER	default_name	BSU08030()	M_protein_recon
 BSU07350-MONOMER	default_name	BSU07350()	M_protein_recon
 BSU26960-MONOMER	default_name	BSU26960()	M_protein_recon
 BSU11030-MONOMER	default_name	BSU11030()	M_protein_recon
 BSU30595-MONOMER	default_name	BSU30595()	M_protein_recon
-BSU33490-MONOMER	default_name	BSU33490()	M_protein_recon
+BSU33490-MONOMER	default_name	BSU33490(1)	M_protein_recon
 BSU11710-MONOMER	default_name	BSU11710()	M_protein_recon
 BSU37140-MONOMER	default_name	BSU37140()	M_protein_recon
 BSU15150-MONOMER	default_name	BSU15150()	M_protein_recon
-BSU14520-MONOMER	default_name	BSU14520()	M_protein_recon
+BSU14520-MONOMER	default_name	BSU14520(2)	M_protein_recon
 BSU34180-MONOMER	default_name	BSU34180()	M_protein_recon
 BSU18150-MONOMER	default_name	BSU18150()	M_protein_recon
 BSU00440-MONOMER	default_name	BSU00440()	M_protein_recon
 BSU40750-MONOMER	default_name	BSU40750()	M_protein_recon
-BSU37830-MONOMER	default_name	BSU37830()	M_protein_recon
+BSU37830-MONOMER	default_name	BSU37830(1)	M_protein_recon
 BSU22420-MONOMER	default_name	BSU22420()	M_protein_recon
 BSU18810-MONOMER	default_name	BSU18810()	M_protein_recon
 BSU21660-MONOMER	default_name	BSU21660()	M_protein_recon
 BSU00650-MONOMER	default_name	BSU00650()	M_protein_recon
-BSU03640-MONOMER	default_name	BSU03640()	M_protein_recon
+BSU03640-MONOMER	default_name	BSU03640(6)	M_protein_recon
 MONOMER8J2-46	default_name	G8J2-16()	M_protein_recon
 BSU26090-MONOMER	default_name	BSU26090()	M_protein_recon
 BSU23100-MONOMER	default_name	BSU23100()	M_protein_recon
@@ -430,18 +430,18 @@ BSU29710-MONOMER	default_name	BSU29710()	M_protein_recon
 BSU04280-MONOMER	default_name	BSU04280()	M_protein_recon
 BSU07190-MONOMER	default_name	BSU07190()	M_protein_recon
 BSU07870-MONOMER	default_name	BSU07870()	M_protein_recon
-BSU10870-MONOMER	default_name	BSU10870()	M_protein_recon
+BSU10870-MONOMER	default_name	BSU10870(1)	M_protein_recon
 BSU26800-MONOMER	default_name	BSU26800()	M_protein_recon
-BSU33330-MONOMER	default_name	BSU33330()	M_protein_recon
+BSU33330-MONOMER	default_name	BSU33330(1)	M_protein_recon
 BSU30430-MONOMER	default_name	BSU30430()	M_protein_recon
 BSU36980-MONOMER	default_name	BSU36980()	M_protein_recon
 BSU11550-MONOMER	default_name	BSU11550()	M_protein_recon
 BSU14360-MONOMER	default_name	BSU14360()	M_protein_recon
 BSU15000-MONOMER	default_name	BSU15000()	M_protein_recon
-BSU18000-MONOMER	default_name	BSU18000()	M_protein_recon
+BSU18000-MONOMER	default_name	BSU18000(2)	M_protein_recon
 BSU34020-MONOMER	default_name	BSU34020()	M_protein_recon
 BSU40590-MONOMER	default_name	BSU40590()	M_protein_recon
-BSU00280-MONOMER	default_name	BSU00280()	M_protein_recon
+BSU00280-MONOMER	default_name	BSU00280(1)	M_protein_recon
 BSU22260-MONOMER	default_name	BSU22260()	M_protein_recon
 BSU37670-MONOMER	default_name	BSU37670()	M_protein_recon
 BSU21500-MONOMER	default_name	BSU21500()	M_protein_recon
@@ -467,13 +467,13 @@ BSU33860-MONOMER	default_name	BSU33860()	M_protein_recon
 BSU40440-MONOMER	default_name	BSU40440()	M_protein_recon
 BSU00120-MONOMER	default_name	BSU00120()	M_protein_recon
 BSU22110-MONOMER	default_name	BSU22110()	M_protein_recon
-BSU37510-MONOMER	default_name	BSU37510()	M_protein_recon
+BSU37510-MONOMER	default_name	BSU37510(2)	M_protein_recon
 BSU21340-MONOMER	default_name	BSU21340()	M_protein_recon
 BSU18510-MONOMER	default_name	BSU18510()	M_protein_recon
 BSU03320-MONOMER	default_name	BSU03320()	M_protein_recon
 BSU22790-MONOMER	default_name	BSU22790()	M_protein_recon
 BSU25750-MONOMER	default_name	BSU25750()	M_protein_recon
-BSU03981-MONOMER	default_name	BSU03981()	M_protein_recon
+BSU03981-MONOMER	default_name	BSU03981(2)	M_protein_recon
 BSU29400-MONOMER	default_name	BSU29400()	M_protein_recon
 BSU26470-MONOMER	default_name	BSU26470()	M_protein_recon
 BSU06850-MONOMER	default_name	BSU06850()	M_protein_recon
@@ -489,7 +489,7 @@ BSU33700-MONOMER	default_name	BSU33700()	M_protein_recon
 BSU17690-MONOMER	default_name	BSU17690()	M_protein_recon
 BSU37350-MONOMER	default_name	BSU37350()	M_protein_recon
 BSU40280-MONOMER	default_name	BSU40280()	M_protein_recon
-BSU18350-MONOMER	default_name	BSU18350()	M_protein_recon
+BSU18350-MONOMER	default_name	BSU18350(1)	M_protein_recon
 BSU21960-MONOMER	default_name	BSU21960()	M_protein_recon
 BSU40950-MONOMER	default_name	BSU40950()	M_protein_recon
 BSU21200-MONOMER	default_name	BSU21200()	M_protein_recon
@@ -499,10 +499,10 @@ BSU03820-MONOMER	default_name	BSU03820()	M_protein_recon
 BSU25590-MONOMER	default_name	BSU25590()	M_protein_recon
 BSU26290-MONOMER	default_name	BSU26290()	M_protein_recon
 BSU29249-MONOMER	default_name	BSU29249()	M_protein_recon
-BSU29930-MONOMER	default_name	BSU29930()	M_protein_recon
+BSU29930-MONOMER	default_name	BSU29930(1)	M_protein_recon
 BSU06710-MONOMER	default_name	BSU06710()	M_protein_recon
 BSU07400-MONOMER	default_name	BSU07400()	M_protein_recon
-BSU10390-MONOMER	default_name	BSU10390()	M_protein_recon
+BSU10390-MONOMER	default_name	BSU10390(1)	M_protein_recon
 BSU11080-MONOMER	default_name	BSU11080()	M_protein_recon
 BSU32870-MONOMER	default_name	BSU32870()	M_protein_recon
 BSU33540-MONOMER	default_name	BSU33540()	M_protein_recon
@@ -533,7 +533,7 @@ BSU37030-MONOMER	default_name	BSU37030()	M_protein_recon
 BSU36340-MONOMER	default_name	BSU36340()	M_protein_recon
 BSU14410-MONOMER	default_name	BSU14410()	M_protein_recon
 BSU13770-MONOMER	default_name	BSU13770()	M_protein_recon
-BSU18040-MONOMER	default_name	BSU18040()	M_protein_recon
+BSU18040-MONOMER	default_name	BSU18040(1)	M_protein_recon
 BSU17380-MONOMER	default_name	BSU17380()	M_protein_recon
 BSU40640-MONOMER	default_name	BSU40640()	M_protein_recon
 BSU40000-MONOMER	default_name	BSU40000()	M_protein_recon
@@ -557,7 +557,7 @@ BSU36870-MONOMER	default_name	BSU36870()	M_protein_recon
 BSU13610-MONOMER	default_name	BSU13610()	M_protein_recon
 BSU14250-MONOMER	default_name	BSU14250()	M_protein_recon
 BSU17220-MONOMER	default_name	BSU17220()	M_protein_recon
-BSU17890-MONOMER	default_name	BSU17890()	M_protein_recon
+BSU17890-MONOMER	default_name	BSU17890(2)	M_protein_recon
 BSU39840-MONOMER	default_name	BSU39840()	M_protein_recon
 BSU40490-MONOMER	default_name	BSU40490()	M_protein_recon
 BSU20750-MONOMER	default_name	BSU20750()	M_protein_recon
@@ -569,7 +569,7 @@ BSU03360-MONOMER	default_name	BSU03360()	M_protein_recon
 BSU06260-MONOMER	default_name	BSU06260()	M_protein_recon
 BSU25810-MONOMER	default_name	BSU25810()	M_protein_recon
 BSU09910-MONOMER	default_name	BSU09910()	M_protein_recon
-BSU29450-MONOMER	default_name	BSU29450()	M_protein_recon
+BSU29450-MONOMER	default_name	BSU29450(4)	M_protein_recon
 BSU28800-MONOMER	default_name	BSU28800()	M_protein_recon
 BSU06900-MONOMER	default_name	BSU06900()	M_protein_recon
 BSU32440-MONOMER	default_name	BSU32440()	M_protein_recon
@@ -591,7 +591,7 @@ BSU21240-MONOMER	default_name	BSU21240()	M_protein_recon
 BSU06100-MONOMER	default_name	BSU06100()	M_protein_recon
 BSU03210-MONOMER	default_name	BSU03210()	M_protein_recon
 BSU09750-MONOMER	default_name	BSU09750()	M_protein_recon
-BSU25640-MONOMER	default_name	BSU25640()	M_protein_recon
+BSU25640-MONOMER	default_name	BSU25640(1)	M_protein_recon
 BSU28640-MONOMER	default_name	BSU28640()	M_protein_recon
 BSU29290-MONOMER	default_name	BSU29290()	M_protein_recon
 BSU32280-MONOMER	default_name	BSU32280()	M_protein_recon
@@ -632,9 +632,9 @@ BSU13800-MONOMER	default_name	BSU13800()	M_protein_recon
 BSU02210-MONOMER	default_name	BSU02210()	M_protein_recon
 BSU17430-MONOMER	default_name	BSU17430()	M_protein_recon
 BSU24650-MONOMER	default_name	BSU24650()	M_protein_recon
-BSU40040-MONOMER	default_name	BSU40040()	M_protein_recon
+BSU40040-MONOMER	default_name	BSU40040(1)	M_protein_recon
 BSU05760-MONOMER	default_name	BSU05760()	M_protein_recon
-BSU21690-MONOMER	default_name	BSU21690()	M_protein_recon
+BSU21690-MONOMER	default_name	BSU21690(1)	M_protein_recon
 BSU09420-MONOMER	default_name	BSU09420()	M_protein_recon
 BSU20940-MONOMER	default_name	BSU20940()	M_protein_recon
 BSU28310-MONOMER	default_name	BSU28310()	M_protein_recon
@@ -643,14 +643,14 @@ BSU31960-MONOMER	default_name	BSU31960()	M_protein_recon
 BSU25330-MONOMER	default_name	BSU25330()	M_protein_recon
 BSU12990-MONOMER	default_name	BSU12990()	M_protein_recon
 BSU28990-MONOMER	default_name	BSU28990()	M_protein_recon
-BSU16540-MONOMER	default_name	BSU16540()	M_protein_recon
-BSU06450-MONOMER	default_name	BSU06450()	M_protein_recon
+BSU16540-MONOMER	default_name	BSU16540(1)	M_protein_recon
+BSU06450-MONOMER	default_name	BSU06450(3)	M_protein_recon
 BSU35570-MONOMER	default_name	BSU35570()	M_protein_recon
 BSU10110-MONOMER	default_name	BSU10110()	M_protein_recon
 BSU39210-MONOMER	default_name	BSU39210()	M_protein_recon
 BSU32640-MONOMER	default_name	BSU32640()	M_protein_recon
 BSU20110-MONOMER	default_name	BSU20110()	M_protein_recon
-BSU36240-MONOMER	default_name	BSU36240()	M_protein_recon
+BSU36240-MONOMER	default_name	BSU36240(1)	M_protein_recon
 BSU02050-MONOMER	default_name	BSU02050()	M_protein_recon
 BSU13660-MONOMER	default_name	BSU13660()	M_protein_recon
 BSU24490-MONOMER	default_name	BSU24490()	M_protein_recon
@@ -659,12 +659,12 @@ BSU05600-MONOMER	default_name	BSU05600()	M_protein_recon
 BSU39890-MONOMER	default_name	BSU39890()	M_protein_recon
 BSU09260-MONOMER	default_name	BSU09260()	M_protein_recon
 BSU20800-MONOMER	default_name	BSU20800()	M_protein_recon
-BSU28150-MONOMER	default_name	BSU28150()	M_protein_recon
+BSU28150-MONOMER	default_name	BSU28150(1)	M_protein_recon
 BSU02730-MONOMER	default_name	BSU02730()	M_protein_recon
 BSU31790-MONOMER	default_name	BSU31790()	M_protein_recon
 BSU25180-MONOMER	default_name	BSU25180()	M_protein_recon
 BSU12830-MONOMER	default_name	BSU12830()	M_protein_recon
-BSU06300-MONOMER	default_name	BSU06300()	M_protein_recon
+BSU06300-MONOMER	default_name	BSU06300(1)	M_protein_recon
 BSU16380-MONOMER	default_name	BSU16380()	M_protein_recon
 BSU09958-MONOMER	default_name	BSU09958()	M_protein_recon
 BSU35410-MONOMER	default_name	BSU35410()	M_protein_recon
@@ -692,12 +692,12 @@ BSU09800-MONOMER	default_name	BSU09800()	M_protein_recon
 BSU35260-MONOMER	default_name	BSU35260()	M_protein_recon
 BSU28690-MONOMER	default_name	BSU28690()	M_protein_recon
 BSU38880-MONOMER	default_name	BSU38880()	M_protein_recon
-BSU32330-MONOMER	default_name	BSU32330()	M_protein_recon
+BSU32330-MONOMER	default_name	BSU32330(2)	M_protein_recon
 BSU19780-MONOMER	default_name	BSU19780()	M_protein_recon
 BSU13350-MONOMER	default_name	BSU13350()	M_protein_recon
 BSU01710-MONOMER	default_name	BSU01710()	M_protein_recon
 BSU16940-MONOMER	default_name	BSU16940()	M_protein_recon
-BSU24160-MONOMER	default_name	BSU24160()	M_protein_recon
+BSU24160-MONOMER	default_name	BSU24160(1)	M_protein_recon
 BSU35950-MONOMER	default_name	BSU35950()	M_protein_recon
 BSU05320-MONOMER	default_name	BSU05320()	M_protein_recon
 BSU39570-MONOMER	default_name	BSU39570()	M_protein_recon
@@ -714,7 +714,7 @@ BSU09640-MONOMER	default_name	BSU09640()	M_protein_recon
 BSU35090-MONOMER	default_name	BSU35090()	M_protein_recon
 BSU28530-MONOMER	default_name	BSU28530()	M_protein_recon
 BSU38720-MONOMER	default_name	BSU38720()	M_protein_recon
-BSU32170-MONOMER	default_name	BSU32170()	M_protein_recon
+BSU32170-MONOMER	default_name	BSU32170(1)	M_protein_recon
 BSU19650-MONOMER	default_name	BSU19650()	M_protein_recon
 BSU13190-MONOMER	default_name	BSU13190()	M_protein_recon
 BSU01550-MONOMER	default_name	BSU01550()	M_protein_recon
@@ -722,7 +722,7 @@ BSU16750-MONOMER	default_name	BSU16750()	M_protein_recon
 BSU24000-MONOMER	default_name	BSU24000()	M_protein_recon
 BSU35790-MONOMER	default_name	BSU35790()	M_protein_recon
 BSU05160-MONOMER	default_name	BSU05160()	M_protein_recon
-BSU39410-MONOMER	default_name	BSU39410()	M_protein_recon
+BSU39410-MONOMER	default_name	BSU39410(1)	M_protein_recon
 BSU08780-MONOMER	default_name	BSU08780()	M_protein_recon
 BSU20320-MONOMER	default_name	BSU20320()	M_protein_recon
 BSU05130-MONOMER	default_name	BSU05130()	M_protein_recon
@@ -733,17 +733,17 @@ BSU27660-MONOMER	default_name	BSU27660()	M_protein_recon
 BSU05810-MONOMER	default_name	BSU05810()	M_protein_recon
 BSU31300-MONOMER	default_name	BSU31300()	M_protein_recon
 BSU09470-MONOMER	default_name	BSU09470()	M_protein_recon
-BSU12380-MONOMER	default_name	BSU12380()	M_protein_recon
+BSU12380-MONOMER	default_name	BSU12380(1)	M_protein_recon
 BSU28360-MONOMER	default_name	BSU28360()	M_protein_recon
 BSU15870-MONOMER	default_name	BSU15870()	M_protein_recon
-BSU32010-MONOMER	default_name	BSU32010()	M_protein_recon
+BSU32010-MONOMER	default_name	BSU32010(1)	M_protein_recon
 BSU34900-MONOMER	default_name	BSU34900()	M_protein_recon
-BSU13040-MONOMER	default_name	BSU13040()	M_protein_recon
+BSU13040-MONOMER	default_name	BSU13040(1)	M_protein_recon
 BSU38530-MONOMER	default_name	BSU38530()	M_protein_recon
 BSU16590-MONOMER	default_name	BSU16590()	M_protein_recon
 BSU19479-MONOMER	default_name	BSU19479()	M_protein_recon
 BSU35630-MONOMER	default_name	BSU35630()	M_protein_recon
-BSU01370-MONOMER	default_name	BSU01370()	M_protein_recon
+BSU01370-MONOMER	default_name	BSU01370(1)	M_protein_recon
 BSU39260-MONOMER	default_name	BSU39260()	M_protein_recon
 BSU23810-MONOMER	default_name	BSU23810()	M_protein_recon
 BSU20160-MONOMER	default_name	BSU20160()	M_protein_recon
@@ -753,8 +753,8 @@ BSU08600-MONOMER	default_name	BSU08600()	M_protein_recon
 BSU24540-MONOMER	default_name	BSU24540()	M_protein_recon
 BSU27500-MONOMER	default_name	BSU27500()	M_protein_recon
 BSU05650-MONOMER	default_name	BSU05650()	M_protein_recon
-BSU31150-MONOMER	default_name	BSU31150()	M_protein_recon
-BSU09310-MONOMER	default_name	BSU09310()	M_protein_recon
+BSU31150-MONOMER	default_name	BSU31150(1)	M_protein_recon
+BSU09310-MONOMER	default_name	BSU09310(1)	M_protein_recon
 BSU12229-MONOMER	default_name	BSU12229()	M_protein_recon
 BSU28200-MONOMER	default_name	BSU28200()	M_protein_recon
 BSU15710-MONOMER	default_name	BSU15710()	M_protein_recon
@@ -783,7 +783,7 @@ BSU15550-MONOMER	default_name	BSU15550()	M_protein_recon
 BSU31680-MONOMER	default_name	BSU31680()	M_protein_recon
 BSU30010-MONOMER	default_name	BSU30010()	M_protein_recon
 BSU34590-MONOMER	default_name	BSU34590()	M_protein_recon
-CPLX8J2-126	default_name	BSU37110()	M_protein_recon
+CPLX8J2-126	default_name	BSU37110(12)	M_protein_recon
 BSU12730-MONOMER	default_name	BSU12730()	M_protein_recon
 CPLX8J2-108	default_name	BSU03710() AND BSU03720() AND BSU03700()	M_protein_recon
 BSU38229-MONOMER	default_name	BSU38229()	M_protein_recon
@@ -798,7 +798,7 @@ BSU01050-MONOMER	default_name	BSU01050()	M_protein_recon
 CPLX8J2-51	default_name	BSU14730() AND BSU14540() AND BSU15690() AND BSU37160() AND BSU01430() AND BSU01080() AND BSU01070()	M_protein_recon
 BSU38930-MONOMER	default_name	BSU38930()	M_protein_recon
 CPLX8J2-37	default_name	BSU09720() AND BSU09710()	M_protein_recon
-BSU23500-MONOMER	default_name	BSU23500()	M_protein_recon
+BSU23500-MONOMER	default_name	BSU23500(1)	M_protein_recon
 CPLX8J2-21	default_name	BSU28250() AND BSU28260()	M_protein_recon
 BSU19840-MONOMER	default_name	BSU19840()	M_protein_recon
 CPLX8J2-182	default_name	BSU34540() AND BSU13700()	M_protein_recon
@@ -810,10 +810,10 @@ BSU08270-MONOMER	default_name	BSU08270()	M_protein_recon
 CPLX8J2-143	default_name	BSU28720()	M_protein_recon
 BSU24210-MONOMER	default_name	BSU24210()	M_protein_recon
 CPLX8J2-123	default_name	BSU23250()	M_protein_recon
-BSU27200-MONOMER	default_name	BSU27200()	M_protein_recon
+BSU27200-MONOMER	default_name	BSU27200(1)	M_protein_recon
 CPLX8J2-105	default_name	BSU15530() AND BSU15540()	M_protein_recon
 BSU05360-MONOMER	default_name	BSU05360()	M_protein_recon
-CPLX-8352	default_name	BSU11670()	M_protein_recon
+CPLX-8352	default_name	BSU11670(1)	M_protein_recon
 BSU30830-MONOMER	default_name	BSU30830()	M_protein_recon
 CPLX8J2-95	default_name	BSU05970()	M_protein_recon
 BSU08980-MONOMER	default_name	BSU08980()	M_protein_recon
@@ -825,7 +825,7 @@ CPLX8J2-49	default_name	BSU23100() AND BSU14540() AND BSU15690() AND BSU37160() 
 BSU15390-MONOMER	default_name	BSU15390()	M_protein_recon
 CPLX8J2-33	default_name	BSU24290() AND BSU24300()	M_protein_recon
 BSU31520-MONOMER	default_name	BSU31520()	M_protein_recon
-CPLX8J2-195	default_name	BSU23850()	M_protein_recon
+CPLX8J2-195	default_name	BSU23850(1)	M_protein_recon
 BSU34430-MONOMER	default_name	BSU34430()	M_protein_recon
 CPLX8J2-18	default_name	BSU15850() AND BSU15860()	M_protein_recon
 BSU12600-MONOMER	default_name	BSU12600()	M_protein_recon
@@ -837,7 +837,7 @@ CPLX8J2-12	default_name	BSU25260() AND BSU25270()	M_protein_recon
 BSU19010-MONOMER	default_name	BSU19010()	M_protein_recon
 CPLX8J2-102	default_name	BSU38750() AND BSU38760()	M_protein_recon
 BSU35140-MONOMER	default_name	BSU35140()	M_protein_recon
-CPLX-7604	default_name	BSU31980()	M_protein_recon
+CPLX-7604	default_name	BSU31980(2)	M_protein_recon
 BSU00890-MONOMER	default_name	BSU00890()	M_protein_recon
 CPLX8J2-92	default_name	BSU06990() AND BSU06980() AND BSU06970()	M_protein_recon
 BSU38770-MONOMER	default_name	BSU38770()	M_protein_recon
@@ -848,7 +848,7 @@ BSU19689-MONOMER	default_name	BSU19689()	M_protein_recon
 CPLX8J2-46	default_name	BSU38700() AND BSU14540() AND BSU15690() AND BSU37160() AND BSU01430() AND BSU01080() AND BSU01070()	M_protein_recon
 BSU04520-MONOMER	default_name	BSU04520()	M_protein_recon
 CPLX8J2-30	default_name	BSU01070() AND BSU01080() AND BSU01430() AND BSU37160() AND BSU15690() AND BSU14540()	M_protein_recon
-BSU01600-MONOMER	default_name	BSU01600()	M_protein_recon
+BSU01600-MONOMER	default_name	BSU01600(1)	M_protein_recon
 CPLX8J2-192	default_name	BSU15120()	M_protein_recon
 BSU08110-MONOMER	default_name	BSU08110()	M_protein_recon
 CPLX8J2-177	default_name	BSU04660()	M_protein_recon
@@ -858,22 +858,22 @@ BSU27040-MONOMER	default_name	BSU27040()	M_protein_recon
 CPLX8J2-133	default_name	BSU24870()	M_protein_recon
 BSU05210-MONOMER	default_name	BSU05210()	M_protein_recon
 CPLX8J2-117	default_name	BSU27040() AND BSU27050() AND BSU27060() AND BSU27070()	M_protein_recon
-BSU30670-MONOMER	default_name	BSU30670()	M_protein_recon
+BSU30670-MONOMER	default_name	BSU30670(1)	M_protein_recon
 CPLX8J2-10	default_name	BSU20040() AND BSU20060()	M_protein_recon
 BSU08830-MONOMER	default_name	BSU08830()	M_protein_recon
 CPLX-7601	default_name	BSU31970()	M_protein_recon
 BSU11790-MONOMER	default_name	BSU11790()	M_protein_recon
-CPLX8J2-9	default_name	BSU17380() AND BSU17390()	M_protein_recon
+CPLX8J2-9	default_name	BSU17380(2) AND BSU17390(2)	M_protein_recon
 BSU27730-MONOMER	default_name	BSU27730()	M_protein_recon
 CPLX8J2-75	default_name	BSU07490() AND BSU07500() AND BSU07510() AND BSU07520()	M_protein_recon
-BSU15230-MONOMER	default_name	BSU15230()	M_protein_recon
+BSU15230-MONOMER	default_name	BSU15230(1)	M_protein_recon
 CPLX8J2-58	default_name	BSU23450() AND BSU14540() AND BSU15690() AND BSU37160() AND BSU01430() AND BSU01080() AND BSU01070()	M_protein_recon
 BSU31360-MONOMER	default_name	BSU31360()	M_protein_recon
 CPLX8J2-43	default_name	BSU38140() AND BSU38150() AND BSU38160() AND BSU38170()	M_protein_recon
 BSU34265-MONOMER	default_name	BSU34265()	M_protein_recon
 CPLX8J2-28	default_name	BSU36640() AND BSU36650() AND BSU36660()	M_protein_recon
 BSU12460-MONOMER	default_name	BSU12460()	M_protein_recon
-CPLX8J2-19	default_name	BSU22630() AND BSU22640()	M_protein_recon
+CPLX8J2-19	default_name	BSU22630(2) AND BSU22640(2)	M_protein_recon
 BSU37910-MONOMER	default_name	BSU37910()	M_protein_recon
 CPLX8J2-174	default_name	BSU16170()	M_protein_recon
 BSU31330-MONOMER	default_name	BSU31330()	M_protein_recon
@@ -882,10 +882,10 @@ BSU18880-MONOMER	default_name	BSU18880()	M_protein_recon
 CPLX8J2-130	default_name	BSU14370() AND BSU14360() AND BSU14350() AND BSU14340()	M_protein_recon
 BSU12430-MONOMER	default_name	BSU12430()	M_protein_recon
 CPLX8J2-112	default_name	BSU39990()	M_protein_recon
-BSU00730-MONOMER	default_name	BSU00730()	M_protein_recon
+BSU00730-MONOMER	default_name	BSU00730(2)	M_protein_recon
 CPLX-9195	default_name	BSU07630()	M_protein_recon
 BSU15930-MONOMER	default_name	BSU15930()	M_protein_recon
-CPLX8J2-87	default_name	BSU03290() AND BSU03300()	M_protein_recon
+CPLX8J2-87	default_name	BSU03290(1) AND BSU03300(2)	M_protein_recon
 MONOMER8J2-54	default_name	BSU25760()	M_protein_recon
 CPLX8J2-72	default_name	BSU11430() AND BSU11440() AND BSU11450() AND BSU11460() AND BSU11470()	M_protein_recon
 BSU34950-MONOMER	default_name	BSU34950()	M_protein_recon
@@ -894,7 +894,7 @@ BSU23180-MONOMER	default_name	BSU23180()	M_protein_recon
 CPLX8J2-40	default_name	BSU03130()	M_protein_recon
 BSU38580-MONOMER	default_name	BSU38580()	M_protein_recon
 CPLX8J2-25	default_name	BSU36850() AND BSU36860() AND BSU36870()	M_protein_recon
-BSU04360-MONOMER	default_name	BSU04360()	M_protein_recon
+BSU04360-MONOMER	default_name	BSU04360(1)	M_protein_recon
 CPLX8J2-187	default_name	BSU23800()	M_protein_recon
 BSU19530-MONOMER	default_name	BSU19530()	M_protein_recon
 CPLX8J2-171	default_name	BSU35080()	M_protein_recon
@@ -904,13 +904,13 @@ BSU01410-MONOMER	default_name	BSU01410()	M_protein_recon
 CPLX8J2-127	default_name	BSU29530()	M_protein_recon
 BSU26880-MONOMER	default_name	BSU26880()	M_protein_recon
 CPLX8J2-11	default_name	BSU28630() AND BSU28640()	M_protein_recon
-BSU23860-MONOMER	default_name	BSU23860()	M_protein_recon
+BSU23860-MONOMER	default_name	BSU23860(2)	M_protein_recon
 CPLX-8875	default_name	BSU13570()	M_protein_recon
 BSU30510-MONOMER	default_name	BSU30510()	M_protein_recon
 MONOMER8J2-6	default_name	BSU26390() AND BSU25760()	M_protein_recon
 BSU05040-MONOMER	default_name	BSU05040()	M_protein_recon
 CPLX8J2-84	default_name	BSU36550()	M_protein_recon
-BSU11630-MONOMER	default_name	BSU11630()	M_protein_recon
+BSU11630-MONOMER	default_name	BSU11630(1)	M_protein_recon
 CPLX8J2-7	default_name	BSU16090() AND BSU16100()	M_protein_recon
 BSU08650-MONOMER	default_name	BSU08650()	M_protein_recon
 CPLX8J2-52	default_name	BSU25200() AND BSU14540() AND BSU15690() AND BSU37160() AND BSU01430() AND BSU01080() AND BSU01070()	M_protein_recon
@@ -920,7 +920,7 @@ BSU27550-MONOMER	default_name	BSU27550()	M_protein_recon
 CPLX8J2-22	default_name	BSU14890() AND BSU14900() AND BSU14910() AND BSU14920()	M_protein_recon
 BSU34100-MONOMER	default_name	BSU34100()	M_protein_recon
 CPLX8J2-184	default_name	BSU30240()	M_protein_recon
-BSU31200-MONOMER	default_name	BSU31200()	M_protein_recon
+BSU31200-MONOMER	default_name	BSU31200(1)	M_protein_recon
 CPLX8J2-169	default_name	BSU13210() AND BSU13220() AND BSU13230()	M_protein_recon
 BSU00360-MONOMER	default_name	BSU00360()	M_protein_recon
 CPLX8J2-147	default_name	BSU14190()	M_protein_recon
@@ -931,19 +931,19 @@ CPLX8J2-124	default_name	BSU23270() AND BSU23250()	M_protein_recon
 BSU15760-MONOMER	default_name	BSU15760()	M_protein_recon
 CPLX8J2-106	default_name	BSU03930()	M_protein_recon
 BSU18730-MONOMER	default_name	BSU18730()	M_protein_recon
-CPLX-8354	default_name	BSU08790()	M_protein_recon
+CPLX-8354	default_name	BSU08790(1)	M_protein_recon
 BSU34790-MONOMER	default_name	BSU34790()	M_protein_recon
-CPLX8J2-96	default_name	BSU13720()	M_protein_recon
+CPLX8J2-96	default_name	BSU13720(1)	M_protein_recon
 BSU00570-MONOMER	default_name	BSU00570()	M_protein_recon
 CPLX8J2-81	default_name	BSU30370() AND BSU30380()	M_protein_recon
-BSU38430-MONOMER	default_name	BSU38430()	M_protein_recon
+BSU38430-MONOMER	default_name	BSU38430(1)	M_protein_recon
 CPLX8J2-66	default_name	BSU30740() AND BSU30750() AND BSU30760() AND BSU30770()	M_protein_recon
 BSU23010-MONOMER	default_name	BSU23010()	M_protein_recon
 CPLX8J2-5	default_name	BSU11230() AND BSU11240()	M_protein_recon
 BSU19370-MONOMER	default_name	BSU19370()	M_protein_recon
-CPLX8J2-34	default_name	BSU38980() AND BSU38990()	M_protein_recon
+CPLX8J2-34	default_name	BSU38980(2) AND BSU38990(2)	M_protein_recon
 BSU04200-MONOMER	default_name	BSU04200()	M_protein_recon
-CPLX8J2-2	default_name	BSU37250() AND BSU37270() AND BSU37280()	M_protein_recon
+CPLX8J2-2	default_name	BSU37250(1) AND BSU37270(1) AND BSU37280(1)	M_protein_recon
 BSU01260-MONOMER	default_name	BSU01260()	M_protein_recon
 CPLX8J2-180	default_name	BSU19690()	M_protein_recon
 BSU07790-MONOMER	default_name	BSU07790()	M_protein_recon
@@ -983,7 +983,7 @@ CPLX-7602	default_name	BSU31970()	M_protein_recon
 BSU38270-MONOMER	default_name	BSU38270()	M_protein_recon
 CPLX8J2-90	default_name	BSU05860()	M_protein_recon
 BSU22860-MONOMER	default_name	BSU22860()	M_protein_recon
-CPLX8J2-76	default_name	BSU02980() AND BSU02990() AND BSU03000()	M_protein_recon
+CPLX8J2-76	default_name	BSU02980(2) AND BSU02990(2) AND BSU03000(1)	M_protein_recon
 BSU19220-MONOMER	default_name	BSU19220()	M_protein_recon
 CPLX8J2-59	default_name	BSU15330() AND BSU14540() AND BSU15690() AND BSU37160() AND BSU01430() AND BSU01080() AND BSU01070()	M_protein_recon
 BSU04040-MONOMER	default_name	BSU04040()	M_protein_recon
@@ -995,7 +995,7 @@ CPLX8J2-190	default_name	BSU40960()	M_protein_recon
 BSU23540-MONOMER	default_name	BSU23540()	M_protein_recon
 CPLX8J2-175	default_name	BSU10600()	M_protein_recon
 BSU26560-MONOMER	default_name	BSU26560()	M_protein_recon
-CPLX8J2-16	default_name	BSU18440() AND BSU18450()	M_protein_recon
+CPLX8J2-16	default_name	BSU18440(4) AND BSU18450(4)	M_protein_recon
 BSU04730-MONOMER	default_name	BSU04730()	M_protein_recon
 CPLX8J2-131	default_name	BSU00120() AND BSU00110()	M_protein_recon
 BSU30190-MONOMER	default_name	BSU30190()	M_protein_recon
@@ -1004,8 +1004,8 @@ BSU08320-MONOMER	default_name	BSU08320()	M_protein_recon
 CPLX-9285	default_name	BSU37540()	M_protein_recon
 BSU11310-MONOMER	default_name	BSU11310()	M_protein_recon
 CPLX-5322	default_name	BSU35740()	M_protein_recon
-BSU27250-MONOMER	default_name	BSU27250()	M_protein_recon
-CPLX8J2-88	default_name	BSU11720()	M_protein_recon
+BSU27250-MONOMER	default_name	BSU27250(4)	M_protein_recon
+CPLX8J2-88	default_name	BSU11720(1)	M_protein_recon
 BSU14760-MONOMER	default_name	BSU14760()	M_protein_recon
 CPLX8J2-73	default_name	BSU11360() AND BSU11370() AND BSU11390() AND BSU11400()	M_protein_recon
 BSU30880-MONOMER	default_name	BSU30880()	M_protein_recon
@@ -1035,12 +1035,12 @@ CPLX8J2-53	default_name	BSU13450() AND BSU14540() AND BSU15690() AND BSU37160() 
 BSU00940-MONOMER	default_name	BSU00940()	M_protein_recon
 CPLX8J2-39	default_name	BSU16780() AND BSU14530()	M_protein_recon
 BSU03900-MONOMER	default_name	BSU03900()	M_protein_recon
-CPLX8J2-23	default_name	BSU28300() AND BSU28310()	M_protein_recon
+CPLX8J2-23	default_name	BSU28300(2) AND BSU28310(2)	M_protein_recon
 BSU23401-MONOMER	default_name	BSU23401()	M_protein_recon
 CPLX8J2-185	default_name	BSU04110() AND BSU04080() AND BSU04050()	M_protein_recon
 BSU26370-MONOMER	default_name	BSU26370()	M_protein_recon
 CPLX8J2-17	default_name	BSU24550() AND BSU24560()	M_protein_recon
-BSU04570-MONOMER	default_name	BSU04570()	M_protein_recon
+BSU04570-MONOMER	default_name	BSU04570(1)	M_protein_recon
 CPLX8J2-148	default_name	BSU35240()	M_protein_recon
 BSU23040-MONOMER	default_name	BSU23040()	M_protein_recon
 CPLX8J2-125	default_name	BSU39540()	M_protein_recon
@@ -1067,17 +1067,17 @@ CPLX8J2-167	default_name	BSU00330()	M_protein_recon
 BSU34320-MONOMER	default_name	BSU34320()	M_protein_recon
 CPLX8J2-145	default_name	BSU03890()	M_protein_recon
 BSU40880-MONOMER	default_name	BSU40880()	M_protein_recon
-CPLX8J2-142	default_name	BSU07920()	M_protein_recon
+CPLX8J2-142	default_name	BSU07920(1)	M_protein_recon
 BSU37960-MONOMER	default_name	BSU37960()	M_protein_recon
-CPLX8J2-122	default_name	BSU23270()	M_protein_recon
+CPLX8J2-122	default_name	BSU23270(3)	M_protein_recon
 BSU22550-MONOMER	default_name	BSU22550()	M_protein_recon
 CPLX8J2-104	default_name	BSU16150() AND BSU16160()	M_protein_recon
 BSU18908-MONOMER	default_name	BSU18908()	M_protein_recon
 CPLX-8351	default_name	BSU38300()	M_protein_recon
 BSU03760-MONOMER	default_name	BSU03760()	M_protein_recon
 CPLX8J2-94	default_name	BSU33070() AND BSU33060() AND BSU33050()	M_protein_recon
-BSU00780-MONOMER	default_name	BSU00780()	M_protein_recon
-CPLX8J2-8	default_name	BSU32470() AND BSU32480() AND BSU32490()	M_protein_recon
+BSU00780-MONOMER	default_name	BSU00780(8)	M_protein_recon
+CPLX8J2-8	default_name	BSU32470(1) AND BSU32480(1) AND BSU32490(1)	M_protein_recon
 BSU26220-MONOMER	default_name	BSU26220()	M_protein_recon
 CPLX8J2-64	default_name	BSU35930() AND BSU35940() AND BSU35950() AND BSU35960()	M_protein_recon
 MONOMER8J2-59	default_name	G8J2-175()	M_protein_recon
@@ -1089,24 +1089,24 @@ CPLX8J2-194	default_name	BSU26970()	M_protein_recon
 BSU07320-MONOMER	default_name	BSU07320()	M_protein_recon
 CPLX8J2-179	default_name	BSU32110()	M_protein_recon
 BSU04410-MONOMER	default_name	BSU04410()	M_protein_recon
-CPLX8J2-164	default_name	BSU03790()	M_protein_recon
+CPLX8J2-164	default_name	BSU03790(4)	M_protein_recon
 BSU11000-MONOMER	default_name	BSU11000()	M_protein_recon
 CPLX8J2-14	default_name	BSU00060() AND BSU00070()	M_protein_recon
 BSU08010-MONOMER	default_name	BSU08010()	M_protein_recon
 CPLX8J2-119	default_name	BSU34590() AND BSU34600() AND BSU34610()	M_protein_recon
 BSU33460-MONOMER	default_name	BSU33460()	M_protein_recon
-CPLX8J2-101	default_name	BSU36840() AND BSU36830() AND BSU36820() AND BSU36810() AND BSU36800() AND BSU36870() AND BSU36860() AND BSU36850()	M_protein_recon
+CPLX8J2-101	default_name	BSU36840(1) AND BSU36830(3) AND BSU36820(1) AND BSU36810(3) AND BSU36800(1) AND BSU36870(1) AND BSU36860(10) AND BSU36850(2)	M_protein_recon
 BSU26930-MONOMER	default_name	BSU26930()	M_protein_recon
 CPLX-7603	default_name	BSU31970() AND BSU31980() AND BSU31960()	M_protein_recon
-BSU37110-MONOMER	default_name	BSU37110()	M_protein_recon
+BSU37110-MONOMER	default_name	BSU37110(12)	M_protein_recon
 CPLX8J2-91	default_name	BSU07120() AND BSU07110() AND BSU07100()	M_protein_recon
-BSU30560-MONOMER	default_name	BSU30560()	M_protein_recon
+BSU30560-MONOMER	default_name	BSU30560(1)	M_protein_recon
 CPLX8J2-77	default_name	BSU02860() AND BSU02870()	M_protein_recon
 BSU14490-MONOMER	default_name	BSU14490()	M_protein_recon
-CPLX8J2-6	default_name	BSU15510() AND BSU15520()	M_protein_recon
+CPLX8J2-6	default_name	BSU15510(2) AND BSU15520(2)	M_protein_recon
 BSU11680-MONOMER	default_name	BSU11680()	M_protein_recon
 CPLX8J2-45	default_name	BSU09520() AND BSU14540() AND BSU15690() AND BSU37160() AND BSU01430() AND BSU01080() AND BSU01070()	M_protein_recon
-BSU18120-MONOMER	default_name	BSU18120()	M_protein_recon
+BSU18120-MONOMER	default_name	BSU18120(1)	M_protein_recon
 CPLX8J2-3	default_name	BSU29200() AND BSU29210()	M_protein_recon
 BSU15120-MONOMER	default_name	BSU15120()	M_protein_recon
 CPLX8J2-191	default_name	BSU08390()	M_protein_recon
@@ -1130,7 +1130,7 @@ BSU26060-MONOMER	default_name	BSU26060()	M_protein_recon
 CPLX8J2-57	default_name	BSU34200() AND BSU14540() AND BSU15690() AND BSU37160() AND BSU01430() AND BSU01080() AND BSU01070()	M_protein_recon
 BSU00620-MONOMER	default_name	BSU00620()	M_protein_recon
 CPLX8J2-42	default_name	BSU22540() AND BSU22550() AND BSU22560()	M_protein_recon
-BSU29680-MONOMER	default_name	BSU29680()	M_protein_recon
+BSU29680-MONOMER	default_name	BSU29680(1)	M_protein_recon
 CPLX8J2-27	default_name	BSU22740() AND BSU22760()	M_protein_recon
 BSU23070-MONOMER	default_name	BSU23070()	M_protein_recon
 CPLX8J2-189	default_name	BSU28900() AND BSU28910()	M_protein_recon
@@ -1140,10 +1140,10 @@ BSU04250-MONOMER	default_name	BSU04250()	M_protein_recon
 CPLX8J2-158	default_name	BSU31660() AND BSU31650() AND BSU31640() AND BSU31630() AND BSU31620() AND BSU31610() AND BSU31600()	M_protein_recon
 BSU10840-MONOMER	default_name	BSU10840()	M_protein_recon
 CPLX8J2-13	default_name	BSU14580() AND BSU14590()	M_protein_recon
-BSU07840-MONOMER	default_name	BSU07840()	M_protein_recon
+BSU07840-MONOMER	default_name	BSU07840(1)	M_protein_recon
 CPLX8J2-111	default_name	BSU24610()	M_protein_recon
 BSU33300-MONOMER	default_name	BSU33300()	M_protein_recon
-CPLX-9084	default_name	BSU10120()	M_protein_recon
+CPLX-9084	default_name	BSU10120(1)	M_protein_recon
 BSU26770-MONOMER	default_name	BSU26770()	M_protein_recon
 CPLX8J2-86	default_name	BSU03310() AND BSU03320()	M_protein_recon
 BSU36950-MONOMER	default_name	BSU36950()	M_protein_recon
@@ -1153,7 +1153,7 @@ CPLX8J2-54	default_name	BSU16470() AND BSU14540() AND BSU15690() AND BSU37160() 
 BSU14330-MONOMER	default_name	BSU14330()	M_protein_recon
 CPLX8J2-4	default_name	BSU06670() AND BSU06680() AND BSU06690()	M_protein_recon
 BSU11530-MONOMER	default_name	BSU11530()	M_protein_recon
-CPLX8J2-24	default_name	BSU06020() AND BSU06030()	M_protein_recon
+CPLX8J2-24	default_name	BSU06020(14) AND BSU06030(14)	M_protein_recon
 BSU17970-MONOMER	default_name	BSU17970()	M_protein_recon
 CPLX8J2-186	default_name	BSU18480()	M_protein_recon
 BSU14970-MONOMER	default_name	BSU14970()	M_protein_recon
@@ -1184,7 +1184,7 @@ BSU14810-MONOMER	default_name	BSU14810()	M_protein_recon
 BSU17810-MONOMER	default_name	BSU17810()	M_protein_recon
 BSU33830-MONOMER	default_name	BSU33830()	M_protein_recon
 BSU40410-MONOMER	default_name	BSU40410()	M_protein_recon
-BSU00090-MONOMER	default_name	BSU00090()	M_protein_recon
+BSU00090-MONOMER	default_name	BSU00090(4)	M_protein_recon
 BSU22080-MONOMER	default_name	BSU22080()	M_protein_recon
 BSU37480-MONOMER	default_name	BSU37480()	M_protein_recon
 BSU21320-MONOMER	default_name	BSU21320()	M_protein_recon
@@ -1197,7 +1197,7 @@ BSU03950-MONOMER	default_name	BSU03950()	M_protein_recon
 BSU06830-MONOMER	default_name	BSU06830()	M_protein_recon
 BSU26430-MONOMER	default_name	BSU26430()	M_protein_recon
 BSU10520-MONOMER	default_name	BSU10520()	M_protein_recon
-BSU30070-MONOMER	default_name	BSU30070()	M_protein_recon
+BSU30070-MONOMER	default_name	BSU30070(1)	M_protein_recon
 BSU33020-MONOMER	default_name	BSU33020()	M_protein_recon
 BSU07540-MONOMER	default_name	BSU07540()	M_protein_recon
 BSU36630-MONOMER	default_name	BSU36630()	M_protein_recon
@@ -1207,24 +1207,24 @@ BSU14650-MONOMER	default_name	BSU14650()	M_protein_recon
 BSU17660-MONOMER	default_name	BSU17660()	M_protein_recon
 BSU33670-MONOMER	default_name	BSU33670()	M_protein_recon
 BSU40259-MONOMER	default_name	BSU40259()	M_protein_recon
-BSU37320-MONOMER	default_name	BSU37320()	M_protein_recon
+BSU37320-MONOMER	default_name	BSU37320(1)	M_protein_recon
 BSU21930-MONOMER	default_name	BSU21930()	M_protein_recon
 BSU18320-MONOMER	default_name	BSU18320()	M_protein_recon
 BSU21170-MONOMER	default_name	BSU21170()	M_protein_recon
 BSU40930-MONOMER	default_name	BSU40930()	M_protein_recon
 BSU03130-MONOMER	default_name	BSU03130()	M_protein_recon
-BSU22600-MONOMER	default_name	BSU22600()	M_protein_recon
+BSU22600-MONOMER	default_name	BSU22600(1)	M_protein_recon
 BSU25569-MONOMER	default_name	BSU25569()	M_protein_recon
-BSU03790-MONOMER	default_name	BSU03790()	M_protein_recon
+BSU03790-MONOMER	default_name	BSU03790(4)	M_protein_recon
 BSU29230-MONOMER	default_name	BSU29230()	M_protein_recon
 BSU26260-MONOMER	default_name	BSU26260()	M_protein_recon
-BSU06680-MONOMER	default_name	BSU06680()	M_protein_recon
+BSU06680-MONOMER	default_name	BSU06680(1)	M_protein_recon
 BSU29900-MONOMER	default_name	BSU29900()	M_protein_recon
 BSU10360-MONOMER	default_name	BSU10360()	M_protein_recon
 BSU07370-MONOMER	default_name	BSU07370()	M_protein_recon
 BSU32850-MONOMER	default_name	BSU32850()	M_protein_recon
 BSU11055-MONOMER	default_name	BSU11055()	M_protein_recon
-BSU36470-MONOMER	default_name	BSU36470()	M_protein_recon
+BSU36470-MONOMER	default_name	BSU36470(1)	M_protein_recon
 BSU33510-MONOMER	default_name	BSU33510()	M_protein_recon
 BSU13870-MONOMER	default_name	BSU13870()	M_protein_recon
 BSU37160-MONOMER	default_name	BSU37160()	M_protein_recon
@@ -1242,7 +1242,7 @@ BSU25410-MONOMER	default_name	BSU25410()	M_protein_recon
 BSU26110-MONOMER	default_name	BSU26110()	M_protein_recon
 BSU29070-MONOMER	default_name	BSU29070()	M_protein_recon
 BSU29730-MONOMER	default_name	BSU29730()	M_protein_recon
-BSU06530-MONOMER	default_name	BSU06530()	M_protein_recon
+BSU06530-MONOMER	default_name	BSU06530(1)	M_protein_recon
 BSU07210-MONOMER	default_name	BSU07210()	M_protein_recon
 BSU10200-MONOMER	default_name	BSU10200()	M_protein_recon
 BSU10890-MONOMER	default_name	BSU10890()	M_protein_recon
@@ -1272,7 +1272,7 @@ BSU32560-MONOMER	default_name	BSU32560()	M_protein_recon
 BSU10730-MONOMER	default_name	BSU10730()	M_protein_recon
 BSU36160-MONOMER	default_name	BSU36160()	M_protein_recon
 BSU33210-MONOMER	default_name	BSU33210()	M_protein_recon
-BSU13580-MONOMER	default_name	BSU13580()	M_protein_recon
+BSU13580-MONOMER	default_name	BSU13580(2)	M_protein_recon
 BSU36840-MONOMER	default_name	BSU36840()	M_protein_recon
 BSU17190-MONOMER	default_name	BSU17190()	M_protein_recon
 BSU14220-MONOMER	default_name	BSU14220()	M_protein_recon
@@ -1326,22 +1326,22 @@ BSU02340-MONOMER	default_name	BSU02340()	M_protein_recon
 BSU13920-MONOMER	default_name	BSU13920()	M_protein_recon
 BSU24780-MONOMER	default_name	BSU24780()	M_protein_recon
 BSU17559-MONOMER	default_name	BSU17559()	M_protein_recon
-BSU05900-MONOMER	default_name	BSU05900()	M_protein_recon
+BSU05900-MONOMER	default_name	BSU05900(1)	M_protein_recon
 BSU40160-MONOMER	default_name	BSU40160()	M_protein_recon
 BSU09550-MONOMER	default_name	BSU09550()	M_protein_recon
-BSU21820-MONOMER	default_name	BSU21820()	M_protein_recon
+BSU21820-MONOMER	default_name	BSU21820(2)	M_protein_recon
 BSU28440-MONOMER	default_name	BSU28440()	M_protein_recon
 BSU21060-MONOMER	default_name	BSU21060()	M_protein_recon
 BSU32090-MONOMER	default_name	BSU32090()	M_protein_recon
 BSU03020-MONOMER	default_name	BSU03020()	M_protein_recon
-BSU13120-MONOMER	default_name	BSU13120()	M_protein_recon
+BSU13120-MONOMER	default_name	BSU13120(4)	M_protein_recon
 BSU25460-MONOMER	default_name	BSU25460()	M_protein_recon
-BSU16670-MONOMER	default_name	BSU16670()	M_protein_recon
-BSU29120-MONOMER	default_name	BSU29120()	M_protein_recon
+BSU16670-MONOMER	default_name	BSU16670(1)	M_protein_recon
+BSU29120-MONOMER	default_name	BSU29120(2)	M_protein_recon
 BSU35710-MONOMER	default_name	BSU35710()	M_protein_recon
 BSU06570-MONOMER	default_name	BSU06570()	M_protein_recon
 BSU39339-MONOMER	default_name	BSU39339()	M_protein_recon
-BSU10250-MONOMER	default_name	BSU10250()	M_protein_recon
+BSU10250-MONOMER	default_name	BSU10250(1)	M_protein_recon
 BSU20240-MONOMER	default_name	BSU20240()	M_protein_recon
 BSU32750-MONOMER	default_name	BSU32750()	M_protein_recon
 BSU02180-MONOMER	default_name	BSU02180()	M_protein_recon
@@ -1352,12 +1352,12 @@ BSU05730-MONOMER	default_name	BSU05730()	M_protein_recon
 BSU17400-MONOMER	default_name	BSU17400()	M_protein_recon
 BSU09390-MONOMER	default_name	BSU09390()	M_protein_recon
 BSU40021-MONOMER	default_name	BSU40021()	M_protein_recon
-BSU28280-MONOMER	default_name	BSU28280()	M_protein_recon
+BSU28280-MONOMER	default_name	BSU28280(1)	M_protein_recon
 BSU20928-MONOMER	default_name	BSU20928()	M_protein_recon
 BSU31930-MONOMER	default_name	BSU31930()	M_protein_recon
 BSU02860-MONOMER	default_name	BSU02860()	M_protein_recon
 BSU12960-MONOMER	default_name	BSU12960()	M_protein_recon
-BSU25300-MONOMER	default_name	BSU25300()	M_protein_recon
+BSU25300-MONOMER	default_name	BSU25300(2)	M_protein_recon
 BSU16510-MONOMER	default_name	BSU16510()	M_protein_recon
 BSU28960-MONOMER	default_name	BSU28960()	M_protein_recon
 BSU35540-MONOMER	default_name	BSU35540()	M_protein_recon
@@ -1412,14 +1412,14 @@ BSU19750-MONOMER	default_name	BSU19750()	M_protein_recon
 BSU32300-MONOMER	default_name	BSU32300()	M_protein_recon
 BSU01680-MONOMER	default_name	BSU01680()	M_protein_recon
 BSU13320-MONOMER	default_name	BSU13320()	M_protein_recon
-BSU24130-MONOMER	default_name	BSU24130()	M_protein_recon
+BSU24130-MONOMER	default_name	BSU24130(1)	M_protein_recon
 CPLX8J2-99	default_name	BSU35030()	M_protein_recon
 CPLX8J2-129	default_name	BSU33520()	M_protein_recon
 BSU16910-MONOMER	default_name	BSU16910()	M_protein_recon
 BSU05290-MONOMER	default_name	BSU05290()	M_protein_recon
 CPLX8J2-109	default_name	BSU08340()	M_protein_recon
 CPLX8J2-160	default_name	BSU31210()	M_protein_recon
-BSU35920-MONOMER	default_name	BSU35920()	M_protein_recon
+BSU35920-MONOMER	default_name	BSU35920(2)	M_protein_recon
 BSU08900-MONOMER	default_name	BSU08900()	M_protein_recon
 CPLX8J2-114	default_name	BSU25100()	M_protein_recon
 CPLX8J2-63	default_name	BSU22770()	M_protein_recon
@@ -1428,7 +1428,7 @@ CPLX8J2-115	default_name	BSU03230()	M_protein_recon
 BSU27810-MONOMER	default_name	BSU27810()	M_protein_recon
 BSU20450-MONOMER	default_name	BSU20450()	M_protein_recon
 BSU31440-MONOMER	default_name	BSU31440()	M_protein_recon
-BSU02390-MONOMER	default_name	BSU02390()	M_protein_recon
+BSU02390-MONOMER	default_name	BSU02390(6)	M_protein_recon
 BSU12530-MONOMER	default_name	BSU12530()	M_protein_recon
 BSU24830-MONOMER	default_name	BSU24830()	M_protein_recon
 BSU16040-MONOMER	default_name	BSU16040()	M_protein_recon
@@ -1436,7 +1436,7 @@ BSU05950-MONOMER	default_name	BSU05950()	M_protein_recon
 BSU35060-MONOMER	default_name	BSU35060()	M_protein_recon
 BSU09610-MONOMER	default_name	BSU09610()	M_protein_recon
 BSU38690-MONOMER	default_name	BSU38690()	M_protein_recon
-BSU28500-MONOMER	default_name	BSU28500()	M_protein_recon
+BSU28500-MONOMER	default_name	BSU28500(1)	M_protein_recon
 BSU19630-MONOMER	default_name	BSU19630()	M_protein_recon
 BSU32140-MONOMER	default_name	BSU32140()	M_protein_recon
 BSU01520-MONOMER	default_name	BSU01520()	M_protein_recon
@@ -1450,7 +1450,7 @@ BSU39380-MONOMER	default_name	BSU39380()	M_protein_recon
 BSU08730-MONOMER	default_name	BSU08730()	M_protein_recon
 BSU20290-MONOMER	default_name	BSU20290()	M_protein_recon
 BSU27630-MONOMER	default_name	BSU27630()	M_protein_recon
-BSU02230-MONOMER	default_name	BSU02230()	M_protein_recon
+BSU02230-MONOMER	default_name	BSU02230(1)	M_protein_recon
 BSU31279-MONOMER	default_name	BSU31279()	M_protein_recon
 BSU24670-MONOMER	default_name	BSU24670()	M_protein_recon
 BSU12350-MONOMER	default_name	BSU12350()	M_protein_recon
@@ -1460,12 +1460,12 @@ BSU09440-MONOMER	default_name	BSU09440()	M_protein_recon
 BSU34870-MONOMER	default_name	BSU34870()	M_protein_recon
 BSU28330-MONOMER	default_name	BSU28330()	M_protein_recon
 BSU38500-MONOMER	default_name	BSU38500()	M_protein_recon
-BSU31980-MONOMER	default_name	BSU31980()	M_protein_recon
+BSU31980-MONOMER	default_name	BSU31980(2)	M_protein_recon
 BSU19450-MONOMER	default_name	BSU19450()	M_protein_recon
-BSU13010-MONOMER	default_name	BSU13010()	M_protein_recon
+BSU13010-MONOMER	default_name	BSU13010(1)	M_protein_recon
 BSU01340-MONOMER	default_name	BSU01340()	M_protein_recon
 BSU16560-MONOMER	default_name	BSU16560()	M_protein_recon
-BSU23780-MONOMER	default_name	BSU23780()	M_protein_recon
+BSU23780-MONOMER	default_name	BSU23780(4)	M_protein_recon
 BSU35590-MONOMER	default_name	BSU35590()	M_protein_recon
 BSU04960-MONOMER	default_name	BSU04960()	M_protein_recon
 BSU39230-MONOMER	default_name	BSU39230()	M_protein_recon
@@ -1476,9 +1476,9 @@ BSU02070-MONOMER	default_name	BSU02070()	M_protein_recon
 BSU31120-MONOMER	default_name	BSU31120()	M_protein_recon
 BSU24510-MONOMER	default_name	BSU24510()	M_protein_recon
 BSU12200-MONOMER	default_name	BSU12200()	M_protein_recon
-BSU05620-MONOMER	default_name	BSU05620()	M_protein_recon
-BSU15680-MONOMER	default_name	BSU15680()	M_protein_recon
-BSU09280-MONOMER	default_name	BSU09280()	M_protein_recon
+BSU05620-MONOMER	default_name	BSU05620(1)	M_protein_recon
+BSU15680-MONOMER	default_name	BSU15680(2)	M_protein_recon
+BSU09280-MONOMER	default_name	BSU09280(4)	M_protein_recon
 BSU34720-MONOMER	default_name	BSU34720()	M_protein_recon
 BSU28170-MONOMER	default_name	BSU28170()	M_protein_recon
 BSU38350-MONOMER	default_name	BSU38350()	M_protein_recon
@@ -1493,17 +1493,17 @@ BSU04810-MONOMER	default_name	BSU04810()	M_protein_recon
 BSU39070-MONOMER	default_name	BSU39070()	M_protein_recon
 BSU08400-MONOMER	default_name	BSU08400()	M_protein_recon
 BSU19980-MONOMER	default_name	BSU19980()	M_protein_recon
-BSU27330-MONOMER	default_name	BSU27330()	M_protein_recon
+BSU27330-MONOMER	default_name	BSU27330(1)	M_protein_recon
 BSU01900-MONOMER	default_name	BSU01900()	M_protein_recon
 BSU30960-MONOMER	default_name	BSU30960()	M_protein_recon
 BSU24350-MONOMER	default_name	BSU24350()	M_protein_recon
 BSU12050-MONOMER	default_name	BSU12050()	M_protein_recon
-BSU05470-MONOMER	default_name	BSU05470()	M_protein_recon
+BSU05470-MONOMER	default_name	BSU05470(2)	M_protein_recon
 BSU15520-MONOMER	default_name	BSU15520()	M_protein_recon
 BSU09110-MONOMER	default_name	BSU09110()	M_protein_recon
 BSU34560-MONOMER	default_name	BSU34560()	M_protein_recon
 BSU28020-MONOMER	default_name	BSU28020()	M_protein_recon
-BSU38200-MONOMER	default_name	BSU38200()	M_protein_recon
+BSU38200-MONOMER	default_name	BSU38200(1)	M_protein_recon
 BSU31650-MONOMER	default_name	BSU31650()	M_protein_recon
 BSU19140-MONOMER	default_name	BSU19140()	M_protein_recon
 BSU12700-MONOMER	default_name	BSU12700()	M_protein_recon
@@ -1524,7 +1524,7 @@ BSU05330-MONOMER	default_name	BSU05330()	M_protein_recon
 BSU15360-MONOMER	default_name	BSU15360()	M_protein_recon
 BSU08950-MONOMER	default_name	BSU08950()	M_protein_recon
 BSU34400-MONOMER	default_name	BSU34400()	M_protein_recon
-BSU27860-MONOMER	default_name	BSU27860()	M_protein_recon
+BSU27860-MONOMER	default_name	BSU27860(2)	M_protein_recon
 BSU38040-MONOMER	default_name	BSU38040()	M_protein_recon
 BSU31490-MONOMER	default_name	BSU31490()	M_protein_recon
 BSU18980-MONOMER	default_name	BSU18980()	M_protein_recon
@@ -1543,11 +1543,11 @@ BSU30650-MONOMER	default_name	BSU30650()	M_protein_recon
 BSU24020-MONOMER	default_name	BSU24020()	M_protein_recon
 BSU11760-MONOMER	default_name	BSU11760()	M_protein_recon
 BSU05180-MONOMER	default_name	BSU05180()	M_protein_recon
-BSU15200-MONOMER	default_name	BSU15200()	M_protein_recon
+BSU15200-MONOMER	default_name	BSU15200(1)	M_protein_recon
 BSU08800-MONOMER	default_name	BSU08800()	M_protein_recon
 BSU34230-MONOMER	default_name	BSU34230()	M_protein_recon
 BSU27710-MONOMER	default_name	BSU27710()	M_protein_recon
-BSU37880-MONOMER	default_name	BSU37880()	M_protein_recon
+BSU37880-MONOMER	default_name	BSU37880(1)	M_protein_recon
 BSU08779-MONOMER	default_name	BSU08779()	M_protein_recon
 BSU18850-MONOMER	default_name	BSU18850()	M_protein_recon
 BSU27680-MONOMER	default_name	BSU27680()	M_protein_recon
@@ -1556,10 +1556,10 @@ BSU31319-MONOMER	default_name	BSU31319()	M_protein_recon
 MONOMER8J2-51	default_name	BSU12000()	M_protein_recon
 BSU12400-MONOMER	default_name	BSU12400()	M_protein_recon
 BSU23150-MONOMER	default_name	BSU23150()	M_protein_recon
-BSU15890-MONOMER	default_name	BSU15890()	M_protein_recon
+BSU15890-MONOMER	default_name	BSU15890(1)	M_protein_recon
 BSU04330-MONOMER	default_name	BSU04330()	M_protein_recon
 BSU34920-MONOMER	default_name	BSU34920()	M_protein_recon
-BSU07920-MONOMER	default_name	BSU07920()	M_protein_recon
+BSU07920-MONOMER	default_name	BSU07920(1)	M_protein_recon
 BSU38550-MONOMER	default_name	BSU38550()	M_protein_recon
 BSU26850-MONOMER	default_name	BSU26850()	M_protein_recon
 BSU19490-MONOMER	default_name	BSU19490()	M_protein_recon
@@ -1583,7 +1583,7 @@ BSU22980-MONOMER	default_name	BSU22980()	M_protein_recon
 BSU34760-MONOMER	default_name	BSU34760()	M_protein_recon
 BSU04170-MONOMER	default_name	BSU04170()	M_protein_recon
 BSU38400-MONOMER	default_name	BSU38400()	M_protein_recon
-BSU07760-MONOMER	default_name	BSU07760()	M_protein_recon
+BSU07760-MONOMER	default_name	BSU07760(1)	M_protein_recon
 BSU19340-MONOMER	default_name	BSU19340()	M_protein_recon
 BSU26680-MONOMER	default_name	BSU26680()	M_protein_recon
 BSU01230-MONOMER	default_name	BSU01230()	M_protein_recon
@@ -1593,7 +1593,7 @@ BSU11450-MONOMER	default_name	BSU11450()	M_protein_recon
 BSU04850-MONOMER	default_name	BSU04850()	M_protein_recon
 BSU14890-MONOMER	default_name	BSU14890()	M_protein_recon
 BSU08460-MONOMER	default_name	BSU08460()	M_protein_recon
-BSU33910-MONOMER	default_name	BSU33910()	M_protein_recon
+BSU33910-MONOMER	default_name	BSU33910(1)	M_protein_recon
 BSU27380-MONOMER	default_name	BSU27380()	M_protein_recon
 BSU00170-MONOMER	default_name	BSU00170()	M_protein_recon
 BSU31010-MONOMER	default_name	BSU31010()	M_protein_recon
@@ -1604,7 +1604,7 @@ BSU15570-MONOMER	default_name	BSU15570()	M_protein_recon
 BSU22840-MONOMER	default_name	BSU22840()	M_protein_recon
 BSU34610-MONOMER	default_name	BSU34610()	M_protein_recon
 BSU04020-MONOMER	default_name	BSU04020()	M_protein_recon
-BSU38240-MONOMER	default_name	BSU38240()	M_protein_recon
+BSU38240-MONOMER	default_name	BSU38240(1)	M_protein_recon
 BSU07590-MONOMER	default_name	BSU07590()	M_protein_recon
 BSU19190-MONOMER	default_name	BSU19190()	M_protein_recon
 BSU26530-MONOMER	default_name	BSU26530()	M_protein_recon
@@ -1619,7 +1619,7 @@ BSU33750-MONOMER	default_name	BSU33750()	M_protein_recon
 BSU27220-MONOMER	default_name	BSU27220()	M_protein_recon
 BSU00010-MONOMER	default_name	BSU00010()	M_protein_recon
 BSU30850-MONOMER	default_name	BSU30850()	M_protein_recon
-BSU37400-MONOMER	default_name	BSU37400()	M_protein_recon
+BSU37400-MONOMER	default_name	BSU37400(1)	M_protein_recon
 BSU11940-MONOMER	default_name	BSU11940()	M_protein_recon
 BSU18400-MONOMER	default_name	BSU18400()	M_protein_recon
 BSU15410-MONOMER	default_name	BSU15410()	M_protein_recon
@@ -1640,12 +1640,12 @@ BSU08130-MONOMER	default_name	BSU08130()	M_protein_recon
 BSU33590-MONOMER	default_name	BSU33590()	M_protein_recon
 BSU27060-MONOMER	default_name	BSU27060()	M_protein_recon
 BSU37240-MONOMER	default_name	BSU37240()	M_protein_recon
-BSU30690-MONOMER	default_name	BSU30690()	M_protein_recon
+BSU30690-MONOMER	default_name	BSU30690(2)	M_protein_recon
 BSU14610-MONOMER	default_name	BSU14610()	M_protein_recon
 BSU11809-MONOMER	default_name	BSU11809()	M_protein_recon
 BSU18240-MONOMER	default_name	BSU18240()	M_protein_recon
 BSU15250-MONOMER	default_name	BSU15250()	M_protein_recon
-BSU40850-MONOMER	default_name	BSU40850()	M_protein_recon
+BSU40850-MONOMER	default_name	BSU40850(2)	M_protein_recon
 BSU34290-MONOMER	default_name	BSU34290()	M_protein_recon
 BSU22520-MONOMER	default_name	BSU22520()	M_protein_recon
 BSU37930-MONOMER	default_name	BSU37930()	M_protein_recon
@@ -1684,8 +1684,8 @@ BSU23030-MONOMER	default_name	BSU23030()	M_protein_recon
 BSU10810-MONOMER	default_name	BSU10810()	M_protein_recon
 BSU04220-MONOMER	default_name	BSU04220()	M_protein_recon
 BSU33270-MONOMER	default_name	BSU33270()	M_protein_recon
-BSU07810-MONOMER	default_name	BSU07810()	M_protein_recon
-BSU36920-MONOMER	default_name	BSU36920()	M_protein_recon
+BSU07810-MONOMER	default_name	BSU07810(1)	M_protein_recon
+BSU36920-MONOMER	default_name	BSU36920(2)	M_protein_recon
 BSU26730-MONOMER	default_name	BSU26730()	M_protein_recon
 BSU14300-MONOMER	default_name	BSU14300()	M_protein_recon
 BSU30370-MONOMER	default_name	BSU30370()	M_protein_recon
@@ -1694,7 +1694,7 @@ BSU11500-MONOMER	default_name	BSU11500()	M_protein_recon
 BSU40530-MONOMER	default_name	BSU40530()	M_protein_recon
 BSU14940-MONOMER	default_name	BSU14940()	M_protein_recon
 BSU22200-MONOMER	default_name	BSU22200()	M_protein_recon
-BSU33960-MONOMER	default_name	BSU33960()	M_protein_recon
+BSU33960-MONOMER	default_name	BSU33960(1)	M_protein_recon
 BSU21440-MONOMER	default_name	BSU21440()	M_protein_recon
 BSU00220-MONOMER	default_name	BSU00220()	M_protein_recon
 BSU03410-MONOMER	default_name	BSU03410()	M_protein_recon
@@ -1702,17 +1702,17 @@ BSU37610-MONOMER	default_name	BSU37610()	M_protein_recon
 BSU25860-MONOMER	default_name	BSU25860()	M_protein_recon
 BSU18610-MONOMER	default_name	BSU18610()	M_protein_recon
 BSU29500-MONOMER	default_name	BSU29500()	M_protein_recon
-BSU22870-MONOMER	default_name	BSU22870()	M_protein_recon
+BSU22870-MONOMER	default_name	BSU22870(1)	M_protein_recon
 BSU06950-MONOMER	default_name	BSU06950()	M_protein_recon
 BSU04060-MONOMER	default_name	BSU04060()	M_protein_recon
 BSU10650-MONOMER	default_name	BSU10650()	M_protein_recon
-BSU07640-MONOMER	default_name	BSU07640()	M_protein_recon
+BSU07640-MONOMER	default_name	BSU07640(1)	M_protein_recon
 BSU33130-MONOMER	default_name	BSU33130()	M_protein_recon
 BSU26580-MONOMER	default_name	BSU26580()	M_protein_recon
-BSU36760-MONOMER	default_name	BSU36760()	M_protein_recon
-BSU30210-MONOMER	default_name	BSU30210()	M_protein_recon
+BSU36760-MONOMER	default_name	BSU36760(1)	M_protein_recon
+BSU30210-MONOMER	default_name	BSU30210(2)	M_protein_recon
 BSU14140-MONOMER	default_name	BSU14140()	M_protein_recon
-BSU11330-MONOMER	default_name	BSU11330()	M_protein_recon
+BSU11330-MONOMER	default_name	BSU11330(2)	M_protein_recon
 BSU17780-MONOMER	default_name	BSU17780()	M_protein_recon
 BSU14780-MONOMER	default_name	BSU14780()	M_protein_recon
 BSU40380-MONOMER	default_name	BSU40380()	M_protein_recon
@@ -1726,9 +1726,9 @@ BSU18450-MONOMER	default_name	BSU18450()	M_protein_recon
 BSU25690-MONOMER	default_name	BSU25690()	M_protein_recon
 BSU41050-MONOMER	default_name	BSU41050()	M_protein_recon
 BSU29340-MONOMER	default_name	BSU29340()	M_protein_recon
-BSU22730-MONOMER	default_name	BSU22730()	M_protein_recon
+BSU22730-MONOMER	default_name	BSU22730(4)	M_protein_recon
 BSU06811-MONOMER	default_name	BSU06811()	M_protein_recon
-BSU03920-MONOMER	default_name	BSU03920()	M_protein_recon
+BSU03920-MONOMER	default_name	BSU03920(1)	M_protein_recon
 BSU10490-MONOMER	default_name	BSU10490()	M_protein_recon
 BSU26400-MONOMER	default_name	BSU26400()	M_protein_recon
 BSU32990-MONOMER	default_name	BSU32990()	M_protein_recon
@@ -1741,7 +1741,7 @@ BSU17630-MONOMER	default_name	BSU17630()	M_protein_recon
 BSU14629-MONOMER	default_name	BSU14629()	M_protein_recon
 BSU40239-MONOMER	default_name	BSU40239()	M_protein_recon
 BSU33640-MONOMER	default_name	BSU33640()	M_protein_recon
-BSU21900-MONOMER	default_name	BSU21900()	M_protein_recon
+BSU21900-MONOMER	default_name	BSU21900(1)	M_protein_recon
 BSU37290-MONOMER	default_name	BSU37290()	M_protein_recon
 BSU21140-MONOMER	default_name	BSU21140()	M_protein_recon
 BSU18290-MONOMER	default_name	BSU18290()	M_protein_recon
@@ -1755,12 +1755,12 @@ BSU06650-MONOMER	default_name	BSU06650()	M_protein_recon
 BSU26240-MONOMER	default_name	BSU26240()	M_protein_recon
 BSU10330-MONOMER	default_name	BSU10330()	M_protein_recon
 BSU29870-MONOMER	default_name	BSU29870()	M_protein_recon
-BSU32830-MONOMER	default_name	BSU32830()	M_protein_recon
-BSU07340-MONOMER	default_name	BSU07340()	M_protein_recon
+BSU32830-MONOMER	default_name	BSU32830(2)	M_protein_recon
+BSU07340-MONOMER	default_name	BSU07340(1)	M_protein_recon
 BSU36440-MONOMER	default_name	BSU36440()	M_protein_recon
 BSU11020-MONOMER	default_name	BSU11020()	M_protein_recon
 BSU13840-MONOMER	default_name	BSU13840()	M_protein_recon
-BSU33480-MONOMER	default_name	BSU33480()	M_protein_recon
+BSU33480-MONOMER	default_name	BSU33480(2)	M_protein_recon
 BSU17480-MONOMER	default_name	BSU17480()	M_protein_recon
 BSU37130-MONOMER	default_name	BSU37130()	M_protein_recon
 BSU40090-MONOMER	default_name	BSU40090()	M_protein_recon
@@ -1770,7 +1770,7 @@ BSU18140-MONOMER	default_name	BSU18140()	M_protein_recon
 BSU20990-MONOMER	default_name	BSU20990()	M_protein_recon
 BSU40740-MONOMER	default_name	BSU40740()	M_protein_recon
 BSU02940-MONOMER	default_name	BSU02940()	M_protein_recon
-BSU22410-MONOMER	default_name	BSU22410()	M_protein_recon
+BSU22410-MONOMER	default_name	BSU22410(1)	M_protein_recon
 BSU25380-MONOMER	default_name	BSU25380()	M_protein_recon
 BSU21650-MONOMER	default_name	BSU21650()	M_protein_recon
 BSU29040-MONOMER	default_name	BSU29040()	M_protein_recon
@@ -1783,7 +1783,7 @@ BSU32680-MONOMER	default_name	BSU32680()	M_protein_recon
 BSU07160-MONOMER	default_name	BSU07160()	M_protein_recon
 BSU36280-MONOMER	default_name	BSU36280()	M_protein_recon
 BSU10860-MONOMER	default_name	BSU10860()	M_protein_recon
-BSU13710-MONOMER	default_name	BSU13710()	M_protein_recon
+BSU13710-MONOMER	default_name	BSU13710(1)	M_protein_recon
 BSU33320-MONOMER	default_name	BSU33320()	M_protein_recon
 BSU17320-MONOMER	default_name	BSU17320()	M_protein_recon
 BSU36970-MONOMER	default_name	BSU36970()	M_protein_recon
@@ -1798,7 +1798,7 @@ BSU22250-MONOMER	default_name	BSU22250()	M_protein_recon
 BSU28870-MONOMER	default_name	BSU28870()	M_protein_recon
 BSU21490-MONOMER	default_name	BSU21490()	M_protein_recon
 BSU06340-MONOMER	default_name	BSU06340()	M_protein_recon
-BSU03460-MONOMER	default_name	BSU03460()	M_protein_recon
+BSU03460-MONOMER	default_name	BSU03460(2)	M_protein_recon
 BSU10009-MONOMER	default_name	BSU10009()	M_protein_recon
 BSU25910-MONOMER	default_name	BSU25910()	M_protein_recon
 BSU32530-MONOMER	default_name	BSU32530()	M_protein_recon
@@ -1814,9 +1814,9 @@ BSU36810-MONOMER	default_name	BSU36810()	M_protein_recon
 CPLX8J2-62	default_name	BSU_MISC_RNA_35() AND BSU41050()	M_protein_recon
 BSU20690-MONOMER	default_name	BSU20690()	M_protein_recon
 BSU14190-MONOMER	default_name	BSU14190()	M_protein_recon
-BSU02620-MONOMER	default_name	BSU02620()	M_protein_recon
+BSU02620-MONOMER	default_name	BSU02620(1)	M_protein_recon
 BSU17830-MONOMER	default_name	BSU17830()	M_protein_recon
-BSU25070-MONOMER	default_name	BSU25070()	M_protein_recon
+BSU25070-MONOMER	default_name	BSU25070(1)	M_protein_recon
 BSU40430-MONOMER	default_name	BSU40430()	M_protein_recon
 BSU06200-MONOMER	default_name	BSU06200()	M_protein_recon
 BSU22100-MONOMER	default_name	BSU22100()	M_protein_recon
@@ -1828,7 +1828,7 @@ BSU32380-MONOMER	default_name	BSU32380()	M_protein_recon
 BSU25740-MONOMER	default_name	BSU25740()	M_protein_recon
 BSU13400-MONOMER	default_name	BSU13400()	M_protein_recon
 BSU29390-MONOMER	default_name	BSU29390()	M_protein_recon
-BSU16990-MONOMER	default_name	BSU16990()	M_protein_recon
+BSU16990-MONOMER	default_name	BSU16990(4)	M_protein_recon
 BSU06840-MONOMER	default_name	BSU06840()	M_protein_recon
 BSU36000-MONOMER	default_name	BSU36000()	M_protein_recon
 BSU10540-MONOMER	default_name	BSU10540()	M_protein_recon
@@ -1847,7 +1847,7 @@ BSU21950-MONOMER	default_name	BSU21950()	M_protein_recon
 BSU28580-MONOMER	default_name	BSU28580()	M_protein_recon
 BSU21190-MONOMER	default_name	BSU21190()	M_protein_recon
 BSU32220-MONOMER	default_name	BSU32220()	M_protein_recon
-BSU03150-MONOMER	default_name	BSU03150()	M_protein_recon
+BSU03150-MONOMER	default_name	BSU03150(1)	M_protein_recon
 BSU13240-MONOMER	default_name	BSU13240()	M_protein_recon
 BSU25580-MONOMER	default_name	BSU25580()	M_protein_recon
 BSU16799-MONOMER	default_name	BSU16799()	M_protein_recon
@@ -1879,7 +1879,7 @@ BSU29090-MONOMER	default_name	BSU29090()	M_protein_recon
 BSU39310-MONOMER	default_name	BSU39310()	M_protein_recon
 BSU06550-MONOMER	default_name	BSU06550()	M_protein_recon
 BSU20210-MONOMER	default_name	BSU20210()	M_protein_recon
-BSU10220-MONOMER	default_name	BSU10220()	M_protein_recon
+BSU10220-MONOMER	default_name	BSU10220(1)	M_protein_recon
 BSU02150-MONOMER	default_name	BSU02150()	M_protein_recon
 BSU32720-MONOMER	default_name	BSU32720()	M_protein_recon
 BSU24590-MONOMER	default_name	BSU24590()	M_protein_recon
@@ -1898,14 +1898,14 @@ BSU16480-MONOMER	default_name	BSU16480()	M_protein_recon
 BSU25280-MONOMER	default_name	BSU25280()	M_protein_recon
 BSU35510-MONOMER	default_name	BSU35510()	M_protein_recon
 BSU28930-MONOMER	default_name	BSU28930()	M_protein_recon
-BSU39150-MONOMER	default_name	BSU39150()	M_protein_recon
+BSU39150-MONOMER	default_name	BSU39150(1)	M_protein_recon
 BSU06390-MONOMER	default_name	BSU06390()	M_protein_recon
 BSU20050-MONOMER	default_name	BSU20050()	M_protein_recon
 BSU10050-MONOMER	default_name	BSU10050()	M_protein_recon
 BSU01990-MONOMER	default_name	BSU01990()	M_protein_recon
 BSU32580-MONOMER	default_name	BSU32580()	M_protein_recon
 BSU24430-MONOMER	default_name	BSU24430()	M_protein_recon
-BSU36180-MONOMER	default_name	BSU36180()	M_protein_recon
+BSU36180-MONOMER	default_name	BSU36180(1)	M_protein_recon
 BSU05540-MONOMER	default_name	BSU05540()	M_protein_recon
 BSU13600-MONOMER	default_name	BSU13600()	M_protein_recon
 BSU09200-MONOMER	default_name	BSU09200()	M_protein_recon
@@ -1926,7 +1926,7 @@ BSU19890-MONOMER	default_name	BSU19890()	M_protein_recon
 BSU28790-MONOMER	default_name	BSU28790()	M_protein_recon
 BSU01820-MONOMER	default_name	BSU01820()	M_protein_recon
 BSU32430-MONOMER	default_name	BSU32430()	M_protein_recon
-BSU24270-MONOMER	default_name	BSU24270()	M_protein_recon
+BSU24270-MONOMER	default_name	BSU24270(2)	M_protein_recon
 BSU36020-MONOMER	default_name	BSU36020()	M_protein_recon
 BSU05408-MONOMER	default_name	BSU05408()	M_protein_recon
 BSU13450-MONOMER	default_name	BSU13450()	M_protein_recon
@@ -1949,7 +1949,7 @@ BSU28630-MONOMER	default_name	BSU28630()	M_protein_recon
 BSU01650-MONOMER	default_name	BSU01650()	M_protein_recon
 BSU32270-MONOMER	default_name	BSU32270()	M_protein_recon
 BSU24100-MONOMER	default_name	BSU24100()	M_protein_recon
-BSU13290-MONOMER	default_name	BSU13290()	M_protein_recon
+BSU13290-MONOMER	default_name	BSU13290(1)	M_protein_recon
 BSU05260-MONOMER	default_name	BSU05260()	M_protein_recon
 BSU16860-MONOMER	default_name	BSU16860()	M_protein_recon
 BSU08880-MONOMER	default_name	BSU08880()	M_protein_recon
@@ -1982,18 +1982,18 @@ BSU05090-MONOMER	default_name	BSU05090()	M_protein_recon
 BSU20260-MONOMER	default_name	BSU20260()	M_protein_recon
 BSU08700-MONOMER	default_name	BSU08700()	M_protein_recon
 BSU02200-MONOMER	default_name	BSU02200()	M_protein_recon
-BSU27600-MONOMER	default_name	BSU27600()	M_protein_recon
+BSU27600-MONOMER	default_name	BSU27600(1)	M_protein_recon
 BSU24640-MONOMER	default_name	BSU24640()	M_protein_recon
 BSU31250-MONOMER	default_name	BSU31250()	M_protein_recon
 BSU05750-MONOMER	default_name	BSU05750()	M_protein_recon
-BSU12320-MONOMER	default_name	BSU12320()	M_protein_recon
+BSU12320-MONOMER	default_name	BSU12320(1)	M_protein_recon
 BSU09410-MONOMER	default_name	BSU09410()	M_protein_recon
 BSU15810-MONOMER	default_name	BSU15810()	M_protein_recon
 BSU28300-MONOMER	default_name	BSU28300()	M_protein_recon
 BSU34840-MONOMER	default_name	BSU34840()	M_protein_recon
 BSU31959-MONOMER	default_name	BSU31959()	M_protein_recon
 BSU38480-MONOMER	default_name	BSU38480()	M_protein_recon
-BSU12980-MONOMER	default_name	BSU12980()	M_protein_recon
+BSU12980-MONOMER	default_name	BSU12980(1)	M_protein_recon
 BSU19420-MONOMER	default_name	BSU19420()	M_protein_recon
 BSU16530-MONOMER	default_name	BSU16530()	M_protein_recon
 BSU01310-MONOMER	default_name	BSU01310()	M_protein_recon
@@ -2010,7 +2010,7 @@ BSU31090-MONOMER	default_name	BSU31090()	M_protein_recon
 BSU05590-MONOMER	default_name	BSU05590()	M_protein_recon
 BSU12170-MONOMER	default_name	BSU12170()	M_protein_recon
 BSU09250-MONOMER	default_name	BSU09250()	M_protein_recon
-BSU15650-MONOMER	default_name	BSU15650()	M_protein_recon
+BSU15650-MONOMER	default_name	BSU15650(1)	M_protein_recon
 BSU28140-MONOMER	default_name	BSU28140()	M_protein_recon
 BSU34690-MONOMER	default_name	BSU34690()	M_protein_recon
 BSU31780-MONOMER	default_name	BSU31780()	M_protein_recon
@@ -2030,7 +2030,7 @@ BSU27300-MONOMER	default_name	BSU27300()	M_protein_recon
 BSU24320-MONOMER	default_name	BSU24320()	M_protein_recon
 BSU30930-MONOMER	default_name	BSU30930()	M_protein_recon
 BSU05440-MONOMER	default_name	BSU05440()	M_protein_recon
-BSU12020-MONOMER	default_name	BSU12020()	M_protein_recon
+BSU12020-MONOMER	default_name	BSU12020(1)	M_protein_recon
 BSU09080-MONOMER	default_name	BSU09080()	M_protein_recon
 BSU15490-MONOMER	default_name	BSU15490()	M_protein_recon
 BSU27990-MONOMER	default_name	BSU27990()	M_protein_recon
@@ -2077,7 +2077,7 @@ BSU30620-MONOMER	default_name	BSU30620()	M_protein_recon
 BSU05150-MONOMER	default_name	BSU05150()	M_protein_recon
 BSU11730-MONOMER	default_name	BSU11730()	M_protein_recon
 BSU23960-MONOMER	default_name	BSU23960()	M_protein_recon
-BSU15170-MONOMER	default_name	BSU15170()	M_protein_recon
+BSU15170-MONOMER	default_name	BSU15170(1)	M_protein_recon
 BSU05120-MONOMER	default_name	BSU05120()	M_protein_recon
 BSU34200-MONOMER	default_name	BSU34200()	M_protein_recon
 BSU08750-MONOMER	default_name	BSU08750()	M_protein_recon
@@ -2085,7 +2085,7 @@ BSU00460-MONOMER	default_name	BSU00460()	M_protein_recon
 BSU27650-MONOMER	default_name	BSU27650()	M_protein_recon
 BSU37850-MONOMER	default_name	BSU37850()	M_protein_recon
 BSU31290-MONOMER	default_name	BSU31290()	M_protein_recon
-BSU18830-MONOMER	default_name	BSU18830()	M_protein_recon
+BSU18830-MONOMER	default_name	BSU18830(2)	M_protein_recon
 BSU12370-MONOMER	default_name	BSU12370()	M_protein_recon
 BSU00670-MONOMER	default_name	BSU00670()	M_protein_recon
 BSU15860-MONOMER	default_name	BSU15860()	M_protein_recon
@@ -2101,9 +2101,9 @@ BSU26820-MONOMER	default_name	BSU26820()	M_protein_recon
 BSU23800-MONOMER	default_name	BSU23800()	M_protein_recon
 BSU30450-MONOMER	default_name	BSU30450()	M_protein_recon
 BSU04980-MONOMER	default_name	BSU04980()	M_protein_recon
-BSU11570-MONOMER	default_name	BSU11570()	M_protein_recon
+BSU11570-MONOMER	default_name	BSU11570(1)	M_protein_recon
 BSU08590-MONOMER	default_name	BSU08590()	M_protein_recon
-BSU15020-MONOMER	default_name	BSU15020()	M_protein_recon
+BSU15020-MONOMER	default_name	BSU15020(6)	M_protein_recon
 BSU27490-MONOMER	default_name	BSU27490()	M_protein_recon
 BSU34040-MONOMER	default_name	BSU34040()	M_protein_recon
 BSU31140-MONOMER	default_name	BSU31140()	M_protein_recon
@@ -2113,22 +2113,22 @@ BSU37690-MONOMER	default_name	BSU37690()	M_protein_recon
 BSU15700-MONOMER	default_name	BSU15700()	M_protein_recon
 BSU18680-MONOMER	default_name	BSU18680()	M_protein_recon
 BSU34730-MONOMER	default_name	BSU34730()	M_protein_recon
-BSU00510-MONOMER	default_name	BSU00510()	M_protein_recon
-BSU38370-MONOMER	default_name	BSU38370()	M_protein_recon
+BSU00510-MONOMER	default_name	BSU00510(1)	M_protein_recon
+BSU38370-MONOMER	default_name	BSU38370(2)	M_protein_recon
 BSU22950-MONOMER	default_name	BSU22950()	M_protein_recon
-BSU19310-MONOMER	default_name	BSU19310()	M_protein_recon
-BSU04140-MONOMER	default_name	BSU04140()	M_protein_recon
+BSU19310-MONOMER	default_name	BSU19310(2)	M_protein_recon
+BSU04140-MONOMER	default_name	BSU04140(1)	M_protein_recon
 BSU01200-MONOMER	default_name	BSU01200()	M_protein_recon
 BSU07720-MONOMER	default_name	BSU07720()	M_protein_recon
 BSU23640-MONOMER	default_name	BSU23640()	M_protein_recon
-BSU26650-MONOMER	default_name	BSU26650()	M_protein_recon
+BSU26650-MONOMER	default_name	BSU26650(1)	M_protein_recon
 BSU04830-MONOMER	default_name	BSU04830()	M_protein_recon
 BSU30290-MONOMER	default_name	BSU30290()	M_protein_recon
 BSU08425-MONOMER	default_name	BSU08425()	M_protein_recon
 BSU11420-MONOMER	default_name	BSU11420()	M_protein_recon
 BSU27350-MONOMER	default_name	BSU27350()	M_protein_recon
 BSU14860-MONOMER	default_name	BSU14860()	M_protein_recon
-BSU30980-MONOMER	default_name	BSU30980()	M_protein_recon
+BSU30980-MONOMER	default_name	BSU30980(1)	M_protein_recon
 BSU33880-MONOMER	default_name	BSU33880()	M_protein_recon
 BSU12069-MONOMER	default_name	BSU12069()	M_protein_recon
 BSU00140-MONOMER	default_name	BSU00140()	M_protein_recon
@@ -2139,10 +2139,10 @@ BSU18530-MONOMER	default_name	BSU18530()	M_protein_recon
 BSU38220-MONOMER	default_name	BSU38220()	M_protein_recon
 BSU22810-MONOMER	default_name	BSU22810()	M_protein_recon
 BSU19160-MONOMER	default_name	BSU19160()	M_protein_recon
-BSU03990-MONOMER	default_name	BSU03990()	M_protein_recon
+BSU03990-MONOMER	default_name	BSU03990(1)	M_protein_recon
 BSU01040-MONOMER	default_name	BSU01040()	M_protein_recon
 BSU26490-MONOMER	default_name	BSU26490()	M_protein_recon
-BSU23490-MONOMER	default_name	BSU23490()	M_protein_recon
+BSU23490-MONOMER	default_name	BSU23490(6)	M_protein_recon
 BSU30120-MONOMER	default_name	BSU30120()	M_protein_recon
 BSU04670-MONOMER	default_name	BSU04670()	M_protein_recon
 BSU11250-MONOMER	default_name	BSU11250()	M_protein_recon
@@ -2158,7 +2158,7 @@ BSU15380-MONOMER	default_name	BSU15380()	M_protein_recon
 BSU40970-MONOMER	default_name	BSU40970()	M_protein_recon
 BSU34420-MONOMER	default_name	BSU34420()	M_protein_recon
 BSU22650-MONOMER	default_name	BSU22650()	M_protein_recon
-BSU38060-MONOMER	default_name	BSU38060()	M_protein_recon
+BSU38060-MONOMER	default_name	BSU38060(1)	M_protein_recon
 BSU03840-MONOMER	default_name	BSU03840()	M_protein_recon
 BSU19000-MONOMER	default_name	BSU19000()	M_protein_recon
 BSU26310-MONOMER	default_name	BSU26310()	M_protein_recon
@@ -2176,10 +2176,10 @@ BSU30660-MONOMER	default_name	BSU30660()	M_protein_recon
 BSU14580-MONOMER	default_name	BSU14580()	M_protein_recon
 BSU11780-MONOMER	default_name	BSU11780()	M_protein_recon
 BSU18220-MONOMER	default_name	BSU18220()	M_protein_recon
-BSU15220-MONOMER	default_name	BSU15220()	M_protein_recon
+BSU15220-MONOMER	default_name	BSU15220(1)	M_protein_recon
 BSU40820-MONOMER	default_name	BSU40820()	M_protein_recon
 BSU34250-MONOMER	default_name	BSU34250()	M_protein_recon
-BSU22490-MONOMER	default_name	BSU22490()	M_protein_recon
+BSU22490-MONOMER	default_name	BSU22490(4)	M_protein_recon
 BSU37900-MONOMER	default_name	BSU37900()	M_protein_recon
 BSU03700-MONOMER	default_name	BSU03700()	M_protein_recon
 BSU18870-MONOMER	default_name	BSU18870()	M_protein_recon
@@ -2191,7 +2191,7 @@ BSU07260-MONOMER	default_name	BSU07260()	M_protein_recon
 BSU23170-MONOMER	default_name	BSU23170()	M_protein_recon
 BSU10940-MONOMER	default_name	BSU10940()	M_protein_recon
 BSU04359-MONOMER	default_name	BSU04359()	M_protein_recon
-BSU33400-MONOMER	default_name	BSU33400()	M_protein_recon
+BSU33400-MONOMER	default_name	BSU33400(1)	M_protein_recon
 BSU07940-MONOMER	default_name	BSU07940()	M_protein_recon
 BSU37050-MONOMER	default_name	BSU37050()	M_protein_recon
 BSU26870-MONOMER	default_name	BSU26870()	M_protein_recon
@@ -2219,7 +2219,7 @@ BSU33240-MONOMER	default_name	BSU33240()	M_protein_recon
 BSU07780-MONOMER	default_name	BSU07780()	M_protein_recon
 BSU36890-MONOMER	default_name	BSU36890()	M_protein_recon
 BSU26700-MONOMER	default_name	BSU26700()	M_protein_recon
-BSU14270-MONOMER	default_name	BSU14270()	M_protein_recon
+BSU14270-MONOMER	default_name	BSU14270(1)	M_protein_recon
 BSU30340-MONOMER	default_name	BSU30340()	M_protein_recon
 BSU17910-MONOMER	default_name	BSU17910()	M_protein_recon
 BSU11470-MONOMER	default_name	BSU11470()	M_protein_recon
@@ -2234,14 +2234,14 @@ BSU17130-MONOMER	default_name	BSU17130()	M_protein_recon
 BSU37580-MONOMER	default_name	BSU37580()	M_protein_recon
 BSU25830-MONOMER	default_name	BSU25830()	M_protein_recon
 BSU18580-MONOMER	default_name	BSU18580()	M_protein_recon
-BSU29470-MONOMER	default_name	BSU29470()	M_protein_recon
+BSU29470-MONOMER	default_name	BSU29470(1)	M_protein_recon
 BSU22850-MONOMER	default_name	BSU22850()	M_protein_recon
 BSU06920-MONOMER	default_name	BSU06920()	M_protein_recon
 BSU12450-MONOMER	default_name	BSU12450()	M_protein_recon
 BSU04039-MONOMER	default_name	BSU04039()	M_protein_recon
 BSU15950-MONOMER	default_name	BSU15950()	M_protein_recon
 BSU10620-MONOMER	default_name	BSU10620()	M_protein_recon
-BSU34970-MONOMER	default_name	BSU34970()	M_protein_recon
+BSU34970-MONOMER	default_name	BSU34970(1)	M_protein_recon
 BSU07610-MONOMER	default_name	BSU07610()	M_protein_recon
 BSU38600-MONOMER	default_name	BSU38600()	M_protein_recon
 BSU33100-MONOMER	default_name	BSU33100()	M_protein_recon
@@ -2250,7 +2250,7 @@ BSU26550-MONOMER	default_name	BSU26550()	M_protein_recon
 BSU01430-MONOMER	default_name	BSU01430()	M_protein_recon
 BSU36730-MONOMER	default_name	BSU36730()	M_protein_recon
 BSU23880-MONOMER	default_name	BSU23880()	M_protein_recon
-BSU30180-MONOMER	default_name	BSU30180()	M_protein_recon
+BSU30180-MONOMER	default_name	BSU30180(2)	M_protein_recon
 BSU05060-MONOMER	default_name	BSU05060()	M_protein_recon
 BSU14110-MONOMER	default_name	BSU14110()	M_protein_recon
 BSU08670-MONOMER	default_name	BSU08670()	M_protein_recon
@@ -2259,9 +2259,9 @@ BSU27570-MONOMER	default_name	BSU27570()	M_protein_recon
 BSU17750-MONOMER	default_name	BSU17750()	M_protein_recon
 BSU31220-MONOMER	default_name	BSU31220()	M_protein_recon
 BSU14750-MONOMER	default_name	BSU14750()	M_protein_recon
-BSU12290-MONOMER	default_name	BSU12290()	M_protein_recon
+BSU12290-MONOMER	default_name	BSU12290(1)	M_protein_recon
 BSU40350-MONOMER	default_name	BSU40350()	M_protein_recon
-BSU15780-MONOMER	default_name	BSU15780()	M_protein_recon
+BSU15780-MONOMER	default_name	BSU15780(1)	M_protein_recon
 BSU33770-MONOMER	default_name	BSU33770()	M_protein_recon
 BSU34810-MONOMER	default_name	BSU34810()	M_protein_recon
 BSU22020-MONOMER	default_name	BSU22020()	M_protein_recon
@@ -2276,18 +2276,18 @@ BSU03230-MONOMER	default_name	BSU03230()	M_protein_recon
 BSU04900-MONOMER	default_name	BSU04900()	M_protein_recon
 BSU18420-MONOMER	default_name	BSU18420()	M_protein_recon
 BSU08510-MONOMER	default_name	BSU08510()	M_protein_recon
-BSU25660-MONOMER	default_name	BSU25660()	M_protein_recon
+BSU25660-MONOMER	default_name	BSU25660(2)	M_protein_recon
 BSU27430-MONOMER	default_name	BSU27430()	M_protein_recon
 BSU41020-MONOMER	default_name	BSU41020()	M_protein_recon
 BSU31060-MONOMER	default_name	BSU31060()	M_protein_recon
 BSU29310-MONOMER	default_name	BSU29310()	M_protein_recon
 BSU12140-MONOMER	default_name	BSU12140()	M_protein_recon
-BSU22700-MONOMER	default_name	BSU22700()	M_protein_recon
+BSU22700-MONOMER	default_name	BSU22700(1)	M_protein_recon
 BSU15620-MONOMER	default_name	BSU15620()	M_protein_recon
 BSU06780-MONOMER	default_name	BSU06780()	M_protein_recon
-BSU34660-MONOMER	default_name	BSU34660()	M_protein_recon
+BSU34660-MONOMER	default_name	BSU34660(1)	M_protein_recon
 BSU03890-MONOMER	default_name	BSU03890()	M_protein_recon
-BSU38290-MONOMER	default_name	BSU38290()	M_protein_recon
+BSU38290-MONOMER	default_name	BSU38290(1)	M_protein_recon
 BSU10460-MONOMER	default_name	BSU10460()	M_protein_recon
 BSU19240-MONOMER	default_name	BSU19240()	M_protein_recon
 BSU26360-MONOMER	default_name	BSU26360()	M_protein_recon
@@ -2302,7 +2302,7 @@ BSU07480-MONOMER	default_name	BSU07480()	M_protein_recon
 BSU27270-MONOMER	default_name	BSU27270()	M_protein_recon
 BSU13970-MONOMER	default_name	BSU13970()	M_protein_recon
 BSU30900-MONOMER	default_name	BSU30900()	M_protein_recon
-BSU11140-MONOMER	default_name	BSU11140()	M_protein_recon
+BSU11140-MONOMER	default_name	BSU11140(1)	M_protein_recon
 BSU11990-MONOMER	default_name	BSU11990()	M_protein_recon
 BSU17600-MONOMER	default_name	BSU17600()	M_protein_recon
 BSU15460-MONOMER	default_name	BSU15460()	M_protein_recon
@@ -2310,9 +2310,9 @@ BSU33610-MONOMER	default_name	BSU33610()	M_protein_recon
 BSU34500-MONOMER	default_name	BSU34500()	M_protein_recon
 BSU40210-MONOMER	default_name	BSU40210()	M_protein_recon
 BSU38140-MONOMER	default_name	BSU38140()	M_protein_recon
-BSU37260-MONOMER	default_name	BSU37260()	M_protein_recon
+BSU37260-MONOMER	default_name	BSU37260(1)	M_protein_recon
 BSU19080-MONOMER	default_name	BSU19080()	M_protein_recon
-BSU21870-MONOMER	default_name	BSU21870()	M_protein_recon
+BSU21870-MONOMER	default_name	BSU21870(2)	M_protein_recon
 BSU00960-MONOMER	default_name	BSU00960()	M_protein_recon
 BSU18260-MONOMER	default_name	BSU18260()	M_protein_recon
 BSU23410-MONOMER	default_name	BSU23410()	M_protein_recon
@@ -2329,10 +2329,10 @@ BSU11850-MONOMER	default_name	BSU11850()	M_protein_recon
 BSU03750-MONOMER	default_name	BSU03750()	M_protein_recon
 BSU15300-MONOMER	default_name	BSU15300()	M_protein_recon
 BSU29170-MONOMER	default_name	BSU29170()	M_protein_recon
-BSU34340-MONOMER	default_name	BSU34340()	M_protein_recon
+BSU34340-MONOMER	default_name	BSU34340(1)	M_protein_recon
 BSU26210-MONOMER	default_name	BSU26210()	M_protein_recon
 BSU37980-MONOMER	default_name	BSU37980()	M_protein_recon
-BSU06620-MONOMER	default_name	BSU06620()	M_protein_recon
+BSU06620-MONOMER	default_name	BSU06620(1)	M_protein_recon
 BSU18920-MONOMER	default_name	BSU18920()	M_protein_recon
 BSU29840-MONOMER	default_name	BSU29840()	M_protein_recon
 BSU00800-MONOMER	default_name	BSU00800()	M_protein_recon
@@ -2357,7 +2357,7 @@ BSU34170-MONOMER	default_name	BSU34170()	M_protein_recon
 BSU14480-MONOMER	default_name	BSU14480()	M_protein_recon
 BSU00430-MONOMER	default_name	BSU00430()	M_protein_recon
 BSU40060-MONOMER	default_name	BSU40060()	M_protein_recon
-BSU37820-MONOMER	default_name	BSU37820()	M_protein_recon
+BSU37820-MONOMER	default_name	BSU37820(1)	M_protein_recon
 BSU18110-MONOMER	default_name	BSU18110()	M_protein_recon
 BSU18800-MONOMER	default_name	BSU18800()	M_protein_recon
 BSU21710-MONOMER	default_name	BSU21710()	M_protein_recon
@@ -2384,7 +2384,7 @@ BSU06470-MONOMER	default_name	BSU06470()	M_protein_recon
 BSU00270-MONOMER	default_name	BSU00270()	M_protein_recon
 BSU29679-MONOMER	default_name	BSU29679()	M_protein_recon
 BSU37660-MONOMER	default_name	BSU37660()	M_protein_recon
-BSU10130-MONOMER	default_name	BSU10130()	M_protein_recon
+BSU10130-MONOMER	default_name	BSU10130(1)	M_protein_recon
 BSU18660-MONOMER	default_name	BSU18660()	M_protein_recon
 BSU07130-MONOMER	default_name	BSU07130()	M_protein_recon
 BSU22920-MONOMER	default_name	BSU22920()	M_protein_recon
@@ -2405,11 +2405,11 @@ BSU33850-MONOMER	default_name	BSU33850()	M_protein_recon
 BSU14320-MONOMER	default_name	BSU14320()	M_protein_recon
 BSU00110-MONOMER	default_name	BSU00110()	M_protein_recon
 BSU39910-MONOMER	default_name	BSU39910()	M_protein_recon
-BSU37500-MONOMER	default_name	BSU37500()	M_protein_recon
+BSU37500-MONOMER	default_name	BSU37500(2)	M_protein_recon
 BSU17960-MONOMER	default_name	BSU17960()	M_protein_recon
 BSU18500-MONOMER	default_name	BSU18500()	M_protein_recon
 BSU20820-MONOMER	default_name	BSU20820()	M_protein_recon
-BSU22780-MONOMER	default_name	BSU22780()	M_protein_recon
+BSU22780-MONOMER	default_name	BSU22780(10)	M_protein_recon
 BSU40550-MONOMER	default_name	BSU40550()	M_protein_recon
 BSU03970-MONOMER	default_name	BSU03970()	M_protein_recon
 BSU02750-MONOMER	default_name	BSU02750()	M_protein_recon
@@ -2419,19 +2419,19 @@ BSU30090-MONOMER	default_name	BSU30090()	M_protein_recon
 BSU07560-MONOMER	default_name	BSU07560()	M_protein_recon
 BSU25200-MONOMER	default_name	BSU25200()	M_protein_recon
 BSU21460-MONOMER	default_name	BSU21460()	M_protein_recon
-BSU11220-MONOMER	default_name	BSU11220()	M_protein_recon
+BSU11220-MONOMER	default_name	BSU11220(2)	M_protein_recon
 BSU06319-MONOMER	default_name	BSU06319()	M_protein_recon
-BSU14670-MONOMER	default_name	BSU14670()	M_protein_recon
+BSU14670-MONOMER	default_name	BSU14670(1)	M_protein_recon
 BSU03430-MONOMER	default_name	BSU03430()	M_protein_recon
 BSU33690-MONOMER	default_name	BSU33690()	M_protein_recon
 BSU09980-MONOMER	default_name	BSU09980()	M_protein_recon
 BSU37340-MONOMER	default_name	BSU37340()	M_protein_recon
 BSU25880-MONOMER	default_name	BSU25880()	M_protein_recon
 BSU18340-MONOMER	default_name	BSU18340()	M_protein_recon
-BSU32500-MONOMER	default_name	BSU32500()	M_protein_recon
+BSU32500-MONOMER	default_name	BSU32500(1)	M_protein_recon
 BSU40940-MONOMER	default_name	BSU40940()	M_protein_recon
 BSU29520-MONOMER	default_name	BSU29520()	M_protein_recon
-BSU22620-MONOMER	default_name	BSU22620()	M_protein_recon
+BSU22620-MONOMER	default_name	BSU22620(2)	M_protein_recon
 BSU36100-MONOMER	default_name	BSU36100()	M_protein_recon
 BSU03810-MONOMER	default_name	BSU03810()	M_protein_recon
 BSU06970-MONOMER	default_name	BSU06970()	M_protein_recon
@@ -2455,11 +2455,11 @@ BSU40790-MONOMER	default_name	BSU40790()	M_protein_recon
 BSU02600-MONOMER	default_name	BSU02600()	M_protein_recon
 BSU22460-MONOMER	default_name	BSU22460()	M_protein_recon
 BSU17800-MONOMER	default_name	BSU17800()	M_protein_recon
-BSU03670-MONOMER	default_name	BSU03670()	M_protein_recon
+BSU03670-MONOMER	default_name	BSU03670(1)	M_protein_recon
 BSU25040-MONOMER	default_name	BSU25040()	M_protein_recon
 BSU26130-MONOMER	default_name	BSU26130()	M_protein_recon
 BSU40400-MONOMER	default_name	BSU40400()	M_protein_recon
-BSU29750-MONOMER	default_name	BSU29750()	M_protein_recon
+BSU29750-MONOMER	default_name	BSU29750(4)	M_protein_recon
 BSU06170-MONOMER	default_name	BSU06170()	M_protein_recon
 BSU07230-MONOMER	default_name	BSU07230()	M_protein_recon
 BSU22070-MONOMER	default_name	BSU22070()	M_protein_recon
@@ -2483,7 +2483,7 @@ BSU03510-MONOMER	default_name	BSU03510()	M_protein_recon
 BSU16960-MONOMER	default_name	BSU16960()	M_protein_recon
 BSU25960-MONOMER	default_name	BSU25960()	M_protein_recon
 BSU06820-MONOMER	default_name	BSU06820()	M_protein_recon
-BSU29600-MONOMER	default_name	BSU29600()	M_protein_recon
+BSU29600-MONOMER	default_name	BSU29600(1)	M_protein_recon
 BSU35970-MONOMER	default_name	BSU35970()	M_protein_recon
 BSU07050-MONOMER	default_name	BSU07050()	M_protein_recon
 BSU10510-MONOMER	default_name	BSU10510()	M_protein_recon
@@ -2507,7 +2507,7 @@ BSU03359-MONOMER	default_name	BSU03359()	M_protein_recon
 BSU06000-MONOMER	default_name	BSU06000()	M_protein_recon
 BSU25800-MONOMER	default_name	BSU25800()	M_protein_recon
 BSU40250-MONOMER	default_name	BSU40250()	M_protein_recon
-BSU29440-MONOMER	default_name	BSU29440()	M_protein_recon
+BSU29440-MONOMER	default_name	BSU29440(1)	M_protein_recon
 BSU09660-MONOMER	default_name	BSU09660()	M_protein_recon
 BSU06890-MONOMER	default_name	BSU06890()	M_protein_recon
 BSU21920-MONOMER	default_name	BSU21920()	M_protein_recon
@@ -2526,7 +2526,7 @@ BSU25560-MONOMER	default_name	BSU25560()	M_protein_recon
 BSU22000-MONOMER	default_name	BSU22000()	M_protein_recon
 BSU16770-MONOMER	default_name	BSU16770()	M_protein_recon
 BSU21230-MONOMER	default_name	BSU21230()	M_protein_recon
-BSU29220-MONOMER	default_name	BSU29220()	M_protein_recon
+BSU29220-MONOMER	default_name	BSU29220(6)	M_protein_recon
 BSU03200-MONOMER	default_name	BSU03200()	M_protein_recon
 BSU35810-MONOMER	default_name	BSU35810()	M_protein_recon
 BSU25630-MONOMER	default_name	BSU25630()	M_protein_recon
@@ -2554,8 +2554,8 @@ BSU17500-MONOMER	default_name	BSU17500()	M_protein_recon
 BSU03040-MONOMER	default_name	BSU03040()	M_protein_recon
 BSU09490-MONOMER	default_name	BSU09490()	M_protein_recon
 BSU25480-MONOMER	default_name	BSU25480()	M_protein_recon
-BSU40110-MONOMER	default_name	BSU40110()	M_protein_recon
-BSU29140-MONOMER	default_name	BSU29140()	M_protein_recon
+BSU40110-MONOMER	default_name	BSU40110(1)	M_protein_recon
+BSU29140-MONOMER	default_name	BSU29140(2)	M_protein_recon
 BSU28380-MONOMER	default_name	BSU28380()	M_protein_recon
 BSU06590-MONOMER	default_name	BSU06590()	M_protein_recon
 BSU21760-MONOMER	default_name	BSU21760()	M_protein_recon
@@ -2571,17 +2571,17 @@ BSU17420-MONOMER	default_name	BSU17420()	M_protein_recon
 BSU16610-MONOMER	default_name	BSU16610()	M_protein_recon
 BSU40030-MONOMER	default_name	BSU40030()	M_protein_recon
 BSU25400-MONOMER	default_name	BSU25400()	M_protein_recon
-BSU21680-MONOMER	default_name	BSU21680()	M_protein_recon
+BSU21680-MONOMER	default_name	BSU21680(1)	M_protein_recon
 BSU35650-MONOMER	default_name	BSU35650()	M_protein_recon
 BSU20930-MONOMER	default_name	BSU20930()	M_protein_recon
-BSU29060-MONOMER	default_name	BSU29060()	M_protein_recon
+BSU29060-MONOMER	default_name	BSU29060(1)	M_protein_recon
 BSU02880-MONOMER	default_name	BSU02880()	M_protein_recon
 BSU39280-MONOMER	default_name	BSU39280()	M_protein_recon
 BSU25320-MONOMER	default_name	BSU25320()	M_protein_recon
-BSU06520-MONOMER	default_name	BSU06520()	M_protein_recon
+BSU06520-MONOMER	default_name	BSU06520(1)	M_protein_recon
 BSU28980-MONOMER	default_name	BSU28980()	M_protein_recon
 BSU20180-MONOMER	default_name	BSU20180()	M_protein_recon
-BSU06440-MONOMER	default_name	BSU06440()	M_protein_recon
+BSU06440-MONOMER	default_name	BSU06440(1)	M_protein_recon
 BSU10180-MONOMER	default_name	BSU10180()	M_protein_recon
 BSU10100-MONOMER	default_name	BSU10100()	M_protein_recon
 BSU02120-MONOMER	default_name	BSU02120()	M_protein_recon
@@ -2594,7 +2594,7 @@ BSU36300-MONOMER	default_name	BSU36300()	M_protein_recon
 BSU17260-MONOMER	default_name	BSU17260()	M_protein_recon
 BSU05670-MONOMER	default_name	BSU05670()	M_protein_recon
 BSU39880-MONOMER	default_name	BSU39880()	M_protein_recon
-BSU13730-MONOMER	default_name	BSU13730()	M_protein_recon
+BSU13730-MONOMER	default_name	BSU13730(1)	M_protein_recon
 BSU20790-MONOMER	default_name	BSU20790()	M_protein_recon
 BSU09330-MONOMER	default_name	BSU09330()	M_protein_recon
 BSU02720-MONOMER	default_name	BSU02720()	M_protein_recon
@@ -2622,11 +2622,11 @@ BSU28900-MONOMER	default_name	BSU28900()	M_protein_recon
 BSU02570-MONOMER	default_name	BSU02570()	M_protein_recon
 BSU39120-MONOMER	default_name	BSU39120()	M_protein_recon
 BSU25010-MONOMER	default_name	BSU25010()	M_protein_recon
-BSU06360-MONOMER	default_name	BSU06360()	M_protein_recon
+BSU06360-MONOMER	default_name	BSU06360(2)	M_protein_recon
 BSU06140-MONOMER	default_name	BSU06140()	M_protein_recon
 BSU20020-MONOMER	default_name	BSU20020()	M_protein_recon
 BSU09790-MONOMER	default_name	BSU09790()	M_protein_recon
-BSU10020-MONOMER	default_name	BSU10020()	M_protein_recon
+BSU10020-MONOMER	default_name	BSU10020(2)	M_protein_recon
 BSU28680-MONOMER	default_name	BSU28680()	M_protein_recon
 BSU01960-MONOMER	default_name	BSU01960()	M_protein_recon
 BSU32320-MONOMER	default_name	BSU32320()	M_protein_recon
@@ -2641,7 +2641,7 @@ BSU39560-MONOMER	default_name	BSU39560()	M_protein_recon
 BSU13570-MONOMER	default_name	BSU13570()	M_protein_recon
 BSU20470-MONOMER	default_name	BSU20470()	M_protein_recon
 BSU09165-MONOMER	default_name	BSU09165()	M_protein_recon
-BSU02410-MONOMER	default_name	BSU02410()	M_protein_recon
+BSU02410-MONOMER	default_name	BSU02410(1)	M_protein_recon
 BSU17180-MONOMER	default_name	BSU17180()	M_protein_recon
 BSU24850-MONOMER	default_name	BSU24850()	M_protein_recon
 BSU28070-MONOMER	default_name	BSU28070()	M_protein_recon
@@ -2653,13 +2653,13 @@ BSU28520-MONOMER	default_name	BSU28520()	M_protein_recon
 BSU20710-MONOMER	default_name	BSU20710()	M_protein_recon
 BSU32160-MONOMER	default_name	BSU32160()	M_protein_recon
 BSU12749-MONOMER	default_name	BSU12749()	M_protein_recon
-BSU13180-MONOMER	default_name	BSU13180()	M_protein_recon
+BSU13180-MONOMER	default_name	BSU13180(1)	M_protein_recon
 BSU02640-MONOMER	default_name	BSU02640()	M_protein_recon
 BSU16740-MONOMER	default_name	BSU16740()	M_protein_recon
 BSU16299-MONOMER	default_name	BSU16299()	M_protein_recon
 BSU35780-MONOMER	default_name	BSU35780()	M_protein_recon
 BSU25090-MONOMER	default_name	BSU25090()	M_protein_recon
-BSU39400-MONOMER	default_name	BSU39400()	M_protein_recon
+BSU39400-MONOMER	default_name	BSU39400(2)	M_protein_recon
 BSU35320-MONOMER	default_name	BSU35320()	M_protein_recon
 BSU20310-MONOMER	default_name	BSU20310()	M_protein_recon
 BSU06220-MONOMER	default_name	BSU06220()	M_protein_recon
@@ -2672,14 +2672,14 @@ BSU19860-MONOMER	default_name	BSU19860()	M_protein_recon
 BSU09460-MONOMER	default_name	BSU09460()	M_protein_recon
 BSU28760-MONOMER	default_name	BSU28760()	M_protein_recon
 BSU28350-MONOMER	default_name	BSU28350()	M_protein_recon
-BSU01780-MONOMER	default_name	BSU01780()	M_protein_recon
+BSU01780-MONOMER	default_name	BSU01780(2)	M_protein_recon
 BSU32000-MONOMER	default_name	BSU32000()	M_protein_recon
 BSU32400-MONOMER	default_name	BSU32400()	M_protein_recon
 BSU13030-MONOMER	default_name	BSU13030()	M_protein_recon
 BSU24240-MONOMER	default_name	BSU24240()	M_protein_recon
 BSU16580-MONOMER	default_name	BSU16580()	M_protein_recon
 BSU13420-MONOMER	default_name	BSU13420()	M_protein_recon
-BSU35620-MONOMER	default_name	BSU35620()	M_protein_recon
+BSU35620-MONOMER	default_name	BSU35620(1)	M_protein_recon
 BSU05380-MONOMER	default_name	BSU05380()	M_protein_recon
 BSU39250-MONOMER	default_name	BSU39250()	M_protein_recon
 BSU17010-MONOMER	default_name	BSU17010()	M_protein_recon
@@ -2694,7 +2694,7 @@ BSU20550-MONOMER	default_name	BSU20550()	M_protein_recon
 BSU09300-MONOMER	default_name	BSU09300()	M_protein_recon
 BSU31540-MONOMER	default_name	BSU31540()	M_protein_recon
 BSU28190-MONOMER	default_name	BSU28190()	M_protein_recon
-BSU02490-MONOMER	default_name	BSU02490()	M_protein_recon
+BSU02490-MONOMER	default_name	BSU02490(1)	M_protein_recon
 BSU31830-MONOMER	default_name	BSU31830()	M_protein_recon
 BSU12619-MONOMER	default_name	BSU12619()	M_protein_recon
 BSU12870-MONOMER	default_name	BSU12870()	M_protein_recon
@@ -2759,12 +2759,12 @@ BSU08820-MONOMER	default_name	BSU08820()	M_protein_recon
 BSU32080-MONOMER	default_name	BSU32080()	M_protein_recon
 BSU27729-MONOMER	default_name	BSU27729()	M_protein_recon
 BSU31350-MONOMER	default_name	BSU31350()	M_protein_recon
-BSU13110-MONOMER	default_name	BSU13110()	M_protein_recon
+BSU13110-MONOMER	default_name	BSU13110(6)	M_protein_recon
 BSU27700-MONOMER	default_name	BSU27700()	M_protein_recon
-BSU31322-MONOMER	default_name	BSU31322()	M_protein_recon
+BSU31322-MONOMER	default_name	BSU31322(4)	M_protein_recon
 BSU16660-MONOMER	default_name	BSU16660()	M_protein_recon
 BSU12420-MONOMER	default_name	BSU12420()	M_protein_recon
-BSU15910-MONOMER	default_name	BSU15910()	M_protein_recon
+BSU15910-MONOMER	default_name	BSU15910(1)	M_protein_recon
 BSU35700-MONOMER	default_name	BSU35700()	M_protein_recon
 BSU34940-MONOMER	default_name	BSU34940()	M_protein_recon
 BSU38570-MONOMER	default_name	BSU38570()	M_protein_recon
@@ -2772,7 +2772,7 @@ BSU39330-MONOMER	default_name	BSU39330()	M_protein_recon
 BSU19520-MONOMER	default_name	BSU19520()	M_protein_recon
 BSU01400-MONOMER	default_name	BSU01400()	M_protein_recon
 BSU20230-MONOMER	default_name	BSU20230()	M_protein_recon
-BSU23850-MONOMER	default_name	BSU23850()	M_protein_recon
+BSU23850-MONOMER	default_name	BSU23850(1)	M_protein_recon
 BSU05030-MONOMER	default_name	BSU05030()	M_protein_recon
 BSU02170-MONOMER	default_name	BSU02170()	M_protein_recon
 BSU08640-MONOMER	default_name	BSU08640()	M_protein_recon
@@ -2782,7 +2782,7 @@ BSU31190-MONOMER	default_name	BSU31190()	M_protein_recon
 BSU12260-MONOMER	default_name	BSU12260()	M_protein_recon
 BSU05720-MONOMER	default_name	BSU05720()	M_protein_recon
 BSU15750-MONOMER	default_name	BSU15750()	M_protein_recon
-BSU34780-MONOMER	default_name	BSU34780()	M_protein_recon
+BSU34780-MONOMER	default_name	BSU34780(1)	M_protein_recon
 BSU09380-MONOMER	default_name	BSU09380()	M_protein_recon
 BSU38420-MONOMER	default_name	BSU38420()	M_protein_recon
 BSU19360-MONOMER	default_name	BSU19360()	M_protein_recon
@@ -2797,7 +2797,7 @@ BSU27400-MONOMER	default_name	BSU27400()	M_protein_recon
 BSU31030-MONOMER	default_name	BSU31030()	M_protein_recon
 BSU16500-MONOMER	default_name	BSU16500()	M_protein_recon
 BSU12110-MONOMER	default_name	BSU12110()	M_protein_recon
-BSU15590-MONOMER	default_name	BSU15590()	M_protein_recon
+BSU15590-MONOMER	default_name	BSU15590(1)	M_protein_recon
 BSU35530-MONOMER	default_name	BSU35530()	M_protein_recon
 BSU34630-MONOMER	default_name	BSU34630()	M_protein_recon
 BSU38260-MONOMER	default_name	BSU38260()	M_protein_recon
@@ -2820,10 +2820,10 @@ BSU09220-MONOMER	default_name	BSU09220()	M_protein_recon
 BSU38110-MONOMER	default_name	BSU38110()	M_protein_recon
 BSU19050-MONOMER	default_name	BSU19050()	M_protein_recon
 BSU28110-MONOMER	default_name	BSU28110()	M_protein_recon
-BSU00930-MONOMER	default_name	BSU00930()	M_protein_recon
+BSU00930-MONOMER	default_name	BSU00930(6)	M_protein_recon
 BSU23390-MONOMER	default_name	BSU23390()	M_protein_recon
-BSU31750-MONOMER	default_name	BSU31750()	M_protein_recon
-BSU04560-MONOMER	default_name	BSU04560()	M_protein_recon
+BSU31750-MONOMER	default_name	BSU31750(1)	M_protein_recon
+BSU04560-MONOMER	default_name	BSU04560(1)	M_protein_recon
 BSU08150-MONOMER	default_name	BSU08150()	M_protein_recon
 BSU12790-MONOMER	default_name	BSU12790()	M_protein_recon
 BSU27080-MONOMER	default_name	BSU27080()	M_protein_recon
@@ -2836,7 +2836,7 @@ BSU34310-MONOMER	default_name	BSU34310()	M_protein_recon
 BSU37950-MONOMER	default_name	BSU37950()	M_protein_recon
 BSU39000-MONOMER	default_name	BSU39000()	M_protein_recon
 BSU18900-MONOMER	default_name	BSU18900()	M_protein_recon
-BSU00770-MONOMER	default_name	BSU00770()	M_protein_recon
+BSU00770-MONOMER	default_name	BSU00770(2)	M_protein_recon
 BSU19910-MONOMER	default_name	BSU19910()	M_protein_recon
 MONOMER8J2-58	default_name	G8J2-173()	M_protein_recon
 BSU23220-MONOMER	default_name	BSU23220()	M_protein_recon
@@ -2847,8 +2847,8 @@ BSU24290-MONOMER	default_name	BSU24290()	M_protein_recon
 BSU26920-MONOMER	default_name	BSU26920()	M_protein_recon
 BSU30550-MONOMER	default_name	BSU30550()	M_protein_recon
 BSU05410-MONOMER	default_name	BSU05410()	M_protein_recon
-BSU11670-MONOMER	default_name	BSU11670()	M_protein_recon
-BSU15110-MONOMER	default_name	BSU15110()	M_protein_recon
+BSU11670-MONOMER	default_name	BSU11670(1)	M_protein_recon
+BSU15110-MONOMER	default_name	BSU15110(1)	M_protein_recon
 BSU09050-MONOMER	default_name	BSU09050()	M_protein_recon
 BSU34140-MONOMER	default_name	BSU34140()	M_protein_recon
 BSU00400-MONOMER	default_name	BSU00400()	M_protein_recon
@@ -2871,10 +2871,10 @@ BSU38840-MONOMER	default_name	BSU38840()	M_protein_recon
 BSU33980-MONOMER	default_name	BSU33980()	M_protein_recon
 BSU00240-MONOMER	default_name	BSU00240()	M_protein_recon
 BSU19749-MONOMER	default_name	BSU19749()	M_protein_recon
-BSU37630-MONOMER	default_name	BSU37630()	M_protein_recon
+BSU37630-MONOMER	default_name	BSU37630(1)	M_protein_recon
 BSU18630-MONOMER	default_name	BSU18630()	M_protein_recon
 BSU01670-MONOMER	default_name	BSU01670()	M_protein_recon
-BSU22890-MONOMER	default_name	BSU22890()	M_protein_recon
+BSU22890-MONOMER	default_name	BSU22890(1)	M_protein_recon
 BSU04080-MONOMER	default_name	BSU04080()	M_protein_recon
 BSU24120-MONOMER	default_name	BSU24120()	M_protein_recon
 BSU07660-MONOMER	default_name	BSU07660()	M_protein_recon
@@ -2891,14 +2891,14 @@ BSU37470-MONOMER	default_name	BSU37470()	M_protein_recon
 BSU31430-MONOMER	default_name	BSU31430()	M_protein_recon
 BSU18470-MONOMER	default_name	BSU18470()	M_protein_recon
 BSU12520-MONOMER	default_name	BSU12520()	M_protein_recon
-BSU22750-MONOMER	default_name	BSU22750()	M_protein_recon
+BSU22750-MONOMER	default_name	BSU22750(1)	M_protein_recon
 BSU03940-MONOMER	default_name	BSU03940()	M_protein_recon
 BSU16030-MONOMER	default_name	BSU16030()	M_protein_recon
 BSU26420-MONOMER	default_name	BSU26420()	M_protein_recon
 BSU30060-MONOMER	default_name	BSU30060()	M_protein_recon
 BSU35050-MONOMER	default_name	BSU35050()	M_protein_recon
 BSU07530-MONOMER	default_name	BSU07530()	M_protein_recon
-BSU11190-MONOMER	default_name	BSU11190()	M_protein_recon
+BSU11190-MONOMER	default_name	BSU11190(1)	M_protein_recon
 BSU38680-MONOMER	default_name	BSU38680()	M_protein_recon
 BSU14640-MONOMER	default_name	BSU14640()	M_protein_recon
 BSU33660-MONOMER	default_name	BSU33660()	M_protein_recon
@@ -2918,9 +2918,9 @@ BSU23930-MONOMER	default_name	BSU23930()	M_protein_recon
 BSU11040-MONOMER	default_name	BSU11040()	M_protein_recon
 BSU33500-MONOMER	default_name	BSU33500()	M_protein_recon
 BSU05100-MONOMER	default_name	BSU05100()	M_protein_recon
-BSU37150-MONOMER	default_name	BSU37150()	M_protein_recon
+BSU37150-MONOMER	default_name	BSU37150(4)	M_protein_recon
 BSU14530-MONOMER	default_name	BSU14530()	M_protein_recon
-BSU08720-MONOMER	default_name	BSU08720()	M_protein_recon
+BSU08720-MONOMER	default_name	BSU08720(1)	M_protein_recon
 BSU18160-MONOMER	default_name	BSU18160()	M_protein_recon
 BSU40760-MONOMER	default_name	BSU40760()	M_protein_recon
 BSU27620-MONOMER	default_name	BSU27620()	M_protein_recon
@@ -2929,13 +2929,13 @@ BSU03651-MONOMER	default_name	BSU03651()	M_protein_recon
 BSU31270-MONOMER	default_name	BSU31270()	M_protein_recon
 BSU26100-MONOMER	default_name	BSU26100()	M_protein_recon
 BSU29720-MONOMER	default_name	BSU29720()	M_protein_recon
-BSU12340-MONOMER	default_name	BSU12340()	M_protein_recon
+BSU12340-MONOMER	default_name	BSU12340(1)	M_protein_recon
 BSU07200-MONOMER	default_name	BSU07200()	M_protein_recon
 BSU10880-MONOMER	default_name	BSU10880()	M_protein_recon
 BSU15830-MONOMER	default_name	BSU15830()	M_protein_recon
 BSU33340-MONOMER	default_name	BSU33340()	M_protein_recon
 BSU36990-MONOMER	default_name	BSU36990()	M_protein_recon
-BSU34860-MONOMER	default_name	BSU34860()	M_protein_recon
+BSU34860-MONOMER	default_name	BSU34860(1)	M_protein_recon
 BSU14370-MONOMER	default_name	BSU14370()	M_protein_recon
 BSU18010-MONOMER	default_name	BSU18010()	M_protein_recon
 BSU38499-MONOMER	default_name	BSU38499()	M_protein_recon
@@ -2947,7 +2947,7 @@ BSU03480-MONOMER	default_name	BSU03480()	M_protein_recon
 BSU01330-MONOMER	default_name	BSU01330()	M_protein_recon
 BSU25930-MONOMER	default_name	BSU25930()	M_protein_recon
 BSU29570-MONOMER	default_name	BSU29570()	M_protein_recon
-BSU23770-MONOMER	default_name	BSU23770()	M_protein_recon
+BSU23770-MONOMER	default_name	BSU23770(1)	M_protein_recon
 BSU07020-MONOMER	default_name	BSU07020()	M_protein_recon
 BSU10720-MONOMER	default_name	BSU10720()	M_protein_recon
 BSU04950-MONOMER	default_name	BSU04950()	M_protein_recon
@@ -2964,14 +2964,14 @@ BSU21350-MONOMER	default_name	BSU21350()	M_protein_recon
 BSU03330-MONOMER	default_name	BSU03330()	M_protein_recon
 BSU12190-MONOMER	default_name	BSU12190()	M_protein_recon
 BSU25770-MONOMER	default_name	BSU25770()	M_protein_recon
-BSU29410-MONOMER	default_name	BSU29410()	M_protein_recon
+BSU29410-MONOMER	default_name	BSU29410(6)	M_protein_recon
 BSU15670-MONOMER	default_name	BSU15670()	M_protein_recon
 BSU06860-MONOMER	default_name	BSU06860()	M_protein_recon
 BSU10560-MONOMER	default_name	BSU10560()	M_protein_recon
 BSU34710-MONOMER	default_name	BSU34710()	M_protein_recon
 BSU33049-MONOMER	default_name	BSU33049()	M_protein_recon
 BSU36670-MONOMER	default_name	BSU36670()	M_protein_recon
-BSU38340-MONOMER	default_name	BSU38340()	M_protein_recon
+BSU38340-MONOMER	default_name	BSU38340(1)	M_protein_recon
 BSU14060-MONOMER	default_name	BSU14060()	M_protein_recon
 BSU17699-MONOMER	default_name	BSU17699()	M_protein_recon
 BSU19280-MONOMER	default_name	BSU19280()	M_protein_recon
@@ -2990,11 +2990,11 @@ BSU08390-MONOMER	default_name	BSU08390()	M_protein_recon
 BSU32880-MONOMER	default_name	BSU32880()	M_protein_recon
 BSU36510-MONOMER	default_name	BSU36510()	M_protein_recon
 BSU27320-MONOMER	default_name	BSU27320()	M_protein_recon
-BSU13910-MONOMER	default_name	BSU13910()	M_protein_recon
+BSU13910-MONOMER	default_name	BSU13910(1)	M_protein_recon
 BSU17550-MONOMER	default_name	BSU17550()	M_protein_recon
-BSU30950-MONOMER	default_name	BSU30950()	M_protein_recon
+BSU30950-MONOMER	default_name	BSU30950(1)	M_protein_recon
 BSU40150-MONOMER	default_name	BSU40150()	M_protein_recon
-BSU21810-MONOMER	default_name	BSU21810()	M_protein_recon
+BSU21810-MONOMER	default_name	BSU21810(1)	M_protein_recon
 BSU12040-MONOMER	default_name	BSU12040()	M_protein_recon
 BSU21050-MONOMER	default_name	BSU21050()	M_protein_recon
 BSU03010-MONOMER	default_name	BSU03010()	M_protein_recon
@@ -3016,7 +3016,7 @@ BSU20920-MONOMER	default_name	BSU20920()	M_protein_recon
 BSU23460-MONOMER	default_name	BSU23460()	M_protein_recon
 BSU02850-MONOMER	default_name	BSU02850()	M_protein_recon
 BSU25290-MONOMER	default_name	BSU25290()	M_protein_recon
-BSU04640-MONOMER	default_name	BSU04640()	M_protein_recon
+BSU04640-MONOMER	default_name	BSU04640(2)	M_protein_recon
 BSU28950-MONOMER	default_name	BSU28950()	M_protein_recon
 BSU06410-MONOMER	default_name	BSU06410()	M_protein_recon
 BSU08230-MONOMER	default_name	BSU08230()	M_protein_recon
@@ -3030,7 +3030,7 @@ BSU17230-MONOMER	default_name	BSU17230()	M_protein_recon
 BSU39850-MONOMER	default_name	BSU39850()	M_protein_recon
 BSU11900-MONOMER	default_name	BSU11900()	M_protein_recon
 BSU20760-MONOMER	default_name	BSU20760()	M_protein_recon
-BSU02690-MONOMER	default_name	BSU02690()	M_protein_recon
+BSU02690-MONOMER	default_name	BSU02690(4)	M_protein_recon
 BSU15350-MONOMER	default_name	BSU15350()	M_protein_recon
 BSU25140-MONOMER	default_name	BSU25140()	M_protein_recon
 BSU06269-MONOMER	default_name	BSU06269()	M_protein_recon
@@ -3064,7 +3064,7 @@ BSU39530-MONOMER	default_name	BSU39530()	M_protein_recon
 BSU11750-MONOMER	default_name	BSU11750()	M_protein_recon
 BSU20440-MONOMER	default_name	BSU20440()	M_protein_recon
 BSU02380-MONOMER	default_name	BSU02380()	M_protein_recon
-BSU15190-MONOMER	default_name	BSU15190()	M_protein_recon
+BSU15190-MONOMER	default_name	BSU15190(1)	M_protein_recon
 BSU24820-MONOMER	default_name	BSU24820()	M_protein_recon
 BSU05940-MONOMER	default_name	BSU05940()	M_protein_recon
 BSU34220-MONOMER	default_name	BSU34220()	M_protein_recon
@@ -3075,9 +3075,9 @@ BSU32130-MONOMER	default_name	BSU32130()	M_protein_recon
 BSU13160-MONOMER	default_name	BSU13160()	M_protein_recon
 BSU37870-MONOMER	default_name	BSU37870()	M_protein_recon
 BSU16710-MONOMER	default_name	BSU16710()	M_protein_recon
-BSU35750-MONOMER	default_name	BSU35750()	M_protein_recon
+BSU35750-MONOMER	default_name	BSU35750(1)	M_protein_recon
 BSU18849-MONOMER	default_name	BSU18849()	M_protein_recon
-BSU39370-MONOMER	default_name	BSU39370()	M_protein_recon
+BSU39370-MONOMER	default_name	BSU39370(1)	M_protein_recon
 BSU20280-MONOMER	default_name	BSU20280()	M_protein_recon
 BSU00690-MONOMER	default_name	BSU00690()	M_protein_recon
 BSU02220-MONOMER	default_name	BSU02220()	M_protein_recon
@@ -3090,7 +3090,7 @@ BSU28320-MONOMER	default_name	BSU28320()	M_protein_recon
 BSU31970-MONOMER	default_name	BSU31970()	M_protein_recon
 BSU04320-MONOMER	default_name	BSU04320()	M_protein_recon
 BSU13000-MONOMER	default_name	BSU13000()	M_protein_recon
-BSU16550-MONOMER	default_name	BSU16550()	M_protein_recon
+BSU16550-MONOMER	default_name	BSU16550(2)	M_protein_recon
 BSU07910-MONOMER	default_name	BSU07910()	M_protein_recon
 BSU35580-MONOMER	default_name	BSU35580()	M_protein_recon
 BSU39220-MONOMER	default_name	BSU39220()	M_protein_recon
@@ -3105,7 +3105,7 @@ BSU09270-MONOMER	default_name	BSU09270()	M_protein_recon
 BSU28160-MONOMER	default_name	BSU28160()	M_protein_recon
 BSU15040-MONOMER	default_name	BSU15040()	M_protein_recon
 BSU31800-MONOMER	default_name	BSU31800()	M_protein_recon
-BSU12840-MONOMER	default_name	BSU12840()	M_protein_recon
+BSU12840-MONOMER	default_name	BSU12840(1)	M_protein_recon
 BSU34060-MONOMER	default_name	BSU34060()	M_protein_recon
 BSU16390-MONOMER	default_name	BSU16390()	M_protein_recon
 BSU35420-MONOMER	default_name	BSU35420()	M_protein_recon
@@ -3135,7 +3135,7 @@ BSU24170-MONOMER	default_name	BSU24170()	M_protein_recon
 BSU05329-MONOMER	default_name	BSU05329()	M_protein_recon
 BSU30310-MONOMER	default_name	BSU30310()	M_protein_recon
 BSU08940-MONOMER	default_name	BSU08940()	M_protein_recon
-BSU27850-MONOMER	default_name	BSU27850()	M_protein_recon
+BSU27850-MONOMER	default_name	BSU27850(2)	M_protein_recon
 BSU11440-MONOMER	default_name	BSU11440()	M_protein_recon
 BSU31480-MONOMER	default_name	BSU31480()	M_protein_recon
 BSU12560-MONOMER	default_name	BSU12560()	M_protein_recon
@@ -3150,18 +3150,18 @@ BSU01560-MONOMER	default_name	BSU01560()	M_protein_recon
 BSU24010-MONOMER	default_name	BSU24010()	M_protein_recon
 BSU37550-MONOMER	default_name	BSU37550()	M_protein_recon
 BSU05170-MONOMER	default_name	BSU05170()	M_protein_recon
-BSU08790-MONOMER	default_name	BSU08790()	M_protein_recon
+BSU08790-MONOMER	default_name	BSU08790(1)	M_protein_recon
 BSU18550-MONOMER	default_name	BSU18550()	M_protein_recon
 BSU05140-MONOMER	default_name	BSU05140()	M_protein_recon
 BSU08770-MONOMER	default_name	BSU08770()	M_protein_recon
 BSU22830-MONOMER	default_name	BSU22830()	M_protein_recon
-BSU27670-MONOMER	default_name	BSU27670()	M_protein_recon
+BSU27670-MONOMER	default_name	BSU27670(1)	M_protein_recon
 BSU31310-MONOMER	default_name	BSU31310()	M_protein_recon
 BSU04010-MONOMER	default_name	BSU04010()	M_protein_recon
-BSU12390-MONOMER	default_name	BSU12390()	M_protein_recon
+BSU12390-MONOMER	default_name	BSU12390(1)	M_protein_recon
 BSU15880-MONOMER	default_name	BSU15880()	M_protein_recon
 BSU26510-MONOMER	default_name	BSU26510()	M_protein_recon
-BSU34910-MONOMER	default_name	BSU34910()	M_protein_recon
+BSU34910-MONOMER	default_name	BSU34910(2)	M_protein_recon
 BSU38540-MONOMER	default_name	BSU38540()	M_protein_recon
 BSU30150-MONOMER	default_name	BSU30150()	M_protein_recon
 BSU19480-MONOMER	default_name	BSU19480()	M_protein_recon
@@ -3170,7 +3170,7 @@ BSU11270-MONOMER	default_name	BSU11270()	M_protein_recon
 BSU23820-MONOMER	default_name	BSU23820()	M_protein_recon
 BSU05000-MONOMER	default_name	BSU05000()	M_protein_recon
 BSU14720-MONOMER	default_name	BSU14720()	M_protein_recon
-BSU08610-MONOMER	default_name	BSU08610()	M_protein_recon
+BSU08610-MONOMER	default_name	BSU08610(1)	M_protein_recon
 BSU27510-MONOMER	default_name	BSU27510()	M_protein_recon
 BSU33740-MONOMER	default_name	BSU33740()	M_protein_recon
 BSU31160-MONOMER	default_name	BSU31160()	M_protein_recon
@@ -3184,14 +3184,14 @@ BSU19330-MONOMER	default_name	BSU19330()	M_protein_recon
 BSU40990-MONOMER	default_name	BSU40990()	M_protein_recon
 BSU01220-MONOMER	default_name	BSU01220()	M_protein_recon
 BSU23660-MONOMER	default_name	BSU23660()	M_protein_recon
-BSU22670-MONOMER	default_name	BSU22670()	M_protein_recon
+BSU22670-MONOMER	default_name	BSU22670(1)	M_protein_recon
 BSU04840-MONOMER	default_name	BSU04840()	M_protein_recon
 BSU08450-MONOMER	default_name	BSU08450()	M_protein_recon
 BSU03860-MONOMER	default_name	BSU03860()	M_protein_recon
 BSU27370-MONOMER	default_name	BSU27370()	M_protein_recon
 BSU31000-MONOMER	default_name	BSU31000()	M_protein_recon
 BSU26330-MONOMER	default_name	BSU26330()	M_protein_recon
-BSU12080-MONOMER	default_name	BSU12080()	M_protein_recon
+BSU12080-MONOMER	default_name	BSU12080(1)	M_protein_recon
 BSU15560-MONOMER	default_name	BSU15560()	M_protein_recon
 BSU29970-MONOMER	default_name	BSU29970()	M_protein_recon
 BSU34600-MONOMER	default_name	BSU34600()	M_protein_recon
@@ -3215,7 +3215,7 @@ BSU18239-MONOMER	default_name	BSU18239()	M_protein_recon
 BSU38080-MONOMER	default_name	BSU38080()	M_protein_recon
 BSU19020-MONOMER	default_name	BSU19020()	M_protein_recon
 BSU40840-MONOMER	default_name	BSU40840()	M_protein_recon
-BSU00900-MONOMER	default_name	BSU00900()	M_protein_recon
+BSU00900-MONOMER	default_name	BSU00900(2)	M_protein_recon
 BSU23360-MONOMER	default_name	BSU23360()	M_protein_recon
 BSU22510-MONOMER	default_name	BSU22510()	M_protein_recon
 BSU04530-MONOMER	default_name	BSU04530()	M_protein_recon
@@ -3231,7 +3231,7 @@ BSU34280-MONOMER	default_name	BSU34280()	M_protein_recon
 BSU37920-MONOMER	default_name	BSU37920()	M_protein_recon
 BSU07280-MONOMER	default_name	BSU07280()	M_protein_recon
 BSU18890-MONOMER	default_name	BSU18890()	M_protein_recon
-BSU00740-MONOMER	default_name	BSU00740()	M_protein_recon
+BSU00740-MONOMER	default_name	BSU00740(1)	M_protein_recon
 BSU10960-MONOMER	default_name	BSU10960()	M_protein_recon
 MONOMER8J2-55	default_name	G8J2-163()	M_protein_recon
 BSU23190-MONOMER	default_name	BSU23190()	M_protein_recon
@@ -3303,7 +3303,7 @@ BSU41040-MONOMER	default_name	BSU41040()	M_protein_recon
 BSU03250-MONOMER	default_name	BSU03250()	M_protein_recon
 BSU22720-MONOMER	default_name	BSU22720()	M_protein_recon
 BSU25680-MONOMER	default_name	BSU25680()	M_protein_recon
-BSU03910-MONOMER	default_name	BSU03910()	M_protein_recon
+BSU03910-MONOMER	default_name	BSU03910(4)	M_protein_recon
 BSU29330-MONOMER	default_name	BSU29330()	M_protein_recon
 BSU26380-MONOMER	default_name	BSU26380()	M_protein_recon
 BSU06800-MONOMER	default_name	BSU06800()	M_protein_recon
@@ -3312,7 +3312,7 @@ BSU10480-MONOMER	default_name	BSU10480()	M_protein_recon
 BSU07500-MONOMER	default_name	BSU07500()	M_protein_recon
 BSU32980-MONOMER	default_name	BSU32980()	M_protein_recon
 BSU11160-MONOMER	default_name	BSU11160()	M_protein_recon
-BSU36590-MONOMER	default_name	BSU36590()	M_protein_recon
+BSU36590-MONOMER	default_name	BSU36590(1)	M_protein_recon
 BSU33630-MONOMER	default_name	BSU33630()	M_protein_recon
 BSU13990-MONOMER	default_name	BSU13990()	M_protein_recon
 BSU37280-MONOMER	default_name	BSU37280()	M_protein_recon
@@ -3329,9 +3329,9 @@ BSU26230-MONOMER	default_name	BSU26230()	M_protein_recon
 BSU25530-MONOMER	default_name	BSU25530()	M_protein_recon
 BSU29860-MONOMER	default_name	BSU29860()	M_protein_recon
 BSU29190-MONOMER	default_name	BSU29190()	M_protein_recon
-BSU07330-MONOMER	default_name	BSU07330()	M_protein_recon
+BSU07330-MONOMER	default_name	BSU07330(1)	M_protein_recon
 BSU06640-MONOMER	default_name	BSU06640()	M_protein_recon
-BSU11010-MONOMER	default_name	BSU11010()	M_protein_recon
+BSU11010-MONOMER	default_name	BSU11010(1)	M_protein_recon
 BSU10320-MONOMER	default_name	BSU10320()	M_protein_recon
 BSU33470-MONOMER	default_name	BSU33470()	M_protein_recon
 BSU32820-MONOMER	default_name	BSU32820()	M_protein_recon
@@ -3391,7 +3391,7 @@ BSU17820-MONOMER	default_name	BSU17820()	M_protein_recon
 BSU39770-MONOMER	default_name	BSU39770()	M_protein_recon
 BSU40420-MONOMER	default_name	BSU40420()	M_protein_recon
 BSU20680-MONOMER	default_name	BSU20680()	M_protein_recon
-BSU22090-MONOMER	default_name	BSU22090()	M_protein_recon
+BSU22090-MONOMER	default_name	BSU22090(1)	M_protein_recon
 MONOMER8J2-9	default_name	BSU29110()	M_protein_recon
 BSU02619-MONOMER	default_name	BSU02619()	M_protein_recon
 BSU21329-MONOMER	default_name	BSU21329()	M_protein_recon
@@ -3450,7 +3450,7 @@ MONOMER8J2-26	default_name	BSU28930()	M_protein_recon
 BSU16790-MONOMER	default_name	BSU16790()	M_protein_recon
 BSU32859-MONOMER	default_name	BSU32859()	M_protein_recon
 MONOMER8J2-25	default_name	BSU31530()	M_protein_recon
-BSU35830-MONOMER	default_name	BSU35830()	M_protein_recon
+BSU35830-MONOMER	default_name	BSU35830(1)	M_protein_recon
 BSU36480-MONOMER	default_name	BSU36480()	M_protein_recon
 MONOMER8J2-24	default_name	BSU31520()	M_protein_recon
 BSU39450-MONOMER	default_name	BSU39450()	M_protein_recon
@@ -3462,7 +3462,7 @@ MONOMER8J2-22	default_name	BSU07580()	M_protein_recon
 BSU02300-MONOMER	default_name	BSU02300()	M_protein_recon
 BSU40130-MONOMER	default_name	BSU40130()	M_protein_recon
 MONOMER8J2-21	default_name	BSU39660()	M_protein_recon
-BSU24740-MONOMER	default_name	BSU24740()	M_protein_recon
+BSU24740-MONOMER	default_name	BSU24740(1)	M_protein_recon
 BSU21780-MONOMER	default_name	BSU21780()	M_protein_recon
 MONOMER8J2-20	default_name	BSU39650()	M_protein_recon
 BSU05850-MONOMER	default_name	BSU05850()	M_protein_recon
@@ -3492,7 +3492,7 @@ MONOMER8J2-12	default_name	BSU33020()	M_protein_recon
 BSU20200-MONOMER	default_name	BSU20200()	M_protein_recon
 BSU13750-MONOMER	default_name	BSU13750()	M_protein_recon
 MONOMER8J2-11	default_name	BSU31680()	M_protein_recon
-BSU02140-MONOMER	default_name	BSU02140()	M_protein_recon
+BSU02140-MONOMER	default_name	BSU02140(1)	M_protein_recon
 BSU17360-MONOMER	default_name	BSU17360()	M_protein_recon
 MONOMER8J2-10	default_name	BSU31690()	M_protein_recon
 BSU24580-MONOMER	default_name	BSU24580()	M_protein_recon
@@ -3511,7 +3511,7 @@ BSU06380-MONOMER	default_name	BSU06380()	M_protein_recon
 BSU16470-MONOMER	default_name	BSU16470()	M_protein_recon
 BSU10040-MONOMER	default_name	BSU10040()	M_protein_recon
 BSU35500-MONOMER	default_name	BSU35500()	M_protein_recon
-BSU32570-MONOMER	default_name	BSU32570()	M_protein_recon
+BSU32570-MONOMER	default_name	BSU32570(1)	M_protein_recon
 BSU39140-MONOMER	default_name	BSU39140()	M_protein_recon
 BSU36170-MONOMER	default_name	BSU36170()	M_protein_recon
 BSU20040-MONOMER	default_name	BSU20040()	M_protein_recon
@@ -3531,7 +3531,7 @@ BSU06240-MONOMER	default_name	BSU06240()	M_protein_recon
 BSU12760-MONOMER	default_name	BSU12760()	M_protein_recon
 BSU09890-MONOMER	default_name	BSU09890()	M_protein_recon
 BSU16310-MONOMER	default_name	BSU16310()	M_protein_recon
-BSU28780-MONOMER	default_name	BSU28780()	M_protein_recon
+BSU28780-MONOMER	default_name	BSU28780(4)	M_protein_recon
 BSU35340-MONOMER	default_name	BSU35340()	M_protein_recon
 BSU32420-MONOMER	default_name	BSU32420()	M_protein_recon
 BSU38970-MONOMER	default_name	BSU38970()	M_protein_recon
@@ -3545,7 +3545,7 @@ BSU39660-MONOMER	default_name	BSU39660()	M_protein_recon
 BSU05400-MONOMER	default_name	BSU05400()	M_protein_recon
 BSU20570-MONOMER	default_name	BSU20570()	M_protein_recon
 BSU09020-MONOMER	default_name	BSU09020()	M_protein_recon
-BSU02510-MONOMER	default_name	BSU02510()	M_protein_recon
+BSU02510-MONOMER	default_name	BSU02510(1)	M_protein_recon
 BSU27930-MONOMER	default_name	BSU27930()	M_protein_recon
 BSU24950-MONOMER	default_name	BSU24950()	M_protein_recon
 BSU31560-MONOMER	default_name	BSU31560()	M_protein_recon
@@ -3567,7 +3567,7 @@ BSU39500-MONOMER	default_name	BSU39500()	M_protein_recon
 BSU05250-MONOMER	default_name	BSU05250()	M_protein_recon
 BSU20410-MONOMER	default_name	BSU20410()	M_protein_recon
 BSU08870-MONOMER	default_name	BSU08870()	M_protein_recon
-BSU02350-MONOMER	default_name	BSU02350()	M_protein_recon
+BSU02350-MONOMER	default_name	BSU02350(2)	M_protein_recon
 BSU27770-MONOMER	default_name	BSU27770()	M_protein_recon
 BSU24790-MONOMER	default_name	BSU24790()	M_protein_recon
 BSU31400-MONOMER	default_name	BSU31400()	M_protein_recon
@@ -3592,16 +3592,16 @@ BSU23900-MONOMER	default_name	BSU23900()	M_protein_recon
 BSU02190-MONOMER	default_name	BSU02190()	M_protein_recon
 BSU05080-MONOMER	default_name	BSU05080()	M_protein_recon
 BSU24630-MONOMER	default_name	BSU24630()	M_protein_recon
-BSU08690-MONOMER	default_name	BSU08690()	M_protein_recon
+BSU08690-MONOMER	default_name	BSU08690(2)	M_protein_recon
 BSU05740-MONOMER	default_name	BSU05740()	M_protein_recon
 BSU27590-MONOMER	default_name	BSU27590()	M_protein_recon
 BSU09400-MONOMER	default_name	BSU09400()	M_protein_recon
 BSU31240-MONOMER	default_name	BSU31240()	M_protein_recon
-BSU28290-MONOMER	default_name	BSU28290()	M_protein_recon
+BSU28290-MONOMER	default_name	BSU28290(4)	M_protein_recon
 BSU12310-MONOMER	default_name	BSU12310()	M_protein_recon
 BSU31945-MONOMER	default_name	BSU31945()	M_protein_recon
 BSU15800-MONOMER	default_name	BSU15800()	M_protein_recon
-BSU12970-MONOMER	default_name	BSU12970()	M_protein_recon
+BSU12970-MONOMER	default_name	BSU12970(1)	M_protein_recon
 BSU34830-MONOMER	default_name	BSU34830()	M_protein_recon
 BSU16520-MONOMER	default_name	BSU16520()	M_protein_recon
 BSU38470-MONOMER	default_name	BSU38470()	M_protein_recon
@@ -3611,7 +3611,7 @@ BSU39190-MONOMER	default_name	BSU39190()	M_protein_recon
 BSU01300-MONOMER	default_name	BSU01300()	M_protein_recon
 BSU20090-MONOMER	default_name	BSU20090()	M_protein_recon
 BSU23740-MONOMER	default_name	BSU23740()	M_protein_recon
-BSU02030-MONOMER	default_name	BSU02030()	M_protein_recon
+BSU02030-MONOMER	default_name	BSU02030(1)	M_protein_recon
 BSU04920-MONOMER	default_name	BSU04920()	M_protein_recon
 BSU24470-MONOMER	default_name	BSU24470()	M_protein_recon
 BSU08530-MONOMER	default_name	BSU08530()	M_protein_recon
@@ -3676,7 +3676,7 @@ BSU18940-MONOMER	default_name	BSU18940()	M_protein_recon
 BSU38700-MONOMER	default_name	BSU38700()	M_protein_recon
 BSU00820-MONOMER	default_name	BSU00820()	M_protein_recon
 BSU19639-MONOMER	default_name	BSU19639()	M_protein_recon
-BSU23270-MONOMER	default_name	BSU23270()	M_protein_recon
+BSU23270-MONOMER	default_name	BSU23270(3)	M_protein_recon
 BSU01530-MONOMER	default_name	BSU01530()	M_protein_recon
 BSU04450-MONOMER	default_name	BSU04450()	M_protein_recon
 BSU23980-MONOMER	default_name	BSU23980()	M_protein_recon
@@ -3686,19 +3686,19 @@ BSU26970-MONOMER	default_name	BSU26970()	M_protein_recon
 BSU05110-MONOMER	default_name	BSU05110()	M_protein_recon
 BSU30610-MONOMER	default_name	BSU30610()	M_protein_recon
 BSU08740-MONOMER	default_name	BSU08740()	M_protein_recon
-BSU11720-MONOMER	default_name	BSU11720()	M_protein_recon
+BSU11720-MONOMER	default_name	BSU11720(1)	M_protein_recon
 BSU27640-MONOMER	default_name	BSU27640()	M_protein_recon
 BSU15160-MONOMER	default_name	BSU15160()	M_protein_recon
 BSU31280-MONOMER	default_name	BSU31280()	M_protein_recon
-BSU34190-MONOMER	default_name	BSU34190()	M_protein_recon
-BSU12360-MONOMER	default_name	BSU12360()	M_protein_recon
+BSU34190-MONOMER	default_name	BSU34190(1)	M_protein_recon
+BSU12360-MONOMER	default_name	BSU12360(1)	M_protein_recon
 BSU00450-MONOMER	default_name	BSU00450()	M_protein_recon
 BSU15850-MONOMER	default_name	BSU15850()	M_protein_recon
 BSU37840-MONOMER	default_name	BSU37840()	M_protein_recon
-BSU34880-MONOMER	default_name	BSU34880()	M_protein_recon
+BSU34880-MONOMER	default_name	BSU34880(1)	M_protein_recon
 BSU18820-MONOMER	default_name	BSU18820()	M_protein_recon
 BSU38510-MONOMER	default_name	BSU38510()	M_protein_recon
-BSU00660-MONOMER	default_name	BSU00660()	M_protein_recon
+BSU00660-MONOMER	default_name	BSU00660(1)	M_protein_recon
 BSU19460-MONOMER	default_name	BSU19460()	M_protein_recon
 MONOMER8J2-47	default_name	G8J2-18()	M_protein_recon
 BSU01350-MONOMER	default_name	BSU01350()	M_protein_recon
@@ -3724,7 +3724,7 @@ BSU37680-MONOMER	default_name	BSU37680()	M_protein_recon
 BSU19300-MONOMER	default_name	BSU19300()	M_protein_recon
 BSU18670-MONOMER	default_name	BSU18670()	M_protein_recon
 BSU01190-MONOMER	default_name	BSU01190()	M_protein_recon
-BSU00500-MONOMER	default_name	BSU00500()	M_protein_recon
+BSU00500-MONOMER	default_name	BSU00500(3)	M_protein_recon
 BSU23630-MONOMER	default_name	BSU23630()	M_protein_recon
 BSU22940-MONOMER	default_name	BSU22940()	M_protein_recon
 BSU04820-MONOMER	default_name	BSU04820()	M_protein_recon
@@ -3733,7 +3733,7 @@ BSU08410-MONOMER	default_name	BSU08410()	M_protein_recon
 BSU07710-MONOMER	default_name	BSU07710()	M_protein_recon
 BSU27340-MONOMER	default_name	BSU27340()	M_protein_recon
 BSU26640-MONOMER	default_name	BSU26640()	M_protein_recon
-BSU30970-MONOMER	default_name	BSU30970()	M_protein_recon
+BSU30970-MONOMER	default_name	BSU30970(4)	M_protein_recon
 BSU30280-MONOMER	default_name	BSU30280()	M_protein_recon
 BSU12060-MONOMER	default_name	BSU12060()	M_protein_recon
 BSU11410-MONOMER	default_name	BSU11410()	M_protein_recon
@@ -3755,7 +3755,7 @@ BSU08250-MONOMER	default_name	BSU08250()	M_protein_recon
 BSU26480-MONOMER	default_name	BSU26480()	M_protein_recon
 BSU27180-MONOMER	default_name	BSU27180()	M_protein_recon
 BSU30110-MONOMER	default_name	BSU30110()	M_protein_recon
-BSU30810-MONOMER	default_name	BSU30810()	M_protein_recon
+BSU30810-MONOMER	default_name	BSU30810(1)	M_protein_recon
 BSU07580-MONOMER	default_name	BSU07580()	M_protein_recon
 BSU11920-MONOMER	default_name	BSU11920()	M_protein_recon
 BSU11240-MONOMER	default_name	BSU11240()	M_protein_recon
@@ -3785,7 +3785,7 @@ BSU15210-MONOMER	default_name	BSU15210()	M_protein_recon
 BSU33550-MONOMER	default_name	BSU33550()	M_protein_recon
 BSU34240-MONOMER	default_name	BSU34240()	M_protein_recon
 BSU37200-MONOMER	default_name	BSU37200()	M_protein_recon
-BSU37890-MONOMER	default_name	BSU37890()	M_protein_recon
+BSU37890-MONOMER	default_name	BSU37890(1)	M_protein_recon
 BSU14570-MONOMER	default_name	BSU14570()	M_protein_recon
 BSU18860-MONOMER	default_name	BSU18860()	M_protein_recon
 BSU18210-MONOMER	default_name	BSU18210()	M_protein_recon
@@ -3803,7 +3803,7 @@ BSU26860-MONOMER	default_name	BSU26860()	M_protein_recon
 BSU07250-MONOMER	default_name	BSU07250()	M_protein_recon
 BSU30490-MONOMER	default_name	BSU30490()	M_protein_recon
 BSU10930-MONOMER	default_name	BSU10930()	M_protein_recon
-BSU11610-MONOMER	default_name	BSU11610()	M_protein_recon
+BSU11610-MONOMER	default_name	BSU11610(6)	M_protein_recon
 BSU33390-MONOMER	default_name	BSU33390()	M_protein_recon
 BSU15060-MONOMER	default_name	BSU15060()	M_protein_recon
 BSU37040-MONOMER	default_name	BSU37040()	M_protein_recon
@@ -3814,7 +3814,7 @@ BSU18050-MONOMER	default_name	BSU18050()	M_protein_recon
 BSU37730-MONOMER	default_name	BSU37730()	M_protein_recon
 BSU40650-MONOMER	default_name	BSU40650()	M_protein_recon
 BSU18710-MONOMER	default_name	BSU18710()	M_protein_recon
-BSU22320-MONOMER	default_name	BSU22320()	M_protein_recon
+BSU22320-MONOMER	default_name	BSU22320(2)	M_protein_recon
 BSU00550-MONOMER	default_name	BSU00550()	M_protein_recon
 BSU21560-MONOMER	default_name	BSU21560()	M_protein_recon
 BSU22990-MONOMER	default_name	BSU22990()	M_protein_recon
@@ -3832,7 +3832,7 @@ BSU33239-MONOMER	default_name	BSU33239()	M_protein_recon
 BSU14900-MONOMER	default_name	BSU14900()	M_protein_recon
 BSU36880-MONOMER	default_name	BSU36880()	M_protein_recon
 BSU33920-MONOMER	default_name	BSU33920()	M_protein_recon
-BSU14260-MONOMER	default_name	BSU14260()	M_protein_recon
+BSU14260-MONOMER	default_name	BSU14260(1)	M_protein_recon
 BSU00180-MONOMER	default_name	BSU00180()	M_protein_recon
 BSU17900-MONOMER	default_name	BSU17900()	M_protein_recon
 BSU37570-MONOMER	default_name	BSU37570()	M_protein_recon
@@ -3866,7 +3866,7 @@ BSU22019-MONOMER	default_name	BSU22019()	M_protein_recon
 BSU22690-MONOMER	default_name	BSU22690()	M_protein_recon
 BSU21250-MONOMER	default_name	BSU21250()	M_protein_recon
 BSU03880-MONOMER	default_name	BSU03880()	M_protein_recon
-BSU03220-MONOMER	default_name	BSU03220()	M_protein_recon
+BSU03220-MONOMER	default_name	BSU03220(1)	M_protein_recon
 BSU26350-MONOMER	default_name	BSU26350()	M_protein_recon
 BSU25650-MONOMER	default_name	BSU25650()	M_protein_recon
 BSU29990-MONOMER	default_name	BSU29990()	M_protein_recon
@@ -3880,7 +3880,7 @@ BSU32930-MONOMER	default_name	BSU32930()	M_protein_recon
 BSU37250-MONOMER	default_name	BSU37250()	M_protein_recon
 BSU36560-MONOMER	default_name	BSU36560()	M_protein_recon
 BSU14620-MONOMER	default_name	BSU14620()	M_protein_recon
-BSU13960-MONOMER	default_name	BSU13960()	M_protein_recon
+BSU13960-MONOMER	default_name	BSU13960(1)	M_protein_recon
 BSU18250-MONOMER	default_name	BSU18250()	M_protein_recon
 BSU17590-MONOMER	default_name	BSU17590()	M_protein_recon
 BSU40860-MONOMER	default_name	BSU40860()	M_protein_recon
@@ -3907,7 +3907,7 @@ BSU18100-MONOMER	default_name	BSU18100()	M_protein_recon
 BSU13810-MONOMER	default_name	BSU13810()	M_protein_recon
 BSU40700-MONOMER	default_name	BSU40700()	M_protein_recon
 BSU17440-MONOMER	default_name	BSU17440()	M_protein_recon
-BSU22370-MONOMER	default_name	BSU22370()	M_protein_recon
+BSU22370-MONOMER	default_name	BSU22370(2)	M_protein_recon
 BSU40050-MONOMER	default_name	BSU40050()	M_protein_recon
 BSU21610-MONOMER	default_name	BSU21610()	M_protein_recon
 BSU21700-MONOMER	default_name	BSU21700()	M_protein_recon
@@ -3922,7 +3922,7 @@ BSU29000-MONOMER	default_name	BSU29000()	M_protein_recon
 BSU10820-MONOMER	default_name	BSU10820()	M_protein_recon
 BSU06460-MONOMER	default_name	BSU06460()	M_protein_recon
 BSU33280-MONOMER	default_name	BSU33280()	M_protein_recon
-BSU10120-MONOMER	default_name	BSU10120()	M_protein_recon
+BSU10120-MONOMER	default_name	BSU10120(1)	M_protein_recon
 BSU36930-MONOMER	default_name	BSU36930()	M_protein_recon
 BSU32650-MONOMER	default_name	BSU32650()	M_protein_recon
 BSU14310-MONOMER	default_name	BSU14310()	M_protein_recon
@@ -3940,7 +3940,7 @@ BSU02740-MONOMER	default_name	BSU02740()	M_protein_recon
 BSU25870-MONOMER	default_name	BSU25870()	M_protein_recon
 BSU25190-MONOMER	default_name	BSU25190()	M_protein_recon
 BSU29510-MONOMER	default_name	BSU29510()	M_protein_recon
-BSU06310-MONOMER	default_name	BSU06310()	M_protein_recon
+BSU06310-MONOMER	default_name	BSU06310(1)	M_protein_recon
 BSU06960-MONOMER	default_name	BSU06960()	M_protein_recon
 BSU09965-MONOMER	default_name	BSU09965()	M_protein_recon
 BSU10660-MONOMER	default_name	BSU10660()	M_protein_recon
@@ -3952,7 +3952,7 @@ BSU13510-MONOMER	default_name	BSU13510()	M_protein_recon
 BSU14150-MONOMER	default_name	BSU14150()	M_protein_recon
 BSU17110-MONOMER	default_name	BSU17110()	M_protein_recon
 BSU17790-MONOMER	default_name	BSU17790()	M_protein_recon
-BSU39740-MONOMER	default_name	BSU39740()	M_protein_recon
+BSU39740-MONOMER	default_name	BSU39740(1)	M_protein_recon
 BSU40390-MONOMER	default_name	BSU40390()	M_protein_recon
 BSU20650-MONOMER	default_name	BSU20650()	M_protein_recon
 BSU22060-MONOMER	default_name	BSU22060()	M_protein_recon
@@ -3961,13 +3961,13 @@ BSU21300-MONOMER	default_name	BSU21300()	M_protein_recon
 BSU25030-MONOMER	default_name	BSU25030()	M_protein_recon
 BSU03270-MONOMER	default_name	BSU03270()	M_protein_recon
 BSU06160-MONOMER	default_name	BSU06160()	M_protein_recon
-BSU25700-MONOMER	default_name	BSU25700()	M_protein_recon
+BSU25700-MONOMER	default_name	BSU25700(4)	M_protein_recon
 BSU09810-MONOMER	default_name	BSU09810()	M_protein_recon
 BSU29350-MONOMER	default_name	BSU29350()	M_protein_recon
 BSU28700-MONOMER	default_name	BSU28700()	M_protein_recon
 BSU06812-MONOMER	default_name	BSU06812()	M_protein_recon
 BSU32340-MONOMER	default_name	BSU32340()	M_protein_recon
-BSU10500-MONOMER	default_name	BSU10500()	M_protein_recon
+BSU10500-MONOMER	default_name	BSU10500(1)	M_protein_recon
 BSU13360-MONOMER	default_name	BSU13360()	M_protein_recon
 BSU33000-MONOMER	default_name	BSU33000()	M_protein_recon
 BSU16950-MONOMER	default_name	BSU16950()	M_protein_recon
@@ -3991,12 +3991,12 @@ BSU29210-MONOMER	default_name	BSU29210()	M_protein_recon
 BSU32180-MONOMER	default_name	BSU32180()	M_protein_recon
 BSU06660-MONOMER	default_name	BSU06660()	M_protein_recon
 BSU13200-MONOMER	default_name	BSU13200()	M_protein_recon
-BSU10340-MONOMER	default_name	BSU10340()	M_protein_recon
+BSU10340-MONOMER	default_name	BSU10340(1)	M_protein_recon
 BSU16760-MONOMER	default_name	BSU16760()	M_protein_recon
 BSU32840-MONOMER	default_name	BSU32840()	M_protein_recon
 BSU35800-MONOMER	default_name	BSU35800()	M_protein_recon
 BSU36450-MONOMER	default_name	BSU36450()	M_protein_recon
-BSU39420-MONOMER	default_name	BSU39420()	M_protein_recon
+BSU39420-MONOMER	default_name	BSU39420(1)	M_protein_recon
 BSU13850-MONOMER	default_name	BSU13850()	M_protein_recon
 BSU20330-MONOMER	default_name	BSU20330()	M_protein_recon
 BSU17490-MONOMER	default_name	BSU17490()	M_protein_recon
@@ -4013,7 +4013,7 @@ BSU25390-MONOMER	default_name	BSU25390()	M_protein_recon
 BSU32020-MONOMER	default_name	BSU32020()	M_protein_recon
 BSU29050-MONOMER	default_name	BSU29050()	M_protein_recon
 BSU13050-MONOMER	default_name	BSU13050()	M_protein_recon
-BSU06510-MONOMER	default_name	BSU06510()	M_protein_recon
+BSU06510-MONOMER	default_name	BSU06510(1)	M_protein_recon
 BSU16600-MONOMER	default_name	BSU16600()	M_protein_recon
 BSU10170-MONOMER	default_name	BSU10170()	M_protein_recon
 BSU35640-MONOMER	default_name	BSU35640()	M_protein_recon
@@ -4021,7 +4021,7 @@ BSU32690-MONOMER	default_name	BSU32690()	M_protein_recon
 BSU39270-MONOMER	default_name	BSU39270()	M_protein_recon
 BSU36290-MONOMER	default_name	BSU36290()	M_protein_recon
 BSU20170-MONOMER	default_name	BSU20170()	M_protein_recon
-BSU13720-MONOMER	default_name	BSU13720()	M_protein_recon
+BSU13720-MONOMER	default_name	BSU13720(1)	M_protein_recon
 BSU02110-MONOMER	default_name	BSU02110()	M_protein_recon
 BSU17330-MONOMER	default_name	BSU17330()	M_protein_recon
 BSU24550-MONOMER	default_name	BSU24550()	M_protein_recon
@@ -4043,10 +4043,10 @@ BSU32540-MONOMER	default_name	BSU32540()	M_protein_recon
 BSU39110-MONOMER	default_name	BSU39110()	M_protein_recon
 BSU36140-MONOMER	default_name	BSU36140()	M_protein_recon
 BSU20010-MONOMER	default_name	BSU20010()	M_protein_recon
-BSU13560-MONOMER	default_name	BSU13560()	M_protein_recon
+BSU13560-MONOMER	default_name	BSU13560(1)	M_protein_recon
 BSU01950-MONOMER	default_name	BSU01950()	M_protein_recon
 BSU17170-MONOMER	default_name	BSU17170()	M_protein_recon
-BSU24390-MONOMER	default_name	BSU24390()	M_protein_recon
+BSU24390-MONOMER	default_name	BSU24390(2)	M_protein_recon
 BSU39790-MONOMER	default_name	BSU39790()	M_protein_recon
 BSU05510-MONOMER	default_name	BSU05510()	M_protein_recon
 BSU20700-MONOMER	default_name	BSU20700()	M_protein_recon
@@ -4066,12 +4066,12 @@ BSU38940-MONOMER	default_name	BSU38940()	M_protein_recon
 BSU13410-MONOMER	default_name	BSU13410()	M_protein_recon
 BSU19850-MONOMER	default_name	BSU19850()	M_protein_recon
 BSU17000-MONOMER	default_name	BSU17000()	M_protein_recon
-BSU01770-MONOMER	default_name	BSU01770()	M_protein_recon
+BSU01770-MONOMER	default_name	BSU01770(1)	M_protein_recon
 BSU39630-MONOMER	default_name	BSU39630()	M_protein_recon
 BSU24220-MONOMER	default_name	BSU24220()	M_protein_recon
 BSU20540-MONOMER	default_name	BSU20540()	M_protein_recon
 BSU05370-MONOMER	default_name	BSU05370()	M_protein_recon
-BSU02480-MONOMER	default_name	BSU02480()	M_protein_recon
+BSU02480-MONOMER	default_name	BSU02480(1)	M_protein_recon
 BSU08990-MONOMER	default_name	BSU08990()	M_protein_recon
 BSU24920-MONOMER	default_name	BSU24920()	M_protein_recon
 BSU27900-MONOMER	default_name	BSU27900()	M_protein_recon
@@ -4103,7 +4103,7 @@ BSU09530-MONOMER	default_name	BSU09530()	M_protein_recon
 BSU12470-MONOMER	default_name	BSU12470()	M_protein_recon
 BSU28420-MONOMER	default_name	BSU28420()	M_protein_recon
 BSU15970-MONOMER	default_name	BSU15970()	M_protein_recon
-BSU32070-MONOMER	default_name	BSU32070()	M_protein_recon
+BSU32070-MONOMER	default_name	BSU32070(1)	M_protein_recon
 BSU12440-MONOMER	default_name	BSU12440()	M_protein_recon
 BSU13100-MONOMER	default_name	BSU13100()	M_protein_recon
 BSU15940-MONOMER	default_name	BSU15940()	M_protein_recon
@@ -4161,7 +4161,7 @@ BSU19900-MONOMER	default_name	BSU19900()	M_protein_recon
 BSU01110-MONOMER	default_name	BSU01110()	M_protein_recon
 BSU01830-MONOMER	default_name	BSU01830()	M_protein_recon
 BSU23550-MONOMER	default_name	BSU23550()	M_protein_recon
-BSU24280-MONOMER	default_name	BSU24280()	M_protein_recon
+BSU24280-MONOMER	default_name	BSU24280(1)	M_protein_recon
 BSU04740-MONOMER	default_name	BSU04740()	M_protein_recon
 BSU05409-MONOMER	default_name	BSU05409()	M_protein_recon
 BSU08330-MONOMER	default_name	BSU08330()	M_protein_recon
@@ -4181,7 +4181,7 @@ BSU38830-MONOMER	default_name	BSU38830()	M_protein_recon
 BSU19070-MONOMER	default_name	BSU19070()	M_protein_recon
 BSU19740-MONOMER	default_name	BSU19740()	M_protein_recon
 BSU00950-MONOMER	default_name	BSU00950()	M_protein_recon
-BSU01660-MONOMER	default_name	BSU01660()	M_protein_recon
+BSU01660-MONOMER	default_name	BSU01660(1)	M_protein_recon
 BSU23402-MONOMER	default_name	BSU23402()	M_protein_recon
 BSU24110-MONOMER	default_name	BSU24110()	M_protein_recon
 BSU04580-MONOMER	default_name	BSU04580()	M_protein_recon
@@ -4202,7 +4202,7 @@ BSU37970-MONOMER	default_name	BSU37970()	M_protein_recon
 BSU38670-MONOMER	default_name	BSU38670()	M_protein_recon
 BSU18910-MONOMER	default_name	BSU18910()	M_protein_recon
 BSU19610-MONOMER	default_name	BSU19610()	M_protein_recon
-BSU00790-MONOMER	default_name	BSU00790()	M_protein_recon
+BSU00790-MONOMER	default_name	BSU00790(1)	M_protein_recon
 BSU01500-MONOMER	default_name	BSU01500()	M_protein_recon
 MONOMER8J2-60	default_name	G8J2-176()	M_protein_recon
 BSU38640-MONOMER	default_name	BSU38640()	M_protein_recon
@@ -4217,17 +4217,17 @@ BSU05099-MONOMER	default_name	BSU05099()	M_protein_recon
 BSU30570-MONOMER	default_name	BSU30570()	M_protein_recon
 BSU08710-MONOMER	default_name	BSU08710()	M_protein_recon
 BSU11690-MONOMER	default_name	BSU11690()	M_protein_recon
-BSU27610-MONOMER	default_name	BSU27610()	M_protein_recon
+BSU27610-MONOMER	default_name	BSU27610(2)	M_protein_recon
 BSU15130-MONOMER	default_name	BSU15130()	M_protein_recon
 BSU31260-MONOMER	default_name	BSU31260()	M_protein_recon
 BSU34160-MONOMER	default_name	BSU34160()	M_protein_recon
 BSU12330-MONOMER	default_name	BSU12330()	M_protein_recon
 BSU00420-MONOMER	default_name	BSU00420()	M_protein_recon
 BSU15820-MONOMER	default_name	BSU15820()	M_protein_recon
-BSU37810-MONOMER	default_name	BSU37810()	M_protein_recon
+BSU37810-MONOMER	default_name	BSU37810(1)	M_protein_recon
 BSU34850-MONOMER	default_name	BSU34850()	M_protein_recon
 BSU18790-MONOMER	default_name	BSU18790()	M_protein_recon
-BSU38490-MONOMER	default_name	BSU38490()	M_protein_recon
+BSU38490-MONOMER	default_name	BSU38490(1)	M_protein_recon
 BSU00630-MONOMER	default_name	BSU00630()	M_protein_recon
 BSU19430-MONOMER	default_name	BSU19430()	M_protein_recon
 BSU23080-MONOMER	default_name	BSU23080()	M_protein_recon
@@ -4256,21 +4256,21 @@ BSU22910-MONOMER	default_name	BSU22910()	M_protein_recon
 BSU01160-MONOMER	default_name	BSU01160()	M_protein_recon
 BSU04100-MONOMER	default_name	BSU04100()	M_protein_recon
 BSU23600-MONOMER	default_name	BSU23600()	M_protein_recon
-BSU07680-MONOMER	default_name	BSU07680()	M_protein_recon
+BSU07680-MONOMER	default_name	BSU07680(1)	M_protein_recon
 BSU04790-MONOMER	default_name	BSU04790()	M_protein_recon
 BSU26619-MONOMER	default_name	BSU26619()	M_protein_recon
 BSU08380-MONOMER	default_name	BSU08380()	M_protein_recon
 BSU30250-MONOMER	default_name	BSU30250()	M_protein_recon
 BSU27310-MONOMER	default_name	BSU27310()	M_protein_recon
 BSU11370-MONOMER	default_name	BSU11370()	M_protein_recon
-BSU30940-MONOMER	default_name	BSU30940()	M_protein_recon
+BSU30940-MONOMER	default_name	BSU30940(2)	M_protein_recon
 BSU14820-MONOMER	default_name	BSU14820()	M_protein_recon
 BSU12030-MONOMER	default_name	BSU12030()	M_protein_recon
 BSU33840-MONOMER	default_name	BSU33840()	M_protein_recon
 BSU15500-MONOMER	default_name	BSU15500()	M_protein_recon
 BSU00100-MONOMER	default_name	BSU00100()	M_protein_recon
 BSU34540-MONOMER	default_name	BSU34540()	M_protein_recon
-BSU37490-MONOMER	default_name	BSU37490()	M_protein_recon
+BSU37490-MONOMER	default_name	BSU37490(2)	M_protein_recon
 BSU38180-MONOMER	default_name	BSU38180()	M_protein_recon
 BSU18490-MONOMER	default_name	BSU18490()	M_protein_recon
 BSU19120-MONOMER	default_name	BSU19120()	M_protein_recon
@@ -4284,7 +4284,7 @@ BSU30080-MONOMER	default_name	BSU30080()	M_protein_recon
 BSU08220-MONOMER	default_name	BSU08220()	M_protein_recon
 BSU07550-MONOMER	default_name	BSU07550()	M_protein_recon
 BSU27150-MONOMER	default_name	BSU27150()	M_protein_recon
-BSU11210-MONOMER	default_name	BSU11210()	M_protein_recon
+BSU11210-MONOMER	default_name	BSU11210(2)	M_protein_recon
 BSU30780-MONOMER	default_name	BSU30780()	M_protein_recon
 BSU14660-MONOMER	default_name	BSU14660()	M_protein_recon
 BSU11890-MONOMER	default_name	BSU11890()	M_protein_recon
@@ -4301,7 +4301,7 @@ BSU00840-MONOMER	default_name	BSU00840()	M_protein_recon
 BSU03800-MONOMER	default_name	BSU03800()	M_protein_recon
 BSU23300-MONOMER	default_name	BSU23300()	M_protein_recon
 BSU26270-MONOMER	default_name	BSU26270()	M_protein_recon
-BSU04470-MONOMER	default_name	BSU04470()	M_protein_recon
+BSU04470-MONOMER	default_name	BSU04470(1)	M_protein_recon
 BSU29910-MONOMER	default_name	BSU29910()	M_protein_recon
 BSU08060-MONOMER	default_name	BSU08060()	M_protein_recon
 BSU07380-MONOMER	default_name	BSU07380()	M_protein_recon
@@ -4311,30 +4311,30 @@ BSU30630-MONOMER	default_name	BSU30630()	M_protein_recon
 BSU33520-MONOMER	default_name	BSU33520()	M_protein_recon
 BSU11740-MONOMER	default_name	BSU11740()	M_protein_recon
 BSU37170-MONOMER	default_name	BSU37170()	M_protein_recon
-BSU15180-MONOMER	default_name	BSU15180()	M_protein_recon
+BSU15180-MONOMER	default_name	BSU15180(1)	M_protein_recon
 BSU14550-MONOMER	default_name	BSU14550()	M_protein_recon
 BSU34210-MONOMER	default_name	BSU34210()	M_protein_recon
 BSU18180-MONOMER	default_name	BSU18180()	M_protein_recon
 BSU00470-MONOMER	default_name	BSU00470()	M_protein_recon
 BSU40780-MONOMER	default_name	BSU40780()	M_protein_recon
-BSU37860-MONOMER	default_name	BSU37860()	M_protein_recon
+BSU37860-MONOMER	default_name	BSU37860(1)	M_protein_recon
 BSU22450-MONOMER	default_name	BSU22450()	M_protein_recon
 BSU18840-MONOMER	default_name	BSU18840()	M_protein_recon
 BSU03660-MONOMER	default_name	BSU03660()	M_protein_recon
-BSU00680-MONOMER	default_name	BSU00680()	M_protein_recon
+BSU00680-MONOMER	default_name	BSU00680(4)	M_protein_recon
 BSU26120-MONOMER	default_name	BSU26120()	M_protein_recon
 MONOMER8J2-49	default_name	G8J2-20()	M_protein_recon
 BSU29740-MONOMER	default_name	BSU29740()	M_protein_recon
 BSU23130-MONOMER	default_name	BSU23130()	M_protein_recon
 BSU07220-MONOMER	default_name	BSU07220()	M_protein_recon
 BSU04310-MONOMER	default_name	BSU04310()	M_protein_recon
-BSU10900-MONOMER	default_name	BSU10900()	M_protein_recon
+BSU10900-MONOMER	default_name	BSU10900(1)	M_protein_recon
 BSU07900-MONOMER	default_name	BSU07900()	M_protein_recon
 BSU33360-MONOMER	default_name	BSU33360()	M_protein_recon
 BSU26830-MONOMER	default_name	BSU26830()	M_protein_recon
 BSU37010-MONOMER	default_name	BSU37010()	M_protein_recon
 BSU30460-MONOMER	default_name	BSU30460()	M_protein_recon
-BSU14390-MONOMER	default_name	BSU14390()	M_protein_recon
+BSU14390-MONOMER	default_name	BSU14390(2)	M_protein_recon
 BSU11580-MONOMER	default_name	BSU11580()	M_protein_recon
 BSU18020-MONOMER	default_name	BSU18020()	M_protein_recon
 BSU15030-MONOMER	default_name	BSU15030()	M_protein_recon
@@ -4343,7 +4343,7 @@ BSU34050-MONOMER	default_name	BSU34050()	M_protein_recon
 BSU22290-MONOMER	default_name	BSU22290()	M_protein_recon
 BSU00310-MONOMER	default_name	BSU00310()	M_protein_recon
 BSU21530-MONOMER	default_name	BSU21530()	M_protein_recon
-BSU37700-MONOMER	default_name	BSU37700()	M_protein_recon
+BSU37700-MONOMER	default_name	BSU37700(1)	M_protein_recon
 BSU03500-MONOMER	default_name	BSU03500()	M_protein_recon
 BSU18690-MONOMER	default_name	BSU18690()	M_protein_recon
 BSU25950-MONOMER	default_name	BSU25950()	M_protein_recon
@@ -4357,10 +4357,10 @@ BSU07735-MONOMER	default_name	BSU07735()	M_protein_recon
 BSU33221-MONOMER	default_name	BSU33221()	M_protein_recon
 BSU26660-MONOMER	default_name	BSU26660()	M_protein_recon
 BSU36850-MONOMER	default_name	BSU36850()	M_protein_recon
-BSU30300-MONOMER	default_name	BSU30300()	M_protein_recon
+BSU30300-MONOMER	default_name	BSU30300(2)	M_protein_recon
 BSU14230-MONOMER	default_name	BSU14230()	M_protein_recon
 BSU11430-MONOMER	default_name	BSU11430()	M_protein_recon
-BSU17870-MONOMER	default_name	BSU17870()	M_protein_recon
+BSU17870-MONOMER	default_name	BSU17870(1)	M_protein_recon
 BSU14870-MONOMER	default_name	BSU14870()	M_protein_recon
 BSU40470-MONOMER	default_name	BSU40470()	M_protein_recon
 BSU33890-MONOMER	default_name	BSU33890()	M_protein_recon
@@ -4373,7 +4373,7 @@ BSU18540-MONOMER	default_name	BSU18540()	M_protein_recon
 BSU25790-MONOMER	default_name	BSU25790()	M_protein_recon
 BSU22820-MONOMER	default_name	BSU22820()	M_protein_recon
 BSU29430-MONOMER	default_name	BSU29430()	M_protein_recon
-BSU04000-MONOMER	default_name	BSU04000()	M_protein_recon
+BSU04000-MONOMER	default_name	BSU04000(1)	M_protein_recon
 BSU06880-MONOMER	default_name	BSU06880()	M_protein_recon
 BSU26500-MONOMER	default_name	BSU26500()	M_protein_recon
 BSU10580-MONOMER	default_name	BSU10580()	M_protein_recon
@@ -4391,7 +4391,7 @@ BSU18380-MONOMER	default_name	BSU18380()	M_protein_recon
 BSU21990-MONOMER	default_name	BSU21990()	M_protein_recon
 BSU40980-MONOMER	default_name	BSU40980()	M_protein_recon
 BSU21229-MONOMER	default_name	BSU21229()	M_protein_recon
-BSU22660-MONOMER	default_name	BSU22660()	M_protein_recon
+BSU22660-MONOMER	default_name	BSU22660(1)	M_protein_recon
 BSU03190-MONOMER	default_name	BSU03190()	M_protein_recon
 BSU03850-MONOMER	default_name	BSU03850()	M_protein_recon
 BSU25620-MONOMER	default_name	BSU25620()	M_protein_recon
@@ -4404,7 +4404,7 @@ BSU10420-MONOMER	default_name	BSU10420()	M_protein_recon
 BSU11110-MONOMER	default_name	BSU11110()	M_protein_recon
 BSU32900-MONOMER	default_name	BSU32900()	M_protein_recon
 BSU33570-MONOMER	default_name	BSU33570()	M_protein_recon
-BSU36530-MONOMER	default_name	BSU36530()	M_protein_recon
+BSU36530-MONOMER	default_name	BSU36530(1)	M_protein_recon
 BSU37220-MONOMER	default_name	BSU37220()	M_protein_recon
 BSU13930-MONOMER	default_name	BSU13930()	M_protein_recon
 BSU14590-MONOMER	default_name	BSU14590()	M_protein_recon
