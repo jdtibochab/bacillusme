@@ -60,11 +60,12 @@ rna_polymerases = list(rna_polymerase_id_by_sigma_factor.keys())
 rna_degradosome = {'BSU16960-MONOMER': 1, 'CPLX8J2-39': 1,'BSU16690-MONOMER': 1,
                    'BSU33900-MONOMER': 1, 'BSU29190-MONOMER': 1}
 
+## BSU41050-MONOMER is set instead of CPLX8J2-62, since it requires RNA thats no longer available after pruning.
 excision_machinery = {
     'rRNA_containing': ['BSU14530-MONOMER','BSU15930-MONOMER','BSU00410-MONOMER'],
-    'monocistronic': ['CPLX8J2-62', 'BSU23840-MONOMER',
+    'monocistronic': ['BSU41050-MONOMER', 'BSU23840-MONOMER',
                       'generic_RNase'],
-    'polycistronic_wout_rRNA': ['CPLX8J2-62', 'BSU23840-MONOMER',
+    'polycistronic_wout_rRNA': ['BSU41050-MONOMER', 'BSU23840-MONOMER',
                                 'generic_RNase']}
 
 

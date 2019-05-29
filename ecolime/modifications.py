@@ -5,13 +5,16 @@ import cobrame
 from ecolime import corrections
 
 # these guys can transfer assembled iron sulfur clusters to the various enzymes
-fes_transfer = {}
+fes_transfer = {'BSU32680-MONOMER':'BSU32680-MONOMER'}
 
 # Add known specific chaperone
 fes_chaperones = {}  # FE-S modification
 
 # complexes that can transfer an iron sulfur cluster to an enzyme target
-generic_fes_transfer_complexes = {}
+generic_fes_transfer_complexes = {
+    'generic_2fe2s_transfer_complex': ['BSU32680-MONOMER_mod_1:2fe2s'],
+    'generic_4fe4s_transfer_complex': ['BSU32680-MONOMER_mod_1:4fe4s']
+} #sufU Albrecht et al, 2010
 
 lipoate_modifications = {}
 
