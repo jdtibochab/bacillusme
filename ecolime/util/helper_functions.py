@@ -136,12 +136,11 @@ def print_reactions_of_met(me,met,s = 0):
 	import copy
 	met_stoich = 0
 	for rxn in me.metabolites.get_by_id(met).reactions:
-		for key,value in rxn.metabolites.items():
-			if str(key) == str(met):
-				met_stoich = copy.copy(value)
-		if s == 1 and met_stoich > 0:
+		reactants = [met.id for met in rxn.reactants]
+		products = [met.id for met in rxn.products]
+		if s == 1 and met in products:
 			print('(',rxn.id,rxn.lower_bound,rxn.upper_bound,')', '\t',rxn.reaction)
-		elif s == -1 and met_stoich < 0:
+		elif s == -1 and met in reactants:
 			print('(',rxn.id,rxn.lower_bound,rxn.upper_bound,')', '\t',rxn.reaction)
 		elif s == 0:
 			print('(',rxn.id,rxn.lower_bound,rxn.upper_bound,')', '\t',rxn.reaction)
@@ -269,3 +268,42 @@ def homogenize_reactions(model,ref_model):
 			if (len(mets) == len(ref_mets)): # and (len(set(mets) & set(ref_mets)) == len(mets)):
 				rxn_dict[rxn] = ref_rxn
 	return rxn_dict
+
+def exchange_single_model(me, solution = 0):
+	import pandas as pd
+
+	complete_dict = {'id':[],'name':[],'reaction':[],'lower_bound':[],'upper_bound':[],'flux':[]}
+	
+
+	if not solution:
+		solution = me.solution
+
+	for rxn in me.reactions:
+		if 'EX_' in rxn.id:
+			flux = solution.x_dict[rxn.id]
+
+			if not flux:
+				continue
+			rxn_name = rxn.name
+			reaction = rxn.reaction
+			lb = rxn.lower_bound
+			ub = rxn.upper_bound
+			
+			
+			complete_dict['id'].append(rxn.id)
+			complete_dict['name'].append(rxn_name)
+			complete_dict['reaction'].append(reaction)
+			complete_dict['lower_bound'].append(lb)
+			complete_dict['upper_bound'].append(ub)
+			complete_dict['flux'].append(flux)
+
+
+	df = pd.DataFrame(complete_dict)
+	return df
+
+def get_metabolites_from_pattern(model,pattern):
+	met_list = []
+	for met in model.metabolites:
+		if pattern in met.id:
+			met_list.append(met.id)
+	return met_list

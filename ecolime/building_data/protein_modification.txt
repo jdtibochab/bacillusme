@@ -194,3 +194,4 @@ BSU18210-MONOMER_mod_hco3	BSU18210-MONOMER	hco3()	M_protein_recon
 BSU16130-MONOMER_mod_fad	BSU16130-MONOMER	fad()	M_protein_recon
 BSU32680-MONOMER_mod_1:2fe2s	BSU32680-MONOMER	2fe2s(1)	M_protein_recon
 BSU32680-MONOMER_mod_1:4fe4s	BSU32680-MONOMER	4fe4s(1)	M_protein_recon
+BSU15920-MONOMER_mod_pan4p	BSU15920-MONOMER	pan4p()	M_protein_recon
