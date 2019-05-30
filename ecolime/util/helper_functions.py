@@ -132,9 +132,19 @@ def identify_precursors(me,metabolite_id,only_direct_precursors = False,ignore_c
 	print(len(precursors))
 	return precursors,direct_precursors
 
-def print_reactions_of_met(me,met):
-    for rxn in me.metabolites.get_by_id(met).reactions:
-        print('(',rxn.id,rxn.lower_bound,rxn.upper_bound,')', '\t',rxn.reaction)
+def print_reactions_of_met(me,met,s = 0):
+	import copy
+	met_stoich = 0
+	for rxn in me.metabolites.get_by_id(met).reactions:
+		for key,value in rxn.metabolites.items():
+			if str(key) == str(met):
+				met_stoich = copy.copy(value)
+		if s == 1 and met_stoich > 0:
+			print('(',rxn.id,rxn.lower_bound,rxn.upper_bound,')', '\t',rxn.reaction)
+		elif s == -1 and met_stoich < 0:
+			print('(',rxn.id,rxn.lower_bound,rxn.upper_bound,')', '\t',rxn.reaction)
+		elif s == 0:
+			print('(',rxn.id,rxn.lower_bound,rxn.upper_bound,')', '\t',rxn.reaction)
         
 def add_exchange_reactions(me,metabolites):
 	for met in metabolites:
@@ -154,7 +164,7 @@ def brute_force_check(me,metabolites_to_add,objective_function = 'biomass_diluti
 	me.objective = objective_function
 
 	from qminospy.me2 import ME_NLP
-	print('Added exchange reactions: ')
+	print('Added exchange reactions ')
 	me = add_exchange_reactions(me,metabolites_to_add)
 	print('Objective: ', objective_function, me.reactions.get_by_id(objective_function).reaction)
 
@@ -219,7 +229,7 @@ def brute_force_check(me,metabolites_to_add,objective_function = 'biomass_diluti
 			gap_mets.append(met_id)
 			el_bool = ' gap'
             
-		print(met_id, status, f, el_bool)
+		print(met_id, status, f, el_bool, '... Gaps: ', len(gap_mets))
 	return gap_mets
 
 def solve_me_model(me, max_mu, precision=1e-6, min_mu=0, using_soplex=True,
@@ -249,3 +259,13 @@ def open_all_exchange(me):
 			rxn.upper_bound = 1000
 			rxn.lower_bound = -1000
 	return me
+
+def homogenize_reactions(model,ref_model):
+	rxn_dict = dict()
+	for rxn in model.reactions:
+		for ref_rxn in ref_model.reactions:
+			mets = rxn.metabolites
+			ref_mets = ref_rxn.metabolites
+			if (len(mets) == len(ref_mets)): # and (len(set(mets) & set(ref_mets)) == len(mets)):
+				rxn_dict[rxn] = ref_rxn
+	return rxn_dict
