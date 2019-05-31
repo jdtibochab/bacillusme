@@ -6,7 +6,10 @@ from cobrame.core.processdata import PostTranslationData
 from cobrame.core.reaction import PostTranslationReaction
 
 ## Pathways described by Ling Lin Fu et al. 2007
-pathway = {'sec': {'enzymes': {'BSU27650-MONOMER': {'length_dependent': True, # SecDF
+# SRP pathway is Sec-SRP
+pathway = {'sec': {'enzymes': {'SRP-CPLX': {'length_dependent': True, # SRP
+                                              'fixed_keff': False},
+                               'BSU27650-MONOMER': {'length_dependent': True, # SecDF
                                               'fixed_keff': False},
                                'BSU35300-MONOMER': {'length_dependent': True, # Motor
                                                 'fixed_keff': False},
@@ -17,18 +20,11 @@ pathway = {'sec': {'enzymes': {'BSU27650-MONOMER': {'length_dependent': True, # 
                    'stoichiometry': {'atp_c': -1./25., 'h2o_c': -1./25.,
                                      'adp_c': 1./25., 'pi_c': 1./25.,
                                      'h_c': 1./25.}},
-                                     
-            'srp': {'enzymes': {'SRP-CPLX': {'length_dependent': True,
-                                            'fixed_keff': False},
-                               'FtsY_MONOMER': {'length_dependent': False,
-                                                'fixed_keff': True},
-                               'Sec-CPLX': {'length_dependent': True,
-                                            'fixed_keff': False}},
-                   'keff': 20.,
+            'tat': {'enzymes': {'BSU05980-MONOMER': {'length_dependent': False,
+                                              'fixed_keff': False}},
+                   'keff': 0.0125,
                    'length_dependent_energy': False,
-                   'stoichiometry': {'gtp_c': -2., 'h2o_c': -2., 'gdp_c': 2.,
-                                     'pi_c': 2., 'h_c': 2.}},
-
+                   'stoichiometry': {}},
             'yqjG': {'enzymes': {'BSU15980-MONOMER': {'length_dependent': True,
                                              'fixed_keff': False},
                                 'BSU23890-MONOMER': {'length_dependent': True,
@@ -38,9 +34,9 @@ pathway = {'sec': {'enzymes': {'BSU27650-MONOMER': {'length_dependent': True, # 
                     'stoichiometry': {'gtp_c': -1., 'h2o_c': -1., 'gdp_c': 1.,
                                       'pi_c': 1., 'h_c': 1.}}
            }
-abbreviation_to_pathway = {'s':'sec_translocation',
-                           'r': 'srp_translocation'
-                           'y': 'yqjG_translocation'}
+abbreviation_to_pathway = {'s': 'sec_translocation',
+                           'y': 'yqjG_translocation',
+                           't': 'tat_translocation'}
 
 # Some proteins require different numbers of a complex in order to be
 # translocated by a pathway
