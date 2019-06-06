@@ -250,15 +250,18 @@ def process_m_model(m_model, metabolites_file, m_to_me_map_file,
         reversible = rxn_info.loc[rxn_id, 'is_reversible']
         rxn.lower_bound = -1000 if reversible else 0
 
+    m_to_me_dict = m_to_me_df.to_dict()
     for met in list(m_model.metabolites):
-        met_id = remove_compartment(met.id)
-        if met_id not in met_info.index and met_id in m_to_me_df.index:
-            met_id = m_to_me_df.loc[met.id, 'me_name']
-            if met_id != '' and met_id != 'N/A':
-                met.id = met_id
+        met_id = met.id
+        if met_id in m_to_me_df.index:
+            new_met_id = m_to_me_df.loc[met.id, 'me_name']
+            if not new_met_id == 'eliminate':
+                print(new_met_id)
+                met.id = new_met_id
             else:
+                for reaction in met.reactions:
+                   reaction.remove_from_model()
                 met.remove_from_model()
-
     # Add formulas not included in metabolites.txt
     corrections.update_metabolite_formulas(m_model)
 

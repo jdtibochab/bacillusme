@@ -191,7 +191,7 @@ BSU24820-MONOMER	Inner_Membrane	BSU24820(1)	Inner_Membrane	s
 BSU03040-MONOMER	Inner_Membrane	BSU03040(1)	Inner_Membrane	s
 BSU08380-MONOMER	Inner_Membrane	BSU08380(1)	Inner_Membrane	s
 BSU11370-MONOMER	Inner_Membrane	BSU11370(1)	Inner_Membrane	s
-BSU14050-MONOMER	Outer_Membrane	BSU14050(1)	Outer_Membrane	s
+BSU14050-MONOMER	Outer_Membrane	BSU14050(1)	Outer_Membrane	t
 BSU25740-MONOMER	Inner_Membrane	BSU25740(1)	Inner_Membrane	s
 BSU19180-MONOMER	Inner_Membrane	BSU19180(1)	Inner_Membrane	s
 BSU38710-MONOMER	Inner_Membrane	BSU38710(1)	Inner_Membrane	s
@@ -930,7 +930,7 @@ BSU27729-MONOMER	Inner_Membrane	BSU27729(1)	Inner_Membrane	s
 BSU02590-MONOMER	Inner_Membrane	BSU02590(1)	Inner_Membrane	s
 BSU35950-MONOMER	Inner_Membrane	BSU35950(1)	Inner_Membrane	s
 BSU13630-MONOMER	Inner_Membrane	BSU13630(1)	Inner_Membrane	s
-BSU35410-MONOMER	Inner_Membrane	BSU35410(1)	Inner_Membrane	s
+BSU35410-MONOMER	Inner_Membrane	BSU35410(1)	Inner_Membrane	t
 BSU15220-MONOMER	Inner_Membrane	BSU15220(1)	Inner_Membrane	s
 BSU07520-MONOMER	Inner_Membrane	BSU07520(1)	Inner_Membrane	s
 BSU39810-MONOMER	Inner_Membrane	BSU39810(1)	Inner_Membrane	s

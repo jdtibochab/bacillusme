@@ -132,19 +132,45 @@ def identify_precursors(me,metabolite_id,only_direct_precursors = False,ignore_c
 	print(len(precursors))
 	return precursors,direct_precursors
 
-def print_reactions_of_met(me,met,s = 0):
+def get_reactions_of_met(me,met,s = 0, ignore_ids = [], verbose = True):
 	import copy
 	met_stoich = 0
+
+	reactions = []
+
 	for rxn in me.metabolites.get_by_id(met).reactions:
+		if ignore_ids:
+			i = 0
+			for identifier in ignore_ids:
+				if identifier in rxn.id:
+					i = 1
+					break
+			if i:
+				continue
+
 		reactants = [met.id for met in rxn.reactants]
 		products = [met.id for met in rxn.products]
-		if s == 1 and met in products:
-			print('(',rxn.id,rxn.lower_bound,rxn.upper_bound,')', '\t',rxn.reaction)
-		elif s == -1 and met in reactants:
-			print('(',rxn.id,rxn.lower_bound,rxn.upper_bound,')', '\t',rxn.reaction)
-		elif s == 0:
-			print('(',rxn.id,rxn.lower_bound,rxn.upper_bound,')', '\t',rxn.reaction)
-        
+
+		try:
+			if s == 1 and met in products:
+				reactions.append(rxn)
+				if verbose:
+					print('(',rxn.id,rxn.lower_bound,rxn.upper_bound,')', '\t',rxn.reaction)
+			elif s == -1 and met in reactants:
+				reactions.append(rxn)
+				if verbose:
+					print('(',rxn.id,rxn.lower_bound,rxn.upper_bound,')', '\t',rxn.reaction)
+			elif s == 0:
+				reactions.append(rxn)
+				if verbose:
+					print('(',rxn.id,rxn.lower_bound,rxn.upper_bound,')', '\t',rxn.reaction)
+		except:
+			if verbose:
+				print(rxn.id, 'no reaction')
+			else:
+				pass
+	return reactions
+
 def add_exchange_reactions(me,metabolites):
 	for met in metabolites:
 		rxn_id = "EX_" + met
@@ -261,13 +287,15 @@ def open_all_exchange(me):
 
 def homogenize_reactions(model,ref_model):
 	rxn_dict = dict()
+	rxn_id_dict = {}
 	for rxn in model.reactions:
 		for ref_rxn in ref_model.reactions:
-			mets = rxn.metabolites
-			ref_mets = ref_rxn.metabolites
-			if (len(mets) == len(ref_mets)): # and (len(set(mets) & set(ref_mets)) == len(mets)):
+			met_ids = [met.id for met in rxn.metabolites]
+			ref_met_ids = [met.id for met in ref_rxn.metabolites]
+			if (len(met_ids) == len(ref_met_ids)) and (len(set(met_ids) & set(ref_met_ids)) == len(met_ids)):
 				rxn_dict[rxn] = ref_rxn
-	return rxn_dict
+				rxn_id_dict[rxn.id] = ref_rxn.id
+	return rxn_dict,rxn_id_dict
 
 def exchange_single_model(me, solution = 0):
 	import pandas as pd
@@ -307,3 +335,29 @@ def get_metabolites_from_pattern(model,pattern):
 		if pattern in met.id:
 			met_list.append(met.id)
 	return met_list
+
+def flux_based_reactions(model,met_id,s,ignore_ids=[],threshold = 0.2,solution=0,):
+	if not solution:
+		solution = model.solution
+
+	flux_dict = solution.x_dict
+	reactions = get_reactions_of_met(model,met_id,s,ignore_ids,False)
+
+	met_stoich = {}
+	for rxn in reactions:
+		for rxn_met,stoich in rxn.metabolites.items():
+			if rxn_met.id == met_id:
+				if hasattr(stoich, 'subs'):
+					met_stoich[rxn.id] = float(stoich.subs('mu',solution.f))
+				else:
+					met_stoich[rxn.id] = stoich
+				break
+
+	fluxes = [flux_dict[rxn.id]*met_stoich[rxn.id] for rxn in reactions]
+	max_precursor_flux = max(fluxes)
+
+	for rxn in reactions:
+		flux = flux_dict[rxn.id]*met_stoich[rxn.id]
+		if abs(flux) > abs(threshold*max_precursor_flux):
+			print(rxn.id,'(',flux,')',rxn.reaction)
+

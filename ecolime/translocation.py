@@ -15,7 +15,7 @@ pathway = {'sec': {'enzymes': {'SRP-CPLX': {'length_dependent': True, # SRP
                                                 'fixed_keff': False},
                                'secYEG': {'length_dependent': True, # Pore
                                             'fixed_keff': False}},
-                   'keff': 4.,
+                   'keff': 20.,
                    'length_dependent_energy': True,
                    'stoichiometry': {'atp_c': -1./25., 'h2o_c': -1./25.,
                                      'adp_c': 1./25., 'pi_c': 1./25.,
@@ -24,18 +24,9 @@ pathway = {'sec': {'enzymes': {'SRP-CPLX': {'length_dependent': True, # SRP
                                               'fixed_keff': False}},
                    'keff': 0.0125,
                    'length_dependent_energy': False,
-                   'stoichiometry': {}},
-            'yqjG': {'enzymes': {'BSU15980-MONOMER': {'length_dependent': True,
-                                             'fixed_keff': False},
-                                'BSU23890-MONOMER': {'length_dependent': True,
-                                                 'fixed_keff': False}},
-                    'keff': 20.,
-                    'length_dependent_energy': False,
-                    'stoichiometry': {'gtp_c': -1., 'h2o_c': -1., 'gdp_c': 1.,
-                                      'pi_c': 1., 'h_c': 1.}}
+                   'stoichiometry': {}}
            }
 abbreviation_to_pathway = {'s': 'sec_translocation',
-                           'y': 'yqjG_translocation',
                            't': 'tat_translocation'}
 
 # Some proteins require different numbers of a complex in order to be
