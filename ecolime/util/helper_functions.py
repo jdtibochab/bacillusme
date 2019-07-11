@@ -258,7 +258,7 @@ def brute_force_check(me,metabolites_to_add,objective_function = 'biomass_diluti
 	return gap_mets
 
 def solve_me_model(me, max_mu, precision=1e-6, min_mu=0, using_soplex=True,
-                  compiled_expressions=None):
+                  compiled_expressions=None, verbosity = 2):
     if using_soplex:
         from cobrame.solve.algorithms import binary_search
         binary_search(me, min_mu=min_mu, max_mu=max_mu, debug=True, mu_accuracy=precision,
@@ -268,8 +268,11 @@ def solve_me_model(me, max_mu, precision=1e-6, min_mu=0, using_soplex=True,
         # The object containing solveME methods--composite that uses a ME model object 
         me_nlp = ME_NLP1(me, growth_key='mu')
         # Use bisection for now (until the NLP formulation is worked out)
-        muopt, hs, xopt, cache = me_nlp.bisectmu(precision=precision, mumax=max_mu)
-        me.solution.f = me.solution.x_dict['biomass_dilution']
+        muopt, hs, xopt, cache = me_nlp.bisectmu(precision=precision, mumax=max_mu, verbosity=verbosity)
+        try:
+        	me.solution.f = me.solution.x_dict['biomass_dilution']
+        except:
+        	pass
 
 def show_escher_map(me, solution=None):
     import escher
@@ -361,3 +364,80 @@ def flux_based_reactions(model,met_id,s,ignore_ids=[],threshold = 0.2,solution=0
 		if abs(flux) > abs(threshold*max_precursor_flux):
 			print(rxn.id,'(',flux,')',rxn.reaction)
 
+def gene_essentiality(model, model_type = 'm',  lim = 0.01, NP = 1, initial_f = 0):
+	global GE_dict
+	GE_dict = {}
+
+	## Initialization
+	if not initial_f:
+		if model_type == 'm':
+			model.optimize()
+		elif model_type =='me':
+			solve_me_model(model, 1., min_mu = .1, precision=1e-2, using_soplex=False, verbosity=2)
+
+		if model.solution.status != 'optimal':
+			print('Model not feasible')
+			return
+		initial_f = model.solution.f
+	else:
+		print('Known initial_f = ', initial_f)
+
+	## Calculation
+	if NP == 1:
+		for gene in model.genes:
+			_,result = single_gene_knockout(model, gene.id, initial_f, model_type,  lim) 
+			GE_dict[gene.id] = result
+	else:
+		def collect_result(result):
+			GE_dict[result[0]] = result[1]
+
+		import multiprocessing as mp
+		print("Number of processors: ", NP)
+		# Initiate pool
+		pool = mp.Pool(NP)
+		# Calculation
+		for gene in model.genes:
+			pool.apply_async(single_gene_knockout, args=(model, gene.id, initial_f, model_type, lim), callback=collect_result)
+		# Close
+		pool.close()
+		pool.join()
+	return GE_dict
+
+
+def single_gene_knockout(model, gene_id, initial_f, model_type,  lim):
+	from copy import copy
+	temp_model = copy(model)
+	if model_type == 'm':
+		temp_gene = temp_model.genes.get_by_id(gene_id)
+		reactions = temp_gene.reactions
+		for reaction in reactions:
+			rule = reaction.gene_reaction_rule
+			individual_rules = rule.split(' or ')
+			if len(individual_rules) == 1:
+				reaction.lower_bound = 0.
+				reaction.upper_bound = 0.
+		temp_model.optimize()
+	elif model_type == 'me':
+		protein = temp_model.metabolites.get_by_id('protein_' + gene_id)
+		reactions = protein.reactions
+		for reaction in reactions:
+			reaction.lower_bound = 0.
+			reaction.upper_bound = 0.
+		solve_me_model(temp_model, 1., min_mu = .1, precision=1e-2, using_soplex=False,verbosity=0)
+	try:
+		gene_f = temp_model.solution.f
+		c = (gene_f-initial_f)/initial_f
+	except:
+		c = -1.
+		
+	if c < (lim - 1):
+		result= 'e'
+	elif c > lim:
+		result = '+'
+	elif c < -lim:
+		result = '-'
+	else:
+		result = '0'
+	#print(model, gene.id, initial_f, model_type, lim)
+	print(gene_id,result,c)
+	return gene_id, result
