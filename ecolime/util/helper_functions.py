@@ -365,6 +365,7 @@ def flux_based_reactions(model,met_id,s,ignore_ids=[],threshold = 0.2,solution=0
 			print(rxn.id,'(',flux,')',rxn.reaction)
 
 def gene_essentiality(model, model_type = 'm',  lim = 0.01, NP = 1, initial_f = 0):
+	import numpy as np
 	global GE_dict
 	GE_dict = {}
 
@@ -383,13 +384,15 @@ def gene_essentiality(model, model_type = 'm',  lim = 0.01, NP = 1, initial_f = 
 		print('Known initial_f = ', initial_f)
 
 	## Calculation
+	flux_matrix = np.zeros((len(model.reactions),len(model.genes)))
 	if NP == 1:
 		for gene in model.genes:
-			_,result = single_gene_knockout(model, gene.id, initial_f, model_type,  lim) 
+			_,result,flux_vector = single_gene_knockout(model, gene.id, initial_f, model_type,  lim)
 			GE_dict[gene.id] = result
 	else:
 		def collect_result(result):
-			GE_dict[result[0]] = result[1]
+			GE_dict[result[0]]['ans'] = result[1]
+			GE_dict[result[0]]['dist'] = result[2]
 
 		import multiprocessing as mp
 		print("Number of processors: ", NP)
@@ -426,10 +429,11 @@ def single_gene_knockout(model, gene_id, initial_f, model_type,  lim):
 		solve_me_model(temp_model, 1., min_mu = .1, precision=1e-2, using_soplex=False,verbosity=0)
 	try:
 		gene_f = temp_model.solution.f
+		flux_vector = temp_model.solution.x
 		c = (gene_f-initial_f)/initial_f
 	except:
 		c = -1.
-		
+
 	if c < (lim - 1):
 		result= 'e'
 	elif c > lim:
@@ -440,4 +444,21 @@ def single_gene_knockout(model, gene_id, initial_f, model_type,  lim):
 		result = '0'
 	#print(model, gene.id, initial_f, model_type, lim)
 	print(gene_id,result,c)
-	return gene_id, result
+	return gene_id, result, flux_vector
+
+def generate_gene_field(me,identifier):
+	import cobra
+	current_gene_ids = [gene.id for gene in me.genes]
+	for met in me.metabolites:
+	    met_id = met.id
+	    if identifier in met_id:
+	        gene_id = met_id.split('_')[1]
+	        if gene_id and gene_id not in current_gene_ids:
+	            try:
+	                gene = cobra.Gene(gene_id)
+	                me.genes.append(gene)
+	                print(gene_id)
+	            except:
+	                pass
+
+	return me
