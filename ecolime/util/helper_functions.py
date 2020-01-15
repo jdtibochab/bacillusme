@@ -1,4 +1,5 @@
 import cobrame
+from tqdm import tqdm
 
 def get_base_complex_data(model, complex_id):
     """If a complex is modified in a metabolic reaction it will not
@@ -59,6 +60,10 @@ def test_metabolite_production(me,metabolites,muf = 0.):
 	from qminospy.me2 import ME_NLP
 	gap_mets = []
 
+	if not muf and me.global_info['k_deg'] != 0:
+		print ('Updating model with kdeg = 0 for mu = 0')
+		me.global_info['k_deg'] = 0.
+		me.update()
 
 	for met_id in metabolites:
 
@@ -71,7 +76,6 @@ def test_metabolite_production(me,metabolites,muf = 0.):
 			print(me.reactions.get_by_id(r_id).id,' already in model')
         #print_reactions_of_met(me,met_id)
 		me.objective = r_id
-        
         
 		me_nlp = ME_NLP(me, growth_key='mu')
 		x,status,hs = me_nlp.solvelp(muf)
@@ -288,14 +292,22 @@ def open_all_exchange(me):
 			rxn.lower_bound = -1000
 	return me
 
+def is_same_reaction(rxn,ref_rxn):
+	met_ids = [met.id for met in rxn.metabolites]
+	ref_met_ids = [met.id for met in ref_rxn.metabolites]
+
+	i = 0
+	if (len(met_ids) == len(ref_met_ids)) and (len(set(met_ids) & set(ref_met_ids)) == len(met_ids)):
+		i = 1
+
+	return i
+
 def homogenize_reactions(model,ref_model):
 	rxn_dict = dict()
 	rxn_id_dict = {}
-	for rxn in model.reactions:
+	for rxn in tqdm(model.reactions):
 		for ref_rxn in ref_model.reactions:
-			met_ids = [met.id for met in rxn.metabolites]
-			ref_met_ids = [met.id for met in ref_rxn.metabolites]
-			if (len(met_ids) == len(ref_met_ids)) and (len(set(met_ids) & set(ref_met_ids)) == len(met_ids)):
+			if is_same_reaction(rxn,ref_rxn):
 				rxn_dict[rxn] = ref_rxn
 				rxn_id_dict[rxn.id] = ref_rxn.id
 	return rxn_dict,rxn_id_dict
