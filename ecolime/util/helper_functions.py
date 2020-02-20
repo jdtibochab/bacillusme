@@ -1,5 +1,6 @@
 import cobrame
 from tqdm import tqdm
+import pandas as pd
 
 def get_base_complex_data(model, complex_id):
     """If a complex is modified in a metabolic reaction it will not
@@ -351,7 +352,7 @@ def get_metabolites_from_pattern(model,pattern):
 			met_list.append(met.id)
 	return met_list
 
-def flux_based_reactions(model,met_id,s,ignore_ids=[],threshold = 0.2,solution=0,):
+def flux_based_reactions(model,met_id,s,ignore_ids=[],threshold = 0.2,solution=0):
 	if not solution:
 		solution = model.solution
 
@@ -371,10 +372,13 @@ def flux_based_reactions(model,met_id,s,ignore_ids=[],threshold = 0.2,solution=0
 	fluxes = [flux_dict[rxn.id]*met_stoich[rxn.id] for rxn in reactions]
 	max_precursor_flux = max(fluxes)
 
+	reactions_with_flux = []
 	for rxn in reactions:
 		flux = flux_dict[rxn.id]*met_stoich[rxn.id]
 		if abs(flux) > abs(threshold*max_precursor_flux):
 			print(rxn.id,'(',flux,')',rxn.reaction)
+			reactions_with_flux.append(rxn)
+	return reactions_with_flux
 
 def gene_essentiality(model, model_type = 'm',  lim = 0.01, NP = 1, initial_f = 0):
 	import numpy as np
@@ -474,3 +478,18 @@ def generate_gene_field(me,identifier):
 	                pass
 
 	return me
+
+def solution_summary(me):
+	reactions = [rxn.id for rxn in me.reactions]
+	summary_df = pd.DataFrame(columns=['lb','ub','flux','formula'],index=reactions)
+
+	for rxn_id in tqdm(reactions):
+		rxn = me.reactions.get_by_id(rxn_id)
+		summary_df.loc[rxn_id]['lb'] = rxn.lower_bound
+		summary_df.loc[rxn_id]['ub'] = rxn.upper_bound
+		summary_df.loc[rxn_id]['flux'] = me.solution.x_dict[rxn_id]
+		summary_df.loc[rxn_id]['formula'] = rxn.reaction
+		
+	return summary_df
+
+
