@@ -5,28 +5,56 @@ from collections import defaultdict
 from cobrame.core.processdata import PostTranslationData
 from cobrame.core.reaction import PostTranslationReaction
 
-## Pathways described by Ling Lin Fu et al. 2007
-# SRP pathway is Sec-SRP
-pathway = {'sec': {'enzymes': {'SRP-CPLX': {'length_dependent': True, # SRP
+## Pathways described by Ling Lin Fu et al. 2007 and Zhang etl a., 2019
+# Sec-SRP is the major pathway (Fu te al., 2007)
+# SRP pathway is Sec-SRP (cotranslational export, Zhang et al. 2019)
+pathway = {'srp': {'enzymes': {'SRP-CPLX': {'length_dependent': True, # SRP
                                               'fixed_keff': False},
                                'BSU27650-MONOMER': {'length_dependent': True, # SecDF
                                               'fixed_keff': False},
-                               'BSU35300-MONOMER': {'length_dependent': True, # Motor
+                               'BSU35300-MONOMER': {'length_dependent': True, # SecA, Motor
                                                 'fixed_keff': False},
-                               'secYEG': {'length_dependent': True, # Pore
+                               'secYEG': {'length_dependent': True, # SecYEG, Pore
                                             'fixed_keff': False}},
                    'keff': 20.,
                    'length_dependent_energy': True,
                    'stoichiometry': {'atp_c': -1./25., 'h2o_c': -1./25.,
                                      'adp_c': 1./25., 'pi_c': 1./25.,
                                      'h_c': 1./25.}},
-            'tat': {'enzymes': {'BSU05980-MONOMER': {'length_dependent': False,
-                                              'fixed_keff': False}},
+            # Sec (Posttranslational export, Zhang et al. 2019) HOW TO KNOW WHEN?
+            # This one is not being currently used
+            'sec': {'enzymes': {'BSU27650-MONOMER': {'length_dependent': True, # SecDF
+                                              'fixed_keff': False},
+                                'BSU35300-MONOMER': {'length_dependent': True, # SecA, Motor
+                                                'fixed_keff': False},
+                                'secYEG': {'length_dependent': True, # SecYEG, Pore
+                                            'fixed_keff': False}},
+                   'keff': 4.,
+                   'length_dependent_energy': True,
+                   'stoichiometry': {'atp_c': -1./25., 'h2o_c': -1./25.,
+                                     'adp_c': 1./25., 'pi_c': 1./25.,
+                                     'h_c': 1./25.}},
+
+            'tat': {'enzymes': {
+                                # Three TatA components (Zhang et al, 2019)
+                                'BSU05980-MONOMER': {'length_dependent': False, # tatAY
+                                              'fixed_keff': False},
+                                'BSU02630-MONOMER': {'length_dependent': False, # tatAD
+                                              'fixed_keff': False},
+                                'BSU17710-MONOMER': {'length_dependent': False, # tatAC
+                                              'fixed_keff': False},
+                                #Two TatC components (Zhang et al, 2019)
+                                'BSU02640-MONOMER': {'length_dependent': False, # tatAC
+                                              'fixed_keff': False},
+                                'BSU05990-MONOMER': {'length_dependent': False, # tatAC
+                                              'fixed_keff': False},
+                                },
                    'keff': 0.0125,
                    'length_dependent_energy': False,
                    'stoichiometry': {}}
            }
-abbreviation_to_pathway = {'s': 'sec_translocation',
+abbreviation_to_pathway = {'p': 'sec_translocation',
+                           's': 'srp_translocation',
                            't': 'tat_translocation'}
 
 # Some proteins require different numbers of a complex in order to be

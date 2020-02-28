@@ -89,6 +89,9 @@ def test_metabolite_production(me,metabolites,muf = 0.):
 	return gap_mets
 
 def identify_precursors(me,metabolite_id,only_direct_precursors = False,ignore_classes = None, force_classes = None):
+	
+	### NOT WORKING YET
+
 	import copy
 	precursors = []
 	formation_reactions = []
@@ -142,6 +145,10 @@ def get_reactions_of_met(me,met,s = 0, ignore_ids = [], verbose = True):
 	met_stoich = 0
 
 	reactions = []
+
+	all_mets = [met.id for met in me.metabolites]
+	if met not in all_mets:
+		return 0
 
 	for rxn in me.metabolites.get_by_id(met).reactions:
 		if ignore_ids:
@@ -262,22 +269,29 @@ def brute_force_check(me,metabolites_to_add,objective_function = 'biomass_diluti
 		print(met_id, status, f, el_bool, '... Gaps: ', len(gap_mets))
 	return gap_mets
 
-def solve_me_model(me, max_mu, precision=1e-6, min_mu=0, using_soplex=True,
-                  compiled_expressions=None, verbosity = 2):
-    if using_soplex:
-        from cobrame.solve.algorithms import binary_search
-        binary_search(me, min_mu=min_mu, max_mu=max_mu, debug=True, mu_accuracy=precision,
-                      compiled_expressions=compiled_expressions)
-    else:
-        from qminospy.me1 import ME_NLP1
-        # The object containing solveME methods--composite that uses a ME model object 
-        me_nlp = ME_NLP1(me, growth_key='mu')
-        # Use bisection for now (until the NLP formulation is worked out)
-        muopt, hs, xopt, cache = me_nlp.bisectmu(precision=precision, mumax=max_mu, verbosity=verbosity)
-        try:
-        	me.solution.f = me.solution.x_dict['biomass_dilution']
-        except:
-        	pass
+def solve_me_model(me, max_mu=1., precision=1e-6, min_mu=0, using_soplex=True,
+                  compiled_expressions=None, verbosity = 2, mu_fix = False):
+	from qminospy.me1 import ME_NLP1
+
+	## If fixed growth rate, solve as LP
+	if mu_fix:
+		me_nlp = ME_NLP1(me)
+		me_nlp.solvelp(mu_fix)
+	else:
+		## Full solve. USE ME_NLP.solvenlp???
+		if using_soplex:
+			from cobrame.solve.algorithms import binary_search
+			binary_search(me, min_mu=min_mu, max_mu=max_mu, debug=True, mu_accuracy=precision,
+				compiled_expressions=compiled_expressions)
+		else:
+			# The object containing solveME methods--composite that uses a ME model object 
+			me_nlp = ME_NLP1(me, growth_key='mu')
+			# Use bisection for now (until the NLP formulation is worked out)
+			muopt, hs, xopt, cache = me_nlp.bisectmu(precision=precision, mumax=max_mu, verbosity=verbosity)
+			try:
+				me.solution.f = me.solution.x_dict['biomass_dilution']
+			except:
+				pass
 
 def show_escher_map(me, solution=None):
     import escher
@@ -304,13 +318,22 @@ def is_same_reaction(rxn,ref_rxn):
 	return i
 
 def homogenize_reactions(model,ref_model):
+	all_ref_rxns = [rxn.id for rxn in ref_model.reactions] 
 	rxn_dict = dict()
 	rxn_id_dict = {}
 	for rxn in tqdm(model.reactions):
-		for ref_rxn in ref_model.reactions:
+		if rxn.id in all_ref_rxns:
+			ref_rxn = ref_model.reactions.get_by_id(rxn.id)
+			# Check if rxn has same ID in ref_model to avoid iterating
 			if is_same_reaction(rxn,ref_rxn):
 				rxn_dict[rxn] = ref_rxn
 				rxn_id_dict[rxn.id] = ref_rxn.id
+			# If rxn is not in ref_model, iterate
+			else:
+				for ref_rxn in ref_model.reactions:
+					if is_same_reaction(rxn,ref_rxn):
+						rxn_dict[rxn] = ref_rxn
+						rxn_id_dict[rxn.id] = ref_rxn.id
 	return rxn_dict,rxn_id_dict
 
 def exchange_single_model(me, solution = 0):
@@ -342,7 +365,7 @@ def exchange_single_model(me, solution = 0):
 			complete_dict['flux'].append(flux)
 
 
-	df = pd.DataFrame(complete_dict)
+	df = pd.DataFrame(complete_dict).set_index('id')
 	return df
 
 def get_metabolites_from_pattern(model,pattern):
@@ -380,7 +403,7 @@ def flux_based_reactions(model,met_id,s,ignore_ids=[],threshold = 0.2,solution=0
 			reactions_with_flux.append(rxn)
 	return reactions_with_flux
 
-def gene_essentiality(model, model_type = 'm',  lim = 0.01, NP = 1, initial_f = 0):
+def gene_essentiality(model, model_type = 'm',  lim = 0.01, NP = 1, initial_f = 0,precision=1e-6):
 	import numpy as np
 	global GE_dict
 	GE_dict = {}
@@ -390,7 +413,7 @@ def gene_essentiality(model, model_type = 'm',  lim = 0.01, NP = 1, initial_f = 
 		if model_type == 'm':
 			model.optimize()
 		elif model_type =='me':
-			solve_me_model(model, 1., min_mu = .1, precision=1e-2, using_soplex=False, verbosity=2)
+			solve_me_model(model, 1., min_mu = .1, precision=precision, using_soplex=False, verbosity=2)
 
 		if model.solution.status != 'optimal':
 			print('Model not feasible')
@@ -492,4 +515,11 @@ def solution_summary(me):
 		
 	return summary_df
 
+def get_flux_for_escher(model,type='m'):
 
+	if type == 'm':
+		flux_dict = model.solution.x_dict
+	elif type == 'me':
+		flux_dict = model.get_metabolic_flux(solution=me.solution)
+
+	return pd.DataFrame.from_dict({'flux':flux_dict})
