@@ -72,8 +72,9 @@ def gene_knockout_responses(model,genes, model_type, NP = 1, precision=1e-6):
 		pbar = tqdm(total=len(genes))
 		pbar.set_description('{} threads'.format(NP))
 		def collect_result(result):
-			flux_dict[result[0]] = result[1]
 			pbar.update(1)
+			flux_dict[result[0]] = result[1]
+			
 		import multiprocessing as mp
 		# Initiate pool
 		pool = mp.Pool(NP)

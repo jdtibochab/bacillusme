@@ -83,14 +83,13 @@ def all_flux_responses(me,met_ids,mu_fix=False,solution=0,NP=1,precision=1e-6):
 	'''
 	# Correct number of threads if necessary
 	NP = min([NP,len(met_ids)])
-	print('Calculating {} flux responses with {} threads'.format(len(met_ids),NP))
-
 	if not solution:
 	    solve_me_model(me, 0.2, min_mu = .05, using_soplex=False,\
 	    	 precision = precision,mu_fix=mu_fix,verbosity=0)
 	flux_dict = dict()
 	flux_dict['base'] = me.solution.x_dict
 	
+	obj = [rxn.id for rxn in me.objective][0]
 
 	if NP == 1:
 	    for met_id in met_ids:
@@ -100,9 +99,11 @@ def all_flux_responses(me,met_ids,mu_fix=False,solution=0,NP=1,precision=1e-6):
 	    import multiprocessing as mp
 	    pool = mp.Pool(NP)
 	    pbar = tqdm(total=len(met_ids))
+	    pbar.set_description('{} response ({} threads)'.format(obj,NP))
 	    def collect_result(result):
+	    	pbar.update(1)
 	        flux_dict[result[0]] = result[1]
-	        pbar.update(1)
+	        
 	    for met_id in met_ids:
 	        pool.apply_async(single_flux_response, args=(me,met_id,mu_fix,\
 	        		precision), callback=collect_result)

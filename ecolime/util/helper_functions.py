@@ -163,19 +163,21 @@ def get_reactions_of_met(me,met,s = 0, ignore_ids = [], verbose = True):
 		reactants = [met.id for met in rxn.reactants]
 		products = [met.id for met in rxn.products]
 
+		pos = 1 if met in products else -1
+		rev = 1 if rxn.lower_bound < 0 else 0
+		fwd = 1 if rxn.upper_bound > 0 else 0
+
 		try:
-			if s == 1 and met in products:
+			if not s:
 				reactions.append(rxn)
 				if verbose:
 					print('(',rxn.id,rxn.lower_bound,rxn.upper_bound,')', '\t',rxn.reaction)
-			elif s == -1 and met in reactants:
+
+			elif s == pos*fwd or s == pos*rev:
 				reactions.append(rxn)
 				if verbose:
 					print('(',rxn.id,rxn.lower_bound,rxn.upper_bound,')', '\t',rxn.reaction)
-			elif s == 0:
-				reactions.append(rxn)
-				if verbose:
-					print('(',rxn.id,rxn.lower_bound,rxn.upper_bound,')', '\t',rxn.reaction)
+			
 		except:
 			if verbose:
 				print(rxn.id, 'no reaction')
@@ -403,88 +405,6 @@ def flux_based_reactions(model,met_id,s,ignore_ids=[],threshold = 0.2,solution=0
 			reactions_with_flux.append(rxn)
 	return reactions_with_flux
 
-def gene_essentiality(model, model_type = 'm',  lim = 0.01, NP = 1, initial_f = 0,precision=1e-6):
-	import numpy as np
-	global GE_dict
-	GE_dict = {}
-
-	## Initialization
-	if not initial_f:
-		if model_type == 'm':
-			model.optimize()
-		elif model_type =='me':
-			solve_me_model(model, 1., min_mu = .1, precision=precision, using_soplex=False, verbosity=2)
-
-		if model.solution.status != 'optimal':
-			print('Model not feasible')
-			return
-		initial_f = model.solution.f
-	else:
-		print('Known initial_f = ', initial_f)
-
-	## Calculation
-	flux_matrix = np.zeros((len(model.reactions),len(model.genes)))
-	if NP == 1:
-		for gene in model.genes:
-			_,result,flux_vector = single_gene_knockout(model, gene.id, initial_f, model_type,  lim)
-			GE_dict[gene.id] = result
-	else:
-		def collect_result(result):
-			GE_dict[result[0]]['ans'] = result[1]
-			GE_dict[result[0]]['dist'] = result[2]
-
-		import multiprocessing as mp
-		print("Number of processors: ", NP)
-		# Initiate pool
-		pool = mp.Pool(NP)
-		# Calculation
-		for gene in model.genes:
-			pool.apply_async(single_gene_knockout, args=(model, gene.id, initial_f, model_type, lim), callback=collect_result)
-		# Close
-		pool.close()
-		pool.join()
-	return GE_dict
-
-
-def single_gene_knockout(model, gene_id, initial_f, model_type,  lim):
-	from copy import copy
-	temp_model = copy(model)
-	if model_type == 'm':
-		temp_gene = temp_model.genes.get_by_id(gene_id)
-		reactions = temp_gene.reactions
-		for reaction in reactions:
-			rule = reaction.gene_reaction_rule
-			individual_rules = rule.split(' or ')
-			if len(individual_rules) == 1:
-				reaction.lower_bound = 0.
-				reaction.upper_bound = 0.
-		temp_model.optimize()
-	elif model_type == 'me':
-		protein = temp_model.metabolites.get_by_id('protein_' + gene_id)
-		reactions = protein.reactions
-		for reaction in reactions:
-			reaction.lower_bound = 0.
-			reaction.upper_bound = 0.
-		solve_me_model(temp_model, 1., min_mu = .1, precision=1e-2, using_soplex=False,verbosity=0)
-	try:
-		gene_f = temp_model.solution.f
-		flux_vector = temp_model.solution.x
-		c = (gene_f-initial_f)/initial_f
-	except:
-		c = -1.
-
-	if c < (lim - 1):
-		result= 'e'
-	elif c > lim:
-		result = '+'
-	elif c < -lim:
-		result = '-'
-	else:
-		result = '0'
-	#print(model, gene.id, initial_f, model_type, lim)
-	print(gene_id,result,c)
-	return gene_id, result, flux_vector
-
 def generate_gene_field(me,identifier):
 	import cobra
 	current_gene_ids = [gene.id for gene in me.genes]
@@ -523,3 +443,4 @@ def get_flux_for_escher(model,type='m'):
 		flux_dict = model.get_metabolic_flux(solution=me.solution)
 
 	return pd.DataFrame.from_dict({'flux':flux_dict})
+
