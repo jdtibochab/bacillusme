@@ -148,7 +148,7 @@ def get_reactions_of_met(me,met,s = 0, ignore_ids = [], verbose = True):
 
 	all_mets = [met.id for met in me.metabolites]
 	if met not in all_mets:
-		return 0
+		return reactions
 
 	for rxn in me.metabolites.get_by_id(met).reactions:
 		if ignore_ids:

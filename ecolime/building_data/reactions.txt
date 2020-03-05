@@ -1249,3 +1249,4 @@ XYLt2	D-xylose_transport_in_via_proton_symport	0	iYO844	0
 ZNabc	Zinc_transport_via_ABC_system	0	iYO844	0
 ZN2t4	Zinc_transport_out_via_antiport	0	iYO844	0
 BALAt2r	Beta_Alanine_transport_in_via_proton_symport	0	iYO844	0
+CU2abc1		0	iYO844	0

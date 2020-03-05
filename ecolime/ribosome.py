@@ -29,43 +29,65 @@ from ecolime.corrections import correct_rrna_modifications
 
 
 # TODO Check how 2 gtp is added
-ribosome_stoich = {'30_S_assembly': {'stoich': {'BSU25410-MONOMER': 1,
-                                                        'BSU25550-MONOMER': 1,
-                                                        'BSU01200-MONOMER': 1,
-                                                        'BSU40890-MONOMER': 1,
-                                                        'BSU15990-MONOMER': 1,
-                                                        'BSU16680-MONOMER': 1,
-                                                        'BSU01100-MONOMER': 1,
-                                                        'BSU01150-MONOMER': 1,
-                                                        'BSU01500-MONOMER': 1,
-                                                        'BSU01110-MONOMER': 1,
-                                                        'BSU40910-MONOMER': 1,
-                                                        'BSU01330-MONOMER': 1,
-                                                        'BSU29660-MONOMER': 1,
-                                                        'BSU01220-MONOMER': 1,
-                                                        'BSU16490-MONOMER': 1,
-                                                        'BSU01410-MONOMER': 1,
-                                                        'BSU01300-MONOMER': 1,
-                                                        'BSU01290-MONOMER': 1,
-                                                        'BSU01250-MONOMER': 1,
-                                                        'BSU01420-MONOMER': 1,
-                                                        'generic_16s_rRNAs':
-                                                            1}},
+# Ribosome stoichiometry from SubtiWiki AND BsubCyc
+ribosome_stoich = {'30_S_assembly': {'stoich': {'BSU22880-MONOMER': 1, # S1
+                                                'BSU16490-MONOMER': 1, # S2
+                                                'BSU01220-MONOMER': 1, # S3
+                                                'BSU29660-MONOMER': 1, # S4
+                                                'BSU01330-MONOMER': 1, # S5
+                                                'BSU40910-MONOMER': 1, # S6
+                                                'BSU01110-MONOMER': 1, # S7
+                                                'BSU01300-MONOMER': 1, # S8
+                                                'BSU01500-MONOMER': 1, # S9
+                                                'BSU01150-MONOMER': 1, # S10
+                                                'BSU01420-MONOMER': 1, # S11
+                                                'BSU01100-MONOMER': 1, # S12
+                                                'BSU01410-MONOMER': 1, # S13
+                                                'BSU01290-MONOMER': 1, # S14
+                                                'BSU16680-MONOMER': 1, # S15
+                                                'BSU15990-MONOMER': 1, # S16
+                                                'BSU01250-MONOMER': 1, # S17
+                                                'BSU40890-MONOMER': 1, # S18
+                                                'BSU01200-MONOMER': 1, # S19
+                                                'BSU25550-MONOMER': 1, # S20
+                                                'BSU25410-MONOMER': 1, # S21                       
+                                                'generic_16s_rRNAs':1}},
                     '50_S_assembly': {'stoich': {'generic_23s_rRNAs': 1,
                                                   'generic_5s_rRNAs': 1,
-                                                  'BSU01310-MONOMER': 1,
-                                                  'BSU01260-MONOMER': 1,
-                                                  'BSU01350-MONOMER': 1,
-                                                  'BSU01230-MONOMER': 1,
-                                                  'BSU01320-MONOMER': 1,
-                                                  'BSU27940-MONOMER': 1,
-                                                  'BSU15820-MONOMER': 1,
-                                                  'BSU01340-MONOMER': 1,
-                                                  'BSU37070-MONOMER': 1,
-                                                  'BSU15080-MONOMER': 1,
-                                                  'BSU28860-MONOMER': 1,
-                                                  'BSU01400-MONOMER': 1,
-                                                  'BSU28230-MONOMER': 1},
+                                                  'BSU01030-MONOMER': 1, # L1
+                                                  'BSU01190-MONOMER': 1, # L2
+                                                  'BSU01160-MONOMER': 1, # L3
+                                                  'BSU01170-MONOMER': 1, # L4
+                                                  'BSU01280-MONOMER': 1, # L5
+                                                  'BSU01310-MONOMER': 1, # L6
+                                                  'BSU40500-MONOMER': 1, # L9
+                                                  'BSU01040-MONOMER': 1, # L10
+                                                  'BSU01020-MONOMER': 1, # L11
+                                                  'BSU01050-MONOMER': 1, # L12
+                                                  'BSU01490-MONOMER': 1, # L13
+                                                  'BSU01260-MONOMER': 1, # L14
+                                                  'BSU01350-MONOMER': 1, # L15
+                                                  'BSU01230-MONOMER': 1, # L16
+                                                  'BSU01440-MONOMER': 1, # L17
+                                                  'BSU01320-MONOMER': 1, # L18
+                                                  'BSU16040-MONOMER': 1, # L19
+                                                  'BSU28850-MONOMER': 1, # L20
+                                                  'BSU27960-MONOMER': 1, # L21
+                                                  'BSU01210-MONOMER': 1, # L22
+                                                  'BSU01180-MONOMER': 1, # L23
+                                                  'BSU01270-MONOMER': 1, # L24
+                                                  'BSU27940-MONOMER': 1, # L27
+                                                  'BSU15820-MONOMER': 1, # L28
+                                                  'BSU01240-MONOMER': 1, # L29
+                                                  'BSU01340-MONOMER': 1, # L30
+                                                  'BSU37070-MONOMER': 1, # L31
+                                                  'BSU15080-MONOMER': 1, # L32
+                                                  'BSU24900-MONOMER': 1, # L33a
+                                                  'BSU00990-MONOMER': 1, # L33b
+                                                  'BSU41060-MONOMER': 1, # L34
+                                                  'BSU28860-MONOMER': 1, # L35
+                                                  'BSU01400-MONOMER': 1, # L36
+                                                  'BSU28230-MONOMER': 1}, # Trigger factor
                                                   'mods': None,
                                                   'enzymes': None},
                    # TODO Make sure this isn't double counted
