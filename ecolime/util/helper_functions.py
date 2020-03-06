@@ -444,3 +444,16 @@ def get_flux_for_escher(model,type='m'):
 
 	return pd.DataFrame.from_dict({'flux':flux_dict})
 
+def get_transport_reactions(model,met_id,comps=['e','c'],verbose=1):
+	import re
+	from_met = re.sub('_.','_'+comps[0],met_id)
+	to_met = re.sub('_.','_'+comps[1],met_id)
+
+	prod_rxns = [rxn.id for rxn in get_reactions_of_met(model,to_met,s=1,verbose=verbose)]
+	cons_rxns = [rxn.id for rxn in get_reactions_of_met(model,from_met,s=-1,verbose=verbose)]
+
+	transport_rxn_ids = list(set(prod_rxns)&set(cons_rxns))
+
+	transport_rxns = [model.reactions.get_by_id(rxn_id) for rxn_id in transport_rxn_ids]
+
+	return transport_rxns
