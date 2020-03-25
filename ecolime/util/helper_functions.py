@@ -446,8 +446,8 @@ def get_flux_for_escher(model,type='m'):
 
 def get_transport_reactions(model,met_id,comps=['e','c'],verbose=1):
 	import re
-	from_met = re.sub('_.','_'+comps[0],met_id)
-	to_met = re.sub('_.','_'+comps[1],met_id)
+	from_met = re.sub('_.$','_'+comps[0],met_id)
+	to_met = re.sub('_.$','_'+comps[1],met_id)
 
 	prod_rxns = [rxn.id for rxn in get_reactions_of_met(model,to_met,s=1,verbose=verbose)]
 	cons_rxns = [rxn.id for rxn in get_reactions_of_met(model,from_met,s=-1,verbose=verbose)]

@@ -66,12 +66,15 @@ def add_dummy_demand(me,met_id,flux=0,fraction=0.01):
 	rxn.lower_bound = flux
 	rxn.upper_bound = flux
     
-def single_flux_response(me,met_id,mu_fix=False,precision=1e-6):
+def single_flux_response(me,met_id,mu_fix=False,precision=1e-6,single_change_function=False):
 	'''
 	This function calculates flux response of a single metabolite. Response of growth and energy are
-	sensitivity and cost, respectively.
+	sensitixvity and cost, respectively.
 	'''
-	add_dummy_demand(me,met_id)
+	if single_change_function: # User-defined change on the model.
+		single_change_function(me,met_id,value) # not functional yet
+	else: # Just normal sensitivity/cost calculation
+		add_dummy_demand(me,met_id)
 	solve_me_model(me, 0.2, min_mu = .05, using_soplex=False,\
 		 precision = precision,verbosity=0,mu_fix=mu_fix)
 	return met_id, me.solution.x_dict
@@ -115,22 +118,22 @@ def all_flux_responses(me,met_ids,mu_fix=False,solution=0,NP=1,precision=1e-6):
 def process_flux_responses(me,flux_results_df,base_rxn):
 	base_flux = flux_results_df.loc[base_rxn]['base']
 	met_ids = flux_results_df.columns.values
-	processed_results_df = pd.DataFrame(index=met_ids,\
-			columns=['molecular_weight','sensitivity'])
-
+	processed = {}
 	for met_id in met_ids:
 		if met_id == 'base':
 			continue
+		processed[met_id] = {}
 		new_flux = flux_results_df.loc[base_rxn][met_id]
 		met = me.metabolites.get_by_id(met_id)
 		met_flux = flux_results_df.loc['dummy_demand'][met_id]
 		response = (base_flux-new_flux)/met_flux
 		MW = met.formula_weight/1000
+		processed[met_id]['molecular_weight'] = MW
+		processed[met_id]['sensitivity'] = response
 
-		processed_results_df.loc[met_id]['molecular_weight'] = MW
-		processed_results_df.loc[met_id][base_rxn+'_response'] = response
+	processed_results_df = pd.DataFrame.from_dict(processed).T
 
-	return processed_results_df.drop('base')
+	return processed_results_df
 
 def sensitivity(me,met_ids,NP=1,solution=0,biomass_dilution='biomass_dilution',\
 		precision=1e-6):
