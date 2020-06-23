@@ -779,3 +779,4 @@ xyl__D	D-Xylose	C5H10O5	Cytosol AND Extra-organism
 xylu__D	D-Xylulose	C5H10O5	Cytosol
 zn2	Zinc	no-formula	Cytosol AND Extra-organism
 cu		no-formula	Cytosol AND Extra-organism
+cbl1		no-formula	Extra-organism AND Cytosol

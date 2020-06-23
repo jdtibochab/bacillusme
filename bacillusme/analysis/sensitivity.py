@@ -77,6 +77,8 @@ def single_flux_response(me,met_id,mu_fix=False,precision=1e-6,single_change_fun
         close_transporter(me,met_id)
     elif single_change_function == 'overexpress':
         overexpress_transporter(me,met_id)
+    elif single_change_function == 'group_knockout':
+        group_knockout(me,met_id)
     else: # Just normal sensitivity/cost calculation
         add_dummy_demand(me,met_id)
 
@@ -204,17 +206,22 @@ def overexpress_transporter(me,transport_id):
         
         r.lower_bound = base_flux*2
         r.upper_bound = base_flux*2
+        
+def group_knockout(me,met_id):
+    transport_reactions = get_transport_reactions(me,met_id,comps=['c','s']) \
+            + get_transport_reactions(me,met_id,comps=['s','c'])
+    for r in transport_reactions:
+        r.lower_bound = 0
+        r.upper_bound = 0    
 
 def transporter_knockout(me,transport_ids,NP=1,solution=0,precision=1e-6,growth_key='mu',\
-                        biomass_dilution='biomass_dilution',overexpress=False):
+                        biomass_dilution='biomass_dilution',single_change_function='transporter'):
     '''
     This function calculates the response of shutting down
     transporters.
-    '''   
-    if overexpress:
-        single_change_function = 'overexpress'
-    else:
-        single_change_function='transporter'
+    ''' 
+    
+    print('Chosen change function: {}'.format(single_change_function))
         
     flux_results_df = all_flux_responses(me,transport_ids,mu_fix=False,\
             solution=solution,NP=NP,precision=1e-6,\

@@ -23,7 +23,7 @@
 AAMYL_1	Alpha_amylase	0	iYO844	0
 AB6PGH	Arbutin_6-phosphate_glucohydrolase	0	iYO844	0
 ABTA	4-aminobutyrate_transaminase	1	iYO844	0
-ABTt_1	L_arabinitol_transport_via_passive_diffusion	1	iYO844	0
+ABTt_1	L_arabinitol_transport_via_passive_diffusion	1	iYO844	1
 ABUTD	Aminobutyraldehyde_dehydrogenase	0	iYO844	0
 MACCOAT	2-Methylacetyl-CoA_thiolase	1	iYO844	0
 ACACT1r	Acetyl-CoA_C-acetyltransferase	1	iYO844	0
@@ -155,7 +155,6 @@ ARBt2r	L-arabinose_transport_via_proton_symport	0	iYO844	0
 ARGDC	Arginine_decarboxylase	0	iYO844	0
 ARGKr	ATPL_arginine_N_phosphotransferase	1	iYO844	0
 ARGN_1	Arginase	0	iYO844	0
-ARGPt6	L_arginine_phosphate_transport_inout_via_proton_symport	1	iYO844	0
 ARGSL	Argininosuccinate_lyase	1	iYO844	0
 ARGSS	Argininosuccinate_synthase	1	iYO844	0
 ARGabc	L-arginine_transport_via_ABC_system	0	iYO844	0
@@ -219,7 +218,7 @@ CITt15	Citrate_transport_in_via_Zn_complex	0	iYO844	0
 CITt2r	Citrate_reversible_transport_via_symport	1	iYO844	0
 CLPNS2_BS	Cardiolipin_synthase	0	iYO844	0
 CMPt6	CMP_transport_inout_via_proton_symport	1	iYO844	0
-CO2t	CO2_transporter_via_diffusion	1	iYO844	0
+CO2t	CO2_transporter_via_diffusion	1	iYO844	1
 CPPPGO	Coproporphyrinogen_oxidase_(O2_required)	0	iYO844	0
 CRNabc	L-carnitine_transport_via_ABC_system	0	iYO844	0
 CRO4t3	Chromate_transport_out_via_proton_antiport	0	iYO844	0
@@ -272,7 +271,7 @@ DGNSK	Deoxyguanosine_kinase	0	iYO844	0
 DHAD1	Dihydroxy-acid_dehydratase_(2,3-dihydroxy-3-methylbutanoate)	0	iYO844	0
 DHAD2	Dihydroxy-acid_dehydratase_(2,3-dihydroxy-3-methylpentanoate)	0	iYO844	0
 DHAD3	Dihydroxy_acid_dehydratase__2_3_dihydroxy_3_methylpentanoate_	0	iYO844	0
-DHAt	Dihydroxyacetone_transport_via_facilitated_diffusion	1	iYO844	0
+DHAt	Dihydroxyacetone_transport_via_facilitated_diffusion	1	iYO844	1
 DHBD	2,3-dihydro-2,3-dihydroxybenzoate_dehydrogenase	1	iYO844	0
 DHBS	2,3-dihydroxybenzoate_adenylate_synthase	0	iYO844	0
 DHDPRy	Dihydrodipicolinate_reductase_(NADPH)	0	iYO844	0
@@ -716,7 +715,7 @@ GUAPRT	Guanine_phosphoribosyltransferase	1	iYO844	0
 GUAt2r	Guanine_reversible_transport_via_proton_symport	0	iYO844	0
 GUI1	Glucuronate_isomerase_(D-glucuronate)	1	iYO844	0
 GUI2	Glucuronate_isomerase_(D-galacturonate)	1	iYO844	0
-H2Ot	H2O_transport_via_diffusion	1	iYO844	0
+H2Ot	H2O_transport_via_diffusion	1	iYO844	1
 HACD1_1	3_hydroxyacyl_CoA_dehydrogenase__acetoacetyl_CoA_	1	iYO844	0
 HACD2	3-hydroxyacyl-CoA_dehydrogenase_(3-oxohexanoyl-CoA)	1	iYO844	0
 HACD3	3-hydroxyacyl-CoA_dehydrogenase_(3-oxooctanoyl-CoA)	1	iYO844	0
@@ -804,7 +803,7 @@ KAS8	B-ketoacyl_synthetase_(palmitate,_n-C16:0)	0	iYO844	0
 KAS9	B-ketoacyl_synthetase_(Iso-C17:1)	0	iYO844	0
 Kt2r	Potassium_reversible_transport__via_proton_symport	0	iYO844	0
 Kt3r	Potassium_transport_out_via_proton_antiport	0	iYO844	0
-Kt1	Potassium_transport_via_uniport_(facilitated_diffusion)	1	iYO844	0
+Kt1	Potassium_transport_via_uniport_(facilitated_diffusion)	1	iYO844	1
 LAAF	Alpha_N_arabinofuranosidase	0	iYO844	0
 LAAL1	L_amino_acid_ligase__L_glycine_L_glycine_	0	iYO844	0
 LAAL10	L_amino_acid_ligase__Thr_Thr_	0	iYO844	0
@@ -981,7 +980,7 @@ NTD8	5'-nucleotidase_(dGMP)	0	iYO844	0
 NTD9	5'-nucleotidase_(GMP)	0	iYO844	0
 NTR3B	Nitrate_reductase	0	iYO844	0
 NTRIR2x	Nitrite_Reductase_(NADH)	0	iYO844	0
-O2t	O2_transport__diffusion_	1	iYO844	0
+O2t	O2_transport__diffusion_	1	iYO844	1
 OCBT_1	Ornithine_carbamoyltransferase	1	iYO844	0
 OCOAT1	3-oxoacid_CoA-transferase_(Succinyl-CoA:_acetoacetate)	1	iYO844	0
 OIVD1r	2-oxoisovalerate_dehydrogenase_(acylating;_4-methyl-2-oxopentaoate)	1	iYO844	0
@@ -1223,7 +1222,7 @@ UPPRT	Uracil_phosphoribosyltransferase	0	iYO844	0
 URAt2	Uracil_transport_in_via_proton_symport	1	iYO844	0
 URCN	Urocanase	0	iYO844	0
 UREA	Urease	0	iYO844	0
-UREAt	Urea_transport_via_facilitate_diffusion	1	iYO844	0
+UREAt	Urea_transport_via_facilitate_diffusion	1	iYO844	1
 URIC	Uricase	0	iYO844	0
 UMPK	UMP_kinase	0	iYO844	0
 URIDK2r_copy1	Uridylate_kinase_(dUMP)	0	iYO844	0
@@ -1250,3 +1249,6 @@ ZNabc	Zinc_transport_via_ABC_system	0	iYO844	0
 ZN2t4	Zinc_transport_out_via_antiport	0	iYO844	0
 BALAt2r	Beta_Alanine_transport_in_via_proton_symport	0	iYO844	0
 CU2abc1		0	iYO844	0
+COBALTt5	Cobalt(II)_transport_via_diffusion	0	iYO844	1
+EX_cbl1_e		1	iYO844	0
+CBLtex		1	iYO844	0

@@ -25,9 +25,9 @@ from cobrame.util import building, mu, me_model_interface
 from cobrame.io.json import save_json_me_model, save_reduced_json_me_model
 
 # ECOLIme
-import ecolime
-from ecolime import (transcription, translation, flat_files, generics, formulas, compartments)
-from ecolime.util.helper_functions import *
+import bacillusme
+from bacillusme import (transcription, translation, flat_files, generics, formulas, compartments)
+from bacillusme.util.helper_functions import *
 
 def single_gene_knockout(model, gene_id, model_type,precision=1e-6):
 	temp_model = model
@@ -93,6 +93,7 @@ def gene_essentiality(model,genes, model_type,  threshold = 0.01, NP = 1,
 	## Initialization
 	if isinstance(flux_responses,type(None)):
 		if not initial_f:
+			print('Solving model for base solution')
 			if model_type == 'm':
 				model.optimize()
 			elif model_type =='me':

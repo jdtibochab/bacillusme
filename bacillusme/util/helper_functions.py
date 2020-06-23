@@ -453,8 +453,8 @@ def get_transport_reactions(model,met_id,comps=['e','c']):
     from_met = re.sub('_[a-z]$','_'+comps[0],met_id)
     to_met = re.sub('_[a-z]$','_'+comps[1],met_id)
     
-    prod_rxns = [rxn.id for rxn in get_reactions_of_met(model,to_met,s=1,verbose=0)]
-    cons_rxns = [rxn.id for rxn in get_reactions_of_met(model,from_met,s=-1,verbose=0)]
+    prod_rxns = [rxn.id for rxn in get_reactions_of_met(model,to_met,s=1,verbose=0,only_types=['MetabolicReaction'])]
+    cons_rxns = [rxn.id for rxn in get_reactions_of_met(model,from_met,s=-1,verbose=0,only_types=['MetabolicReaction'])]
 
     transport_rxn_ids = list(set(prod_rxns)&set(cons_rxns))
 
