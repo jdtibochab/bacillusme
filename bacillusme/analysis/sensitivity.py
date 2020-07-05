@@ -72,15 +72,27 @@ def single_flux_response(me,met_id,mu_fix=False,precision=1e-6,single_change_fun
     This function calculates flux response of a single metabolite. Response of growth and energy are
     sensitixvity and cost, respectively.
     '''
-
-    if single_change_function=='transporter': # close_transporter function
-        close_transporter(me,met_id)
-    elif single_change_function == 'overexpress':
-        overexpress_transporter(me,met_id)
-    elif single_change_function == 'group_knockout':
-        group_knockout(me,met_id)
-    else: # Just normal sensitivity/cost calculation
-        add_dummy_demand(me,met_id)
+    
+    if isinstance(met_id,list):
+        for met in met_id:
+            if single_change_function=='transporter': # close_transporter function
+                close_transporter(me,met)
+            elif single_change_function == 'overexpress':
+                overexpress_transporter(me,met)
+            elif single_change_function == 'group_knockout':
+                group_knockout(me,met)
+            else: # Just normal sensitivity/cost calculation
+                add_dummy_demand(me,met)
+        met_id = met
+    else:
+        if single_change_function=='transporter': # close_transporter function
+            close_transporter(me,met_id)
+        elif single_change_function == 'overexpress':
+            overexpress_transporter(me,met_id)
+        elif single_change_function == 'group_knockout':
+            group_knockout(me,met_id)
+        else: # Just normal sensitivity/cost calculation
+            add_dummy_demand(me,met_id)
 
     solve_me_model(me, 0.2, min_mu = .05, using_soplex=False,\
         precision = precision,verbosity=0,mu_fix=mu_fix,growth_key=growth_key)
@@ -92,7 +104,7 @@ def single_flux_response(me,met_id,mu_fix=False,precision=1e-6,single_change_fun
     return met_id, flux_dict
 
 def all_flux_responses(me,met_ids,mu_fix=False,solution=0,NP=1,precision=1e-6,
-                       single_change_function=False,growth_key = 'mu'):
+                       single_change_function=False,growth_key = 'mu',sequential=False):
     '''
     This function calculates flux responses of several metabolites. Response of growth and energy are
     sensitivity and cost, respectively.
@@ -125,7 +137,12 @@ def all_flux_responses(me,met_ids,mu_fix=False,solution=0,NP=1,precision=1e-6,
             flux_dict[result[0]] = result[1]
 
         for met_id in met_ids:
-            args = (me,met_id)
+            if sequential:
+                met_idx = met_ids.index(met_id)
+                met_arg = met_ids[:met_idx+1] # All mets until met
+            else:
+                met_arg = met_id
+            args = (me,met_arg)
             kwds = {'single_change_function':single_change_function,\
                 'mu_fix':mu_fix,'precision':precision,'growth_key':growth_key}
             pool.apply_async(single_flux_response,args,kwds,
@@ -209,22 +226,24 @@ def overexpress_transporter(me,transport_id):
         
 def group_knockout(me,met_id):
     transport_reactions = get_transport_reactions(me,met_id,comps=['c','s']) \
-            + get_transport_reactions(me,met_id,comps=['s','c'])
+                + get_transport_reactions(me,met_id,comps=['s','c'])
+    
     for r in transport_reactions:
-        r.lower_bound = 0
-        r.upper_bound = 0    
+        if 'SPONT' not in r.id:
+            r.lower_bound = 0
+            r.upper_bound = 0    
 
 def transporter_knockout(me,transport_ids,NP=1,solution=0,precision=1e-6,growth_key='mu',\
-                        biomass_dilution='biomass_dilution',single_change_function='transporter'):
+                        biomass_dilution='biomass_dilution',single_change_function='transporter',sequential=False):
     '''
     This function calculates the response of shutting down
     transporters.
     ''' 
     
-    print('Chosen change function: {}'.format(single_change_function))
+    print('Chosen change function: {}      Sequential = {}'.format(single_change_function,str(sequential)))
         
     flux_results_df = all_flux_responses(me,transport_ids,mu_fix=False,\
             solution=solution,NP=NP,precision=1e-6,\
-            single_change_function=single_change_function,growth_key=growth_key)
+            single_change_function=single_change_function,growth_key=growth_key,sequential=sequential)
 
     return flux_results_df

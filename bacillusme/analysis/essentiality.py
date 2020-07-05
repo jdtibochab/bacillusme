@@ -49,11 +49,11 @@ def single_gene_knockout(model, gene_id, model_type,precision=1e-6):
 			reaction.upper_bound = 0.
 		solve_me_model(temp_model, 1., min_mu = .1, precision=precision, using_soplex=False,verbosity=0)
 
-	if model.solution.status == 'optimal':
-		flux_dict = temp_model.solution.x_dict
+	if model.solution and model.solution.status == 'optimal':
+		flux_dict = model.solution.x_dict
 	else:
-		flux_dict = {rxn.id:0 for rxn in model.reactions}
-
+		flux_dict = {r.id:0. for r in model.reactions}
+        
 	return gene_id, flux_dict
 
 def gene_knockout_responses(model,genes, model_type, NP = 1, precision=1e-6):
@@ -84,8 +84,6 @@ def gene_knockout_responses(model,genes, model_type, NP = 1, precision=1e-6):
 		# Close
 		pool.close()
 		pool.join()
-
-	
 	return flux_dict
 
 def gene_essentiality(model,genes, model_type,  threshold = 0.01, NP = 1,
@@ -100,7 +98,6 @@ def gene_essentiality(model,genes, model_type,  threshold = 0.01, NP = 1,
 				solve_me_model(model, max_mu=1., min_mu = .1, precision=precision, using_soplex=False, verbosity=0)
 			if model.solution.status != 'optimal':
 				raise Exception("Model not feasible")
-		
 			flux_dict = gene_knockout_responses(model,genes, model_type, NP=NP , precision=precision)
 			flux_dict['base'] = model.solution.x_dict
 			flux_responses = pd.DataFrame.from_dict(flux_dict)
