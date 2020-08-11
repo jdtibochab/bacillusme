@@ -81,6 +81,8 @@ def single_flux_response(me,met_id,mu_fix=False,precision=1e-6,single_change_fun
                 overexpress_transporter(me,met)
             elif single_change_function == 'group_knockout':
                 group_knockout(me,met)
+            elif single_change_function == 'feed_metabolite':
+                feed_metabolite(me,met)
             else: # Just normal sensitivity/cost calculation
                 add_dummy_demand(me,met)
         met_id = met
@@ -232,6 +234,19 @@ def group_knockout(me,met_id):
         if 'SPONT' not in r.id:
             r.lower_bound = 0
             r.upper_bound = 0    
+            
+def partial_knockout(me,met_id,frac=0.5):
+    transport_reactions = get_transport_reactions(me,met_id,comps=['c','s']) \
+                + get_transport_reactions(me,met_id,comps=['s','c'])
+    
+    for r in transport_reactions:
+        if 'SPONT' not in r.id:
+            r.upper_bound = frac * me.solution.x_dict[r]
+            
+def feed_metabolite(me,met_id):
+    fed_met = met_id[:-2] + '_e'
+    rxn = me.reactions.get_by_id('EX_{}'.format(fed_met))
+    rxn.lower_bound = -1000
 
 def transporter_knockout(me,transport_ids,NP=1,solution=0,precision=1e-6,growth_key='mu',\
                         biomass_dilution='biomass_dilution',single_change_function='transporter',sequential=False):
