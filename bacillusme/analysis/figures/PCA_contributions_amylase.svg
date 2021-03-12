@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="360pt" version="1.1" viewBox="0 0 936 360" width="936pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 360 
+L 936 360 
+L 936 0 
+L 0 0 
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 117 100.220979 
+L 842.4 100.220979 
+L 842.4 43.2 
+L 117 43.2 
+z
+" style="fill:#ffffff;"/>
+   </g>
+   <g id="patch_3">
+    <path clip-path="url(#pd1b7512275)" d="M 123.045 670.430769 
+L 135.135 670.430769 
+L 135.135 57.347338 
+L 123.045 57.347338 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_4">
+    <path clip-path="url(#pd1b7512275)" d="M 147.225 670.430769 
+L 159.315 670.430769 
+L 159.315 57.347338 
+L 147.225 57.347338 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_5">
+    <path clip-path="url(#pd1b7512275)" d="M 171.405 670.430769 
+L 183.495 670.430769 
+L 183.495 517.958767 
+L 171.405 517.958767 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_6">
+    <path clip-path="url(#pd1b7512275)" d="M 195.585 670.430769 
+L 207.675 670.430769 
+L 207.675 562.954875 
+L 195.585 562.954875 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_7">
+    <path clip-path="url(#pd1b7512275)" d="M 219.765 670.430769 
+L 231.855 670.430769 
+L 231.855 562.954875 
+L 219.765 562.954875 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_8">
+    <path clip-path="url(#pd1b7512275)" d="M 243.945 670.430769 
+L 256.035 670.430769 
+L 256.035 575.877858 
+L 243.945 575.877858 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_9">
+    <path clip-path="url(#pd1b7512275)" d="M 268.125 670.430769 
+L 280.215 670.430769 
+L 280.215 575.877858 
+L 268.125 575.877858 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_10">
+    <path clip-path="url(#pd1b7512275)" d="M 292.305 670.430769 
+L 304.395 670.430769 
+L 304.395 593.512815 
+L 292.305 593.512815 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_11">
+    <path clip-path="url(#pd1b7512275)" d="M 316.485 670.430769 
+L 328.575 670.430769 
+L 328.575 593.512815 
+L 316.485 593.512815 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_12">
+    <path clip-path="url(#pd1b7512275)" d="M 340.665 670.430769 
+L 352.755 670.430769 
+L 352.755 605.774675 
+L 340.665 605.774675 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_13">
+    <path clip-path="url(#pd1b7512275)" d="M 364.845 670.430769 
+L 376.935 670.430769 
+L 376.935 605.774675 
+L 364.845 605.774675 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_14">
+    <path clip-path="url(#pd1b7512275)" d="M 389.025 670.430769 
+L 401.115 670.430769 
+L 401.115 619.591859 
+L 389.025 619.591859 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_15">
+    <path clip-path="url(#pd1b7512275)" d="M 413.205 670.430769 
+L 425.295 670.430769 
+L 425.295 619.591859 
+L 413.205 619.591859 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_16">
+    <path clip-path="url(#pd1b7512275)" d="M 437.385 670.430769 
+L 449.475 670.430769 
+L 449.475 622.985771 
+L 437.385 622.985771 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_17">
+    <path clip-path="url(#pd1b7512275)" d="M 461.565 670.430769 
+L 473.655 670.430769 
+L 473.655 622.985771 
+L 461.565 622.985771 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_18">
+    <path clip-path="url(#pd1b7512275)" d="M 485.745 670.430769 
+L 497.835 670.430769 
+L 497.835 628.172869 
+L 485.745 628.172869 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_19">
+    <path clip-path="url(#pd1b7512275)" d="M 509.925 670.430769 
+L 522.015 670.430769 
+L 522.015 629.771164 
+L 509.925 629.771164 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_20">
+    <path clip-path="url(#pd1b7512275)" d="M 534.105 670.430769 
+L 546.195 670.430769 
+L 546.195 633.233773 
+L 534.105 633.233773 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_21">
+    <path clip-path="url(#pd1b7512275)" d="M 558.285 670.430769 
+L 570.375 670.430769 
+L 570.375 633.449681 
+L 558.285 633.449681 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_22">
+    <path clip-path="url(#pd1b7512275)" d="M 582.465 670.430769 
+L 594.555 670.430769 
+L 594.555 633.94279 
+L 582.465 633.94279 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_23">
+    <path clip-path="url(#pd1b7512275)" d="M 606.645 670.430769 
+L 618.735 670.430769 
+L 618.735 641.55113 
+L 606.645 641.55113 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_24">
+    <path clip-path="url(#pd1b7512275)" d="M 630.825 670.430769 
+L 642.915 670.430769 
+L 642.915 641.55113 
+L 630.825 641.55113 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_25">
+    <path clip-path="url(#pd1b7512275)" d="M 655.005 670.430769 
+L 667.095 670.430769 
+L 667.095 642.430074 
+L 655.005 642.430074 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_26">
+    <path clip-path="url(#pd1b7512275)" d="M 679.185 670.430769 
+L 691.275 670.430769 
+L 691.275 647.770868 
+L 679.185 647.770868 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_27">
+    <path clip-path="url(#pd1b7512275)" d="M 703.365 670.430769 
+L 715.455 670.430769 
+L 715.455 649.630393 
+L 703.365 649.630393 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_28">
+    <path clip-path="url(#pd1b7512275)" d="M 727.545 670.430769 
+L 739.635 670.430769 
+L 739.635 649.635879 
+L 727.545 649.635879 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_29">
+    <path clip-path="url(#pd1b7512275)" d="M 751.725 670.430769 
+L 763.815 670.430769 
+L 763.815 649.910209 
+L 751.725 649.910209 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_30">
+    <path clip-path="url(#pd1b7512275)" d="M 775.905 670.430769 
+L 787.995 670.430769 
+L 787.995 651.115932 
+L 775.905 651.115932 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_31">
+    <path clip-path="url(#pd1b7512275)" d="M 800.085 670.430769 
+L 812.175 670.430769 
+L 812.175 652.780837 
+L 800.085 652.780837 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_32">
+    <path clip-path="url(#pd1b7512275)" d="M 824.265 670.430769 
+L 836.355 670.430769 
+L 836.355 653.120699 
+L 824.265 653.120699 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="text_1">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(131.710312 333.800667)rotate(-90)">CYTK2_REV_BSU22890-MONOMER_mod_mg2</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="text_2">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(155.890312 337.031917)rotate(-90)">CYTK2_FWD_BSU22890-MONOMER_mod_mg2</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="text_3">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(179.982031 237.203792)rotate(-90)">ATPS4r_FWD_CPLX000-10</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="text_4">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(204.250312 342.522542)rotate(-90)">PMANM_FWD_BSU09310-MONOMER_mod_mg2</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="text_5">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(228.430312 339.291292)rotate(-90)">PMANM_REV_BSU09310-MONOMER_mod_mg2</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="text_6">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(252.522031 242.006917)rotate(-90)">CYOR3m_FWD_CPLX8J2-42</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="text_7">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(276.702031 233.189729)rotate(-90)">CYOO3_FWD_CPLX8J2-22</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="text_8">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(300.882031 295.444417)rotate(-90)">RIBFLVt2_FWD_BSU23050-MONOMER</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="text_9">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(325.062031 292.213167)rotate(-90)">RIBFLVt2_REV_BSU23050-MONOMER</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="text_10">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(349.242031 196.842854)rotate(-90)">H2Ot_REV_SPONT</text>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="text_11">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(373.510312 155.361604)rotate(-90)">EX_h2o_e</text>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="text_12">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(397.602031 196.305354)rotate(-90)">CO2t_REV_SPONT</text>
+     </g>
+    </g>
+    <g id="xtick_13">
+     <g id="text_13">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(421.782031 154.522542)rotate(-90)">EX_co2_e</text>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="text_14">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(445.962031 149.024104)rotate(-90)">EX_o2_e</text>
+     </g>
+    </g>
+    <g id="xtick_15">
+     <g id="text_15">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(470.142031 192.553792)rotate(-90)">O2t_FWD_SPONT</text>
+     </g>
+    </g>
+    <g id="xtick_16">
+     <g id="text_16">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(494.322031 286.160042)rotate(-90)">NADH4_FWD_BSU32200-MONOMER</text>
+     </g>
+    </g>
+    <g id="xtick_17">
+     <g id="text_17">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(518.590312 324.078792)rotate(-90)">PGM_REV_BSU33910-MONOMER_mod_mn2</text>
+     </g>
+    </g>
+    <g id="xtick_18">
+     <g id="text_18">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(542.682031 271.927229)rotate(-90)">ENO_FWD_BSU33900-MONOMER</text>
+     </g>
+    </g>
+    <g id="xtick_19">
+     <g id="text_19">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(566.862031 278.574104)rotate(-90)">GAPD_FWD_BSU33940-MONOMER</text>
+     </g>
+    </g>
+    <g id="xtick_20">
+     <g id="text_20">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(591.042031 267.360042)rotate(-90)">PGK_REV_BSU33930-MONOMER</text>
+     </g>
+    </g>
+    <g id="xtick_21">
+     <g id="text_21">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(615.310313 332.375667)rotate(-90)">ADK2_FWD_BSU01370-MONOMER_mod_mg2</text>
+     </g>
+    </g>
+    <g id="xtick_22">
+     <g id="text_22">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(639.490312 329.144417)rotate(-90)">ADK2_REV_BSU01370-MONOMER_mod_mg2</text>
+     </g>
+    </g>
+    <g id="xtick_23">
+     <g id="text_23">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(663.670313 361.594417)rotate(-90)">PYK_FWD_BSU29180-MONOMER_mod_mn2_mod_k</text>
+     </g>
+    </g>
+    <g id="xtick_24">
+     <g id="text_24">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(687.762031 265.342854)rotate(-90)">TPI_FWD_BSU33920-MONOMER</text>
+     </g>
+    </g>
+    <g id="xtick_25">
+     <g id="text_25">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(711.942031 283.700667)rotate(-90)">HXPRT_FWD_BSU00680-MONOMER</text>
+     </g>
+    </g>
+    <g id="xtick_26">
+     <g id="text_26">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(736.122031 280.469417)rotate(-90)">HXPRT_REV_BSU00680-MONOMER</text>
+     </g>
+    </g>
+    <g id="xtick_27">
+     <g id="text_27">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(760.302031 285.438167)rotate(-90)">ICDHyr_FWD_BSU29130-MONOMER</text>
+     </g>
+    </g>
+    <g id="xtick_28">
+     <g id="text_28">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(784.482031 222.664729)rotate(-90)">PDH_FWD_CPLX000-61</text>
+     </g>
+    </g>
+    <g id="xtick_29">
+     <g id="text_29">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(808.662031 277.306917)rotate(-90)">HEX1_FWD_BSU24850-MONOMER</text>
+     </g>
+    </g>
+    <g id="xtick_30">
+     <g id="text_30">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(832.842031 266.983479)rotate(-90)">PGI_FWD_BSU31350-MONOMER</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_1">
+      <defs>
+       <path d="M 0 0 
+L -3.5 0 
+" id="m4225c883e7" style="stroke:#000000;stroke-width:0.8;"/>
+      </defs>
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="117" xlink:href="#m4225c883e7" y="100.220979"/>
+      </g>
+     </g>
+     <g id="text_31">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 110, 104.020198)" x="110" y="104.020198">3.0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_2">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="117" xlink:href="#m4225c883e7" y="62.206993"/>
+      </g>
+     </g>
+     <g id="text_32">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 110, 66.006212)" x="110" y="66.006212">3.2</text>
+     </g>
+    </g>
+    <g id="text_33">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-90, 88.017187, 71.71049)" x="88.017187" y="71.71049">Count</text>
+    </g>
+   </g>
+   <g id="patch_33">
+    <path d="M 117 100.220979 
+L 117 43.2 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 842.4 100.220979 
+L 842.4 43.2 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="patch_35">
+    <path d="M 117 43.2 
+L 842.4 43.2 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_36">
+    <path d="M 117 315 
+L 842.4 315 
+L 842.4 124.93007 
+L 117 124.93007 
+z
+" style="fill:#ffffff;"/>
+   </g>
+   <g id="patch_37">
+    <path clip-path="url(#p6fca2a2f64)" d="M 123.045 315 
+L 135.135 315 
+L 135.135 -298.083431 
+L 123.045 -298.083431 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_38">
+    <path clip-path="url(#p6fca2a2f64)" d="M 147.225 315 
+L 159.315 315 
+L 159.315 -298.083431 
+L 147.225 -298.083431 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_39">
+    <path clip-path="url(#p6fca2a2f64)" d="M 171.405 315 
+L 183.495 315 
+L 183.495 162.527998 
+L 171.405 162.527998 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_40">
+    <path clip-path="url(#p6fca2a2f64)" d="M 195.585 315 
+L 207.675 315 
+L 207.675 207.524105 
+L 195.585 207.524105 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_41">
+    <path clip-path="url(#p6fca2a2f64)" d="M 219.765 315 
+L 231.855 315 
+L 231.855 207.524105 
+L 219.765 207.524105 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_42">
+    <path clip-path="url(#p6fca2a2f64)" d="M 243.945 315 
+L 256.035 315 
+L 256.035 220.447089 
+L 243.945 220.447089 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_43">
+    <path clip-path="url(#p6fca2a2f64)" d="M 268.125 315 
+L 280.215 315 
+L 280.215 220.447089 
+L 268.125 220.447089 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_44">
+    <path clip-path="url(#p6fca2a2f64)" d="M 292.305 315 
+L 304.395 315 
+L 304.395 238.082046 
+L 292.305 238.082046 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_45">
+    <path clip-path="url(#p6fca2a2f64)" d="M 316.485 315 
+L 328.575 315 
+L 328.575 238.082046 
+L 316.485 238.082046 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_46">
+    <path clip-path="url(#p6fca2a2f64)" d="M 340.665 315 
+L 352.755 315 
+L 352.755 250.343906 
+L 340.665 250.343906 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_47">
+    <path clip-path="url(#p6fca2a2f64)" d="M 364.845 315 
+L 376.935 315 
+L 376.935 250.343906 
+L 364.845 250.343906 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_48">
+    <path clip-path="url(#p6fca2a2f64)" d="M 389.025 315 
+L 401.115 315 
+L 401.115 264.161089 
+L 389.025 264.161089 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_49">
+    <path clip-path="url(#p6fca2a2f64)" d="M 413.205 315 
+L 425.295 315 
+L 425.295 264.161089 
+L 413.205 264.161089 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_50">
+    <path clip-path="url(#p6fca2a2f64)" d="M 437.385 315 
+L 449.475 315 
+L 449.475 267.555002 
+L 437.385 267.555002 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_51">
+    <path clip-path="url(#p6fca2a2f64)" d="M 461.565 315 
+L 473.655 315 
+L 473.655 267.555002 
+L 461.565 267.555002 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_52">
+    <path clip-path="url(#p6fca2a2f64)" d="M 485.745 315 
+L 497.835 315 
+L 497.835 272.7421 
+L 485.745 272.7421 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_53">
+    <path clip-path="url(#p6fca2a2f64)" d="M 509.925 315 
+L 522.015 315 
+L 522.015 274.340395 
+L 509.925 274.340395 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_54">
+    <path clip-path="url(#p6fca2a2f64)" d="M 534.105 315 
+L 546.195 315 
+L 546.195 277.803004 
+L 534.105 277.803004 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_55">
+    <path clip-path="url(#p6fca2a2f64)" d="M 558.285 315 
+L 570.375 315 
+L 570.375 278.018911 
+L 558.285 278.018911 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_56">
+    <path clip-path="url(#p6fca2a2f64)" d="M 582.465 315 
+L 594.555 315 
+L 594.555 278.512021 
+L 582.465 278.512021 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_57">
+    <path clip-path="url(#p6fca2a2f64)" d="M 606.645 315 
+L 618.735 315 
+L 618.735 286.12036 
+L 606.645 286.12036 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_58">
+    <path clip-path="url(#p6fca2a2f64)" d="M 630.825 315 
+L 642.915 315 
+L 642.915 286.12036 
+L 630.825 286.12036 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_59">
+    <path clip-path="url(#p6fca2a2f64)" d="M 655.005 315 
+L 667.095 315 
+L 667.095 286.999305 
+L 655.005 286.999305 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_60">
+    <path clip-path="url(#p6fca2a2f64)" d="M 679.185 315 
+L 691.275 315 
+L 691.275 292.340098 
+L 679.185 292.340098 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_61">
+    <path clip-path="url(#p6fca2a2f64)" d="M 703.365 315 
+L 715.455 315 
+L 715.455 294.199624 
+L 703.365 294.199624 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_62">
+    <path clip-path="url(#p6fca2a2f64)" d="M 727.545 315 
+L 739.635 315 
+L 739.635 294.20511 
+L 727.545 294.20511 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_63">
+    <path clip-path="url(#p6fca2a2f64)" d="M 751.725 315 
+L 763.815 315 
+L 763.815 294.47944 
+L 751.725 294.47944 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_64">
+    <path clip-path="url(#p6fca2a2f64)" d="M 775.905 315 
+L 787.995 315 
+L 787.995 295.685162 
+L 775.905 295.685162 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_65">
+    <path clip-path="url(#p6fca2a2f64)" d="M 800.085 315 
+L 812.175 315 
+L 812.175 297.350067 
+L 800.085 297.350067 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_66">
+    <path clip-path="url(#p6fca2a2f64)" d="M 824.265 315 
+L 836.355 315 
+L 836.355 297.68993 
+L 824.265 297.68993 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_31">
+     <g id="line2d_3">
+      <defs>
+       <path d="M 0 0 
+L 0 3.5 
+" id="m398a60b15f" style="stroke:#000000;stroke-width:0.8;"/>
+      </defs>
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="129.09" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_34">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(131.710312 548.579687)rotate(-90)">CYTK2_REV_BSU22890-MONOMER_mod_mg2</text>
+     </g>
+    </g>
+    <g id="xtick_32">
+     <g id="line2d_4">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="153.27" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_35">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(155.890312 551.810937)rotate(-90)">CYTK2_FWD_BSU22890-MONOMER_mod_mg2</text>
+     </g>
+    </g>
+    <g id="xtick_33">
+     <g id="line2d_5">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="177.45" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_36">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(179.982031 451.982812)rotate(-90)">ATPS4r_FWD_CPLX000-10</text>
+     </g>
+    </g>
+    <g id="xtick_34">
+     <g id="line2d_6">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.63" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_37">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(204.250312 557.301563)rotate(-90)">PMANM_FWD_BSU09310-MONOMER_mod_mg2</text>
+     </g>
+    </g>
+    <g id="xtick_35">
+     <g id="line2d_7">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="225.81" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_38">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(228.430312 554.070312)rotate(-90)">PMANM_REV_BSU09310-MONOMER_mod_mg2</text>
+     </g>
+    </g>
+    <g id="xtick_36">
+     <g id="line2d_8">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="249.99" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_39">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(252.522031 456.785937)rotate(-90)">CYOR3m_FWD_CPLX8J2-42</text>
+     </g>
+    </g>
+    <g id="xtick_37">
+     <g id="line2d_9">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="274.17" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_40">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(276.702031 447.96875)rotate(-90)">CYOO3_FWD_CPLX8J2-22</text>
+     </g>
+    </g>
+    <g id="xtick_38">
+     <g id="line2d_10">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="298.35" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_41">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(300.882031 510.223437)rotate(-90)">RIBFLVt2_FWD_BSU23050-MONOMER</text>
+     </g>
+    </g>
+    <g id="xtick_39">
+     <g id="line2d_11">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="322.53" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_42">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(325.062031 506.992187)rotate(-90)">RIBFLVt2_REV_BSU23050-MONOMER</text>
+     </g>
+    </g>
+    <g id="xtick_40">
+     <g id="line2d_12">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="346.71" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_43">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(349.242031 411.621875)rotate(-90)">H2Ot_REV_SPONT</text>
+     </g>
+    </g>
+    <g id="xtick_41">
+     <g id="line2d_13">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="370.89" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_44">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(373.510312 370.140625)rotate(-90)">EX_h2o_e</text>
+     </g>
+    </g>
+    <g id="xtick_42">
+     <g id="line2d_14">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="395.07" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_45">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(397.602031 411.084375)rotate(-90)">CO2t_REV_SPONT</text>
+     </g>
+    </g>
+    <g id="xtick_43">
+     <g id="line2d_15">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="419.25" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_46">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(421.782031 369.301562)rotate(-90)">EX_co2_e</text>
+     </g>
+    </g>
+    <g id="xtick_44">
+     <g id="line2d_16">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="443.43" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_47">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(445.962031 363.803125)rotate(-90)">EX_o2_e</text>
+     </g>
+    </g>
+    <g id="xtick_45">
+     <g id="line2d_17">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="467.61" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_48">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(470.142031 407.332812)rotate(-90)">O2t_FWD_SPONT</text>
+     </g>
+    </g>
+    <g id="xtick_46">
+     <g id="line2d_18">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="491.79" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_49">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(494.322031 500.939062)rotate(-90)">NADH4_FWD_BSU32200-MONOMER</text>
+     </g>
+    </g>
+    <g id="xtick_47">
+     <g id="line2d_19">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="515.97" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_50">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(518.590312 538.857812)rotate(-90)">PGM_REV_BSU33910-MONOMER_mod_mn2</text>
+     </g>
+    </g>
+    <g id="xtick_48">
+     <g id="line2d_20">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="540.15" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_51">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(542.682031 486.70625)rotate(-90)">ENO_FWD_BSU33900-MONOMER</text>
+     </g>
+    </g>
+    <g id="xtick_49">
+     <g id="line2d_21">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="564.33" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_52">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(566.862031 493.353125)rotate(-90)">GAPD_FWD_BSU33940-MONOMER</text>
+     </g>
+    </g>
+    <g id="xtick_50">
+     <g id="line2d_22">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="588.51" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_53">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(591.042031 482.139062)rotate(-90)">PGK_REV_BSU33930-MONOMER</text>
+     </g>
+    </g>
+    <g id="xtick_51">
+     <g id="line2d_23">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="612.69" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_54">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(615.310313 547.154687)rotate(-90)">ADK2_FWD_BSU01370-MONOMER_mod_mg2</text>
+     </g>
+    </g>
+    <g id="xtick_52">
+     <g id="line2d_24">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="636.87" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_55">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(639.490312 543.923437)rotate(-90)">ADK2_REV_BSU01370-MONOMER_mod_mg2</text>
+     </g>
+    </g>
+    <g id="xtick_53">
+     <g id="line2d_25">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="661.05" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_56">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(663.670313 576.373437)rotate(-90)">PYK_FWD_BSU29180-MONOMER_mod_mn2_mod_k</text>
+     </g>
+    </g>
+    <g id="xtick_54">
+     <g id="line2d_26">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="685.23" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_57">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(687.762031 480.121875)rotate(-90)">TPI_FWD_BSU33920-MONOMER</text>
+     </g>
+    </g>
+    <g id="xtick_55">
+     <g id="line2d_27">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="709.41" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_58">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(711.942031 498.479687)rotate(-90)">HXPRT_FWD_BSU00680-MONOMER</text>
+     </g>
+    </g>
+    <g id="xtick_56">
+     <g id="line2d_28">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="733.59" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_59">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(736.122031 495.248437)rotate(-90)">HXPRT_REV_BSU00680-MONOMER</text>
+     </g>
+    </g>
+    <g id="xtick_57">
+     <g id="line2d_29">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="757.77" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_60">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(760.302031 500.217187)rotate(-90)">ICDHyr_FWD_BSU29130-MONOMER</text>
+     </g>
+    </g>
+    <g id="xtick_58">
+     <g id="line2d_30">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="781.95" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_61">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(784.482031 437.44375)rotate(-90)">PDH_FWD_CPLX000-61</text>
+     </g>
+    </g>
+    <g id="xtick_59">
+     <g id="line2d_31">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="806.13" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_62">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(808.662031 492.085937)rotate(-90)">HEX1_FWD_BSU24850-MONOMER</text>
+     </g>
+    </g>
+    <g id="xtick_60">
+     <g id="line2d_32">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="830.31" xlink:href="#m398a60b15f" y="315"/>
+      </g>
+     </g>
+     <g id="text_63">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;" transform="translate(832.842031 481.7625)rotate(-90)">PGI_FWD_BSU31350-MONOMER</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_3">
+     <g id="line2d_33">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="117" xlink:href="#m4225c883e7" y="315"/>
+      </g>
+     </g>
+     <g id="text_64">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 110, 318.799219)" x="110" y="318.799219">0.0</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_34">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="117" xlink:href="#m4225c883e7" y="276.986014"/>
+      </g>
+     </g>
+     <g id="text_65">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 110, 280.785233)" x="110" y="280.785233">0.2</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_35">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="117" xlink:href="#m4225c883e7" y="238.972028"/>
+      </g>
+     </g>
+     <g id="text_66">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 110, 242.771247)" x="110" y="242.771247">0.4</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_36">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="117" xlink:href="#m4225c883e7" y="200.958042"/>
+      </g>
+     </g>
+     <g id="text_67">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 110, 204.757261)" x="110" y="204.757261">0.6</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_37">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="117" xlink:href="#m4225c883e7" y="162.944056"/>
+      </g>
+     </g>
+     <g id="text_68">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 110, 166.743275)" x="110" y="166.743275">0.8</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_38">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="117" xlink:href="#m4225c883e7" y="124.93007"/>
+      </g>
+     </g>
+     <g id="text_69">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 110, 128.729289)" x="110" y="128.729289">1.0</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_67">
+    <path d="M 117 315 
+L 117 124.93007 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="patch_68">
+    <path d="M 842.4 315 
+L 842.4 124.93007 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="patch_69">
+    <path d="M 117 315 
+L 842.4 315 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pd1b7512275">
+   <rect height="57.020979" width="725.4" x="117" y="43.2"/>
+  </clipPath>
+  <clipPath id="p6fca2a2f64">
+   <rect height="190.06993" width="725.4" x="117" y="124.93007"/>
+  </clipPath>
+ </defs>
+</svg>

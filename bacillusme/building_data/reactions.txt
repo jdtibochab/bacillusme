@@ -338,7 +338,6 @@ ENO	Enolase	1	iYO844	0
 ETHAAL	Ethanolamine_ammonia-lyase	0	iYO844	0
 ETHAt6	Ethanolamine_transport_inout_via_proton_symport	1	iYO844	0
 ETHSabc	Ethanesulfonate_transport_via_ABC_system	0	iYO844	0
-ETOHt3	Ethanol_transport_out_via_proton_antiport	0	iYO844	0
 EX_2ddglcn_e	2-Dehydro-3-deoxy-D-gluconate_exchange	0	iYO844	0
 EX_2hxmp_e	2__Hydroxymethyl_phenol_exchange	0	iYO844	0
 EX_2pg_e	D_Glycerate_2_phosphate_exchange	0	iYO844	0
@@ -1250,5 +1249,6 @@ ZN2t4	Zinc_transport_out_via_antiport	0	iYO844	0
 BALAt2r	Beta_Alanine_transport_in_via_proton_symport	0	iYO844	0
 CU2abc1		0	iYO844	0
 COBALTt5	Cobalt(II)_transport_via_diffusion	0	iYO844	1
+ETOHtex	Ethanol_transport_via_diffusion	0	iYO844	1
 EX_cbl1_e		1	iYO844	0
 CBLtex		1	iYO844	0
