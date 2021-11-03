@@ -1,3 +1,4 @@
+LICENSE
 README.md
 setup.py
 BACILLUSme.egg-info/PKG-INFO
@@ -50,7 +51,7 @@ bacillusme/building_data/formatdb.log
 bacillusme/building_data/gene_dictionary.csv
 bacillusme/building_data/gene_name_dictionary.csv
 bacillusme/building_data/generate_flatfiles.ipynb
-bacillusme/building_data/iBsu1103.xml
+bacillusme/building_data/iBsu1103.json
 bacillusme/building_data/iJL1678b_model_changes.xlsx
 bacillusme/building_data/iJO1366.json
 bacillusme/building_data/iJO1366.mat
@@ -64,6 +65,7 @@ bacillusme/building_data/metabolites.txt
 bacillusme/building_data/metabolites.txt~
 bacillusme/building_data/modification.txt
 bacillusme/building_data/modification.txt~
+bacillusme/building_data/new_rules.csv
 bacillusme/building_data/output_protein_type.txt
 bacillusme/building_data/pathways_PRED_TAT.txt
 bacillusme/building_data/pathways_PRED_TAT.txt~

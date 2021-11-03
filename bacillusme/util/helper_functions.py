@@ -315,33 +315,51 @@ def open_all_exchange(me):
             rxn.lower_bound = -1000
     return me
 
-def is_same_reaction(rxn,ref_rxn):
-    met_ids = [met.id for met in rxn.metabolites]
-    ref_met_ids = [met.id for met in ref_rxn.metabolites]
+def is_same_reaction(rxn,ref_rxn,approximate=False):
+    a = 2 if approximate else 0
+    reactants = [met.id[0:len(met.id)-a] for met in rxn.reactants]
+    ref_reactants = [met.id[0:len(met.id)-a] for met in ref_rxn.reactants]
+    products = [met.id[0:len(met.id)-a] for met in rxn.products]
+    ref_products = [met.id[0:len(met.id)-a] for met in ref_rxn.products]
+    if set(reactants)==set(ref_reactants) and set(products)==set(ref_products):
+        return 1
+    else:
+        return 0
+    
+def homogenize_metabolites(model,ref_model,approximate=False):
+    
+    # Warning: This function assumes metabolite IDs are conserved.
+    met_dict = {}
+    for met in model.metabolites:
+        if approximate:
+            met_dict[met.id] = [ref_met.id for ref_met in ref_model.metabolites\
+                              if ref_met.id[0:len(ref_met.id)-2] == met.id[0:len(met.id)-2]]
+        elif met.id in ref_model.metabolites:
+            met_dict[met.id] = [met.id]
+        else:
+            met_dict[met.id] = []
+    return met_dict
+    
 
-    i = 0
-    if (len(met_ids) == len(ref_met_ids)) and (len(set(met_ids) & set(ref_met_ids)) == len(met_ids)):
-        i = 1
-
-    return i
-
-def homogenize_reactions(model,ref_model):
-    all_ref_rxns = [rxn.id for rxn in ref_model.reactions] 
+def homogenize_reactions(model,ref_model,approximate=False):
+    print('Homogenizing metabolites {} against {}'.format(model.id,ref_model.id))
+    met_dict = homogenize_metabolites(model,ref_model,approximate=approximate)
+    all_ref_rxns = [rxn.id for rxn in ref_model.reactions]
     rxn_dict = dict()
     rxn_id_dict = {}
+    
+    print('Homogenizing reactions {} against {}'.format(model.id,ref_model.id))
     for rxn in tqdm(model.reactions):
-        if rxn.id in all_ref_rxns:
-            ref_rxn = ref_model.reactions.get_by_id(rxn.id)
-            # Check if rxn has same ID in ref_model to avoid iterating
-            if is_same_reaction(rxn,ref_rxn):
-                rxn_dict[rxn] = ref_rxn
-                rxn_id_dict[rxn.id] = ref_rxn.id
-            # If rxn is not in ref_model, iterate
-            else:
-                for ref_rxn in ref_model.reactions:
-                    if is_same_reaction(rxn,ref_rxn):
-                        rxn_dict[rxn] = ref_rxn
-                        rxn_id_dict[rxn.id] = ref_rxn.id
+        if rxn not in rxn_dict:
+            rxn_dict[rxn] = []
+            rxn_id_dict[rxn.id] = []
+        base_met = rxn.reactants[0]
+        for m in met_dict[base_met.id]:
+            ref_met = ref_model.metabolites.get_by_id(m)
+            for ref_rxn in ref_met.reactions:
+                if is_same_reaction(rxn,ref_rxn,approximate=approximate):
+                    rxn_dict[rxn].append(ref_rxn)
+                    rxn_id_dict[rxn.id].append(ref_rxn.id)
     return rxn_dict,rxn_id_dict
 
 def exchange_single_model(me, flux_dict = 0, solution=0):
@@ -402,7 +420,7 @@ def flux_based_reactions(model,met_id,only_types=(),ignore_types = (),threshold 
                     coeff = stoich
                 result_dict[rxn.id]['lb'] = rxn.lower_bound
                 result_dict[rxn.id]['ub'] = rxn.upper_bound
-                result_dict[rxn.id]['rxn_flux'] = flux_dict[rxn.id] 
+                result_dict[rxn.id]['rxn_flux'] = flux_dict[rxn.id]
                 result_dict[rxn.id]['met_flux'] = flux_dict[rxn.id]*coeff
                 result_dict[rxn.id]['reaction'] = rxn.reaction
                 break
@@ -438,7 +456,6 @@ def solution_summary(me):
     return summary_df
 
 def get_flux_for_escher(model,type='m'):
-
     if type == 'm':
         flux_dict = model.solution.x_dict
     elif type == 'me':
@@ -447,10 +464,7 @@ def get_flux_for_escher(model,type='m'):
     return pd.DataFrame.from_dict({'flux':flux_dict})
 
 def get_compartments_of_reaction(r):
-    comps = []
-    for m in r.metabolites:
-        comps.append(m.compartment)
-    return list(set(comps))
+    return r.get_compartments()
 
 def get_all_transport_of_model(model):
     transport_reactions = []
@@ -567,13 +581,44 @@ def get_met_production(model,met_list,flux_responses,x_var,only_types = [],plot=
         if plot: fig.tight_layout()
 
 
-def get_compartment_transport(model,comps):
+def get_compartment_transport(model,comps,MEmodel=False):
     reactions = []
     comps = set(comps)
     for r in model.reactions:
+        if MEmodel and not isinstance(r,cobrame.MetabolicReaction):
+            continue
         r_comps = set()
         for m in r.metabolites:
             r_comps.add(m.id[-1])
         if len(r_comps & comps)>0 and len(r_comps) > 1:
             reactions.append(r)
     return reactions
+
+def get_biomass_fractions(model,bof):
+    fractions = {}
+    fractions['protein'] = 0
+    fractions['rna'] = 0
+    fractions['dna'] = 0
+    fractions['lipid'] = 0
+    fractions['other'] = 0
+    
+    
+    aminoacid_exp = '^[a-z]{3}__L_c$'
+    dna_exp = '^d[a,t,c,g]tp_c$'
+    rna_exp = '^[a,t,c,g,u][t,m]p_c$'
+    lipid_exp = '^.*_BS_c$'
+    for m,coeff in bof.metabolites.items():
+        if coeff > 0 or 'h2o' in m.id: continue
+        if re.search(aminoacid_exp,m.id):
+            fractions['protein'] -= coeff*m.formula_weight
+        elif re.search(dna_exp,m.id):
+            fractions['dna'] -= coeff*m.formula_weight
+        elif re.search(rna_exp,m.id):
+            if m.id == 'atp_c':
+                coeff = coeff + bof.metabolites[model.metabolites.adp_c]
+            fractions['rna'] -= coeff*m.formula_weight
+        elif re.search(lipid_exp,m.id):
+            fractions['lipid'] -= coeff*m.formula_weight
+        else:
+            fractions['other'] -= coeff*m.formula_weight        
+    return pd.DataFrame.from_dict({'fraction':fractions})

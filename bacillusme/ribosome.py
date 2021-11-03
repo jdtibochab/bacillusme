@@ -50,7 +50,7 @@ ribosome_stoich = {'30_S_assembly': {'stoich': {'BSU22880-MONOMER': 1, # S1
                                                 'BSU40890-MONOMER': 1, # S18
                                                 'BSU01200-MONOMER': 1, # S19
                                                 'BSU25550-MONOMER': 1, # S20
-                                                'BSU25410-MONOMER': 1, # S21                       
+                                                'BSU25410-MONOMER': 1, # S21                      
                                                 'generic_16s_rRNAs':1}},
                     '50_S_assembly': {'stoich': {'generic_23s_rRNAs': 1,
                                                   'generic_5s_rRNAs': 1,
