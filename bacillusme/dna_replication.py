@@ -16,26 +16,6 @@ percent_dna_data = [0.0592, 0.0512, 0.0330, 0.0252, 0.0222, 0.0208]
 
 #  Genes not included in 1678 model genes. Here for reference
 DNA_polymerase_stoichiometry = {
-    "b3702": 1,  # dnaA (initiator)
-    "b4052": 6,  # dnaB (helicase)
-    "b4361": 1,  # dnaC
-    "b3066": 3,  # dnaG (primase)
-    # CPLXO-3803 (dna polymerase iii, holoenzyme)
-    # core
-    "b0184": 3,  # dnaE
-    "b0215": 3,  # dnaQ
-    "b1842": 3,  # holE
-    # holo
-    "b0470": 5,  # dnaX
-    "b1099": 1,  # holB
-    "b0640": 1,  # holA
-    "b3701": 4,  # dnaN
-    "b4259": 4,  # holC
-    "b4372": 4,  # holD
-
-    # CPLX0-2425 (dna gyrase)
-    "b2231": 2,  # gyrA
-    "b3699": 2,  # gyrB
 }
 
 
