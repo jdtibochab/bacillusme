@@ -1,12 +1,10 @@
-Metadata-Version: 2.1
+Metadata-Version: 1.0
 Name: BACILLUSme
 Version: 0.0.9
 Summary: ME-model data files specific to Bacillus subtilis str. 168
 Home-page: https://github.com/jdtibochab/bacillusme
 Author: Juan D. Tibocha-Bonilla
+Author-email: UNKNOWN
 License: MIT
+Description: UNKNOWN
 Platform: UNKNOWN
-License-File: LICENSE
-
-UNKNOWN
-
