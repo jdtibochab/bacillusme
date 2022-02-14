@@ -1,8 +1,7 @@
-# ECOLIme
+# BACILLUSme
 
-ECOLIme contains all the information and building scripts required to construct
-a ME-model for E. coli K-12 MG1655, *i*JL1678b-ME using
-[COBRAme](https://github.com/sbrg/cobrame). See the COBRAme 
+BACILLUSme contains all the information and building scripts required to construct a ME-model for *B. subtilis*, *i*JT964-ME using
+[COBRAme](https://github.com/sbrg/cobrame). See the COBRAme
 [github](https://github.com/sbrg/cobrame) and 
 [documentation](https://cobrame.readthedocs.io) for further instructions on 
 how to build and solve ME-models.
