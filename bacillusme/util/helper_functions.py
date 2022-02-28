@@ -401,7 +401,7 @@ def get_metabolites_from_pattern(model,pattern):
             met_list.append(met.id)
     return met_list
 
-def flux_based_reactions(model,met_id,only_types=(),ignore_types = (),threshold = 0.,flux_dict=0):
+def flux_based_reactions(model,met_id,only_types=(),ignore_types = (),threshold = 0.,flux_dict=0,growth_symbol='mu'):
     if not flux_dict:
         flux_dict = model.solution.x_dict
     reactions = get_reactions_of_met(model,met_id,only_types=only_types,ignore_types=ignore_types,verbose=False)
@@ -415,14 +415,15 @@ def flux_based_reactions(model,met_id,only_types=(),ignore_types = (),threshold 
         for rxn_met,stoich in rxn.metabolites.items():
             if rxn_met.id == met_id:
                 if hasattr(stoich, 'subs'):
-                    coeff = float(stoich.subs('mu',flux_dict['biomass_dilution']))
+                    coeff = float(stoich.subs(growth_symbol,flux_dict['biomass_dilution']))
                 else:
                     coeff = stoich
                 result_dict[rxn.id]['lb'] = rxn.lower_bound
                 result_dict[rxn.id]['ub'] = rxn.upper_bound
                 result_dict[rxn.id]['rxn_flux'] = flux_dict[rxn.id]
                 result_dict[rxn.id]['met_flux'] = flux_dict[rxn.id]*coeff
-                result_dict[rxn.id]['reaction'] = rxn.reaction
+                try: result_dict[rxn.id]['reaction'] = rxn.reaction
+                except: result_dict[rxn.id]['reaction'] = 'no_reaction'
                 break
     df = pd.DataFrame.from_dict(result_dict).T
     return df.loc[df['met_flux'].abs().sort_values(ascending=False).index]
@@ -485,7 +486,6 @@ def get_transport_reactions(model,met_id,comps=['e','c']):
         reaction_type = 0
     prod_rxns = [rxn.id for rxn in get_reactions_of_met(model,to_met,s=1,verbose=0,only_types=reaction_type)]
     cons_rxns = [rxn.id for rxn in get_reactions_of_met(model,from_met,s=-1,verbose=0,only_types=reaction_type)]
-
     transport_rxn_ids = list(set(prod_rxns)&set(cons_rxns))
 
     transport_rxns = [model.reactions.get_by_id(rxn_id) for rxn_id in transport_rxn_ids]
