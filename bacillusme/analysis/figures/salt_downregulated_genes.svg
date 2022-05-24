@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="288pt" version="1.1" viewBox="0 0 432 288" width="432pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 288 
+L 432 288 
+L 432 0 
+L 0 0 
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 308.376 143.28 
+C 308.376 124.915326 302.559546 107.014122 291.765062 92.156789 
+C 280.970577 77.299456 265.742904 66.235904 248.277061 60.560908 
+L 221.4 143.28 
+L 308.376 143.28 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 248.277061 60.560908 
+C 232.486254 55.430164 215.551646 54.926758 199.483953 59.11046 
+C 183.416261 63.294162 168.877618 71.992567 157.59426 84.172876 
+L 221.4 143.28 
+L 248.277061 60.560908 
+z
+" style="fill:#ff7f0e;"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 157.59426 84.172876 
+C 151.05513 91.231822 145.732515 99.327239 141.843663 108.128702 
+C 137.95481 116.930165 135.55336 126.316275 134.737332 135.903924 
+L 221.4 143.28 
+L 157.59426 84.172876 
+z
+" style="fill:#2ca02c;"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 134.737332 135.903924 
+C 133.942318 145.244664 134.662664 154.652798 136.870445 163.763624 
+C 139.078226 172.874451 142.744541 181.568703 147.727267 189.509351 
+L 221.4 143.28 
+L 134.737332 135.903924 
+z
+" style="fill:#d62728;"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 147.727267 189.509351 
+C 151.526449 195.563864 156.057536 201.127021 161.217927 206.072855 
+C 166.378318 211.018689 172.128768 215.309586 178.339068 218.848384 
+L 221.4 143.28 
+L 147.727267 189.509351 
+z
+" style="fill:#9467bd;"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 178.339068 218.848384 
+C 183.905547 222.020316 189.805498 224.567508 195.93145 226.443559 
+C 202.057401 228.31961 208.37193 229.513061 214.760015 230.002172 
+L 221.4 143.28 
+L 178.339068 218.848384 
+z
+" style="fill:#8c564b;"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 214.760015 230.002172 
+C 220.901934 230.472436 227.07647 230.288888 233.179611 229.454621 
+C 239.282751 228.620355 245.280032 227.14008 251.070426 225.038733 
+L 221.4 143.28 
+L 214.760015 230.002172 
+z
+" style="fill:#e377c2;"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 251.070426 225.038733 
+C 255.237629 223.526446 259.28312 221.697768 263.171519 219.568694 
+C 267.059917 217.439619 270.779854 215.016373 274.298798 212.320146 
+L 221.4 143.28 
+L 251.070426 225.038733 
+z
+" style="fill:#7f7f7f;"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 274.298798 212.320146 
+C 276.448608 210.672954 278.520309 208.926247 280.507128 207.085737 
+C 282.493946 205.245226 284.393715 203.312919 286.200222 201.295134 
+L 221.4 143.28 
+L 274.298798 212.320146 
+z
+" style="fill:#bcbd22;"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 286.200222 201.295134 
+C 287.84245 199.460841 289.406053 197.557646 290.886806 195.590691 
+C 292.367559 193.623735 293.764127 191.594794 295.072736 189.509348 
+L 221.4 143.28 
+L 286.200222 201.295134 
+z
+" style="fill:#17becf;"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 295.072736 189.509348 
+C 296.381345 187.423902 297.600815 185.283832 298.727851 183.094921 
+C 299.854888 180.906011 300.888475 178.670232 301.825818 176.393628 
+L 221.4 143.28 
+L 295.072736 189.509348 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 301.825818 176.393628 
+C 302.763162 174.117023 303.603418 171.801645 304.344315 169.453749 
+C 305.085213 167.105854 305.726084 164.727558 306.265196 162.325289 
+L 221.4 143.28 
+L 301.825818 176.393628 
+z
+" style="fill:#ff7f0e;"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 306.265196 162.325289 
+C 306.534722 161.124289 306.778724 159.917703 306.997035 158.706347 
+C 307.215346 157.494991 307.407919 156.279136 307.574622 155.059606 
+L 221.4 143.28 
+L 306.265196 162.325289 
+z
+" style="fill:#2ca02c;"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 307.574622 155.059606 
+C 307.674641 154.327906 307.765338 153.594961 307.846689 152.86095 
+C 307.92804 152.126939 308.000039 151.391922 308.062668 150.656078 
+L 221.4 143.28 
+L 307.574622 155.059606 
+z
+" style="fill:#d62728;"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 308.062668 150.656078 
+C 308.083544 150.410799 308.103379 150.165433 308.122172 149.919986 
+C 308.140965 149.674539 308.158716 149.429013 308.175424 149.183416 
+L 221.4 143.28 
+L 308.062668 150.656078 
+z
+" style="fill:#9467bd;"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 308.175424 149.183416 
+C 308.192133 148.937818 308.207798 148.69215 308.22242 148.44642 
+C 308.237043 148.200689 308.250622 147.954897 308.263157 147.709051 
+L 221.4 143.28 
+L 308.175424 149.183416 
+z
+" style="fill:#8c564b;"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 308.263157 147.709051 
+C 308.275693 147.463205 308.287184 147.217307 308.297632 146.971364 
+C 308.308079 146.72542 308.317483 146.479433 308.325842 146.23341 
+L 221.4 143.28 
+L 308.263157 147.709051 
+z
+" style="fill:#e377c2;"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 308.325842 146.23341 
+C 308.334201 145.987386 308.341515 145.741329 308.347785 145.495243 
+C 308.354054 145.249158 308.359279 145.003046 308.36346 144.756917 
+L 221.4 143.28 
+L 308.325842 146.23341 
+z
+" style="fill:#7f7f7f;"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 308.36346 144.756917 
+C 308.36764 144.510787 308.370775 144.26464 308.372865 144.018484 
+C 308.374955 143.772327 308.376 143.526163 308.376 143.279997 
+L 221.4 143.28 
+L 308.36346 144.756917 
+z
+" style="fill:#bcbd22;"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2">
+    <g id="text_1">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-90, 106.600313, 143.28)" x="106.600313" y="143.28">annotation</text>
+    </g>
+   </g>
+   <g id="text_2">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 298.801568, 89.664781)" x="298.801568" y="89.664781">S_Amino_acids_and_related_molecules</text>
+   </g>
+   <g id="text_3">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 263.619037, 115.365449)" x="263.619037" y="115.365449">20.0%</text>
+   </g>
+   <g id="text_4">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 197.292348, 53.452881)" x="197.292348" y="53.452881">formation</text>
+   </g>
+   <g id="text_5">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 208.250372, 95.537651)" x="208.250372" y="95.537651">18.1%</text>
+   </g>
+   <g id="text_6">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 133.888029, 107.233885)" x="133.888029" y="107.233885">S_Nucleotides_and_nucleic_acids</text>
+   </g>
+   <g id="text_7">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 173.666198, 124.948596)" x="173.666198" y="124.948596">10.5%</text>
+   </g>
+   <g id="text_8">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 128.417489, 168.432299)" x="128.417489" y="168.432299">S_Lipids</text>
+   </g>
+   <g id="text_9">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 170.682267, 158.329549)" x="170.682267" y="158.329549">10.3%</text>
+   </g>
+   <g id="text_10">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 155.19972, 214.972453)" x="155.19972" y="214.972453">S_Coenzymes_and_prosthetic_groups</text>
+   </g>
+   <g id="text_11">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 185.290756, 183.715088)" x="185.290756" y="183.715088">7.8%</text>
+   </g>
+   <g id="text_12">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 193.384595, 237.380227)" x="193.384595" y="237.380227">S_Cell_wall</text>
+   </g>
+   <g id="text_13">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 206.11887, 195.93751)" x="206.11887" y="195.93751">7.0%</text>
+   </g>
+   <g id="text_14">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 234.357572, 240.692396)" x="234.357572" y="240.692396">S_Carbohydrates_and_related_molecules</text>
+   </g>
+   <g id="text_15">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 228.467766, 197.744148)" x="228.467766" y="197.744148">6.8%</text>
+   </g>
+   <g id="text_16">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 267.348671, 229.956938)" x="267.348671" y="229.956938">charging</text>
+   </g>
+   <g id="text_17">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 246.462911, 191.812591)" x="246.462911" y="191.812591">4.9%</text>
+   </g>
+   <g id="text_18">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 286.417841, 216.225685)" x="286.417841" y="216.225685">translation</text>
+   </g>
+   <g id="text_19">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 256.864277, 184.322817)" x="256.864277" y="184.322817">3.0%</text>
+   </g>
+   <g id="text_20">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 297.835487, 203.442072)" x="297.835487" y="203.442072">S_Membrane_bioenergetics</text>
+   </g>
+   <g id="text_21">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 263.092084, 177.425789)" x="263.092084" y="177.425789">2.7%</text>
+   </g>
+   <g id="text_22">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 306.460637, 189.835789)" x="306.460637" y="189.835789">transcription</text>
+   </g>
+   <g id="text_23">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 267.796711, 169.928328)" x="267.796711" y="169.928328">2.7%</text>
+   </g>
+   <g id="text_24">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 312.638747, 174.603156)" x="312.638747" y="174.603156">S_Transport</text>
+   </g>
+   <g id="text_25">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 271.166589, 161.743625)" x="271.166589" y="161.743625">2.7%</text>
+   </g>
+   <g id="text_26">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 315.556738, 162.869294)" x="315.556738" y="162.869294">S_Phosphate_and_sulfur</text>
+   </g>
+   <g id="text_27">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 272.758221, 155.295183)" x="272.758221" y="155.295183">1.4%</text>
+   </g>
+   <g id="text_28">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 316.491357, 156.439358)" x="316.491357" y="156.439358">S_Other_function</text>
+   </g>
+   <g id="text_29">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 273.268013, 151.787945)" x="273.268013" y="151.787945">0.8%</text>
+   </g>
+   <g id="text_30">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 316.794389, 153.34336)" x="316.794389" y="153.34336">HCO3E</text>
+   </g>
+   <g id="text_31">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 273.433303, 150.023367)" x="273.433303" y="150.023367">0.3%</text>
+   </g>
+   <g id="text_32">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 316.904662, 151.722437)" x="316.904662" y="151.722437">BSU28370-MONOMER</text>
+   </g>
+   <g id="text_33">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 273.493452, 149.139227)" x="273.493452" y="149.139227">0.3%</text>
+   </g>
+   <g id="text_34">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 316.987395, 150.099875)" x="316.987395" y="150.099875">BSU15140-MONOMER</text>
+   </g>
+   <g id="text_35">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 273.538579, 148.254193)" x="273.538579" y="148.254193">0.3%</text>
+   </g>
+   <g id="text_36">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 317.042563, 148.476142)" x="317.042563" y="148.476142">BSU01130-MONOMER</text>
+   </g>
+   <g id="text_37">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 273.568671, 147.368521)" x="273.568671" y="147.368521">0.3%</text>
+   </g>
+   <g id="text_38">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 317.070151, 146.851707)" x="317.070151" y="146.851707">APSR</text>
+   </g>
+   <g id="text_39">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 273.583719, 146.482465)" x="273.583719" y="146.482465">0.3%</text>
+   </g>
+  </g>
+ </g>
+</svg>

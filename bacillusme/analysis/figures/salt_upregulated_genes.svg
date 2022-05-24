@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="288pt" version="1.1" viewBox="0 0 432 288" width="432pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 288 
+L 432 288 
+L 432 0 
+L 0 0 
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 308.376 143.28 
+C 308.376 125.320747 302.813521 107.794822 292.456774 93.122653 
+C 282.100026 78.450484 267.448792 67.340102 250.52649 61.325914 
+C 233.604188 55.311727 215.227433 54.683957 197.934158 59.529306 
+C 180.640882 64.374654 165.265604 74.459298 153.931736 88.390493 
+L 221.4 143.28 
+L 308.376 143.28 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 153.931736 88.390493 
+C 145.565469 98.674017 139.660016 110.735495 136.668061 123.65035 
+C 133.676107 136.565205 133.676106 149.994786 136.66806 162.909642 
+L 221.4 143.28 
+L 153.931736 88.390493 
+z
+" style="fill:#ff7f0e;"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 136.66806 162.909642 
+C 139.660013 175.824497 145.565465 187.885976 153.931731 198.1695 
+C 162.297997 208.453024 172.905698 216.688941 184.941696 222.245921 
+L 221.4 143.28 
+L 136.66806 162.909642 
+z
+" style="fill:#2ca02c;"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 184.941696 222.245921 
+C 194.555703 226.684676 204.900003 229.330603 215.464541 230.053238 
+C 226.02908 230.775873 236.637319 229.563141 246.766191 226.474837 
+L 221.4 143.28 
+L 184.941696 222.245921 
+z
+" style="fill:#d62728;"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 246.766191 226.474837 
+C 254.353727 224.16139 261.589234 220.820781 268.271243 216.54603 
+C 274.953252 212.271279 281.019161 207.102433 286.300069 201.183417 
+L 221.4 143.28 
+L 246.766191 226.474837 
+z
+" style="fill:#9467bd;"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 286.300069 201.183417 
+C 289.817645 197.240801 292.96865 192.98584 295.71398 188.471338 
+C 298.459309 183.956836 300.78756 179.201547 302.669837 174.264483 
+L 221.4 143.28 
+L 286.300069 201.183417 
+z
+" style="fill:#8c564b;"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 302.669837 174.264483 
+C 304.081119 170.562803 305.237847 166.769023 306.131938 162.909651 
+C 307.02603 159.050279 307.655398 155.134326 308.015644 151.189155 
+L 221.4 143.28 
+L 302.669837 174.264483 
+z
+" style="fill:#e377c2;"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 308.015644 151.189155 
+C 308.135685 149.874552 308.225782 148.557386 308.285864 147.238682 
+C 308.345947 145.919978 308.376 144.600076 308.376 143.280004 
+L 221.4 143.28 
+L 308.015644 151.189155 
+z
+" style="fill:#7f7f7f;"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2">
+    <g id="text_1">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-90, 106.600313, 143.28)" x="106.600313" y="143.28">annotation</text>
+    </g>
+   </g>
+   <g id="text_2">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 253.439139, 55.750818)" x="253.439139" y="55.750818">S_Carbohydrates_and_related_molecules</text>
+   </g>
+   <g id="text_3">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 238.875894, 96.866924)" x="238.875894" y="96.866924">39.1%</text>
+   </g>
+   <g id="text_4">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 128.194867, 124.44676)" x="128.194867" y="124.44676">transcription</text>
+   </g>
+   <g id="text_5">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 170.560837, 134.261585)" x="170.560837" y="134.261585">14.5%</text>
+   </g>
+   <g id="text_6">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 147.184904, 206.278763)" x="147.184904" y="206.278763">S_Amino_acids_and_related_molecules</text>
+   </g>
+   <g id="text_7">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 180.919039, 178.973075)" x="180.919039" y="178.973075">14.5%</text>
+   </g>
+   <g id="text_8">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 214.870995, 241.350875)" x="214.870995" y="241.350875">S_Membrane_bioenergetics</text>
+   </g>
+   <g id="text_9">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 217.838725, 198.103318)" x="217.838725" y="198.103318">11.6%</text>
+   </g>
+   <g id="text_10">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 272.958367, 226.632008)" x="272.958367" y="226.632008">translocation</text>
+   </g>
+   <g id="text_11">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 249.522746, 189.998993)" x="249.522746" y="189.998993">8.7%</text>
+   </g>
+   <g id="text_12">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 303.145378, 195.749847)" x="303.145378" y="195.749847">charging</text>
+   </g>
+   <g id="text_13">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 265.988388, 173.154178)" x="265.988388" y="173.154178">5.8%</text>
+   </g>
+   <g id="text_14">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 314.605132, 167.404647)" x="314.605132" y="167.404647">S_Transport</text>
+   </g>
+   <g id="text_15">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 272.239163, 157.817165)" x="272.239163" y="157.817165">4.3%</text>
+   </g>
+   <g id="text_16">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 316.974451, 150.393925)" x="316.974451" y="150.393925">ACACt2</text>
+   </g>
+   <g id="text_17">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 273.531519, 148.414584)" x="273.531519" y="148.414584">1.4%</text>
+   </g>
+  </g>
+ </g>
+</svg>
