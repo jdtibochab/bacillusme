@@ -6,7 +6,7 @@ BACILLUSme contains all the information and building scripts required to constru
 [documentation](https://cobrame.readthedocs.io) for further instructions on 
 how to build and solve ME-models. This package is homologous to [ECOLIme](https://github.com/sbrg/ecolime). Minor changes were necessary for COBRAme to function with this organism, so find the updated COBRAme we used for iJT964-ME [here](https://github.com/jdtibochab/cobrame).
 
-If you are using BACILLUSme or iJT964-ME, please cite (doi:10.1038/s41540-022-00259-0)[https://www.nature.com/articles/s41540-022-00259-0].
+If you are using BACILLUSme or iJT964-ME, please cite doi:10.1038/s41540-022-00259-0.
 
 
 ## Installation
