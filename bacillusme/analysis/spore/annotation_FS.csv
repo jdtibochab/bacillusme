@@ -1,0 +1,74 @@
+,annotation,model_annotation
+BSU14190,<i>N</i>-acetyl-diaminopimelate deacetylase,S_Amino_acids_and_related_molecules
+BSU14180,tetrahydrodipicolinate N-acetyltransferase,S_Amino_acids_and_related_molecules
+BSU14000,"N-acetyl-L,L-diaminopimelate aminotransferase",S_Amino_acids_and_related_molecules
+BSU16540,phosphatidate cytidylyltransferase (CDP-diglyceride synthase),S_Lipids
+BSU16550,1-deoxy-D-xylulose-5-phosphate reductoisomerase,S_Carbohydrates_and_related_molecules
+BSU16670,riboflavin biosynthesis protein RibC,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU21810,dihydrofolate reductase,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU21920,UDP-glucose diacylglyceroltransferase,"S_Lipids,S_Lipids,S_Lipids"
+BSU22740,heptaprenyl diphosphate synthase component II,S_Coenzymes_and_prosthetic_groups
+BSU22750,demethylmenaquinone methyltransferase,S_Coenzymes_and_prosthetic_groups
+BSU22760,heptaprenyl diphosphate synthase component I,S_Coenzymes_and_prosthetic_groups
+BSU25640,nicotinate-nucleotide adenylyltransferase,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU24270,1-deoxyxylulose-5-phosphate synthase,S_Carbohydrates_and_related_molecules
+BSU24280,farnesyl diphosphate synthase,"S_Lipids,S_Lipids"
+BSU25160,1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase,"S_Lipids,S_Lipids"
+BSU16770,4-hydroxy-tetrahydrodipicolinate synthase,S_Amino_acids_and_related_molecules
+BSU29210,acetyl-CoA carboxylase (carboxyltransferase beta subunit),S_Lipids
+BSU29200,acetyl-CoA carboxylase (carboxyltransferase alpha subunit),S_Lipids
+BSU04730,RNA polymerase sigma-37 factor (sigma(B)),S_Lipids
+BSU15320,RNA polymerase sporulation-specific sigma-29 factor (sigma-E),S_Carbohydrates_and_related_molecules
+BSU24350,acetyl-CoA carboxylase subunit (biotin carboxyl carrier subunit),S_Lipids
+BSU24340,acetyl-CoA carboxylase subunit (biotin carboxylase subunit),S_Lipids
+BSU02270,phosphatidylserine synthase,S_Lipids
+BSU02290,phosphatidylserine decarboxylase; 32 kDa precursor processed into a 29 kDa protein,S_Lipids
+BSU24040,branched-chain alpha-keto acid dehydrogenase E1 subunit,"S_Lipids,S_Lipids,S_Lipids"
+BSU24030,branched-chain alpha-keto acid dehydrogenase E2 subunit (lipoamide acyltransferase),"S_Lipids,S_Lipids,S_Lipids"
+BSU24060,branched-chain alpha-keto acid dehydrogenase E3 subunit (dihydrolipoamide dehydrogenase),"S_Lipids,S_Lipids,S_Lipids"
+BSU24050,branched-chain alpha-keto acid dehydrogenase E1 subunit,"S_Lipids,S_Lipids,S_Lipids"
+BSU11340,beta-ketoacyl-acyl carrier protein synthase II (involved in pimelate synthesis),"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU25070,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase),S_Lipids
+BSU35730,UDP-glucose:polyglycerol phosphate alpha-glucosyltransferase,S_Cell_wall
+BSU35720,CDP-glycerol:polyglycerol phosphate glycero-phosphotransferase (poly(glycerol phosphate) polymerase),"S_Cell_wall,S_Cell_wall,S_Cell_wall"
+BSU35740,glycerol-3-phosphate cytidylyltransferase monomer,S_Cell_wall
+BSU31150,undecaprenyl-pyrophosphate phosphatase,S_Cell_wall
+BSU32170,diaminopimelate epimerase,S_Amino_acids_and_related_molecules
+BSU35680,poly(glucosyl N-acetylgalactosamine 1-phosphate) glucosyltransferase,S_Cell_wall
+BSU35530,UDP-N-acetylglucosamine:undecaprenyl-P N-acetylglucosaminyl-1-P transferase,"S_Cell_wall,S_Cell_wall,S_Cell_wall"
+BSU35690,poly(glucosyl N-acetylgalactosamine 1-phosphate) glucosyltransferase (missing signal peptide),S_Cell_wall
+BSU35710,wall teichoic acid ABC transporter membrane subunit,"S_Cell_wall,S_Cell_wall,S_Cell_wall"
+BSU35700,wall teichoic acid ABC transporter ATP-binding protein,"S_Cell_wall,S_Cell_wall,S_Cell_wall"
+BSU35660,UDP-<i>N</i>-acetylglucosamine 2-epimerase,"S_Carbohydrates_and_related_molecules,S_Carbohydrates_and_related_molecules"
+BSU16920,CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase,S_Lipids
+BSU35670,UTP-glucose-1-phosphate uridylyltransferase,S_Cell_wall
+BSU04560,D-alanyl-D-alanine ligase A,S_Cell_wall
+BSU04570,"UDP-N-acetylmuramoylalanyl-D-glutamyl-2, 6-diaminopimelate-D-alanyl-D-alanine ligase",S_Cell_wall
+BSU30780,<i>o</i>-succinylbenzoate synthase,S_Coenzymes_and_prosthetic_groups
+BSU30820,2-oxoglutarate decarboxylase and 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1- carboxylic-acid synthase,"S_Coenzymes_and_prosthetic_groups,S_Coenzymes_and_prosthetic_groups"
+BSU30790,O-succinylbenzoyl-CoA synthetase,S_Coenzymes_and_prosthetic_groups
+BSU30800,"1,4-dihydroxy-2-naphthoyl-CoA synthase",S_Coenzymes_and_prosthetic_groups
+BSU38490,"1,4-dihydroxy-2-naphthoate octaprenyltransferase",S_Coenzymes_and_prosthetic_groups
+BSU09540,1-acylglycerol-phosphate (1-acyl-G3P) acyltransferase,S_Lipids
+BSU29790,UDP-N-acetyl muramate-alanine ligase,S_Cell_wall
+BSU38510,PG:teichoic acid D-alanyltransferase,"S_Cell_wall,S_Cell_wall"
+BSU38530,D-alanine carrier protein:PG D-alanyltransferase,"S_Cell_wall,S_Cell_wall"
+BSU38500,D-alanine--[D-alanyl carrier protein] ligase,"S_Cell_wall,S_Cell_wall"
+BSU38520,D-alanyl carrier protein,"S_Cell_wall,S_Cell_wall"
+BSU03130,ammonium-dependent NAD+ synthetase,S_Coenzymes_and_prosthetic_groups
+BSU34200,RNA polymerase sigma-54 factor (sigma-L),S_Transport
+BSU00910,"2-C-methyl-D-erythritol-2,4-cyclodiphosphate synthase",S_Lipids
+BSU00900,"2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase, nonmevalonate isoprenoid pathway",S_Lipids
+BSU00280,thymidylate kinase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU00460,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,S_Carbohydrates_and_related_molecules
+BSU15180,"UDP-N-acetylmuramoylalanyl-D-glutamate-2, 6-diaminopimelate ligase",S_Cell_wall
+BSU15200,UDP-N-acetylmuramoylalanyl-D-glutamate ligase,S_Cell_wall
+BSU15190,phospho-N-acetylmuramoyl-pentapeptide undecaprenyl phosphate (C55P) transferase,S_Cell_wall
+BSU15220,UDP-N-acetylglucosamine-N-acetylmuramyl- (pentapeptide)pyrophosphoryl-undecaprenol N-acetylglucosamine transferase,S_Cell_wall
+BSU15230,UDP-N-acetylenolpyruvoylglucosamine reductase,S_Cell_wall
+BSU15900,malonyl CoA:acyl carrier protein transacylase,"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU15910,beta-ketoacyl-acyl carrier protein reductase,"S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids,S_Lipids"
+BSU35750,"N-acetylmannosamine (ManNAc) C4 hydroxyl of a membrane-anchored N-acetylglucosaminyl diphospholipid (GlcNAc-pp-undecaprenyl, lipid I) glycosyltransferase","S_Cell_wall,S_Cell_wall,S_Cell_wall"
+BSU35760,"teichoic acid primase, CDP-glycerol:N-acetyl-beta-d-mannosaminyl-1, 4-N-acetyl-d-glucosaminyldiphosphoundecaprenyl glycerophosphotransferase","S_Cell_wall,S_Cell_wall,S_Cell_wall"
+BSU22490,"(4S)-4-hydroxy-2,3,4, 5-tetrahydro-(2S)-dipicolinic acid (HTPA) dehydratase reductase",S_Amino_acids_and_related_molecules
+BSU22440,biotin acetyl-CoA-carboxylase ligase and biotin regulon repressor (BirA-biotinoyl-5'-AMP),S_Lipids

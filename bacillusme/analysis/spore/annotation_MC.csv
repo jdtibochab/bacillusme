@@ -1,0 +1,43 @@
+,annotation,model_annotation
+BSU15680,guanylate kinase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU22370,anabolic oxaloacetate / glutamate aminotransferase,S_Amino_acids_and_related_molecules
+BSU04740,serine phosphatase,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU29620,histidinol phosphate phosphatase,S_Amino_acids_and_related_molecules
+BSU17460,glutamine synthetase,S_Amino_acids_and_related_molecules
+BSU29440,argininosuccinate lyase,S_Amino_acids_and_related_molecules
+BSU29450,argininosuccinate synthase,S_Amino_acids_and_related_molecules
+BSU31400,putative aspartate aminotransferase,S_Amino_acids_and_related_molecules
+BSU32680,iron-sulfur cluster assembly sulfur-transfer protein (Zn(2+)-dependent),"S_Transport,S_Transport,S_Transport,S_Transport"
+BSU33170,putative vitamin B12 permease,S_Transport
+BSU34860,bifunctional phosphoribosyl-AMP cyclohydrolase; phosphoribosyl-ATP pyrophosphohydrolase,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU34870,imidazole glycerol phosphate synthase subunit,S_Amino_acids_and_related_molecules
+BSU34880,phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase,S_Amino_acids_and_related_molecules
+BSU34900,imidazoleglycerol-phosphate dehydratase [Mn(II)-dependent],S_Amino_acids_and_related_molecules
+BSU34910,histidinol dehydrogenase,S_Amino_acids_and_related_molecules
+BSU34920,ATP phosphoribosyltransferase,S_Amino_acids_and_related_molecules
+BSU22660,indole-3-glycerol phosphate synthase,S_Amino_acids_and_related_molecules
+BSU22650,phosphoribosylanthranilate isomerase,S_Amino_acids_and_related_molecules
+BSU22670,anthranilate phosphoribosyltransferase,S_Amino_acids_and_related_molecules
+BSU22640,tryptophan synthase (beta subunit),S_Amino_acids_and_related_molecules
+BSU22630,tryptophan synthase (alpha subunit),S_Amino_acids_and_related_molecules
+BSU28290,acetohydroxy-acid isomeroreductase (NADP-dependent),"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU21870,dihydroxy-acid dehydratase,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU06520,fused phosphoribosylaminoimidazole carboxy formyl formyltransferase; inosine-monophosphate cyclohydrolase,"S_Nucleotides_and_nucleic_acids,S_Nucleotides_and_nucleic_acids"
+BSU11200,ornithine acetyltransferase; amino-acid acetyltransferase,"S_Amino_acids_and_related_molecules,S_Amino_acids_and_related_molecules"
+BSU11220,N-acetylornithine aminotransferase,S_Amino_acids_and_related_molecules
+BSU11250,ornithine carbamoyltransferase,S_Amino_acids_and_related_molecules
+BSU11190,N-acetylglutamate gamma-semialdehyde dehydrogenase,S_Amino_acids_and_related_molecules
+BSU11210,N-acetylglutamate 5-phosphotransferase (acetylglutamate kinase),S_Amino_acids_and_related_molecules
+BSU32240,homoserine kinase,S_Amino_acids_and_related_molecules
+BSU32250,threonine synthase,S_Amino_acids_and_related_molecules
+BSU32260,homoserine dehydrogenase,S_Amino_acids_and_related_molecules
+BSU36820,"ATP synthase (subunit gamma, component F1)",S_Membrane_bioenergetics
+BSU36870,"ATP synthase (subunit a, component F0)",S_Membrane_bioenergetics
+BSU36880,AtpI protein,S_Membrane_bioenergetics
+BSU36850,"ATP synthase (subunit b, component F0)",S_Membrane_bioenergetics
+BSU36860,"ATP synthase (subunit c, component F0)",S_Membrane_bioenergetics
+BSU36810,"ATP synthase (subunit beta, component F1)",S_Membrane_bioenergetics
+BSU36840,"ATP synthase (subunit delta, component F1)",S_Membrane_bioenergetics
+BSU36800,"ATP synthase (subunit epsilon, F1 subunit)",S_Membrane_bioenergetics
+BSU36830,"ATP synthase (subunit alpha, component F1)",S_Membrane_bioenergetics
+BSU36510,ammonium transporter,S_Transport
