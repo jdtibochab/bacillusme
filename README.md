@@ -4,7 +4,7 @@ BACILLUSme contains all the information and building scripts required to constru
 [COBRAme](https://github.com/sbrg/cobrame). See the COBRAme
 [github](https://github.com/sbrg/cobrame) and 
 [documentation](https://cobrame.readthedocs.io) for further instructions on 
-how to build and solve ME-models. This package is homologous to [ECOLIme](https://github.com/sbrg/ecolime)
+how to build and solve ME-models. This package is homologous to [ECOLIme](https://github.com/sbrg/ecolime).
 
 
 ## Installation
